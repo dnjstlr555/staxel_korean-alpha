@@ -24,10 +24,20 @@ staxel.mainQuest.MaxBarn=
 staxel.mainQuest.MuseumConstruction=
 //TODO Translate [Reference] 'Sweet dreams'
 staxel.mainQuest.Patisserie=
+//TODO Translate [Reference] 'Hooked'
+staxel.mainQuest.Riah.Acquaintance=
+//TODO Translate [Reference] 'The Call of M'yah'
+staxel.mainQuest.Riah.BestFriend=
+//TODO Translate [Reference] 'Lost'
+staxel.mainQuest.Riah.Friend=
+//TODO Translate [Reference] 'Three Green Bottles'
+staxel.mainQuest.Riah.Liked=
 //TODO Translate [Reference] 'Rowan's parcel'
 staxel.mainQuest.RowansParcel=
 //TODO Translate [Reference] 'Starting out'
 staxel.mainQuest.Tutorial=
+//TODO Translate [Reference] 'Collector'
+staxel.mainQuest.Vorlen.Liked=
 //TODO Translate [Reference] 'Professor Cecile'
 staxel.totem.CecileHome.quest=
 //TODO Translate [Reference] 'A sweeter village'

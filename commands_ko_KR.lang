@@ -59,6 +59,8 @@ commands.changeMood.animalNotFound=동물을 보고 있어야 합니다.
 commands.changeMood.description=^c:F2E200;changeMood ^c:FFFFFF;증가/감소(true/false)
 //[Reference] 'Mood altered successfully'
 commands.changeMood.success=기분이 성공적으로 변경되었습니다.
+//TODO Translate [Reference] '^c:F2E200;checkMail'
+commands.checkMail.description=
 //[Reference] '^c:F2E200;creative ^c:FFFFFF;(optional)playerName (optional)startCreativeMode(true/false)'
 commands.creative.description=^c:F2E200;creative ^c:FFFFFF;(필요시에만)닉네임 (필요시에만)창작모드_시작_여부(true/false)
 //[Reference] 'Temporarily switched creative mode for {0-user} to {1-creative}'
@@ -109,6 +111,12 @@ commands.entityNotFound=엔티티가 발견되지 않았습니다.
 commands.flyMode.description=^c:F2E200;fly ^c:FFFFFF;(optional)playerName (optional)startFlying(true/false)
 //[Reference] 'Switched flying mode to: {0-flymode}'
 commands.flyMode.success=비행 모드를: {0-flymode} 로 변경하였습니다.
+//TODO Translate [Reference] '^c:F2E200;forceAchievement ^c:FFFFFF;achievementCode'
+commands.forceAchievement.description=
+//TODO Translate [Reference] 'Missing achievement code.'
+commands.forceAchievement.missingParam=
+//TODO Translate [Reference] 'Achievement not found.'
+commands.forceAchievement.noSuchAchievement=
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] '^c:F2E200;giveallrecipes ^c:FFFFFF;(optional)playerName'
 commands.giveallrecipes.description=^c:F2E200;Give all recipes ^c:FFFFFF;(optional)playerName
@@ -238,7 +246,8 @@ commands.saveOutfit.description=^c:F2E200;saveOutfit ^c:FFFFFF;fileName
 commands.saveOutfit.success=캐릭터 복장 파일이 {0-path} 에 저장되었습니다.
 //[Reference] '^c:F2E200;seed'
 commands.seed.description=^c:F2E200;seed
-//[Reference] 'Seed: {0-seed}'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Seed: {0-seed}, World Size: {1-worldSize}x'
 commands.seed.success=씨앗: {0-seed}
 //[Reference] '^c:F2E200;creativeMode ^c:FFFFFF;(optional)on(true/false)'
 commands.serverCreative.description=^c:F2E200;creativeMode ^c:FFFFFF;(optional)on(true/false)
@@ -279,6 +288,12 @@ commands.stealPetals.success={0-player}가 {1-amount}개의 동전을 훔쳤습�
 commands.stealPetals.success.reset={0-player}는 더이상 도둑이 아닙니다.
 //[Reference] '{0-player} stole {1-amount} petals. Thief!'
 commands.stealPetals.success.thief={0-player}가 {1-amount}개의 동전잎을 훔쳤습니다. 도둑이야!
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] '^c:F2E200;stopTime ^c:FFFFFF;Stops time'
+commands.stopTime.description=^c:F2E200;stopTime
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Time Stopped'
+commands.stopTime.stop=시간 멈춤
 commands.sun.description=
 //[Reference] 'Made it a sunny day.'
 commands.sun.success=화창한 날씨로 변경하였습니다.
@@ -308,6 +323,12 @@ commands.tileAt.notFound=존재하지 않는 타일입니다.
 commands.tileAt.success.false=Tile code: {0-tilecode} at {1-position} (compoundFiller: false, rotation: {2-rotation}, alt: {3-alt}, chunk: {4-chunk})
 //[Reference] 'Tile code: {0-tilecode} at {1-position} (compoundFiller: true, rotation: {2-rotation}, alt: {3-alt}, chunk: {4-chunk})'
 commands.tileAt.success.true=Tile code: {0-tilecode} at {1-position} (compoundFiller: true, rotation: {2-rotation}, alt: {3-alt}, chunk: {4-chunk})
+//TODO Translate [Reference] '^c:F2E200;toggleTimePassing ^c:FFFFFF;Toggles the passing of time'
+commands.toggleTimePassing.description=
+//TODO Translate [Reference] 'Time Resumed'
+commands.toggleTimePassing.resume=
+//TODO Translate [Reference] 'Time Stopped'
+commands.toggleTimePassing.stop=
 commands.traceStart.description=
 //[Reference] 'Started tracing.'
 commands.traceStart.success=추적을 시작합니다.

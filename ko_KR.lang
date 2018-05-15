@@ -17,19 +17,20 @@ catalogue.notSellable=이 아이템은 팔수 없어요!
 //[Reference] 'Sell'
 catalogue.performSale=팔기
 //[Reference] 'Sell:'
-catalogue.sell=Sell:
+catalogue.sell=팔것:
 //[Reference] 'Total'
-catalogue.total=Total
+catalogue.total=총합
 //TODO Translate [Reference] 'success'
-commands.mail.success=
-//[Reference] '^c:F2E200;stopTime'
-commands.stopTime.description=^c:F2E200;stopTime
-//[Reference] 'Time resumed'
-commands.stopTime.resume=Time resumed
-//[Reference] 'Time stopped'
-commands.stopTime.stop=Time stopped
+commands.debugGraphics.success=성공
 //[Reference] 'success'
-commands.tripod.success=success
+commands.mail.success=성공
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'resume'
+commands.stopTime.resume=시간 계속됨
+//[Reference] 'success'
+commands.tripod.success=성공
+//TODO Translate [Reference] '<?>'
+controlHint.class.Missing=<?>
 
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Break'
@@ -67,7 +68,7 @@ controlHint.verb.default.Harvest=수확
 //[Reference] 'Interact'
 controlHint.verb.default.Interact=만지기
 //[Reference] 'Restart'
-controlHint.verb.default.ManualRestart=Restart
+controlHint.verb.default.ManualRestart=재시작
 //[Reference] 'Memorise'
 controlHint.verb.default.Memorise=배우기
 //[Reference] 'Replace'
@@ -86,6 +87,8 @@ controlHint.verb.default.Use=쓰기
 controlHint.verb.Dig=파기
 //[Reference] 'Fill'
 controlHint.verb.Fill=채우기
+//TODO Translate [Reference] 'Give'
+controlHint.verb.Give=주기
 //[Reference] 'Inspect'
 controlHint.verb.Inspect=관찰하기
 //[Reference] 'Launch'
@@ -137,37 +140,37 @@ controllerHints.movement=움직이는 방법
 //[Reference] 'Place and Rotate'
 controllerHints.placeAndRotate=물건을 놓고 회전시키는 방법
 //[Reference] 'Assemble'
-crafting.action.keyword.assemble=Assemble
+crafting.action.keyword.assemble=조립하기
 //[Reference] 'Bake'
-crafting.action.keyword.bake=Bake
+crafting.action.keyword.bake=굽기
 //[Reference] 'Boil'
-crafting.action.keyword.boil=Boil
+crafting.action.keyword.boil=끓이기
 //[Reference] 'Carve'
-crafting.action.keyword.carve=Carve
+crafting.action.keyword.carve=조각내기
 //[Reference] 'Carve design into'
-crafting.action.keyword.carvedesigninto=Carve design into
+crafting.action.keyword.carvedesigninto=조각내서 모양만들기
 //[Reference] 'Combine'
-crafting.action.keyword.combine=Combine
+crafting.action.keyword.combine=합치기
 //[Reference] 'Construct'
-crafting.action.keyword.construct=Construct
+crafting.action.keyword.construct=건설하기
 //[Reference] 'Cut'
-crafting.action.keyword.cut=Cut
+crafting.action.keyword.cut=자르기
 //[Reference] 'Fry'
-crafting.action.keyword.fry=Fry
+crafting.action.keyword.fry=튀기기
 //[Reference] 'Mix'
-crafting.action.keyword.mix=Mix
-//TODO Translate [Reference] 'Polish'
-crafting.action.keyword.polish=
+crafting.action.keyword.mix=섞기
+//[Reference] 'Polish'
+crafting.action.keyword.polish=광 내기
 //[Reference] 'Reap'
-crafting.action.keyword.reap=Reap
+crafting.action.keyword.reap=베기
 //[Reference] 'Saw'
-crafting.action.keyword.saw=Saw
+crafting.action.keyword.saw=톱질하기
 //[Reference] 'Tile'
 crafting.action.keyword.tile=Tile
 //[Reference] '{0-itemOne}, {1-itemTwo}'
 crafting.action.task.listedItems={0-itemOne}, {1-itemTwo}
 //[Reference] '{0-keyword} {1-listedItems} and {2-lastListedItem}'
-crafting.action.task.multiItem={0-keyword} {1-listedItems} and {2-lastListedItem}
+crafting.action.task.multiItem={0-keyword} {1-listedItems} 그리고 {2-lastListedItem}
 //[Reference] '{0-count}x {1-item}'
 crafting.action.task.multiples={0-count}x {1-item}
 //[Reference] '{0-keyword} {1-item}'
@@ -175,61 +178,61 @@ crafting.action.task.oneItem={0-keyword} {1-item}
 //[Reference] 'That wasn't a recipe, Oops!'
 crafting.notifications.failedCraft=That wasn't a recipe, Oops!
 //[Reference] 'You can't make anything with these items...'
-crafting.notifications.notACraft=You can't make anything with these items...
+crafting.notifications.notACraft=이 아이템들로는 만들만한게 없어요...
 //[Reference] 'You don't have enough reagents anymore.'
-crafting.notifications.NotEnough=You don't have enough reagents anymore.
+crafting.notifications.NotEnough=만드는데 필요한 시약병이 부족합니다.
 
 //[Reference] 'You completed the recipe for {0-item}!'
 crafting.recipeComplete=You completed the recipe for {0-item}!
 
 //[Reference] 'Helped out with the Staxel interface.'
-credits.13lueWolf.description=Helped out with the Staxel interface.
+credits.13lueWolf.description=스타셀의 UI를 만드는데 도움을 주었습니다.
 //[Reference] 'He helped out a bunch with the programming of the game.'
-credits.amos.description=He helped out a bunch with the programming of the game.
+credits.amos.description=게임을 만드는데 큰 도움을 주었습니다.
 //[Reference] 'Back to main menu'
 credits.back=돌아가기
 //[Reference] 'Is Staxel's sound designer. He's oblivious to the luxury of listening to music while he works.'
-credits.badger.description=Is Staxel's sound designer. He's oblivious to the luxury of listening to music while he works.
+credits.badger.description=스타셀의 음향 디자이너 입니다. 일하는 동안에는 음악을 듣지 않는다는 소문이 있습니다.
 //[Reference] 'He is the lead developer, responsible for the coding and general awesomeness behind the game. He streams often so feel free to join him on twitch and ask some questions! Yep, he used to work on Starbound.'
-credits.bartwe.description=He is the lead developer, responsible for the coding and general awesomeness behind the game. He streams often so feel free to join him on twitch and ask some questions! Yep, he used to work on Starbound.
+credits.bartwe.description=스타셀의 메인 개발자 입니다. 무대 뒤에서 여러가지 멋진 일들을 담당하고 있습니다. 자주 할일이 없으니까 트위치등에서 질문등을 물어봐도 괜찮을꺼에요. 그리고 한때 스타바운드 게임에서 일했던 적이 있습니다.
 //[Reference] 'She was always on hand to help out with additional coding and bug fixes.'
-credits.beth.description=She was always on hand to help out with additional coding and bug fixes.
+credits.beth.description=항상 추가적인 작업이나 버그 수정등에 도움을 주어주셨습니다.
 //[Reference] 'He is a talented musician who has been creating lush soundtracks to help immerse you into the Staxel universe.'
-credits.curtis.description=He is a talented musician who has been creating lush soundtracks to help immerse you into the Staxel universe.
+credits.curtis.description=스타셀 세계에 빨려들어갈것만 같은 최고의 음악을 만들어 주셨습니다.
 //[Reference] 'Is yet another programmer. Generally works on helping people understand how to make mods. If you see a zombie around it's probably him.'
-credits.deamonhunter.description=Is yet another programmer. Generally works on helping people understand how to make mods. If you see a zombie around it's probably him.
+credits.deamonhunter.description=또 하나의 프로그래머 입니다. 모드 제작에 관한 커뮤니티 도움에 큰 역활을 하고 있습니다. 주변에 좀비가 보이면 분명히 이분일겁니다.
 //[Reference] 'Helped out with writing all sorts.'
-credits.demanRisu.description=Helped out with writing all sorts.
+credits.demanRisu.description=여러가지를 작성하는데 도움을 주셨습니다.
 //[Reference] 'is another member of the programmer team who works on the more tedious stuff.'
-credits.h1n1.description=is another member of the programmer team who works on the more tedious stuff.
+credits.h1n1.description=지루한것들을 작업하고 있는 프로그래머 입니다.
 //[Reference] 'A faceless entity between realms; only exists when you’re not looking. In its spare time, programs.'
-credits.moocowtg.description=A faceless entity between realms; only exists when you’re not looking. In its spare time, programs.
+credits.moocowtg.description=얼굴없는 영혼입니다. 보이지 않을때만 존재합니다.
 //[Reference] 'He is Staxel's content lead, programmer and writer. His cat writes approximately half of his code.'
-credits.moomba.description=He is Staxel's content lead, programmer and writer. His cat writes approximately half of his code.
+credits.moomba.description=스타셀 콘텐츠의 대장이자 프로그래머, 그리고 작가입니다. 이 사람이 키우는 고양이가 프로그램의 절반을 짰다고 합니다.
 //[Reference] 'Razz is a 3D artist working closely with Steampunkstein to bring you guys cute furniture sets and anything else she can come up with.'
-credits.razzleberryFox.description=Razz is a 3D artist working closely with Steampunkstein to bring you guys cute furniture sets and anything else she can come up with.
+credits.razzleberryFox.description=Razz는 3D 디자인 아티스트 입니다. Steampunkstein과 함께 동물인형 세트 등등 여러가지 귀여운것들을 만들고 있습니다.
 //[Reference] 'Helped kept the team on track and busy.'
-credits.sledra.description=Helped kept the team on track and busy.
+credits.sledra.description=채찍질 담당입니다.
 //[Reference] 'He has contributed some lovely soundtracks for Staxel.'
-credits.solatrus.description=He has contributed some lovely soundtracks for Staxel.
+credits.solatrus.description=스타셀의 음악을 함께 만들고 있습니다.
 //[Reference] 'Special Thanks'
-credits.specialThanks=Special Thanks
+credits.specialThanks=그 외에도 감사드려요
 //[Reference] 'He is the artist. He has worked hard to produce all the in game models, and make the game as visually appealing as possible.'
-credits.steampunkstein.description=He is the artist. He has worked hard to produce all the in game models, and make the game as visually appealing as possible.
+credits.steampunkstein.description=아티스트 입니다. 멋지고 느낌이 살수 있도록 게임 모델을 만들고 있습니다.
 //[Reference] 'He is the assistant producer, involved with the game design and generally has a finger in every pie.'
-credits.teaGadd.description=He is the assistant producer, involved with the game design and generally has a finger in every pie.
+credits.teaGadd.description=프로듀서 도우미 입니다. 많은 곳에 도움을 주고 디자인 하고 있습니다.
 //[Reference] 'He is another programmer. Likes include: programming.'
-credits.terrorcell.description=He is another programmer. Likes include: programming.
+credits.terrorcell.description=프로그래머인데 특기는 프로그래밍입니다.
 //[Reference] 'He manages our marketing & PR.'
-credits.thomas.description=He manages our marketing & PR.
+credits.thomas.description=PR과 마케팅을 관리하고 있습니다.
 //[Reference] 'Is our dedicated environment designer. He designs the premade structures that you'll find in-game.'
-credits.winters.description=Is our dedicated environment designer. He designs the premade structures that you'll find in-game.
+credits.winters.description=게임 환경 디자이너 입니다. 게임 내에서의 세계는 이 사람이 제작했습니다.
 
 //[Reference] 'You're starting to feel sleepy...'
 dayNight.hintNightTransition=졸음이 몰려오기 시작했습니다...
 
 //[Reference] 'MissingNotification: {0-notificationCode}'
-debug.MissingNotification=MissingNotification: {0-notificationCode}
+debug.MissingNotification=정해진 알림이 없음: {0-notificationCode}
 
 //[Reference] 'Back'
 error.back=돌아가기
@@ -239,7 +242,7 @@ error.badVersion=서버와 버전이 맞지 않아요.
 //[Reference] 'Server Full'
 error.serverFull=서버가 가득 찼어요.
 //[Reference] 'The Staxel.net server appears to be offline. Please try again later.'
-error.serverOffline=The Staxel.net server appears to be offline. Please try again later.
+error.serverOffline=스타셀 서버가 열려있지 않은것 같아요. 나중에 다시 시도해주세요.
 //[Reference] 'SORRY!'
 error.sorry=죄송해요!
 //[Reference] 'Cancel'
@@ -282,7 +285,7 @@ fishing.tooFarAway=너무 멀어요.
 //[Reference] 'Press {0-gameLogicalButton} to leave bed'
 hintText.bed={0-gameLogicalButton} 키를 눌러 일어날수 있어요.
 //[Reference] 'Plants won't grow here'
-hintText.cantPlantHere=Plants won't grow here
+hintText.cantPlantHere=여기서는 식물이 자라날수 없어요.
 //[Reference] 'Press {0-gameLogicalButton} to leave chair'
 hintText.chair={0-gameLogicalButton} 키를 눌러 일어날수 있어요.
 //[Reference] 'Charge: {0:P1-chargeLevel}, Right Click or Left Trigger to Cancel'
@@ -290,31 +293,33 @@ hintText.charge=Charge: {0:P1-chargeLevel}, Right Click or Left Trigger to Cance
 //[Reference] '{0:P0-growth}'
 hintText.checkPlantGrowth={0:P0-growth}
 //[Reference] 'It's ready for harvesting'
-hintText.checkPlantGrowth.fruited=It's ready for harvesting
+hintText.checkPlantGrowth.fruited=수확할 준비가 되었어요
 //[Reference] 'It's growing healthily'
-hintText.checkPlantGrowth.growing=It's growing healthily
+hintText.checkPlantGrowth.growing=건강하게 자라나고 있어요
 //[Reference] 'It's sleeping for now. It doesn't grow in this season.'
-hintText.checkPlantGrowth.outOfSeason=It's sleeping for now. It doesn't grow in this season.
+hintText.checkPlantGrowth.outOfSeason=잠을 자고 있습니다. 이번 달에는 자라나지 않을꺼에요.
 //[Reference] 'It's sleeping for now. It doesn't grow during {0-season}'
-hintText.checkPlantGrowth.season=It's sleeping for now. It doesn't grow during {0-season}
+hintText.checkPlantGrowth.season=잠을 자고 있습니다. {0-season}에는 자라나지 않을꺼에요.
 //[Reference] 'The seeds are growing'
-hintText.checkPlantGrowth.seed=The seeds are growing
+hintText.checkPlantGrowth.seed=씨앗이 건강하게 자라나고 있어요
 //[Reference] 'It's not looking healthy; it needs water.'
-hintText.checkPlantGrowth.wilted=It's not looking healthy; it needs water.
+hintText.checkPlantGrowth.wilted=아픈것 같아요. 물이 필요합니다.
 //[Reference] 'It's heading to the big garden in the sky.'
-hintText.checkPlantGrowth.withered=It's heading to the big garden in the sky.
+hintText.checkPlantGrowth.withered=하늘나라에 가고 있어요.
 //[Reference] 'It's heading to the big garden in the sky. It can't grow during {0-season}.'
-hintText.checkPlantGrowth.witheredSeason=It's heading to the big garden in the sky. It can't grow during {0-season}.
+hintText.checkPlantGrowth.witheredSeason=하늘나라에 가고 있습니다. {0-season}에는 자라나지 않을꺼에요.
 //[Reference] '{0-name}'
 hintText.inspectedEntity={0-name}
 //[Reference] 'Inventory Full'
 hintText.inventoryFull=가방이 가득 찼어요.
 //[Reference] 'Need at least {0-count} slots in inventory'
 hintText.inventorySpaceNeeded=적어도 {0-count}칸 이상의 공간이 가방에 필요해요.
+//TODO Translate [Reference] 'Your journal has been updated!'
+hintText.journalUpdate=
 //[Reference] 'Kind: {0-itemCode}'
 hintText.kind=Kind: {0-itemCode}
 //[Reference] 'The light will turn on after a few seconds'
-hintText.lightTurnOn=The light will turn on after a few seconds
+hintText.lightTurnOn=금방 불이 켜질것입니다
 //[Reference] 'That's not a bug!'
 hintText.needBug=벌레를 잡아주세요.
 //[Reference] 'Try placing on {0-tile}'
@@ -332,24 +337,24 @@ hintText.recipeLearnt={0-recipe} 조합법을 배웠어요!
 //[Reference] 'There's nothing left to steal... for today.'
 hintText.thiefLimit=더이상 훔칠만한게 없습니다... 적어도 오늘은요.
 //[Reference] 'You are no longer a thief'
-hintText.thiefReset=You are no longer a thief
+hintText.thiefReset=도둑 신세를 면했습니다.
 //[Reference] 'You stole {0-amount} Petals! {1-theft}'
-hintText.thiefSteal={0-amount} Petals! {1-theft}
+hintText.thiefSteal={0-amount} 꽃닢을 훔쳤습니다. {1-theft}
 //[Reference] 'Thief! You may be forgiven in time.'
-hintText.thiefThief=Thief! You may be forgiven in time.
+hintText.thiefThief=이 도둑놈! 이번 한번만 넘어갈줄 알아요.
 //[Reference] 'Stealing has consequences.'
 hintText.thiefWarning=도둑질에는 대가가 뒤따릅니다.
 //[Reference] 'true'
 language.validated=true
 
 //[Reference] 'Downloading bundle assets'
-loading.bundles=Downloading bundle assets
+loading.bundles=번들 에셋 다운로드중
 //[Reference] 'Skip'
-loading.skip=Skip
+loading.skip=건너뛰기
 //[Reference] 'Loot from'
-looting.loot=Loot from
+looting.loot=가져온 물건
 //[Reference] 'Steal from'
-looting.stealFrom=Steal from
+looting.stealFrom=훔친 물건
 
 //[Reference] 'Back to main menu'
 multiplayerMenu.back=돌아가기
@@ -363,13 +368,15 @@ multiplayerMenu.serverIP=서버 주소 (IP):
 multiplayerMenu.serverList=서버 목록
 //[Reference] 'Server Password (optional):'
 multiplayerMenu.serverPassword=서버 비밀번호 (필요시에만):
-//TODO Translate [Reference] 'The festival grounds cover important structures and the festival can't start!'
-notifications.festivalCantStart=
+//[Reference] 'The festival grounds cover important structures and the festival can't start!'
+notifications.festivalCantStart=축제가 시작되는 장소에 무언가가 존재합니다. 축제를 시작할수 없습니다.
 //[Reference] 'The festival has ended.'
 notifications.festivalEnded=축제가 끝났습니다.
 
 //[Reference] 'It looks like something is happening in the village!'
 notifications.festivalStarted=마을에 무슨 일이 일어난것 같아요!
+//TODO Translate [Reference] 'You can't break that during festivals.'
+notifications.unbreakableFestivalTotem=축제 기간에는 부실수 없습니다.
 
 //[Reference] 'Options'
 options=설정
@@ -440,6 +447,8 @@ options.gameplay.input=입력
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Enable Repeating'
 options.gameplay.input.enableRepeat=키 반복 허용
+//TODO Translate [Reference] 'Controls'
+options.gameplay.keyBindings=키 설정
 //[Reference] 'Keyboard'
 options.gameplay.keyboard=키보드
 //[Reference] 'Mouse'
@@ -471,7 +480,7 @@ options.gameplay.other.ShowConsole=콘솔 표시
 //[Reference] 'Crafting Keyword Tags'
 options.gameplay.other.showCraftingKeywordTags=제작대의 이름표 표시
 //[Reference] 'Don't stretch UI'
-options.gameplay.other.StepWiseUIScale=Don't stretch UI
+options.gameplay.other.StepWiseUIScale=UI 늘림 방지
 //[Reference] 'Prevent NPC Staring'
 options.gameplay.other.StopNPCStaring=NPC의 시선 고정 방지
 //[Reference] 'UI'
@@ -540,6 +549,10 @@ options.general.graphics.MultiSampling=멀티 샘플링
 options.general.graphics.reducedViewRange=시야 거리 줄이기
 //[Reference] 'Shadows'
 options.general.graphics.shadows=그림자 표시
+//TODO Translate [Reference] 'shoulder Height'
+options.general.graphics.shoulderHeight=어깨로부터의 높이
+//TODO Translate [Reference] 'shoulder Offset'
+options.general.graphics.shoulderOffset=어깨로부터의 위치
 //[Reference] 'Show Grid Cursor'
 options.general.graphics.showGridCursor=바라보는 블럭의 격자 표시
 //[Reference] 'Super Low'
@@ -557,6 +570,22 @@ options.general.graphics.ultra=최고
 options.general.graphics.WeatherParticles=실내에서의 날씨 효과 해제
 //[Reference] 'Language'
 options.general.language=언어
+//TODO Translate [Reference] 'Controller'
+options.keyBindings.controller=컨트롤러
+//TODO Translate [Reference] 'Gameplay'
+options.keyBindings.gameplay=게임 플레이
+//TODO Translate [Reference] 'Interface'
+options.keyBindings.interface=입력
+//TODO Translate [Reference] 'Keyboard/Mouse'
+options.keyBindings.keyboard=키보드/마우스
+//TODO Translate [Reference] 'Press any key/button or'
+options.keyBindings.pressButton=원하는 키를 눌러주세요. 혹은
+//TODO Translate [Reference] 'press {0} to cancel key binding'
+options.keyBindings.pressToCancel={0} 키를 눌러 키 설정을 취소합니다.
+//TODO Translate [Reference] 'press {0} to remove the key binding'
+options.keyBindings.pressToRemove={0} 키를 눌러 키 설정을 삭제합니다.
+//TODO Translate [Reference] 'Reset to Default Key Bindings'
+options.keyBindings.resetToDefault=기본 설정으로 되돌리기
 //[Reference] 'Misc'
 options.misc=기타
 //[Reference] 'Reset'
@@ -581,34 +610,34 @@ playerList.kick=추방(Kick)
 playerList.mute=음소거(Mute)
 
 //[Reference] 'Players Online:'
-playerList.playerCount=Players Online:
+playerList.playerCount=접속중인 플레이어:
 //[Reference] 'Teleport To'
-playerList.teleportTo=Teleport To
+playerList.teleportTo=순간이동 하기
 
 //[Reference] 'Desserts'
-recipeBook.grouping.desserts=Desserts
+recipeBook.grouping.desserts=디저트
 //[Reference] 'Fencing'
-recipeBook.grouping.fencing=Fencing
+recipeBook.grouping.fencing=펜스
 //[Reference] 'Flooring'
-recipeBook.grouping.flooring=Flooring
+recipeBook.grouping.flooring=바닥
 //[Reference] 'Main Courses'
-recipeBook.grouping.mainCourses=Main Courses
+recipeBook.grouping.mainCourses=메인 코스
 //[Reference] 'Roofing'
-recipeBook.grouping.roofing=Roofing
+recipeBook.grouping.roofing=지붕
 //[Reference] 'Starters'
 recipeBook.grouping.starters=Starters
 //[Reference] 'stone'
 recipeBook.grouping.stone=돌
 //[Reference] 'Walling'
-recipeBook.grouping.walling=Walling
+recipeBook.grouping.walling=벽
 //[Reference] 'wood'
 recipeBook.grouping.wood=나무
 //[Reference] 'Ingredients'
 recipeBook.ingredients=재료
 //[Reference] 'No recipes'
-recipeBook.noRecipes=No recipes
+recipeBook.noRecipes=조합법 없음
 //[Reference] 'Process'
-recipeBook.process=Process
+recipeBook.process=과정
 
 //[Reference] 'Accept'
 Renamer.accept=확인
@@ -651,10 +680,14 @@ shippingCatalogue.refund={0-amount} 꽃잎을 환불받았습니다.
 shippingCatalogue.viewOrders.description=주문했던 물건들을 확인하고 취소할수 있습니다.
 //[Reference] 'You have claimed this shipping station!'
 shippingDock.Claimed=You have claimed this shipping station!
+//TODO Translate [Reference] 'Advanced'
+singleplayer.advanced=고급
 //[Reference] 'Copy from'
 singleplayer.baseOff=다른 세계 복사하기
 //[Reference] 'Don't copy'
 singleplayer.baseOffCancel=안함
+//TODO Translate [Reference] 'Basic'
+singleplayer.basic=기본
 //[Reference] 'Cancel'
 singleplayer.cancel=취소
 //[Reference] 'Are you certain you want to delete this world?'
@@ -687,14 +720,18 @@ singleplayer.newWorld=새로운 세계
 singleplayer.playWithFriends=친구랑 같이하기
 //[Reference] 'Name'
 singleplayer.serverName=이름
+//TODO Translate [Reference] 'Seed'
+singleplayer.serverSeed=고유 번호
 
 //[Reference] 'Single Player'
 singleplayer.singleplayer=혼자서 놀기
 //Single Player
 //[Reference] 'Storage is in use, lockfile detected.'
-singleplayer.storageLockFile=Storage is in use, lockfile detected.
+singleplayer.storageLockFile=사용중인 파일이 있어 파일을 수정할수 없었습니다.
 //[Reference] 'Village'
 singleplayer.village=마을
+//TODO Translate [Reference] 'World Size'
+singleplayer.worldSize=세계 넓이
 
 //[Reference] 'Controller is available'
 startMenu.controllerReady=컨트롤러를 사용할수 있습니다.
@@ -716,12 +753,51 @@ startMenu.serverList=서버 목록
 //Server List
 //[Reference] 'Single Player'
 startMenu.singlePlayer=혼자서 놀기
+staxel.accessories.characters.accessories.achievements.BeachSandals.description=
+//TODO Translate [Reference] 'Beach Sandals'
+staxel.accessories.characters.accessories.achievements.BeachSandals.name=
+staxel.accessories.characters.accessories.achievements.BeeHat.description=
+//TODO Translate [Reference] 'Bee Hat'
+staxel.accessories.characters.accessories.achievements.BeeHat.name=
+staxel.accessories.characters.accessories.achievements.ChefHat.description=
+//TODO Translate [Reference] 'Chef Hat'
+staxel.accessories.characters.accessories.achievements.ChefHat.name=
+staxel.accessories.characters.accessories.achievements.ConstructionHat.description=
+//TODO Translate [Reference] 'Construction Hat'
+staxel.accessories.characters.accessories.achievements.ConstructionHat.name=
+staxel.accessories.characters.accessories.achievements.EggHat.description=
+//TODO Translate [Reference] 'Egg Hat'
+staxel.accessories.characters.accessories.achievements.EggHat.name=
+staxel.accessories.characters.accessories.achievements.FishingHat.description=
+//TODO Translate [Reference] 'Fishing Hat'
+staxel.accessories.characters.accessories.achievements.FishingHat.name=
+staxel.accessories.characters.accessories.achievements.GrassSkirt.description=
+//TODO Translate [Reference] 'Grass Skirt'
+staxel.accessories.characters.accessories.achievements.GrassSkirt.name=
+staxel.accessories.characters.accessories.achievements.LumberJackShirt.description=
+//TODO Translate [Reference] 'Lumber Jack Shirt'
+staxel.accessories.characters.accessories.achievements.LumberJackShirt.name=
+staxel.accessories.characters.accessories.achievements.MilkmanHat.description=
+//TODO Translate [Reference] 'Milkman Hat'
+staxel.accessories.characters.accessories.achievements.MilkmanHat.name=
+staxel.accessories.characters.accessories.achievements.MiningHelmet.description=
+//TODO Translate [Reference] 'Mining Helmet'
+staxel.accessories.characters.accessories.achievements.MiningHelmet.name=
+staxel.accessories.characters.accessories.achievements.MushroomHat.description=
+//TODO Translate [Reference] 'Mushroom Hat'
+staxel.accessories.characters.accessories.achievements.MushroomHat.name=
+staxel.accessories.characters.accessories.achievements.StrawFarmerHat.description=
+//TODO Translate [Reference] 'Straw Farmer Hat'
+staxel.accessories.characters.accessories.achievements.StrawFarmerHat.name=
+staxel.accessories.characters.accessories.achievements.WoolJumper.description=
+//TODO Translate [Reference] 'Wool Jumper'
+staxel.accessories.characters.accessories.achievements.WoolJumper.name=
 //Single Player
 staxel.accessories.characters.accessories.animalhats.FrogHat_paletted.description=
 //[Reference] 'Frog Hat'
 staxel.accessories.characters.accessories.animalhats.FrogHat_paletted.name=Frog Hat
 staxel.accessories.characters.accessories.animalhats.UnicornHat_paletted.description=
-//TODO Translate [Reference] 'Unicorn Hat_paletted'
+//TODO Translate [Reference] 'Unicorn Hat'
 staxel.accessories.characters.accessories.animalhats.UnicornHat_paletted.name=
 staxel.accessories.characters.accessories.festival.FlowerCrown.description=
 //[Reference] 'Flower Crown'
@@ -859,36 +935,36 @@ staxel.accessories.shorts.shortjeanspaletted.description=
 staxel.accessories.shorts.shortjeanspaletted.name=shortjeanspaletted
 
 //[Reference] 'None'
-staxel.accessory.none=None
+staxel.accessory.none=없음
 //[Reference] 'Get your first pet!'
-staxel.achievement.GetPet.description=Get your first pet!
+staxel.achievement.GetPet.description=첫 애완동물 입니다!
 //[Reference] 'Get a pet'
-staxel.achievement.GetPet.name=Get a pet
+staxel.achievement.GetPet.name=애완동물 구하기
 //[Reference] 'Get your first pet!'
-staxel.achievements.getPet=Get your first pet!
+staxel.achievements.getPet=첫 애완동물 구하기!
 
 //[Reference] 'Ouch! The bees need to be calmed down'
-staxel.apiary.calmWorkers=Ouch! The bees need to be calmed down
+staxel.apiary.calmWorkers=앗 따거! 이 벌을 진정시켜야 합니다.
 //[Reference] 'This apiary has enough bees'
-staxel.apiary.fullWorkers=This apiary has enough bees
+staxel.apiary.fullWorkers=이 양봉장에는 충분한 벌이 있어요
 //[Reference] 'This apiary already has a queen'
-staxel.apiary.hasQueen=This apiary already has a queen
+staxel.apiary.hasQueen=이 양봉장에는 이미 여왕벌이 있어요
 //[Reference] 'Need to put the honey in a jar'
-staxel.apiary.needsCollector=Need to put the honey in a jar
+staxel.apiary.needsCollector=꿀은 병에다 모아야 해요
 //[Reference] 'This apiary needs a queen bee'
-staxel.apiary.needsQueen=This apiary needs a queen bee
+staxel.apiary.needsQueen=이 양봉장은 여왕벌이 필요해요
 //[Reference] 'This apiary needs bees'
-staxel.apiary.needsWorkers=This apiary needs bees
+staxel.apiary.needsWorkers=이 양봉장은 벌이 필요해요
 //[Reference] 'Honey is available and the bees are calm'
-staxel.apiary.state.collection=Honey is available and the bees are calm
+staxel.apiary.state.collection=꿀을 모을수 있지만 벌들이 진정된 상태여야 해요
 //[Reference] 'This apiary is empty'
-staxel.apiary.state.none=This apiary is empty
+staxel.apiary.state.none=이 양봉장은 비었어요
 //[Reference] 'The bees are making honey: {0-days} days remaining'
-staxel.apiary.state.producing=The bees are making honey: {0-days} days remaining
+staxel.apiary.state.producing=벌들이 꿀을 만들고 있습니다: 다 만들기까지 {0-days}일 남았어요
 //[Reference] 'The queen is rallying bees: {0-bees}/{1-total} bees'
-staxel.apiary.state.rallying=The queen is rallying bees: {0-bees}/{1-total} bees
+staxel.apiary.state.rallying=여왕벌이 일벌들을 회복시키고 있어요: {0-bees}/{1-total} 벌
 //[Reference] 'Honey is available but the bees are grumpy'
-staxel.apiary.state.waiting=Honey is available but the bees are grumpy
+staxel.apiary.state.waiting=꿀을 모을수 있지만 벌들이 심술을 부리고 있어요
 //[Reference] 'A bush that grows delicious blackberries. Survives out of season.'
 staxel.bush.BlackberryBush.description=A bush that grows delicious blackberries. Survives out of season.
 //[Reference] 'Blackberry Bush Seed'
@@ -939,6 +1015,8 @@ staxel.category.boil=boil
 staxel.category.boiled=boiled
 //TODO Translate [Reference] 'bottle'
 staxel.category.bottle=
+//TODO Translate [Reference] 'bug Display'
+staxel.category.bugDisplay=
 //[Reference] 'butterfly'
 staxel.category.butterfly=butterfly
 //[Reference] 'Campfire Large'
@@ -989,6 +1067,8 @@ staxel.category.dinosaur=
 staxel.category.doorTest=doorTest
 //[Reference] 'Dragon Fruit Pie Stand'
 staxel.category.DragonFruitPieStand=Dragon Fruit Pie Stand
+//TODO Translate [Reference] 'dreamcatcher'
+staxel.category.dreamcatcher=
 //[Reference] 'dryer'
 staxel.category.dryer=dryer
 //[Reference] 'drying'
@@ -1001,8 +1081,12 @@ staxel.category.farming=
 staxel.category.fertilizer=
 //[Reference] 'fey'
 staxel.category.fey=fey
+//TODO Translate [Reference] 'fin'
+staxel.category.fin=
 //[Reference] 'fine'
 staxel.category.fine=fine
+//TODO Translate [Reference] 'fish Display'
+staxel.category.fishDisplay=
 //[Reference] 'fly'
 staxel.category.fly=fly
 //TODO Translate [Reference] 'fossil'
@@ -1035,6 +1119,8 @@ staxel.category.hinge=hinge
 staxel.category.ice=
 //TODO Translate [Reference] 'icecream'
 staxel.category.icecream=
+//TODO Translate [Reference] 'incense'
+staxel.category.incense=
 //[Reference] 'iron'
 staxel.category.iron=iron
 
@@ -1046,6 +1132,10 @@ staxel.category.jelly=jelly
 staxel.category.kennel=kennel
 //[Reference] 'Knob'
 staxel.category.Knob=Knob
+//TODO Translate [Reference] 'large Display'
+staxel.category.largeDisplay=
+//TODO Translate [Reference] 'Large Fish Display'
+staxel.category.largeFishDisplay=
 //[Reference] 'latch'
 staxel.category.latch=latch
 //[Reference] 'laundry'
@@ -1062,12 +1152,16 @@ staxel.category.LightGreen=LightGreen
 staxel.category.LimePieStand=Lime Pie Stand
 //[Reference] 'lumber'
 staxel.category.lumber=lumber
+//TODO Translate [Reference] 'lure'
+staxel.category.lure=
 //TODO Translate [Reference] 'manure'
 staxel.category.manure=
 //[Reference] 'masonry'
 staxel.category.masonry=masonry
 //[Reference] 'meat'
 staxel.category.meat=meat
+//TODO Translate [Reference] 'mermaid'
+staxel.category.mermaid=
 //[Reference] 'mine'
 staxel.category.mine=mine
 //[Reference] 'mix'
@@ -1105,6 +1199,8 @@ staxel.category.PeachPieStand=Peach Pie Stand
 staxel.category.PlainCakeStand=Plain Cake Stand
 //[Reference] 'platform'
 staxel.category.platform=platform
+//TODO Translate [Reference] 'playpen'
+staxel.category.playpen=
 //TODO Translate [Reference] 'polisher'
 staxel.category.polisher=
 //[Reference] 'poop'
@@ -1127,6 +1223,8 @@ staxel.category.scaffold=scaffold
 staxel.category.scaffolding=scaffolding
 //[Reference] 'sea'
 staxel.category.sea=sea
+//TODO Translate [Reference] 'seafood'
+staxel.category.seafood=
 //[Reference] 'sheared'
 staxel.category.sheared=sheared
 //[Reference] 'sheet'
@@ -1135,14 +1233,26 @@ staxel.category.sheet=sheet
 staxel.category.shell=shell
 //[Reference] 'shingles'
 staxel.category.shingles=shingles
+//TODO Translate [Reference] 'ship'
+staxel.category.ship=
 //TODO Translate [Reference] 'shrimp'
 staxel.category.shrimp=
 //[Reference] 'shrine'
 staxel.category.shrine=shrine
+//TODO Translate [Reference] 'Small Bug Display'
+staxel.category.smallBugDisplay=
+//TODO Translate [Reference] 'small Display'
+staxel.category.smallDisplay=
+//TODO Translate [Reference] 'Small Fish Display'
+staxel.category.smallFishDisplay=
 //[Reference] 'smoothie'
 staxel.category.smoothie=smoothie
+//TODO Translate [Reference] 'snack'
+staxel.category.snack=
 //[Reference] 'snowdust'
 staxel.category.snowdust=snowdust
+//TODO Translate [Reference] 'sponge'
+staxel.category.sponge=
 //[Reference] 'standalone'
 staxel.category.standalone=standalone
 //[Reference] 'star'
@@ -1155,6 +1265,8 @@ staxel.category.StrawberryPieStand=Strawberry Pie Stand
 staxel.category.sun=Sun
 //[Reference] 'Sunflower'
 staxel.category.Sunflower=Sunflower
+//TODO Translate [Reference] 'sushi'
+staxel.category.sushi=
 //[Reference] 'tackle'
 staxel.category.tackle=tackle
 //[Reference] 'throne'
@@ -1260,10 +1372,12 @@ staxel.crafting.recipes.Chips.description=
 //[Reference] 'Chips'
 staxel.crafting.recipes.Chips.name=Chips
 staxel.crafting.recipes.ClassicBrickBlock.description=
-//[Reference] 'ClassicBrickBlock'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Classic Brick Block'
 staxel.crafting.recipes.ClassicBrickBlock.name=ClassicBrickBlock
 staxel.crafting.recipes.ClassicWoodBlock.description=
-//[Reference] 'ClassicWoodBlock'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Classic Wood Block'
 staxel.crafting.recipes.ClassicWoodBlock.name=ClassicWoodBlock
 staxel.crafting.recipes.CobbleStonePath.description=
 //[Reference] 'Cobble Stone Path'
@@ -1272,7 +1386,7 @@ staxel.crafting.recipes.CoffeeTable.description=
 //[Reference] 'CoffeeTable'
 staxel.crafting.recipes.CoffeeTable.name=CoffeeTable
 staxel.crafting.recipes.CombineFruitSalad.description=
-//TODO Translate [Reference] 'Combine Fruit Salad'
+//TODO Translate [Reference] 'Fruit Salad'
 staxel.crafting.recipes.CombineFruitSalad.name=
 staxel.crafting.recipes.Crate.description=
 //[Reference] 'Crate'
@@ -1293,7 +1407,8 @@ staxel.crafting.recipes.CreamWoodBlock.description=
 //TODO Translate [Reference] 'Cream Wood Block'
 staxel.crafting.recipes.CreamWoodBlock.name=
 staxel.crafting.recipes.DarkWoodBlock.description=
-//[Reference] 'DarkWoodBlock'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Dark Wood Block'
 staxel.crafting.recipes.DarkWoodBlock.name=DarkWoodBlock
 //[Reference] 'Just the frame of a door. You can craft this into a working door.'
 staxel.crafting.recipes.DoorFrame.description=Just the frame of a door. You can craft this into a working door.
@@ -1333,7 +1448,8 @@ staxel.crafting.recipes.JackOLantern.description=
 //[Reference] 'Jack O' Lantern'
 staxel.crafting.recipes.JackOLantern.name=Jack O' Lantern
 staxel.crafting.recipes.lightMeal.BoiledEgg.description=
-//[Reference] 'BoiledEgg'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Boiled Egg'
 staxel.crafting.recipes.lightMeal.BoiledEgg.name=BoiledEgg
 staxel.crafting.recipes.Lumber.description=
 //[Reference] 'Lumber'
@@ -1342,7 +1458,8 @@ staxel.crafting.recipes.MakeSyrup.description=
 //[Reference] 'Syrup'
 staxel.crafting.recipes.MakeSyrup.name=Syrup
 staxel.crafting.recipes.MangoPeachSmoothie.description=
-//[Reference] 'MangoPeachSmoothie'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Mango Peach Smoothie'
 staxel.crafting.recipes.MangoPeachSmoothie.name=MangoPeachSmoothie
 staxel.crafting.recipes.Manure.description=
 //TODO Translate [Reference] 'Manure'
@@ -1368,6 +1485,8 @@ staxel.crafting.recipes.Pancakes.name=Pancakes
 staxel.crafting.recipes.PetFood.description=
 //TODO Translate [Reference] 'Pet Food'
 staxel.crafting.recipes.PetFood.name=
+//TODO Translate [Reference] 'Pet Store Shelf'
+staxel.crafting.recipes.PetStoreShelf.name=
 staxel.crafting.recipes.Pickets.description=
 //[Reference] 'Pickets'
 staxel.crafting.recipes.Pickets.name=Pickets
@@ -1399,7 +1518,8 @@ staxel.crafting.recipes.PurpleWoodBlock.description=
 //TODO Translate [Reference] 'Purple Wood Block'
 staxel.crafting.recipes.PurpleWoodBlock.name=
 staxel.crafting.recipes.RanchDoorFrame.description=
-//[Reference] 'RanchDoorFrame'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Ranch Doorframe'
 staxel.crafting.recipes.RanchDoorFrame.name=RanchDoorFrame
 staxel.crafting.recipes.RanchStairs.description=
 //[Reference] 'RanchStairs'
@@ -1408,13 +1528,16 @@ staxel.crafting.recipes.RanchWindow.description=
 //[Reference] 'RanchWindow'
 staxel.crafting.recipes.RanchWindow.name=RanchWindow
 staxel.crafting.recipes.RanchWindowBroken.description=
-//[Reference] 'RanchWindowBroken'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Broken Ranch Window'
 staxel.crafting.recipes.RanchWindowBroken.name=RanchWindowBroken
 staxel.crafting.recipes.RanchWindowLarge.description=
-//[Reference] 'RanchWindowLarge'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Large Ranch Window'
 staxel.crafting.recipes.RanchWindowLarge.name=RanchWindowLarge
 staxel.crafting.recipes.RaspberryBlackberrySmoothie.description=
-//[Reference] 'RaspberryBlackberrySmoothie'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Blackberry & Raspberry Smoothie'
 staxel.crafting.recipes.RaspberryBlackberrySmoothie.name=RaspberryBlackberrySmoothie
 staxel.crafting.recipes.RedBrick.description=
 //TODO Translate [Reference] 'Red Brick'
@@ -1447,22 +1570,26 @@ staxel.crafting.recipes.ShrimpFriedRice.description=
 //TODO Translate [Reference] 'Shrimp Fried Rice'
 staxel.crafting.recipes.ShrimpFriedRice.name=
 staxel.crafting.recipes.SimpleBookCase.description=
-//[Reference] 'SimpleBookCase'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Simple Bookcase'
 staxel.crafting.recipes.SimpleBookCase.name=SimpleBookCase
 staxel.crafting.recipes.SimpleChestOfDrawers.description=
-//[Reference] 'SimpleChestOfDrawers'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Simple Chest of Drawers'
 staxel.crafting.recipes.SimpleChestOfDrawers.name=SimpleChestOfDrawers
 staxel.crafting.recipes.SimpleWardrobe.description=
 //[Reference] 'SimpleWardrobe'
 staxel.crafting.recipes.SimpleWardrobe.name=SimpleWardrobe
 staxel.crafting.recipes.SimpleWardrobeSingle.description=
-//[Reference] 'SimpleWardrobeSingle'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Simple Single Wardrobe'
 staxel.crafting.recipes.SimpleWardrobeSingle.name=SimpleWardrobeSingle
 staxel.crafting.recipes.SmallCrate.description=
-//[Reference] 'SmallCrate'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Small Crate'
 staxel.crafting.recipes.SmallCrate.name=SmallCrate
 staxel.crafting.recipes.SoupCabbage.description=
-//TODO Translate [Reference] 'Soup Cabbage'
+//TODO Translate [Reference] 'Cabbage Soup'
 staxel.crafting.recipes.SoupCabbage.name=
 staxel.crafting.recipes.StraightWoodenFence.description=
 //[Reference] 'Straight Wooden Fence'
@@ -1479,6 +1606,9 @@ staxel.crafting.recipes.Takoyaki.name=Takoyaki
 staxel.crafting.recipes.ToffeeApple.description=
 //[Reference] 'Toffee Apple'
 staxel.crafting.recipes.ToffeeApple.name=Toffee Apple
+staxel.crafting.recipes.TreeSapling.description=
+//TODO Translate [Reference] 'Tree Sapling'
+staxel.crafting.recipes.TreeSapling.name=
 staxel.crafting.recipes.Trough.description=
 //[Reference] 'Trough'
 staxel.crafting.recipes.Trough.name=Trough
@@ -1512,6 +1642,14 @@ staxel.crafting.recipes.YellowWoodBlock.name=
 staxel.crafting.recipes.Yoghurt.description=
 //TODO Translate [Reference] 'Yoghurt'
 staxel.crafting.recipes.Yoghurt.name=
+//TODO Translate [Reference] '{0-name} Recipe'
+staxel.crafting.type.Cooking=
+//TODO Translate [Reference] '{0-name} Blueprint'
+staxel.crafting.type.Crafting=
+//TODO Translate [Reference] 'Recipe for making {0-name}'
+staxel.crafting.type.desc.Cooking=
+//TODO Translate [Reference] 'Blueprint for making {0-name}'
+staxel.crafting.type.desc.Crafting=
 
 //[Reference] 'A brightly coloured beet.'
 staxel.crop.Beet.description=A brightly coloured beet.
@@ -1672,7 +1810,7 @@ staxel.description.GrowTimeDays=in {0-growTime} days
 //[Reference] 'immediately'
 staxel.description.GrowTimeImmediate=immediately
 //[Reference] 'Doesn't grow in any seasons. Please report this as a bug.'
-staxel.description.GrowTimeRegrowValidSeasons.0=Doesn't grow in any seasons. Please report this as a bug.
+staxel.description.GrowTimeRegrowValidSeasons.0=어느 계절에도 자라지 않습니다. 버그일경우 신고해주세요.
 //[Reference] 'Grows {0-growTime} then regrows {1-reGrowTime} in {2-season}.'
 staxel.description.GrowTimeRegrowValidSeasons.1=Grows {0-growTime} then regrows {1-reGrowTime} in {2-season}.
 //[Reference] 'Grows {0-growTime} then regrows {1-reGrowTime} in {2-season} and {3-season}.'
@@ -1755,27 +1893,29 @@ staxel.farmAnimal.Sheep=Sheep
 //[Reference] 'Alt'
 staxel.gameLogicalButton.Alt=Alt
 //[Reference] 'Backward'
-staxel.gameLogicalButton.Backward=Backward
+staxel.gameLogicalButton.Backward=뒤로 이동
 //[Reference] 'Chat'
-staxel.gameLogicalButton.Chat=Chat
+staxel.gameLogicalButton.Chat=채팅
 //[Reference] 'Chat Commands'
-staxel.gameLogicalButton.ChatCommands=Chat Commands
+staxel.gameLogicalButton.ChatCommands=채팅 명령어
 //[Reference] 'Drop Item'
-staxel.gameLogicalButton.DropItem=Drop Item
+staxel.gameLogicalButton.DropItem=아이템 떨구기
 //[Reference] 'Esc'
 staxel.gameLogicalButton.Esc=Esc
 //[Reference] 'Forward'
-staxel.gameLogicalButton.Forward=Forward
+staxel.gameLogicalButton.Forward=앞으로 이동
 //[Reference] 'Inventory'
-staxel.gameLogicalButton.Inventory=Inventory
+staxel.gameLogicalButton.Inventory=가방
+//TODO Translate [Reference] 'Journal'
+staxel.gameLogicalButton.Journal=일지
 //[Reference] 'Jump'
-staxel.gameLogicalButton.Jump=Jump
+staxel.gameLogicalButton.Jump=점프
 //[Reference] 'Left'
-staxel.gameLogicalButton.Left=Left
+staxel.gameLogicalButton.Left=왼쪽으로 이동
 //[Reference] 'Main'
-staxel.gameLogicalButton.Main=Main
+staxel.gameLogicalButton.Main=메인
 //[Reference] 'Map'
-staxel.gameLogicalButton.Map=Map
+staxel.gameLogicalButton.Map=지도
 //[Reference] 'Next'
 staxel.gameLogicalButton.Next=Next
 //[Reference] 'Pick Item'
@@ -1808,6 +1948,8 @@ staxel.gameLogicalButton.Slot9=Slot9
 staxel.gameLogicalButton.Slot10=Slot10
 //[Reference] 'Sneak'
 staxel.gameLogicalButton.Sneak=Sneak
+//TODO Translate [Reference] 'Swap Camera Mode'
+staxel.gameLogicalButton.SwapCameraMode=
 //[Reference] 'Switch Item'
 staxel.gameLogicalButton.SwitchItem=Switch Item
 //[Reference] 'A'
@@ -1901,6 +2043,62 @@ staxel.gatherable.SwirlyShell.name=Swirly Shell
 staxel.gatherable.WhiteMushrooms.description=Popular in many dishes.
 //[Reference] 'White Mushrooms'
 staxel.gatherable.WhiteMushrooms.name=White Mushrooms
+//TODO Translate [Reference] 'Interface Letters'
+staxel.inputMappingModality.InterfaceLetters=
+//TODO Translate [Reference] 'Main Down'
+staxel.inputMappingModality.MainDown=
+//TODO Translate [Reference] 'Main Up'
+staxel.inputMappingModality.MainUp=
+//TODO Translate [Reference] 'None'
+staxel.inputMappingModality.None=
+//TODO Translate [Reference] 'No Shift Control Alt'
+staxel.inputMappingModality.NoShiftControlAlt=
+//TODO Translate [Reference] 'Accept'
+staxel.interfaceLogicalButton.Accept=
+//TODO Translate [Reference] 'Back'
+staxel.interfaceLogicalButton.Back=
+//TODO Translate [Reference] 'Down'
+staxel.interfaceLogicalButton.Down=
+//TODO Translate [Reference] 'Enter'
+staxel.interfaceLogicalButton.Enter=
+//TODO Translate [Reference] 'Left'
+staxel.interfaceLogicalButton.Left=
+//TODO Translate [Reference] 'Next'
+staxel.interfaceLogicalButton.Next=
+//TODO Translate [Reference] 'Next Tab'
+staxel.interfaceLogicalButton.NextTab=
+//TODO Translate [Reference] 'Previous'
+staxel.interfaceLogicalButton.Previous=
+//TODO Translate [Reference] 'Previous Tab'
+staxel.interfaceLogicalButton.PreviousTab=
+//TODO Translate [Reference] 'Reset'
+staxel.interfaceLogicalButton.Reset=
+//TODO Translate [Reference] 'Right'
+staxel.interfaceLogicalButton.Right=
+//TODO Translate [Reference] 'Scroll Down'
+staxel.interfaceLogicalButton.ScrollDown=
+//TODO Translate [Reference] 'Scroll Left'
+staxel.interfaceLogicalButton.ScrollLeft=
+//TODO Translate [Reference] 'Scroll Right'
+staxel.interfaceLogicalButton.ScrollRight=
+//TODO Translate [Reference] 'Scroll Up'
+staxel.interfaceLogicalButton.ScrollUp=
+//TODO Translate [Reference] 'Tab1'
+staxel.interfaceLogicalButton.Tab1=
+//TODO Translate [Reference] 'Tab2'
+staxel.interfaceLogicalButton.Tab2=
+//TODO Translate [Reference] 'Tab3'
+staxel.interfaceLogicalButton.Tab3=
+//TODO Translate [Reference] 'Tab4'
+staxel.interfaceLogicalButton.Tab4=
+//TODO Translate [Reference] 'Tab5'
+staxel.interfaceLogicalButton.Tab5=
+//TODO Translate [Reference] 'Tab Down'
+staxel.interfaceLogicalButton.TabDown=
+//TODO Translate [Reference] 'Tab Up'
+staxel.interfaceLogicalButton.TabUp=
+//TODO Translate [Reference] 'Up'
+staxel.interfaceLogicalButton.Up=
 staxel.item.buildingTools.Export.description=
 //[Reference] 'Export'
 staxel.item.buildingTools.Export.name=Export
@@ -1978,6 +2176,14 @@ staxel.item.crafting.EggFriedRice.name=
 staxel.item.crafting.FineLumber.description=
 //[Reference] 'FineLumber'
 staxel.item.crafting.FineLumber.name=FineLumber
+//TODO Translate [Reference] 'A mix of various fish. There's basically no reason to ever do this. Taste at your own peril.'
+staxel.item.crafting.FishMixAlpha.description=
+//TODO Translate [Reference] 'Fish Mix α'
+staxel.item.crafting.FishMixAlpha.name=
+//TODO Translate [Reference] 'This stuff smells even worse than the last batch. Why did you even make it?'
+staxel.item.crafting.FishMixBeta.description=
+//TODO Translate [Reference] 'Fish Mix β'
+staxel.item.crafting.FishMixBeta.name=
 staxel.item.crafting.FriedMushrooms.description=
 //[Reference] 'Assorted Fried Mushrooms'
 staxel.item.crafting.FriedMushrooms.name=Assorted Fried Mushrooms
@@ -2132,6 +2338,10 @@ staxel.item.debug.Export.name=Export
 staxel.item.DogLetter.description=Rowan asked you to deliver this. It looks like he drew a bone on it?
 //[Reference] 'Letter to Farm Fan'
 staxel.item.DogLetter.name=Letter to Farm Fan
+//TODO Translate [Reference] 'Soaks up water (stackable)'
+staxel.item.DrySponge.description=
+//TODO Translate [Reference] 'Dry Sponge'
+staxel.item.DrySponge.name=
 staxel.item.festival.CandyCorn.description=
 //[Reference] 'Candy Corn'
 staxel.item.festival.CandyCorn.name=Candy Corn
@@ -2351,6 +2561,53 @@ staxel.item.museum.Fossil.name=
 staxel.item.NoteToRowan.description=A note addressed to Rowan. Probably best not to open it.
 //[Reference] 'Note To Rowan'
 staxel.item.NoteToRowan.name=Note To Rowan
+//TODO Translate [Reference] 'A note to Riah detailing the location of her missing sibling.'
+staxel.item.quest.Riah.BestFriendLetterFromCirahna.description=
+//TODO Translate [Reference] 'Note to Riah'
+staxel.item.quest.Riah.BestFriendLetterFromCirahna.name=
+//TODO Translate [Reference] 'The blue letter in this bottle isn't addressed to you. You shouldn't peek!'
+staxel.item.quest.Riah.BlueLetterBottle.description=
+//TODO Translate [Reference] 'Letter in a Bottle (Blue)'
+staxel.item.quest.Riah.BlueLetterBottle.name=
+//TODO Translate [Reference] 'Salvaged from the stomach of M'yah, the Staxel Horror, this brooch is still a little slimy.'
+staxel.item.quest.Riah.Brooch.description=
+//TODO Translate [Reference] 'Riah's Brooch'
+staxel.item.quest.Riah.Brooch.name=
+//TODO Translate [Reference] 'The grey letter in this bottle isn't addressed to you. You shouldn't peek!'
+staxel.item.quest.Riah.GreyLetterBottle.description=
+//TODO Translate [Reference] 'Letter in a Bottle (Grey)'
+staxel.item.quest.Riah.GreyLetterBottle.name=
+//TODO Translate [Reference] 'A message in a bottle with a hook stuck in it. Could this be...?'
+staxel.item.quest.Riah.HookedBottle.description=
+//TODO Translate [Reference] 'Hooked Bottle'
+staxel.item.quest.Riah.HookedBottle.name=
+//TODO Translate [Reference] 'Riah wanted you to deliver this to Max.'
+staxel.item.quest.Riah.LetterToMax.description=
+//TODO Translate [Reference] 'Letter To Max'
+staxel.item.quest.Riah.LetterToMax.name=
+//TODO Translate [Reference] 'The legendary Staxel Horror. Riah claims it ate the brooch she needs. Better get it back to her before you go crazy or something.'
+staxel.item.quest.Riah.Myah.description=
+//TODO Translate [Reference] 'M'yah'
+staxel.item.quest.Riah.Myah.name=
+//TODO Translate [Reference] 'Cirahna wanted you to deliver this to Riah. A master calligrapher would envy the handwriting.'
+staxel.item.quest.Riah.NoteFromCirahna.description=
+//TODO Translate [Reference] 'Note From Cirahna'
+staxel.item.quest.Riah.NoteFromCirahna.name=
+//TODO Translate [Reference] 'Riah asked you to take this note to Cirahna. The handwriting is atrocious.'
+staxel.item.quest.Riah.NoteToCirahna.description=
+//TODO Translate [Reference] 'Note To Cirahna'
+staxel.item.quest.Riah.NoteToCirahna.name=
+//TODO Translate [Reference] 'The red letter in this bottle isn't addressed to you. You shouldn't peek!'
+staxel.item.quest.Riah.RedLetterBottle.description=
+//TODO Translate [Reference] 'Letter in a Bottle (Red)'
+staxel.item.quest.Riah.RedLetterBottle.name=
+staxel.item.quest.Riah.RiahsBottledLetter.description=
+//TODO Translate [Reference] 'Riahs Bottled Letter'
+staxel.item.quest.Riah.RiahsBottledLetter.name=
+//TODO Translate [Reference] 'The poor thing. Take it to Rosemary.'
+staxel.item.quest.StrayCat.description=
+//TODO Translate [Reference] 'Stray Cat'
+staxel.item.quest.StrayCat.name=
 //[Reference] 'Rowan asked you to deliver this to Leif'
 staxel.item.RowansOrder.description=Rowan asked you to deliver this to Leif
 //[Reference] 'Rowan's Order'
@@ -2359,6 +2616,9 @@ staxel.item.RowansOrder.name=Rowan's Order
 staxel.item.RowansParcel.description=Something doesn't smell quite right... you'd better hand this over quickly!
 //[Reference] 'Rowan's Parcel'
 staxel.item.RowansParcel.name=Rowan's Parcel
+staxel.item.SoakedSponge.description=
+//TODO Translate [Reference] 'Soaked Sponge'
+staxel.item.SoakedSponge.name=
 staxel.item.tool.FlowerWatercan.description=
 //[Reference] 'Flower Watering Can'
 staxel.item.tool.FlowerWatercan.name=Flower Watering Can
@@ -2371,6 +2631,16 @@ staxel.item.tool.PumpkingScythe.name=Pumpking Scythe
 staxel.item.tool.TaikoHammer.description=
 //[Reference] 'Taiko Hammer'
 staxel.item.tool.TaikoHammer.name=Taiko Hammer
+//TODO Translate [Reference] '^c:1486b0;$playername;^c:pop;!\n\nI couldn't help overhearing your conversation with ^c:1486b0;Rosemary^c:pop; yesterday (sorry, I wasn't listening on purpose, I swear). See, I was around these parts back then and I swear something wasn't quite right about the whole thing...\n\nMaybe it would be worth having a little wander around the village and seeing if anyone else can remember anything?\n\n^c:1486b0;Farm Fan^c:pop;'
+staxel.mail.FarmFanEavesdrop.body=
+//TODO Translate [Reference] 'Rosemary'
+staxel.mail.FarmFanEavesdrop.subject=
+//TODO Translate [Reference] 'Pet Store'
+staxel.mainQuest.Rosemary.Acquaintance=
+//TODO Translate [Reference] 'Rabbits'
+staxel.mainQuest.Rosemary.Friend=
+//TODO Translate [Reference] 'Rescue Cat'
+staxel.mainQuest.Rosemary.Liked=
 //[Reference] 'Brick'
 staxel.merchant.Brick.name=Brick
 //[Reference] 'Buttons'
@@ -2418,10 +2688,17 @@ staxel.merchants.carts.PetMerchant.name=Pet Merchant Cart
 staxel.merchants.SellBox.description=
 //[Reference] 'Sell Box'
 staxel.merchants.SellBox.name=Sell Box
+//TODO Translate [Reference] 'Left'
+staxel.mouseAxis.Left=
+//TODO Translate [Reference] 'Middle'
+staxel.mouseAxis.Middle=
+//TODO Translate [Reference] 'Right'
+staxel.mouseAxis.Right=
 
 //[Reference] 'Tip: Scythe grass or flowers to get mixed seeds'
 staxel.nightTransition.Line1=Tip: Scythe grass or flowers to get mixed seeds
-//[Reference] 'Tip: Hold shift to make some inventory actions faster'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Tip: Press shift or the left stick to move stacks on shelves or in the inventory'
 staxel.nightTransition.Line2=Tip: Hold shift to make some inventory actions faster
 //[Reference] 'Tip: The seed maker has a chance of giving golden seeds'
 staxel.nightTransition.Line3=Tip: The seed maker has a chance of giving golden seeds
@@ -2629,6 +2906,9 @@ staxel.plant.gatherable.SnowMound.name=Snow Mound
 staxel.plant.gatherable.StarJelly.description=
 //[Reference] 'Star Jelly'
 staxel.plant.gatherable.StarJelly.name=Star Jelly
+staxel.plant.tree.BasicNaturalTree.description=
+//TODO Translate [Reference] 'Basic Natural Tree'
+staxel.plant.tree.BasicNaturalTree.name=
 
 //[Reference] 'Free in Creative'
 staxel.priceTag.freeInCreative=Free in Creative
@@ -2839,6 +3119,12 @@ staxel.tile.rock.Rock.5.Winter.name=Winter
 staxel.tile.water.IceWater.description=
 //[Reference] 'Ice Water'
 staxel.tile.water.IceWater.name=Ice Water
+staxel.tileObject.achievements.GoldenFarmerStatue.description=
+//TODO Translate [Reference] 'Golden Farmer Statue'
+staxel.tileObject.achievements.GoldenFarmerStatue.name=
+staxel.tileObject.achievements.MiningLantern.description=
+//TODO Translate [Reference] 'Mining Lantern'
+staxel.tileObject.achievements.MiningLantern.name=
 staxel.tileObject.airship.RopeFenceCross.description=
 //[Reference] 'Rope Fence'
 staxel.tileObject.airship.RopeFenceCross.name=Rope Fence
@@ -3258,10 +3544,12 @@ staxel.tileObject.mines.MineralCart.description=
 //[Reference] 'Mineral Cart'
 staxel.tileObject.mines.MineralCart.name=Mineral Cart
 staxel.tileObject.mines.MineralCartCoal1.description=
-//[Reference] 'Mineral Cart Coal1'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Mineral Cart with Coal'
 staxel.tileObject.mines.MineralCartCoal1.name=Mineral Cart Coal1
 staxel.tileObject.mines.MineralCartCoal2.description=
-//[Reference] 'Mineral Cart Coal2'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Tipped Mineral Cart'
 staxel.tileObject.mines.MineralCartCoal2.name=Mineral Cart Coal2
 staxel.tileObject.mines.MushroomBlue1.description=
 //[Reference] 'Mushroom Blue1'
@@ -3464,6 +3752,9 @@ staxel.tileObject.museum.SmallFishDisplayNatural.name=
 staxel.tileObject.museum.SmallFishDisplayWhite.description=
 //TODO Translate [Reference] 'Small White Fish Display'
 staxel.tileObject.museum.SmallFishDisplayWhite.name=
+staxel.tileObject.office.DeskClockStatic.description=
+//TODO Translate [Reference] 'Desk Clock Static'
+staxel.tileObject.office.DeskClockStatic.name=
 staxel.tileObject.office.OfficeCounter.NoDock.description=
 //[Reference] 'Office Counter (No Docks)'
 staxel.tileObject.office.OfficeCounter.NoDock.name=Office Counter (No Docks)
@@ -3531,6 +3822,22 @@ staxel.tileObject.patisserie.VegetablePieStand.name=Vegetable Pie Stand
 staxel.tileObject.postbox.StandardPostbox.description=
 //TODO Translate [Reference] 'Standard Postbox'
 staxel.tileObject.postbox.StandardPostbox.name=
+//TODO Translate [Reference] 'A magic dream catcher made out of butterflies.'
+staxel.tileObject.quest.Riah.ButterflyDreamcatcher.description=
+//TODO Translate [Reference] 'Butterfly Dream Catcher'
+staxel.tileObject.quest.Riah.ButterflyDreamcatcher.name=
+//TODO Translate [Reference] 'This incense stick is so pungent you suspect it might summon eldritch creatures when lit.'
+staxel.tileObject.quest.Riah.IncenseLure.description=
+//TODO Translate [Reference] 'Incense Lure'
+staxel.tileObject.quest.Riah.IncenseLure.name=
+//TODO Translate [Reference] 'It's a complete mystery how something so beautiful was made by boiling such horrendous ingredients together.'
+staxel.tileObject.quest.Riah.MermaidFin.description=
+//TODO Translate [Reference] 'Mermaid Tail'
+staxel.tileObject.quest.Riah.MermaidFin.name=
+//TODO Translate [Reference] 'These things are always a bit of a mystery. How did it fit?'
+staxel.tileObject.quest.Riah.ShipInABottle.description=
+//TODO Translate [Reference] 'Ship In A Bottle'
+staxel.tileObject.quest.Riah.ShipInABottle.name=
 staxel.tileObject.roofing.black.Black_Flat.description=
 
 //[Reference] 'Black_Flat'
@@ -3813,6 +4120,14 @@ staxel.tileObject.shop.MarketCube.name=Market Cube
 staxel.tileObject.shop.MarketCubePole.description=
 //[Reference] 'Market Cube Pole'
 staxel.tileObject.shop.MarketCubePole.name=Market Cube Pole
+//TODO Translate [Reference] 'A place for pets to play!'
+staxel.tileObject.shop.PetPlaypen.description=
+//TODO Translate [Reference] 'Pet Playpen'
+staxel.tileObject.shop.PetPlaypen.name=
+//TODO Translate [Reference] 'Sells pet store things'
+staxel.tileObject.shop.PetStoreShelf.description=
+//TODO Translate [Reference] 'Pet Store Shelf'
+staxel.tileObject.shop.PetStoreShelf.name=
 staxel.tileObject.shop.ShopCounterNormal.description=
 //[Reference] 'Shop Counter Normal'
 staxel.tileObject.shop.ShopCounterNormal.name=Shop Counter Normal
@@ -4105,6 +4420,14 @@ staxel.tileObject.totems.festival.feyMasquerade.FeyThroneRoom.name=Fey Throne Ro
 staxel.tileObject.totems.festival.SnowdustShrine.description=
 //[Reference] 'Snowdust Shrine'
 staxel.tileObject.totems.festival.SnowdustShrine.name=Snowdust Shrine
+//TODO Translate [Reference] 'Did Riah draw these markings? That's a little unsettling.'
+staxel.tileObject.totems.MyahLure.description=
+//TODO Translate [Reference] 'M'yah's Summoning Circle'
+staxel.tileObject.totems.MyahLure.name=
+//TODO Translate [Reference] 'A great place to window shop.'
+staxel.tileObject.totems.PetStoreSign.description=
+//TODO Translate [Reference] 'Pet Store Sign'
+staxel.tileObject.totems.PetStoreSign.name=
 staxel.tileObject.totems.RiahMailbox.description=
 
 //[Reference] 'Riah's Postbox'
@@ -4264,8 +4587,12 @@ staxel.totem.workplace.FishingSpot=Fishing Spot
 staxel.totem.workplace.GroceryStore=General Store
 //TODO Translate [Reference] 'Museum'
 staxel.totem.workplace.Museum=
+//TODO Translate [Reference] 'Myah Lure'
+staxel.totem.workplace.MyahLure=
 //[Reference] 'Patisserie'
 staxel.totem.workplace.Patisserie=Patisserie
+//TODO Translate [Reference] 'Pet Store'
+staxel.totem.workplace.PetStore=
 //[Reference] 'Tavern'
 staxel.totem.workplace.Tavern=Tavern
 //[Reference] 'Town Hall'
@@ -4288,6 +4615,9 @@ staxel.tree.AppleTree.name=Apple Tree Seed
 staxel.tree.BananaTree.description=This tree grows yummy bananas. Fruits in Summer.
 //[Reference] 'Banana Tree Seed'
 staxel.tree.BananaTree.name=Banana Tree Seed
+staxel.tree.BasicNaturalTree.description=
+//TODO Translate [Reference] 'Basic Natural Tree'
+staxel.tree.BasicNaturalTree.name=
 //[Reference] 'This tree grows sweet sweet cherries. Fruits in Autumn.'
 staxel.tree.CherryTree.description=This tree grows sweet sweet cherries. Fruits in Autumn.
 //[Reference] 'Cherry Tree Seed'
@@ -4376,6 +4706,8 @@ staxel.villager.Riah.name=Riah
 staxel.villager.Rosemary.name=Rosemary
 //[Reference] 'Rowan'
 staxel.villager.Rowan.name=Rowan
+//TODO Translate [Reference] 'Stray Cat'
+staxel.villager.Stray Cat.name=
 //TODO Translate [Reference] 'Vorlen'
 staxel.villager.Vorlen.name=
 staxel.weed.Weed1.description=
@@ -4383,7 +4715,7 @@ staxel.weed.Weed1.description=
 staxel.weed.Weed1.name=Weed
 
 //[Reference] 'Staxel Development Build'
-version.developmentBuild=Staxel Development Build
+version.developmentBuild=Staxel 개발자 빌드
 //[Reference] 'Can't equip this here!'
 wardrobe.CantEquip=Can't equip this here!
 //[Reference] 'Use a wardrobe to wear this'

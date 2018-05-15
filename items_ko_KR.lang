@@ -814,7 +814,8 @@ staxel.item.farmAnimals.CowFood.description=이걸 주면 소들이 행복해 �
 staxel.item.farmAnimals.CowFood.name=소 먹이
 //[Reference] 'It's not for everyone, but plants love it!'
 staxel.item.farmAnimals.CowSplat.description=모두를 위한 것은 아니지만, 농작물들은 좋아하나보네요!
-//[Reference] 'Cow Splat'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Splat'
 staxel.item.farmAnimals.CowSplat.name=소똥
 //[Reference] 'A bag of trough food. This will keep your livestock well fed and happy. (Not for poultry.)'
 staxel.item.farmAnimals.TroughFood.description=이걸로 통을 채워주면 동물친구들이 좋아할거예요! (닭들은 먹지 않습니다.)
@@ -992,6 +993,9 @@ staxel.item.quest.PinkLetter.name=분홍색 편지
 staxel.item.quest.PinkSocks.description=누가 이걸 길에 두고 간걸까요?
 //[Reference] 'Pink Socks'
 staxel.item.quest.PinkSocks.name=분홍색 양말
+staxel.item.quest.Vorlen.StrangePhotograph.description=
+//TODO Translate [Reference] 'Strange Photograph'
+staxel.item.quest.Vorlen.StrangePhotograph.name=
 staxel.item.quest.YellowLetter.description=
 //[Reference] 'Yellow Letter'
 staxel.item.quest.YellowLetter.name=노란색 편지

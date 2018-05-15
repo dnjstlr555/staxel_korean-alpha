@@ -2,7 +2,8 @@ language.code=ko-KR
 language=한국어
 //[Reference] 'Oh no...'
 staxel.village.dialogue.quest.LostItemQuest.1.line:10000100=Oh no...
-//[Reference] 'I can't find my ^c:d03e37;{0-item}^c:pop; anywhere!'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'I can't find my ^c:d03e37;{0-lostItem}^c:pop; anywhere!'
 staxel.village.dialogue.quest.LostItemQuest.1.line:10000200=I can't find my ^c:d03e37;{0-item}^c:pop; anywhere!
 //[Reference] 'What should I do? My life is ruined!'
 staxel.village.dialogue.quest.LostItemQuest.1.line:10000300=What should I do? My life is ruined!
@@ -14,7 +15,8 @@ staxel.village.dialogue.quest.LostItemQuest.1.line:10000500=I hope you find it s
 staxel.village.dialogue.quest.LostItemQuest.1.line:10000600=You will? Oh thank you ^c:1486b0;{0-playername}^c:pop;!
 //[Reference] 'Please bring it to me as soon as you find it!'
 staxel.village.dialogue.quest.LostItemQuest.1.line:10000700=Please bring it to me as soon as you find it!
-//[Reference] 'Please let me know if you find my ^c:d03e37;{0-item}^c:pop;...'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Please let me know if you find my ^c:d03e37;{0-lostItem}^c:pop;...'
 staxel.village.dialogue.quest.LostItemQuest.1.line:10000800=Please let me know if you find my ^c:d03e37;{0-item}^c:pop;...
 //[Reference] 'Sure thing!'
 staxel.village.dialogue.quest.LostItemQuest.1.line:10000900=Sure thing!
@@ -24,7 +26,8 @@ staxel.village.dialogue.quest.LostItemQuest.1.line:10001000=Stop talking about i
 staxel.village.dialogue.quest.LostItemQuest.1.line:10001100=Thank you ^c:1486b0;{0-playername}^c:pop;.
 //[Reference] 'Please tell me if you see it anywhere.'
 staxel.village.dialogue.quest.LostItemQuest.1.line:10001200=Please tell me if you see it anywhere.
-//[Reference] 'Oh, you found my ^c:d03e37;{0-item}^c:pop;! Thank you!'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Oh, you found my ^c:d03e37;{0-lostItem}^c:pop;! Thank you!'
 staxel.village.dialogue.quest.LostItemQuest.1.line:10001300=Oh, you found my ^c:d03e37;{0-item}^c:pop;! Thank you!
 //[Reference] 'Thank you so much!'
 staxel.village.dialogue.quest.LostItemQuest.1.line:10001400=Thank you so much!
