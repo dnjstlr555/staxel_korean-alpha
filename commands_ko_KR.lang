@@ -248,7 +248,7 @@ commands.saveOutfit.success=캐릭터 복장 파일이 {0-path} 에 저장되었
 commands.seed.description=^c:F2E200;seed
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Seed: {0-seed}, World Size: {1-worldSize}x'
-commands.seed.success=씨앗: {0-seed}
+commands.seed.success=고유 번호: {0-seed}, 맵 크기: {1-worldSize}x
 //[Reference] '^c:F2E200;creativeMode ^c:FFFFFF;(optional)on(true/false)'
 commands.serverCreative.description=^c:F2E200;creativeMode ^c:FFFFFF;(optional)on(true/false)
 //[Reference] 'Switched server creative mode to {0-creative} (persistent)'

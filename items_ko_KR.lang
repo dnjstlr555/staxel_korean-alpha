@@ -1038,9 +1038,9 @@ staxel.item.tool.Hammer.description=이 도구를 사용해 놓아둔 물건들�
 //[Reference] 'Hammer'
 staxel.item.tool.Hammer.name=망치
 //[Reference] 'Your hands.'
-staxel.item.tool.Hands.description=당신의 손 입니다.
+staxel.item.tool.Hands.description=네모난 손입니다.
 //[Reference] 'your hands'
-staxel.item.tool.Hands.name=당신의 손
+staxel.item.tool.Hands.name=맨손
 //[Reference] 'A tool used to till the ground. Charge the tool to affect a larger area.'
 staxel.item.tool.Hoe.description=흙을 갈 때 사용하는 도구입니다. 힘을 모아서 더 넓은 땅을 갈 수 있어요.
 //[Reference] 'Hoe'
@@ -1058,9 +1058,9 @@ staxel.item.tool.Milker.description=소에게서 우유를 짤 수 있습니다.
 //[Reference] 'Milker'
 staxel.item.tool.Milker.name=착유병
 //[Reference] 'A bag of mixed seeds. What seeds will you plant? It's a mystery!'
-staxel.item.tool.MixedSeeds.description=섞여있는 씨앗들 입니다. 이 씨앗에서 뭐가 자랄까요? 그건 아무도 모르죠!
+staxel.item.tool.MixedSeeds.description=잡동사니 씨앗들 입니다. 이 씨앗에서 뭐가 자랄까요? 그건 아무도 모르죠!
 //[Reference] 'Bag of Mixed Seeds'
-staxel.item.tool.MixedSeeds.name=섞여있는 씨앗들
+staxel.item.tool.MixedSeeds.name=잡동사니 씨앗들
 //[Reference] 'A tool used to catch insects. Look on trees or amongst flowers!'
 staxel.item.tool.Net.description=곤충들을 잡을 때 쓰는 도구입니다. 꽃 주변이나 나무 위를 잘 찾아보세요!
 //[Reference] 'Bug Net'

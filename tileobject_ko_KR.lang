@@ -1637,11 +1637,11 @@ staxel.tileObject.serverVillage.Seeds.name=Seeds-씨앗
 //[Reference] 'Use this catalogue to place orders from a wide range of goods. After placing an order, a crate will be delivered to your shipping station the next day.'
 staxel.tileObject.serverVillage.ShippingCatalogue.description=Use this catalogue to place orders from a wide range of goods. After placing an order, a crate will be delivered to your shipping station the next day.-이 배송 목록으로 광범위하게 물품을 구매할 수 있습니다. 배송을 요청하면 다음 날에 상자가 당신의 물품 운송 지점으로 배달 될 것입니다.
 //[Reference] 'Shipping Catalogue'
-staxel.tileObject.serverVillage.ShippingCatalogue.name=Shipping Catalogue-상점 배송목록
+staxel.tileObject.serverVillage.ShippingCatalogue.name=쇼핑 카탈로그
 //[Reference] 'This shipping station has two sections. One side has spaces for placing items to sell. The other side is a space for a crate to be delivered. Items are picked up and delivered at midnight.'
-staxel.tileObject.serverVillage.ShippingStation.description=This shipping station has two sections. One side has spaces for placing items to sell. The other side is a space for a crate to be delivered. Items are picked up and delivered at midnight.-이 곳에는 판매할 아이템을 두는 공간과 주문한 물품이 배달되는 공간이 있습니다. 물품 판매와 배달은 자정에 이뤄집니다.
+staxel.tileObject.serverVillage.ShippingStation.description=이 곳에는 판매할 아이템을 두는 공간과 주문한 물품이 배달되는 공간이 있습니다. 물품 판매와 배달은 자정에 이뤄집니다.
 //[Reference] 'Shipping Station'
-staxel.tileObject.serverVillage.ShippingStation.name=Shipping Station-물품 운송 지점
+staxel.tileObject.serverVillage.ShippingStation.name=택배 보관함
 //[Reference] 'A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!'
 staxel.tileObject.serverVillage.SimplePottedPlant.orange.description=A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!-커다란 벽돌로 만든 화단입니다. 누군가가 이 화단을 부술 걱정을 하지 않아도 됩니다!
 //[Reference] 'Flower Bed With Orange Flowers'

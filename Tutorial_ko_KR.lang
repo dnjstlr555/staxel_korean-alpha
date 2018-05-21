@@ -331,8 +331,8 @@ staxel.village.dialogue.Tutorial.line:10012400=별로 관심없어요.
 staxel.village.dialogue.Tutorial.line:10012500=그러면, 왜 여기에 왔어?
 //[Reference] 'Come back when you're ready to grovel!'
 staxel.village.dialogue.Tutorial.line:10012600=네 실수를 깨달았을때나 오라구!
-//TODO Translate [Reference] 'I'm already a licensed farmer.'
-staxel.village.dialogue.Tutorial.line:10012700=
+//[Reference] 'I'm already a licensed farmer.'
+staxel.village.dialogue.Tutorial.line:10012700=저는 이미 농사 자격증이 있어요.
 //TODO Translate [Reference] 'Oh, really? That's encouraging!'
 staxel.village.dialogue.Tutorial.line:10012800=
 //TODO Translate [Reference] 'You'll need a ^w:i;local^w:clear; license, but I see you already have your ^c:d03e37;Farm Registration Letter^c:pop; prepared for that!'
