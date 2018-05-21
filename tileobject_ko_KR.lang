@@ -103,43 +103,43 @@ staxel.tileObject.biomeDebris.LongMeadowGrass.4.description=
 staxel.tileObject.biomeDebris.LongMeadowGrass.4.name=목초 잔디
 
 //[Reference] 'A roof made from dark blue shingles.'
-staxel.tileObject.blueroof.BlueRoof_FlatEdge.description=파란색의 판자로 만든 지붕이다.
+staxel.tileObject.blueroof.BlueRoof_FlatEdge.description=파란색의 판자로 만든 지붕입니다.
 //[Reference] 'Flat Edged Blue Tiled Roof'
 staxel.tileObject.blueroof.BlueRoof_FlatEdge.name=평평한 가장자리 파란색 지붕
 //[Reference] 'A roof made from dark blue shingles.'
-staxel.tileObject.blueroof.BlueRoof_FlatStraight.description=파란색의 판자로 만든 지붕이다.
+staxel.tileObject.blueroof.BlueRoof_FlatStraight.description=파란색의 판자로 만든 지붕입니다.
 //[Reference] 'Flat Blue Tiled Roof'
 staxel.tileObject.blueroof.BlueRoof_FlatStraight.name=평평한 파란색 지붕
 //[Reference] 'A roof made from dark blue shingles.'
-staxel.tileObject.blueroof.BlueRoof_InnerCorner.description=파란색의 판자로 만든 지붕이다.
+staxel.tileObject.blueroof.BlueRoof_InnerCorner.description=파란색의 판자로 만든 지붕입니다.
 //[Reference] 'Inner Corner Blue Tiled Roof'
 staxel.tileObject.blueroof.BlueRoof_InnerCorner.name=안쪽으로 들어간 모퉁이 파란색 지붕
 //[Reference] 'A roof made from dark blue shingles.'
-staxel.tileObject.blueroof.BlueRoof_LeftEdge.description=파란색의 판자로 만든 지붕이다.
+staxel.tileObject.blueroof.BlueRoof_LeftEdge.description=파란색의 판자로 만든 지붕입니다.
 //[Reference] 'Left Edged Blue Tiled Roof'
 staxel.tileObject.blueroof.BlueRoof_LeftEdge.name=왼쪽 가장자리 파란색 지붕
 //[Reference] 'A roof made from dark blue shingles.'
-staxel.tileObject.blueroof.BlueRoof_LeftEdgeCut.description=파란색의 판자로 만든 지붕이다.
+staxel.tileObject.blueroof.BlueRoof_LeftEdgeCut.description=파란색의 판자로 만든 지붕입니다.
 //[Reference] 'Cut Left Edged Blue Tiled Roof'
 staxel.tileObject.blueroof.BlueRoof_LeftEdgeCut.name=왼쪽 끝이 잘린 파란색 지붕
 //[Reference] 'A roof made from dark blue shingles.'
-staxel.tileObject.blueroof.BlueRoof_LeftStraight.description=파란색의 판자로 만든 지붕이다.
+staxel.tileObject.blueroof.BlueRoof_LeftStraight.description=파란색의 판자로 만든 지붕입니다.
 //[Reference] 'Left Side Blue Tiled Roof'
 staxel.tileObject.blueroof.BlueRoof_LeftStraight.name=왼쪽 옆면 파란색 지붕
 //[Reference] 'A roof made from dark blue shingles.'
-staxel.tileObject.blueroof.BlueRoof_OuterCorner.description=파란색의 판자로 만든 지붕이다.
+staxel.tileObject.blueroof.BlueRoof_OuterCorner.description=파란색의 판자로 만든 지붕입니다.
 //[Reference] 'Outer Corner Blue Tiled Roof'
 staxel.tileObject.blueroof.BlueRoof_OuterCorner.name=바깥쪽 모퉁이 파란색 지붕
 //[Reference] 'A roof made from dark blue shingles.'
-staxel.tileObject.blueroof.BlueRoof_RightEdge.description=파란색의 판자로 만든 지붕이다.
+staxel.tileObject.blueroof.BlueRoof_RightEdge.description=파란색의 판자로 만든 지붕입니다.
 //[Reference] 'Right Edged Blue Tiled Roof'
 staxel.tileObject.blueroof.BlueRoof_RightEdge.name=오른쪽 가장자리 파란색 지붕
 //[Reference] 'A roof made from dark blue shingles.'
-staxel.tileObject.blueroof.BlueRoof_RightEdgeCut.description=파란색의 판자로 만든 지붕이다.
+staxel.tileObject.blueroof.BlueRoof_RightEdgeCut.description=파란색의 판자로 만든 지붕입니다.
 //[Reference] 'Cut Right Edged Blue Tiled Roof'
 staxel.tileObject.blueroof.BlueRoof_RightEdgeCut.name=오른쪽이 잘린 가장자리 파란색 지붕
 //[Reference] 'A roof made from dark blue shingles.'
-staxel.tileObject.blueroof.BlueRoof_RightStraight.description=파란색의 판자로 만든 지붕이다.
+staxel.tileObject.blueroof.BlueRoof_RightStraight.description=파란색의 판자로 만든 지붕입니다.
 //[Reference] 'Right Side Blue Tiled Roof'
 staxel.tileObject.blueroof.BlueRoof_RightStraight.name=오른쪽 옆면 파란색 지붕
 
@@ -230,7 +230,7 @@ staxel.tileObject.chess.LightRook.description=
 //[Reference] 'Light Rook'
 staxel.tileObject.chess.LightRook.name=흰 체스말 '룩'
 //[Reference] 'A gift in a blue box and topped with a pretty yellow bow.'
-staxel.tileObject.christmas.BluePresent.description=예쁜 노란색 리본이 장식되어있는 파란색 선물상자이다.
+staxel.tileObject.christmas.BluePresent.description=예쁜 노란색 리본이 장식되어있는 파란색 선물상자입니다.
 //[Reference] 'Blue Gift'
 staxel.tileObject.christmas.BluePresent.name=파란색 선물상자
 //[Reference] 'A traditional Christmas tree decorated with lots of little lights and topped with a bright star!'
@@ -250,7 +250,7 @@ staxel.tileObject.christmas.GreenCandyCaneSmall.description=이것이 장식이 
 //[Reference] 'Small Green Candy Cane'
 staxel.tileObject.christmas.GreenCandyCaneSmall.name=작은 초록색 지팡이사탕
 //[Reference] 'A gift in a green box and topped with a subtle white bow.'
-staxel.tileObject.christmas.GreenPresent.description=하얀색 리본이 장식되어있는 초록색 선물상자이다.
+staxel.tileObject.christmas.GreenPresent.description=하얀색 리본이 장식되어있는 초록색 선물상자입니다.
 //[Reference] 'Green Gift'
 staxel.tileObject.christmas.GreenPresent.name=초록색 선물상자
 //[Reference] 'What's better than a peppermint Lollipop? A giant peppermint lollipop!'
@@ -258,7 +258,7 @@ staxel.tileObject.christmas.PeppermintLollipop.description=민트맛 막대사�
 //[Reference] 'Giant Peppermint Lollipop'
 staxel.tileObject.christmas.PeppermintLollipop.name=커다란 민트맛 막대사탕
 //[Reference] 'A gift in a hot pink box and topped with a lovely black bow.'
-staxel.tileObject.christmas.PinkPresent.description=사랑스러운 검정색 리본이 장식되어있는 진한 분홍색 선물상자이다.
+staxel.tileObject.christmas.PinkPresent.description=사랑스러운 검정색 리본이 장식되어있는 진한 분홍색 선물상자입니다.
 //[Reference] 'Pink Gift'
 staxel.tileObject.christmas.PinkPresent.name=분홍색 선물상자
 //[Reference] 'Is it a decoration or a delicious treat? That's up to you!'
@@ -274,7 +274,7 @@ staxel.tileObject.christmas.RedLollipop.description=음, 딸기맛이네!
 //[Reference] 'Red Lollipop'
 staxel.tileObject.christmas.RedLollipop.name=빨간색 막대사탕
 //[Reference] 'A gift in a yellow box and topped with a traditional red bow.'
-staxel.tileObject.christmas.YellowPresent.description=빨간색 리본이 장식된 노란색 선물상자이다.
+staxel.tileObject.christmas.YellowPresent.description=빨간색 리본이 장식된 노란색 선물상자입니다.
 //[Reference] 'Yellow Gift'
 staxel.tileObject.christmas.YellowPresent.name=노란색 선물상자
 //[Reference] 'Perfect for roasting marshmallows under the stars.'
@@ -298,7 +298,7 @@ staxel.tileObject.creepyBiome.PumpkinLight.description=무서운 얼굴이 새�
 //[Reference] 'Jack O' Lantern'
 staxel.tileObject.creepyBiome.PumpkinLight.name=잭오랜턴
 //[Reference] 'This came from a freshly harvested pumpkin.'
-staxel.tileObject.creepyBiome.PumpkinVine.description=신선한 호박에서 나온 덩굴이다.
+staxel.tileObject.creepyBiome.PumpkinVine.description=신선한 호박에서 나온 덩굴입니다.
 //[Reference] 'Pumpkin Vine'
 staxel.tileObject.creepyBiome.PumpkinVine.name=호박덩굴
 //[Reference] 'This candle emits a scary purple light! What's making it purple? Spooky!'
@@ -306,7 +306,7 @@ staxel.tileObject.creepyBiome.PurpleCandle.description=으스스한 보라색 �
 //[Reference] 'Purple Candle'
 staxel.tileObject.creepyBiome.PurpleCandle.name=보라색 양초
 //[Reference] 'A grand tombstone.'
-staxel.tileObject.creepyBiome.TombstoneBig.description=위엄있게 생긴 비석이다.
+staxel.tileObject.creepyBiome.TombstoneBig.description=위엄있게 생긴 비석입니다.
 //[Reference] 'Big Tombstone'
 staxel.tileObject.creepyBiome.TombstoneBig.name=큰 비석
 //[Reference] 'A standard tombstone with a touching and respectful epitaph engraved on it.'
@@ -894,7 +894,7 @@ staxel.tileObject.serverVillage.BedsideLamp.description=평범한 램프로, 침
 //[Reference] 'Simply White Bedside Lamp'
 staxel.tileObject.serverVillage.BedsideLamp.name=평범한 하얀색 침실등
 //[Reference] 'What a festive banner. Great for decorating an outdoor event.'
-staxel.tileObject.serverVillage.BlueFestivalBanner.description=멋진 축제에 어울리는 멋진 현수막이다.
+staxel.tileObject.serverVillage.BlueFestivalBanner.description=멋진 축제에 어울리는 멋진 현수막입니다.
 //[Reference] 'Blue Festival Banner'
 staxel.tileObject.serverVillage.BlueFestivalBanner.name=파란색 축제 현수막
 //[Reference] 'Used for boiling food and liquids.'
@@ -1784,99 +1784,99 @@ staxel.tileObject.shop.ShopShelf.description=
 staxel.tileObject.shop.ShopShelf.name=Shop Shelf-상점 선반
 staxel.tileObject.shop.ShopShelfMerchant.description=
 //[Reference] 'Shop Shelf'
-staxel.tileObject.shop.ShopShelfMerchant.name=Shop Shelf-상점 선반
+staxel.tileObject.shop.ShopShelfMerchant.name=상점 선반
 //[Reference] 'Shop Shelf'
-staxel.tileObject.shop.ShopShelfPlayer.name=Shop Shelf-상점 선반
+staxel.tileObject.shop.ShopShelfPlayer.name=상점 선반
 //[Reference] 'A strange red flower found growing on swampy grounds.'
 staxel.tileObject.swampRuins.Flower.red.1.description=A strange red flower found growing on swampy grounds.-늪지에서 자라는 이상한 붉은색 꽃입니다.
 //[Reference] 'Red Swamp Flower'
-staxel.tileObject.swampRuins.Flower.red.1.name=Red Swamp Flower-붉은 늪지대 꽃
+staxel.tileObject.swampRuins.Flower.red.1.name=붉은 늪지대 꽃
 //[Reference] 'A strange red flower found growing on swampy grounds.'
-staxel.tileObject.swampRuins.Flower.red.2.description=A strange red flower found growing on swampy grounds.-늪지에서 자라는 이상한 붉은색 꽃입니다.
+staxel.tileObject.swampRuins.Flower.red.2.description=늪지에서 자라는 이상한 붉은색 꽃입니다.
 //[Reference] 'Red Swamp Flower'
-staxel.tileObject.swampRuins.Flower.red.2.name=Red Swamp Flower-붉은 늪지대 꽃
+staxel.tileObject.swampRuins.Flower.red.2.name=붉은 늪지대 꽃
 //[Reference] 'A strange red flower found growing on swampy grounds.'
-staxel.tileObject.swampRuins.Flower.red.3.description=A strange red flower found growing on swampy grounds.-늪지에서 자라는 이상한 붉은색 꽃입니다.
+staxel.tileObject.swampRuins.Flower.red.3.description=늪지에서 자라는 이상한 붉은색 꽃입니다.
 //TODO Translate [Reference] 'Red Swamp Flower'
 staxel.tileObject.swampRuins.Flower.red.3.name=
 //[Reference] 'A strange red flower found growing on swampy grounds.'
-staxel.tileObject.swampRuins.Flower.red.4.description=늪에 피어있던 수상한 붉은 꽃이다.
+staxel.tileObject.swampRuins.Flower.red.4.description=늪에 피어있던 수상한 붉은 꽃입니다.
 //[Reference] 'Red Swamp Flower'
 staxel.tileObject.swampRuins.Flower.red.4.name=붉은 늪지의 꽃
 //[Reference] 'A strange red flower found growing on swampy grounds.'
-staxel.tileObject.swampRuins.Flower.red.5.description=늪에 피어있던 수상한 붉은 꽃이다.
+staxel.tileObject.swampRuins.Flower.red.5.description=늪에 피어있던 수상한 붉은 꽃입니다.
 //[Reference] 'Red Swamp Flower'
 staxel.tileObject.swampRuins.Flower.red.5.name=붉은 늪지의 꽃
 //[Reference] 'A strange red flower found growing on swampy grounds.'
-staxel.tileObject.swampRuins.Flower.red.6.description=늪에 피어있던 수상한 붉은 꽃이다.
+staxel.tileObject.swampRuins.Flower.red.6.description=늪에 피어있던 수상한 붉은 꽃입니다.
 //[Reference] 'Red Swamp Flower'
 staxel.tileObject.swampRuins.Flower.red.6.name=Red 붉은 늪지의 꽃
 //[Reference] 'A strange red flower found growing on swampy grounds.'
-staxel.tileObject.swampRuins.Flower.red.7.description=늪에 피어있던 수상한 붉은 꽃이다.
+staxel.tileObject.swampRuins.Flower.red.7.description=늪에 피어있던 수상한 붉은 꽃입니다.
 //[Reference] 'Red Swamp Flower'
 staxel.tileObject.swampRuins.Flower.red.7.name=붉은 늪지의 꽃
 //[Reference] 'A strange red flower found growing on swampy grounds.'
-staxel.tileObject.swampRuins.Flower.red.8.description=늪에 피어있던 수상한 붉은 꽃이다.
+staxel.tileObject.swampRuins.Flower.red.8.description=늪에 피어있던 수상한 붉은 꽃입니다.
 //[Reference] 'Red Swamp Flower'
 staxel.tileObject.swampRuins.Flower.red.8.name=붉은 늪지의 꽃
 //[Reference] 'An absolutely massive golem statue, who could have made this? It looks incredibly old.'
-staxel.tileObject.swampRuins.Gollem.description=아주 거대한 골렘의 석상이다. 누가 만든걸까? 아주 오래된 것 처럼 보인다.
+staxel.tileObject.swampRuins.Gollem.description=아주 거대한 골렘의 석상입니다. 누가 만든걸까요? 아주 오래된 것 처럼 보여요.
 //[Reference] 'Golem Statue'
 staxel.tileObject.swampRuins.Gollem.name=골램 석상
 //[Reference] 'Some damp, swampy moss.'
-staxel.tileObject.swampRuins.Moss.1.description=눅눅하고 축축한 이끼이다.
+staxel.tileObject.swampRuins.Moss.1.description=눅눅하고 축축한 이끼입니다.
 //[Reference] 'Swamp Moss'
 staxel.tileObject.swampRuins.Moss.1.name=축축한 이끼
 //[Reference] 'Some damp, swampy moss.'
-staxel.tileObject.swampRuins.Moss.2.description=눅눅하고 축축한 이끼이다.
+staxel.tileObject.swampRuins.Moss.2.description=눅눅하고 축축한 이끼입니다.
 //[Reference] 'Swamp Moss'
 staxel.tileObject.swampRuins.Moss.2.name=축축한 이끼
 //[Reference] 'Some damp, swampy moss.'
-staxel.tileObject.swampRuins.Moss.3.description=눅눅하고 축축한 이끼이다.
+staxel.tileObject.swampRuins.Moss.3.description=눅눅하고 축축한 이끼입니다.
 //[Reference] 'Swamp Moss'
 staxel.tileObject.swampRuins.Moss.3.name=축축한 이끼
 //[Reference] 'Some damp, swampy moss.'
-staxel.tileObject.swampRuins.Moss.4.description=눅눅하고 축축한 이끼이다.
+staxel.tileObject.swampRuins.Moss.4.description=눅눅하고 축축한 이끼입니다.
 //[Reference] 'Swamp Moss'
 staxel.tileObject.swampRuins.Moss.4.name=축축한 이끼
 //[Reference] 'Some damp, swampy moss.'
-staxel.tileObject.swampRuins.Moss.5.description=눅눅하고 축축한 이끼이다.
+staxel.tileObject.swampRuins.Moss.5.description=눅눅하고 축축한 이끼입니다.
 //[Reference] 'Swamp Moss'
 staxel.tileObject.swampRuins.Moss.5.name=축축한 이끼
 //[Reference] 'Some damp, swampy moss.'
-staxel.tileObject.swampRuins.Moss.6.description=눅눅하고 축축한 이끼이다.
+staxel.tileObject.swampRuins.Moss.6.description=눅눅하고 축축한 이끼입니다.
 //[Reference] 'Swamp Moss'
 staxel.tileObject.swampRuins.Moss.6.name=축축한 이끼
 //[Reference] 'Some damp, swampy moss.'
-staxel.tileObject.swampRuins.Moss.7.description=눅눅하고 축축한 이끼이다.
+staxel.tileObject.swampRuins.Moss.7.description=눅눅하고 축축한 이끼입니다.
 //[Reference] 'Swamp Moss'
 staxel.tileObject.swampRuins.Moss.7.name=축축한 이끼
 //[Reference] 'Some damp, swampy moss.'
-staxel.tileObject.swampRuins.Moss.8.description=눅눅하고 축축한 이끼이다.
+staxel.tileObject.swampRuins.Moss.8.description=눅눅하고 축축한 이끼입니다.
 //[Reference] 'Swamp Moss'
 staxel.tileObject.swampRuins.Moss.8.name=축축한 이끼
 //[Reference] 'Some damp, swampy moss.'
-staxel.tileObject.swampRuins.Moss.9.description=눅눅하고 축축한 이끼이다.
+staxel.tileObject.swampRuins.Moss.9.description=눅눅하고 축축한 이끼입니다.
 //[Reference] 'Swamp Moss'
 staxel.tileObject.swampRuins.Moss.9.name=축축한 이끼
 //[Reference] 'A slimy, swampy rock.'
-staxel.tileObject.swampRuins.Rock.1.description=끈적하고 축축한 돌이다.
+staxel.tileObject.swampRuins.Rock.1.description=끈적하고 축축한 돌입니다.
 //[Reference] 'Swamp Rock'
 staxel.tileObject.swampRuins.Rock.1.name=늪지의 돌
 //[Reference] 'A slimy, swampy rock.'
-staxel.tileObject.swampRuins.Rock.2.description=끈적하고 축축한 돌이다.
+staxel.tileObject.swampRuins.Rock.2.description=끈적하고 축축한 돌입니다.
 //[Reference] 'Swamp Rock'
 staxel.tileObject.swampRuins.Rock.2.name=늪지의 돌
 //[Reference] 'A slimy, swampy rock.'
-staxel.tileObject.swampRuins.Rock.3.description=끈적하고 축축한 돌이다.
+staxel.tileObject.swampRuins.Rock.3.description=끈적하고 축축한 돌입니다.
 //[Reference] 'Swamp Rock'
 staxel.tileObject.swampRuins.Rock.3.name=늪지의 돌
 //[Reference] 'A slimy, swampy rock.'
-staxel.tileObject.swampRuins.Rock.4.description=끈적하고 축축한 돌이다.
+staxel.tileObject.swampRuins.Rock.4.description=끈적하고 축축한 돌입니다.
 //[Reference] 'Swamp Rock'
 staxel.tileObject.swampRuins.Rock.4.name=늪지의 돌
 //[Reference] 'A slimy, swampy rock.'
-staxel.tileObject.swampRuins.Rock.5.description=끈적하고 축축한 돌이다.
+staxel.tileObject.swampRuins.Rock.5.description=끈적하고 축축한 돌입니다.
 //[Reference] 'Swamp Rock'
 staxel.tileObject.swampRuins.Rock.5.name=늪지의 돌
 staxel.tileObject.tavern.TavernStool.description=
@@ -1946,11 +1946,11 @@ staxel.tileObject.themedfurniture.checkered.CheckersSingleBed.description=체크
 //[Reference] 'Checkers Bed'
 staxel.tileObject.themedfurniture.checkered.CheckersSingleBed.name=체크무늬 침대
 //[Reference] 'From the 'Checkers Furniture Set' - A three seater sofa with a checkered design on the upholstery.'
-staxel.tileObject.themedfurniture.checkered.CheckersSofa.description=체크무늬 가구 모음에 있는 체크무늬로 덮개가 꾸며진 3인용 긴 의자이다.
+staxel.tileObject.themedfurniture.checkered.CheckersSofa.description=체크무늬 가구 모음에 있는 체크무늬로 덮개가 꾸며진 3인용 긴 의자입니다.
 //[Reference] 'Checkers Sofa'
 staxel.tileObject.themedfurniture.checkered.CheckersSofa.name=체크무늬 긴 의자
 //[Reference] 'From the 'Checkers Furniture Set' - A small wooden stool with a checkered design.'
-staxel.tileObject.themedfurniture.checkered.CheckersStool.description=체크무늬 가구 모음에 있는 체크무늬로 꾸며진 작은 의자이다.
+staxel.tileObject.themedfurniture.checkered.CheckersStool.description=체크무늬 가구 모음에 있는 체크무늬로 꾸며진 작은 의자입니다.
 //[Reference] 'Checkers Stool'
 staxel.tileObject.themedfurniture.checkered.CheckersStool.name=체크무늬 작은 의자
 //[Reference] 'From the 'Checkers Furniture Set' - A large table with a checkered design on the surface.'
@@ -1998,7 +1998,7 @@ staxel.tileObject.themedfurniture.contemporary.ContemporaryFootLamp.description=
 //[Reference] 'Contemporary Foot Lamp'
 staxel.tileObject.themedfurniture.contemporary.ContemporaryFootLamp.name=현대적인 키다리 전등.
 //[Reference] 'From the 'Contemporary Furniture Set' - A futon with a contemporary twist.'
-staxel.tileObject.themedfurniture.contemporary.ContemporaryFuton.description=현대적인 가구 세트에 있는 소파겸 침대이다.
+staxel.tileObject.themedfurniture.contemporary.ContemporaryFuton.description=현대적인 가구 세트에 있는 소파겸 침대입니다.
 //[Reference] 'Contemporary Futon'
 staxel.tileObject.themedfurniture.contemporary.ContemporaryFuton.name=현대적인 소파겸 침대
 //[Reference] 'From the 'Contemporary Furniture Set' - A modern lamp with a pink lamp shade.'
@@ -2010,7 +2010,7 @@ staxel.tileObject.themedfurniture.contemporary.ContemporaryLamp2.description=현
 //[Reference] 'Green Contemporary Lamp'
 staxel.tileObject.themedfurniture.contemporary.ContemporaryLamp2.name=녹색 현대적인 전등
 //[Reference] 'From the 'Contemporary Furniture Set' - A long stool with a modern twist.'
-staxel.tileObject.themedfurniture.contemporary.ContemporaryLongStool.description=현대적인 가구 세트에 있는 긴 화장대 의자이다.
+staxel.tileObject.themedfurniture.contemporary.ContemporaryLongStool.description=현대적인 가구 세트에 있는 긴 화장대 의자입니다.
 //[Reference] 'Contemporary Long Stool'
 staxel.tileObject.themedfurniture.contemporary.ContemporaryLongStool.name=현대적인 긴 화장대 의자
 //[Reference] 'From the 'Contemporary Furniture Set' - A loveseat with pink and green upholstery. Very 'now'.'

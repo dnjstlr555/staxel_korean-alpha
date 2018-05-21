@@ -253,7 +253,7 @@ escapemenu.confirmExit=게임을 종료하실래요? 지금까지 해온 일지�
 escapemenu.exit=나가기
 
 //[Reference] 'Back to Game'
-escapeMenu.back=게임 마저하기
+escapeMenu.back=계속하기
 //[Reference] 'Character Designer'
 escapeMenu.characterDesigner=캐릭터 만들기
 //[Reference] 'Control Hints'
@@ -773,25 +773,25 @@ staxel.accessories.characters.accessories.achievements.FishingHat.description=
 staxel.accessories.characters.accessories.achievements.FishingHat.name=낚시 모자
 staxel.accessories.characters.accessories.achievements.GrassSkirt.description=
 //TODO Translate [Reference] 'Grass Skirt'
-staxel.accessories.characters.accessories.achievements.GrassSkirt.name=
+staxel.accessories.characters.accessories.achievements.GrassSkirt.name=하와이 치마
 staxel.accessories.characters.accessories.achievements.LumberJackShirt.description=
 //TODO Translate [Reference] 'Lumber Jack Shirt'
-staxel.accessories.characters.accessories.achievements.LumberJackShirt.name=
+staxel.accessories.characters.accessories.achievements.LumberJackShirt.name=벌목 셔츠
 staxel.accessories.characters.accessories.achievements.MilkmanHat.description=
 //TODO Translate [Reference] 'Milkman Hat'
-staxel.accessories.characters.accessories.achievements.MilkmanHat.name=
+staxel.accessories.characters.accessories.achievements.MilkmanHat.name=밀크맨 모자
 staxel.accessories.characters.accessories.achievements.MiningHelmet.description=
 //TODO Translate [Reference] 'Mining Helmet'
-staxel.accessories.characters.accessories.achievements.MiningHelmet.name=
+staxel.accessories.characters.accessories.achievements.MiningHelmet.name=광부 헬멧
 staxel.accessories.characters.accessories.achievements.MushroomHat.description=
 //TODO Translate [Reference] 'Mushroom Hat'
-staxel.accessories.characters.accessories.achievements.MushroomHat.name=
+staxel.accessories.characters.accessories.achievements.MushroomHat.name=버섯 모자
 staxel.accessories.characters.accessories.achievements.StrawFarmerHat.description=
 //TODO Translate [Reference] 'Straw Farmer Hat'
-staxel.accessories.characters.accessories.achievements.StrawFarmerHat.name=
+staxel.accessories.characters.accessories.achievements.StrawFarmerHat.name=농부 모자
 staxel.accessories.characters.accessories.achievements.WoolJumper.description=
 //TODO Translate [Reference] 'Wool Jumper'
-staxel.accessories.characters.accessories.achievements.WoolJumper.name=
+staxel.accessories.characters.accessories.achievements.WoolJumper.name=스웨터
 //Single Player
 staxel.accessories.characters.accessories.animalhats.FrogHat_paletted.description=
 //[Reference] 'Frog Hat'
@@ -815,7 +815,7 @@ staxel.accessories.characters.accessories.halloween.pumpkinhat.PumpkinHat.descri
 staxel.accessories.characters.accessories.halloween.pumpkinhat.PumpkinHat.name=호박 모자
 staxel.accessories.characters.accessories.hats.christmas.ReindeerAntlers.description=
 //[Reference] 'Reindeer Antlers'
-staxel.accessories.characters.accessories.hats.christmas.ReindeerAntlers.name=Reindeer Antlers
+staxel.accessories.characters.accessories.hats.christmas.ReindeerAntlers.name=순록 머리
 staxel.accessories.characters.accessories.hats.christmas.SantaHat.description=
 //[Reference] 'Santa Hat'
 staxel.accessories.characters.accessories.hats.christmas.SantaHat.name=산타 모자
@@ -825,7 +825,7 @@ staxel.accessories.characters.accessories.hats.pirate.Bandana.description=
 staxel.accessories.characters.accessories.hats.pirate.Bandana.name=반다나
 staxel.accessories.characters.accessories.hats.pirate.EyePatch.description=
 //[Reference] 'EyePatch'
-staxel.accessories.characters.accessories.hats.pirate.EyePatch.name=EyePatch
+staxel.accessories.characters.accessories.hats.pirate.EyePatch.name=해적 안대
 staxel.accessories.characters.accessories.hats.pirate.PirateHat.description=
 //[Reference] 'PirateHat'
 staxel.accessories.characters.accessories.hats.pirate.PirateHat.name=해적 모자
@@ -2111,7 +2111,7 @@ staxel.item.buildingTools.MassReplacer.name=Mass Replacer
 //[Reference] 'Rowan asked you to deliver this. There might be a cat's paw mark on it?'
 staxel.item.CatLetter.description=Rowan asked you to deliver this. There might be a cat's paw mark on it?
 //[Reference] 'Letter to Farm Fan'
-staxel.item.CatLetter.name=Letter to Farm Fan
+staxel.item.CatLetter.name=팜 팬
 staxel.item.crafting.ApiaryFrame.description=
 //[Reference] 'ApiaryFrame'
 staxel.item.crafting.ApiaryFrame.name=ApiaryFrame
@@ -2654,11 +2654,11 @@ staxel.merchant.Melissa.name=Melissa
 //[Reference] 'Morgan'
 staxel.merchant.Morgan.name=Morgan
 //[Reference] 'Not enough money'
-staxel.merchant.NotEnoughMoney=Not enough money
+staxel.merchant.NotEnoughMoney=꽃잎이 부족해요
 //[Reference] 'Paid {0-amount} petals!'
-staxel.merchant.paid=Paid {0-amount} petals!
+staxel.merchant.paid={0-amount}꽃잎을 냈습니다!
 //[Reference] 'Received {0-amount} petals!'
-staxel.merchant.received=Received {0-amount} petals!
+staxel.merchant.received={0-amount}꽃잎을 받았습니다!
 
 //[Reference] 'Rob'
 staxel.merchant.Rob.name=Rob
@@ -2878,16 +2878,16 @@ staxel.plant.crop.CatTurnip.description=
 staxel.plant.crop.CatTurnip.name=Cat Turnip
 staxel.plant.crop.GoldenCabbage.description=
 //[Reference] 'Golden Cabbage'
-staxel.plant.crop.GoldenCabbage.name=황금양배추
+staxel.plant.crop.GoldenCabbage.name=황금 양배추
 staxel.plant.crop.GoldenPumpkin.description=
 //[Reference] 'Golden Pumpkin'
 staxel.plant.crop.GoldenPumpkin.name=황금호박
 staxel.plant.crop.GoldenStrawberry.description=
 //[Reference] 'Golden Strawberry'
-staxel.plant.crop.GoldenStrawberry.name=황금딸기
+staxel.plant.crop.GoldenStrawberry.name=황금 딸기
 staxel.plant.crop.GoldenWatermelon.description=
 //[Reference] 'Golden Watermelon'
-staxel.plant.crop.GoldenWatermelon.name=황금수박
+staxel.plant.crop.GoldenWatermelon.name=황금 수박
 staxel.plant.crop.Sunflower.description=
 //[Reference] 'Sunflower'
 staxel.plant.crop.Sunflower.name=해바라기
@@ -2911,7 +2911,7 @@ staxel.plant.tree.BasicNaturalTree.description=
 staxel.plant.tree.BasicNaturalTree.name=
 
 //[Reference] 'Free in Creative'
-staxel.priceTag.freeInCreative=창작모드에서는 공짜
+staxel.priceTag.freeInCreative=무료
 //[Reference] 'Autumn'
 staxel.season.Autumn=가을
 
@@ -4673,50 +4673,50 @@ staxel.tree.TangerineTree.name=귤 나무 씨앗
 //[Reference] '{0-name} has left the village.'
 staxel.village.villagerLeftTown={0-name} (이)가 마을을 떠났습니다.
 //[Reference] 'Aliza'
-staxel.villager.Aliza.name=Aliza
+staxel.villager.Aliza.name=앨리자
 //[Reference] 'Ami'
-staxel.villager.Ami.name=Ami
+staxel.villager.Ami.name=에이미
 //[Reference] 'Caren'
-staxel.villager.Caren.name=Caren
+staxel.villager.Caren.name=캐런
 //[Reference] 'Cecile'
-staxel.villager.Cecile.name=Cecile
+staxel.villager.Cecile.name=세실
 //TODO Translate [Reference] 'Cirahna'
-staxel.villager.Cirahna.name=
+staxel.villager.Cirahna.name=시라나
 //[Reference] 'Riah?!?'
-staxel.villager.DefinitelyNotRiah.name=Riah?!?
+staxel.villager.DefinitelyNotRiah.name=리아?!?
 //[Reference] 'Emilia'
-staxel.villager.Emilia.name=Emilia
+staxel.villager.Emilia.name=에밀리아
 //[Reference] 'Eris'
-staxel.villager.Eris.name=Eris
+staxel.villager.Eris.name=에리스
 //[Reference] 'Farm Fan'
-staxel.villager.FarmFan.name=Farm Fan
+staxel.villager.FarmFan.name=팜팬
 //[Reference] 'Fey Queen'
-staxel.villager.FeyQueen.name=Fey Queen
+staxel.villager.FeyQueen.name=페이 퀸
 //[Reference] 'Jamie'
-staxel.villager.Jamie.name=Jamie
+staxel.villager.Jamie.name=제이미
 //[Reference] 'Leif'
-staxel.villager.Leif.name=Leif
+staxel.villager.Leif.name=레이프
 //[Reference] 'Maximilian'
-staxel.villager.Maximilian.name=Maximilian
+staxel.villager.Maximilian.name=막시밀리안
 //[Reference] 'Riah!'
-staxel.villager.MaybeRiah.name=Riah!
+staxel.villager.MaybeRiah.name=리아!
 //[Reference] 'Riah?'
-staxel.villager.NotRiah.name=Riah?
+staxel.villager.NotRiah.name=리아?
 //[Reference] 'Oscar'
-staxel.villager.Oscar.name=Oscar
+staxel.villager.Oscar.name=오스카
 //[Reference] 'Riah'
-staxel.villager.Riah.name=Riah
+staxel.villager.Riah.name=리아
 //[Reference] 'Rosemary'
-staxel.villager.Rosemary.name=Rosemary
+staxel.villager.Rosemary.name=로즈메리
 //[Reference] 'Rowan'
-staxel.villager.Rowan.name=Rowan
+staxel.villager.Rowan.name=로완
 //TODO Translate [Reference] 'Stray Cat'
-staxel.villager.Stray Cat.name=
+staxel.villager.Stray Cat.name=스트레이 캣
 //TODO Translate [Reference] 'Vorlen'
-staxel.villager.Vorlen.name=
+staxel.villager.Vorlen.name=보어랭
 staxel.weed.Weed1.description=
 //[Reference] 'Weed'
-staxel.weed.Weed1.name=Weed
+staxel.weed.Weed1.name=잡초
 
 //[Reference] 'Staxel Development Build'
 version.developmentBuild=Staxel 개발자 빌드
