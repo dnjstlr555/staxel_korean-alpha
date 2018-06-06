@@ -16,16 +16,16 @@ staxel.accessories.characters.accessories.cathats.DarkPinkCatHat=분홍색 고�
 staxel.accessories.characters.accessories.cathats.DarkPurpleCatHat=보라색 고양이 모자
 staxel.accessories.characters.accessories.facialhair.AbeBeard.description=
 //[Reference] 'Abe's Beard'
-staxel.accessories.characters.accessories.facialhair.AbeBeard.name=에이브라함 수염
+staxel.accessories.characters.accessories.facialhair.AbeBeard.name=링컨 수염
 staxel.accessories.characters.accessories.facialhair.CurlyMustache.description=
 //[Reference] 'Curly Mustache'
 staxel.accessories.characters.accessories.facialhair.CurlyMustache.name=곱슬곱슬한 콧수염
 staxel.accessories.characters.accessories.facialhair.Goatee.description=
 //[Reference] 'Goatee'
-staxel.accessories.characters.accessories.facialhair.Goatee.name=턱수염
+staxel.accessories.characters.accessories.facialhair.Goatee.name=염소 수염
 staxel.accessories.characters.accessories.facialhair.Goateestache.description=
 //[Reference] 'Gotee & Mustache'
-staxel.accessories.characters.accessories.facialhair.Goateestache.name=수염 및 콧수염
+staxel.accessories.characters.accessories.facialhair.Goateestache.name=염소 수염 및 콧수염
 staxel.accessories.characters.accessories.facialhair.LongBeard.description=
 //[Reference] 'Long Beard'
 staxel.accessories.characters.accessories.facialhair.LongBeard.name=긴 수염
@@ -34,7 +34,7 @@ staxel.accessories.characters.accessories.facialhair.PlainMustache.description=
 staxel.accessories.characters.accessories.facialhair.PlainMustache.name=콧수염
 staxel.accessories.characters.accessories.facialhair.ScruffyMustache.description=
 //[Reference] 'Scruffy Mustache'
-staxel.accessories.characters.accessories.facialhair.ScruffyMustache.name=초라한 수염
+staxel.accessories.characters.accessories.facialhair.ScruffyMustache.name=지저분한 수염
 staxel.accessories.characters.accessories.facialhair.ShortBeard.description=
 //[Reference] 'Short Beard'
 staxel.accessories.characters.accessories.facialhair.ShortBeard.name=짧은 수염
@@ -42,13 +42,13 @@ staxel.accessories.characters.accessories.facialhair.SmallBeard.description=
 //[Reference] 'Small Beard'
 staxel.accessories.characters.accessories.facialhair.SmallBeard.name=작은 수염
 //[Reference] 'Original'
-staxel.accessories.characters.accessories.generic.normalhair.OriginalHair=오리지날
+staxel.accessories.characters.accessories.generic.normalhair.OriginalHair=원조
 //[Reference] 'Ponytail & Bowtie'
-staxel.accessories.characters.accessories.generic.normalhair.PonytailHairBlueBowtie=포니테일&리본
+staxel.accessories.characters.accessories.generic.normalhair.PonytailHairBlueBowtie=포니테일 컷&리본
 //[Reference] 'Jen's Hair'
 staxel.accessories.characters.accessories.generic.normalhair.ponytails.JensHair=젠의 머리
 //[Reference] 'Short & Hairclips'
-staxel.accessories.characters.accessories.generic.normalhair.ShortHairYellowHaiclips=쇼트 헤어&머리 핀
+staxel.accessories.characters.accessories.generic.normalhair.ShortHairYellowHaiclips=쇼트 컷&머리 핀
 
 staxel.accessories.characters.accessories.glasses.AEmpty.description=
 //[Reference] 'Frame A'
@@ -100,46 +100,46 @@ staxel.accessories.coats.LabCoat.description=
 staxel.accessories.coats.LabCoat.name=과학자의 백의
 
 //[Reference] 'Bartwe Hair'
-staxel.accessories.devavatars.bartwe.BartweHair=바르트웨이의 헤어
+staxel.accessories.devavatars.bartwe.BartweHair=바트웨이 머리
 staxel.accessories.devavatars.bartwe.BartweHoodie.description=
 //[Reference] 'Bartwe Hoodie'
-staxel.accessories.devavatars.bartwe.BartweHoodie.name=바르트웨이의 후드 티
+staxel.accessories.devavatars.bartwe.BartweHoodie.name=바트웨이 후드 티
 staxel.accessories.devavatars.bartwe.BartweShirt.description=
 //[Reference] 'Bartwe Shirt'
-staxel.accessories.devavatars.bartwe.BartweShirt.name=바르트웨이의 셔츠
+staxel.accessories.devavatars.bartwe.BartweShirt.name=바트웨이 셔츠
 staxel.accessories.devavatars.bartwe.BartweShoes.description=
 //[Reference] 'Bartwe Shoes'
-staxel.accessories.devavatars.bartwe.BartweShoes.name=바르트웨이의 신발
+staxel.accessories.devavatars.bartwe.BartweShoes.name=바트웨이 신발
 staxel.accessories.devavatars.bartwe.BartweTrousers.description=
 //[Reference] 'Bartwe Trousers'
-staxel.accessories.devavatars.bartwe.BartweTrousers.name=바르트웨이의 바지
+staxel.accessories.devavatars.bartwe.BartweTrousers.name=바트웨이 바지
 
 //[Reference] 'Callum Hair'
-staxel.accessories.devavatars.callum.CallumHair=칼럼의 헤어
+staxel.accessories.devavatars.callum.CallumHair=캘럼 머리
 staxel.accessories.devavatars.callum.CallumShirt.description=
 //[Reference] 'Callum Shirt'
-staxel.accessories.devavatars.callum.CallumShirt.name=칼럼의 셔츠
+staxel.accessories.devavatars.callum.CallumShirt.name=캘럼 셔츠
 staxel.accessories.devavatars.callum.CallumShoes.description=
 //[Reference] 'Callum Shoes'
-staxel.accessories.devavatars.callum.CallumShoes.name=칼럼의 신발
+staxel.accessories.devavatars.callum.CallumShoes.name=캘럼 신발
 staxel.accessories.devavatars.callum.CallumTrousers.description=
 //[Reference] 'Callum Trousers'
-staxel.accessories.devavatars.callum.CallumTrousers.name=칼럼의 바지
+staxel.accessories.devavatars.callum.CallumTrousers.name=캘럼 바지
 
 //[Reference] 'Damon Hair'
 staxel.accessories.devavatars.damon.DamonHair=데이먼 헤어
 staxel.accessories.devavatars.damon.DamonShirt.description=
 //[Reference] 'Damon Shirt'
-staxel.accessories.devavatars.damon.DamonShirt.name=데이먼의 셔츠
+staxel.accessories.devavatars.damon.DamonShirt.name=데이먼 셔츠
 staxel.accessories.devavatars.damon.DamonShoes.description=
 //[Reference] 'Damon Shoes'
-staxel.accessories.devavatars.damon.DamonShoes.name=데이먼의 신발
+staxel.accessories.devavatars.damon.DamonShoes.name=데이먼 신발
 staxel.accessories.devavatars.damon.DamonTrousers.description=
 //[Reference] 'Damon Trousers'
-staxel.accessories.devavatars.damon.DamonTrousers.name=데이먼의 바지
+staxel.accessories.devavatars.damon.DamonTrousers.name=데이먼 바지
 
 //[Reference] 'Joe Hair'
-staxel.accessories.devavatars.joe.JoeHair=조의 헤어
+staxel.accessories.devavatars.joe.JoeHair=조의 머리
 staxel.accessories.devavatars.joe.JoeHat.description=
 //[Reference] 'Joe Hat'
 staxel.accessories.devavatars.joe.JoeHat.name=조의 모자
@@ -154,110 +154,110 @@ staxel.accessories.devavatars.joe.JoeTrousers.description=
 staxel.accessories.devavatars.joe.JoeTrousers.name=조의 바지
 
 //[Reference] 'Moocow Hair'
-staxel.accessories.devavatars.moocow.MoocowHair=무코우의 헤어
+staxel.accessories.devavatars.moocow.MoocowHair=무카우 머리
 staxel.accessories.devavatars.moocow.MoocowShirt.description=
 //[Reference] 'Moocow Shirt'
-staxel.accessories.devavatars.moocow.MoocowShirt.name=무코우의 셔츠
+staxel.accessories.devavatars.moocow.MoocowShirt.name=무카우 셔츠
 staxel.accessories.devavatars.moocow.MoocowShoes.description=
 //[Reference] 'Moocow Shoes'
-staxel.accessories.devavatars.moocow.MoocowShoes.name=무코우의 신발
+staxel.accessories.devavatars.moocow.MoocowShoes.name=무카우 신발
 staxel.accessories.devavatars.moocow.MoocowTrousers.description=
 //[Reference] 'Moocow Trousers'
-staxel.accessories.devavatars.moocow.MoocowTrousers.name=무코우의 바지
+staxel.accessories.devavatars.moocow.MoocowTrousers.name=무카우 바지
 
 //[Reference] 'Razz Hair'
-staxel.accessories.devavatars.razz.RazzHair=레이시의 헤어
+staxel.accessories.devavatars.razz.RazzHair=라즈 머리
 staxel.accessories.devavatars.razz.RazzShirt.description=
 //[Reference] 'Razz Shirt'
-staxel.accessories.devavatars.razz.RazzShirt.name=레이시의 셔츠
+staxel.accessories.devavatars.razz.RazzShirt.name=라즈 셔츠
 staxel.accessories.devavatars.razz.RazzShoes.description=
 //[Reference] 'Razz Shoes'
-staxel.accessories.devavatars.razz.RazzShoes.name=레이시의 신발
+staxel.accessories.devavatars.razz.RazzShoes.name=라즈 신발
 staxel.accessories.devavatars.razz.RazzTrousers.description=
 //[Reference] 'Razz Trousers'
-staxel.accessories.devavatars.razz.RazzTrousers.name=레이시의 바지
+staxel.accessories.devavatars.razz.RazzTrousers.name=라즈 바지
 
 //[Reference] 'Sledra Hair'
-staxel.accessories.devavatars.sledra.SledraHair=슬레드라의 헤어
+staxel.accessories.devavatars.sledra.SledraHair=시에드라 머리
 staxel.accessories.devavatars.sledra.SledraHat.description=
 //[Reference] 'Sledra Hat'
-staxel.accessories.devavatars.sledra.SledraHat.name=슬레드라의 모자
+staxel.accessories.devavatars.sledra.SledraHat.name=시에드라 모자
 staxel.accessories.devavatars.sledra.SledraShirt.description=
 //[Reference] 'Sledra Shirt'
-staxel.accessories.devavatars.sledra.SledraShirt.name=슬레드라의 셔츠
+staxel.accessories.devavatars.sledra.SledraShirt.name=시에드라 셔츠
 staxel.accessories.devavatars.sledra.SledraShoes.description=
 //[Reference] 'Sledra Shoes'
-staxel.accessories.devavatars.sledra.SledraShoes.name=슬레드라의 신발
+staxel.accessories.devavatars.sledra.SledraShoes.name=시에드라 신발
 staxel.accessories.devavatars.sledra.SledraTrousers.description=
 //[Reference] 'Sledra Trousers'
-staxel.accessories.devavatars.sledra.SledraTrousers.name=슬레드라의 바지
+staxel.accessories.devavatars.sledra.SledraTrousers.name=시에드라 바지
 
 //[Reference] 'Stein Hair'
-staxel.accessories.devavatars.stein.SteinHair=슈타인의 헤어
+staxel.accessories.devavatars.stein.SteinHair=슈타인 머리
 staxel.accessories.devavatars.stein.SteinShirt.description=
 //[Reference] 'Stein Shirt'
-staxel.accessories.devavatars.stein.SteinShirt.name=슈타인의 셔츠
+staxel.accessories.devavatars.stein.SteinShirt.name=슈타인 셔츠
 staxel.accessories.devavatars.stein.SteinShoes.description=
 //[Reference] 'Stein Shoes'
-staxel.accessories.devavatars.stein.SteinShoes.name=슈타인의 신발
+staxel.accessories.devavatars.stein.SteinShoes.name=슈타인 신발
 staxel.accessories.devavatars.stein.SteinTrousers.description=
 //[Reference] 'Stein Trousers'
-staxel.accessories.devavatars.stein.SteinTrousers.name=슈타인의 바지
+staxel.accessories.devavatars.stein.SteinTrousers.name=슈타인 바지
 staxel.accessories.devavatars.teagadd.TeagaddShirt.description=
 
 //[Reference] 'Teagadd Shirt'
-staxel.accessories.devavatars.teagadd.TeagaddShirt.name=테아가드의 셔츠
+staxel.accessories.devavatars.teagadd.TeagaddShirt.name=테아가드 셔츠
 staxel.accessories.devavatars.teagadd.TeagaddShoes.description=
 //[Reference] 'Teagadd Shoes'
-staxel.accessories.devavatars.teagadd.TeagaddShoes.name=테아가드의 신발
+staxel.accessories.devavatars.teagadd.TeagaddShoes.name=테아가드 신발
 staxel.accessories.devavatars.teagadd.TeagaddTrousers.description=
 //[Reference] 'Teagadd Trousers'
-staxel.accessories.devavatars.teagadd.TeagaddTrousers.name=테아가드의 바지
+staxel.accessories.devavatars.teagadd.TeagaddTrousers.name=테아가드 바지
 
 //[Reference] 'Colourful Kawaii'
-staxel.accessories.eyes.colourfulKawaii=컬러풀&귀여운
+staxel.accessories.eyes.colourfulKawaii=컬러풀 귀여운 눈
 //[Reference] 'Dark'
 staxel.accessories.eyes.dark=다크
 //[Reference] 'Dark with Eyelashes'
 staxel.accessories.eyes.darkEyelashes=속눈썹&다크
 //[Reference] 'Dark Kawaii'
-staxel.accessories.eyes.darkKawaii=다크&귀여운
+staxel.accessories.eyes.darkKawaii=귀여운 다크
 //[Reference] 'Gradient'
-staxel.accessories.eyes.gradient=그라데이션
+staxel.accessories.eyes.gradient=그라데이션 눈
 //[Reference] 'Gradient with Eyelashes'
 staxel.accessories.eyes.gradientEyelashes=속눈썹&그라데이션
 //[Reference] 'Grumpy'
-staxel.accessories.eyes.grumpy=심술난
+staxel.accessories.eyes.grumpy=삐진 눈
 //[Reference] 'Kawaii'
-staxel.accessories.eyes.kawaii=귀여운
+staxel.accessories.eyes.kawaii=귀여운 눈
 //[Reference] 'Kawaii with Eyelashes'
-staxel.accessories.eyes.kawaiiEyelashes=귀여운&속눈썹
+staxel.accessories.eyes.kawaiiEyelashes=귀여운 눈&속눈썹
 //[Reference] 'Standard'
-staxel.accessories.eyes.normal=기본적인
+staxel.accessories.eyes.normal=기본
 //[Reference] 'Standard with Eyelashes'
 staxel.accessories.eyes.normalEyelashes=기본&속눈썹
 //[Reference] 'Serious'
-staxel.accessories.eyes.serious=진지한
+staxel.accessories.eyes.serious=진지한 눈
 //[Reference] 'Serious with Eyelashes'
-staxel.accessories.eyes.seriousEyelashes=진지한&속눈썹
+staxel.accessories.eyes.seriousEyelashes=진지한 눈&속눈썹
 //[Reference] 'Serious-Wide'
-staxel.accessories.eyes.seriousWide=넓고 진지한
+staxel.accessories.eyes.seriousWide=진지한 넓은눈
 //[Reference] 'Serious-Wide with Eyelashes'
-staxel.accessories.eyes.seriousWideEyelashes=넓고 진지한&속눈썹
+staxel.accessories.eyes.seriousWideEyelashes=진지한 넓은눈&속눈썹
 //[Reference] 'Sideways'
-staxel.accessories.eyes.sideways=비스듬한
+staxel.accessories.eyes.sideways=비스듬한 눈
 //[Reference] 'Sideways with Eyelashes'
-staxel.accessories.eyes.sidewaysEyelashes=비스듬한&속눈썹
+staxel.accessories.eyes.sidewaysEyelashes=비스듬한 눈&속눈썹
 //[Reference] 'Small'
-staxel.accessories.eyes.small=작은
+staxel.accessories.eyes.small=작은 눈
 //[Reference] 'Small with Eyelashes'
-staxel.accessories.eyes.smallEyelashes=작은&속눈썹
+staxel.accessories.eyes.smallEyelashes=작은 눈&속눈썹
 //[Reference] 'Squint'
-staxel.accessories.eyes.squint=사시
+staxel.accessories.eyes.squint=감은 눈
 //[Reference] 'Thick with Eyelashes'
-staxel.accessories.eyes.thickEyelashes=사시&속눈썹
+staxel.accessories.eyes.thickEyelashes=두꺼운 눈&속눈썹
 //[Reference] 'Wise'
-staxel.accessories.eyes.wise=지적인
+staxel.accessories.eyes.wise=지적인 눈
 
 staxel.accessories.fullBodyOutfits.AnimalMerchant.description=
 //[Reference] 'Animal Merchant Outfit'
@@ -282,7 +282,7 @@ staxel.accessories.fullBodyOutfits.MerchantCool.description=
 staxel.accessories.fullBodyOutfits.MerchantCool.name=쿨한 상인의 의상
 
 //[Reference] 'Temp Hair'
-staxel.accessories.generic.cooking.TempBlueHair=템프 헤어
+staxel.accessories.generic.cooking.TempBlueHair=템프 머리
 staxel.accessories.generic.cooking.TempBlueShirt.description=
 //[Reference] 'Temp Shirt'
 staxel.accessories.generic.cooking.TempBlueShirt.name=템프 셔츠
@@ -294,15 +294,15 @@ staxel.accessories.generic.cooking.TempBlueTrousers.description=
 staxel.accessories.generic.cooking.TempBlueTrousers.name=템프 바지
 
 //[Reference] 'Curly with Hairbands'
-staxel.accessories.hairstyles.female.long.curlyhairbands.CurlyYellowHairbands=컬리 헤어&헤어 밴드
+staxel.accessories.hairstyles.female.long.curlyhairbands.CurlyYellowHairbands=컬리 머리&헤어 밴드
 //[Reference] 'Twintails'
 staxel.accessories.hairstyles.female.long.floppypigtails.FloppyPigtails=트윈 테일
 //[Reference] 'Neko'
 staxel.accessories.hairstyles.female.medium.catGirl=고양이
 //[Reference] 'Normal Short'
-staxel.accessories.hairstyles.male.short.Male_NormalShort=보통 쇼트 헤어
+staxel.accessories.hairstyles.male.short.Male_NormalShort=보통 쇼트 머리
 //[Reference] 'Short Emo'
-staxel.accessories.hairstyles.male.short.ShortEmoFringe=쇼트 이모 프린지 헤어
+staxel.accessories.hairstyles.male.short.ShortEmoFringe=쇼트 이모 프린지 머리
 
 //[Reference] 'Classic Mecha'
 staxel.accessories.helmets.mecha.Mecha_Classic=클래식 메카

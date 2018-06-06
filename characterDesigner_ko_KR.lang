@@ -4,7 +4,7 @@ language=한국어
 //[Reference] 'Accept'
 characterDesigner.accept=적용
 //[Reference] 'Accessories'
-characterDesigner.accessories=엑세서리
+characterDesigner.accessories=악세서리
 //[Reference] 'Cancel'
 characterDesigner.cancel=취소
 //[Reference] 'Close'
@@ -24,13 +24,13 @@ characterDesigner.name=이름
 //[Reference] 'Next'
 characterDesigner.next=다음
 //[Reference] 'None'
-characterDesigner.none=None
+characterDesigner.none=없음
 //[Reference] 'Animations'
 characterDesigner.personality=개성
 //[Reference] 'Presets'
 characterDesigner.presets=Presets
 //[Reference] 'Random'
-characterDesigner.random=Random
+characterDesigner.random=랜덤
 //[Reference] 'Shirt'
 characterDesigner.shirt=상의
 //[Reference] 'Shoes'

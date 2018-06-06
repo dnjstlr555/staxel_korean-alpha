@@ -333,19 +333,27 @@ staxel.village.dialogue.Tutorial.line:10012500=그럼, 여기엔 왜 왔어?
 staxel.village.dialogue.Tutorial.line:10012600=네 실수를 깨달았을 때나 오라구!
 //[Reference] 'I'm already a licensed farmer.'
 staxel.village.dialogue.Tutorial.line:10012700=저는 이미 농사 자격증이 있어요.
-//TODO Translate [Reference] 'Oh, really? That's encouraging!'
+//[Reference] 'Oh, really? That's encouraging!'
 staxel.village.dialogue.Tutorial.line:10012800=어라, 진짜?
 //TODO Translate [Reference] 'You'll need a ^w:i;local^w:clear; license, but I see you already have your ^c:d03e37;Farm Registration Letter^c:pop; prepared for that!'
 staxel.village.dialogue.Tutorial.line:10012900=
 //TODO Translate [Reference] 'Don't forget to run it over to ^c:1486b0;Max^c:pop; at the ^c:1486b0;town hall^c:pop;!'
 staxel.village.dialogue.Tutorial.line:10013000=
-//TODO Translate [Reference] 'There's still a barn waiting to be built!'
+//[Reference] 'There's still a barn waiting to be built!'
 staxel.village.dialogue.Tutorial.line:10013100=아직 헛간이 지어지지 않았어!
-//TODO Translate [Reference] 'Oh, right, I have a pet for you too! Which one did you want?'
+//[Reference] 'Oh, right, I have a pet for you too! Which one did you want?'
 staxel.village.dialogue.Tutorial.line:10013200=아 맞아! 너한테 줄 애완동물이 있어 어떤 애완동물을 원해?
-//TODO Translate [Reference] 'I'll take the cat!'
+//[Reference] 'I'll take the cat!'
 staxel.village.dialogue.Tutorial.line:10013300=난 고양이 좋아요!
-//TODO Translate [Reference] 'I'll take the dog!'
+//[Reference] 'I'll take the dog!'
 staxel.village.dialogue.Tutorial.line:10013400=난 강아지가 좋아요!
-//TODO Translate [Reference] 'There you go! Good luck with the farm!'
+//[Reference] 'There you go! Good luck with the farm!'
 staxel.village.dialogue.Tutorial.line:10013500=좋아! 행운을 빌어!
+//TODO Translate [Reference] '^c:1486b0;Butterflies^c:pop;? I'm really more into the farming side of things...'
+staxel.village.dialogue.Tutorial.line:10013600=
+//TODO Translate [Reference] 'But I guess I've seen ^c:1486b0;blue butterflies^c:pop;, ^c:1486b0;pink butterflies^c:pop;...'
+staxel.village.dialogue.Tutorial.line:10013700=
+//TODO Translate [Reference] '^c:1486b0;Purple butterflies^c:pop;, ^c:1486b0;white butterflies^c:pop;...oh, ^c:1486b0;yellow butterflies^c:pop; too.'
+staxel.village.dialogue.Tutorial.line:10013800=
+//TODO Translate [Reference] 'Does that answer your question?'
+staxel.village.dialogue.Tutorial.line:10013900=
