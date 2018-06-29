@@ -1,4 +1,4 @@
-language.code=ko-KR
+﻿language.code=ko-KR
 language=한국어
 //TODO Translate [Reference] 'Delivery quest'
 staxel.dailyQuest.DeliveryQuest=
@@ -40,12 +40,34 @@ staxel.mainQuest.Emilia.BestFriends=
 staxel.mainQuest.Emilia.Friends=
 //TODO Translate [Reference] 'The Apprentice'
 staxel.mainQuest.Emilia.Liked=
+//TODO Translate [Reference] 'Building Dream Homes'
+staxel.mainQuest.FarmFan.Acquaintance=
+//TODO Translate [Reference] 'The Master'
+staxel.mainQuest.FarmFan.BestFriends=
+//TODO Translate [Reference] 'Surprise!'
+staxel.mainQuest.FarmFan.Friends=
+//TODO Translate [Reference] 'It's not junk!'
+staxel.mainQuest.FarmFan.Liked=
 //TODO Translate [Reference] 'Let them eat fish'
 staxel.mainQuest.FishingSpot=
+//TODO Translate [Reference] 'It's Called Art'
+staxel.mainQuest.Max.BestFriend=
+//TODO Translate [Reference] 'Bountiful Harvest'
+staxel.mainQuest.Max.Friend=
+//TODO Translate [Reference] 'Funding Round'
+staxel.mainQuest.Max.Liked=
 //TODO Translate [Reference] 'Fixing up the barn'
 staxel.mainQuest.MaxBarn=
 //TODO Translate [Reference] 'Dawn at the museum'
 staxel.mainQuest.MuseumConstruction=
+//TODO Translate [Reference] 'All Cleaned Up'
+staxel.mainQuest.Oscar.AllCleanedUp=
+//TODO Translate [Reference] 'Fight The Power'
+staxel.mainQuest.Oscar.FightThePower=
+//TODO Translate [Reference] 'Junk Artist'
+staxel.mainQuest.Oscar.JunkArtist=
+//TODO Translate [Reference] 'Junk Queen'
+staxel.mainQuest.Oscar.JunkQueen=
 //TODO Translate [Reference] 'Sweet dreams'
 staxel.mainQuest.Patisserie=
 //TODO Translate [Reference] 'Hooked'

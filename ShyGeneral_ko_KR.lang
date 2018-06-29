@@ -1,4 +1,4 @@
-language.code=ko-KR
+﻿language.code=ko-KR
 language=한국어
 //[Reference] 'Um... hi.'
 staxel.village.dialogue.Shy.line:10000100=음... 안녕.
@@ -50,7 +50,8 @@ staxel.village.dialogue.Shy.line:10002300=난 동물들과 함께 놀고 싶어.
 staxel.village.dialogue.Shy.line:10002400=오... 그게 괜찮은 경우에만...
 //[Reference] 'I've heard of places that have large numbers of stray cats...'
 staxel.village.dialogue.Shy.line:10002500=난 많은 고양이가 있는 곳이 있다는걸 들었어...
-//[Reference] 'Wouldn't it be nice if was like that around here?'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Wouldn't it be nice if it was like that around here?'
 staxel.village.dialogue.Shy.line:10002600=이 주위에 그런게 있다면 좋지 않을까?
 //[Reference] 'I feel... more comfortable around cats I think...'
 staxel.village.dialogue.Shy.line:10002700=내 생각엔... 고양이들과 함께 있으면 더 편안한거 같아...

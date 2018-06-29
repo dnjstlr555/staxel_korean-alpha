@@ -1,4 +1,4 @@
-language.code=ko-KR
+﻿language.code=ko-KR
 language=한국어
 //TODO Translate [Reference] 'Mya! Are you giving me that ^c:d03e37;{0-gift}^c:pop;?'
 staxel.village.dialogue.CaithGirlGiveItem.line:10000100=
@@ -26,3 +26,27 @@ staxel.village.dialogue.CaithGirlGiveItem.line:10001100=
 staxel.village.dialogue.CaithGirlGiveItem.line:10001200=
 //TODO Translate [Reference] 'I'm glad you thought of me, mya!'
 staxel.village.dialogue.CaithGirlGiveItem.line:10001300=
+//TODO Translate [Reference] 'You... you want us to move in together, mya?'
+staxel.village.dialogue.CaithGirlGiveItem.line:10001400=
+//TODO Translate [Reference] 'Yep!'
+staxel.village.dialogue.CaithGirlGiveItem.line:10001500=
+//TODO Translate [Reference] 'Not right now.'
+staxel.village.dialogue.CaithGirlGiveItem.line:10001600=
+//TODO Translate [Reference] 'I would love to mya!'
+staxel.village.dialogue.CaithGirlGiveItem.line:10001700=
+//TODO Translate [Reference] 'I'll get started moving over right away!'
+staxel.village.dialogue.CaithGirlGiveItem.line:10001800=
+//TODO Translate [Reference] 'This is exciting mya!'
+staxel.village.dialogue.CaithGirlGiveItem.line:10001900=
+//TODO Translate [Reference] 'I don't think we're quite at that stage yet, mya...'
+staxel.village.dialogue.CaithGirlGiveItem.line:10002000=
+//TODO Translate [Reference] 'Oh...'
+staxel.village.dialogue.CaithGirlGiveItem.line:10002100=
+//TODO Translate [Reference] 'Well, okay mya...'
+staxel.village.dialogue.CaithGirlGiveItem.line:10002200=
+//TODO Translate [Reference] 'Mya! Is this one of ^c:1486b0;Rowan's^c:pop; new speciality dishes, mya?'
+staxel.village.dialogue.CaithGirlGiveItem.line:10002300=
+//TODO Translate [Reference] 'I couldn't wait to try one!'
+staxel.village.dialogue.CaithGirlGiveItem.line:10002400=
+//TODO Translate [Reference] 'Thanks for brining it over, mya!'
+staxel.village.dialogue.CaithGirlGiveItem.line:10002500=

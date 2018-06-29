@@ -1,4 +1,4 @@
-language.code=ko-KR
+﻿language.code=ko-KR
 language=한국어
 
 //[Reference] 'Read this to learn the recipe.'
@@ -147,7 +147,7 @@ staxel.crafting.recipes.SoupVegetable.name=야채 수프 조리법
 staxel.crafting.recipes.VegetableMedley.description=읽어서 요리법을 배울 수 있습니다.
 //[Reference] 'Vegetable Medley Recipe'
 staxel.crafting.recipes.VegetableMedley.name=야채 모듬식 조리법
-//TODO Translate [Reference] 'Recipe: {0-ResultItem}'
-staxel.crafting.type.Cooking= 조리법: {0-ResultItem}
-//TODO Translate [Reference] 'Blueprint: {0-ResultItem}'
+//[Reference] 'Recipe: {0-ResultItem}'
+staxel.crafting.type.Cooking=조리법: {0-ResultItem}
+//[Reference] 'Blueprint: {0-ResultItem}'
 staxel.crafting.type.Crafting=조합법: {0-ResultItem}

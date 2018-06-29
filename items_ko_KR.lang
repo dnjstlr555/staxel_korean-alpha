@@ -1,4 +1,4 @@
-language.code=ko-KR
+﻿language.code=ko-KR
 language=한국어
 
 //[Reference] 'White powder for baking.'
@@ -983,6 +983,12 @@ staxel.item.quest.BunnyPhonePink.name=분홍색 토끼 휴대전화
 staxel.item.quest.BunnyPhoneYellow.description=이런, 누가 잃어버린 것 같은 휴대전화네요!
 //[Reference] 'Yellow Bunny Phone'
 staxel.item.quest.BunnyPhoneYellow.name=노란색 토끼 휴대전화
+staxel.item.quest.Max.GaintTurnip.description=
+//TODO Translate [Reference] 'Giant Turnip'
+staxel.item.quest.Max.GaintTurnip.name=
+staxel.item.quest.Max.GrandPrizeVoucher.description=
+//TODO Translate [Reference] 'Grand Prize Voucher'
+staxel.item.quest.Max.GrandPrizeVoucher.name=
 staxel.item.quest.Parcel.description=
 //[Reference] 'Parcel'
 staxel.item.quest.Parcel.name=꾸러미

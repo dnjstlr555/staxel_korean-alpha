@@ -1,5 +1,8 @@
-language.code=ko-KR
+﻿language.code=ko-KR
 language=한국어
+staxel.plant.quest.GaintTurnip.tile.description=
+//TODO Translate [Reference] 'Gaint Turnip'
+staxel.plant.quest.GaintTurnip.tile.name=
 
 staxel.tileObject.airship.RopeFenceCorner.description=
 //[Reference] 'Rope Fence'
@@ -173,6 +176,9 @@ staxel.tileObject.bobbleheads.JenBobbleHead.name=Jen Bobblehead
 staxel.tileObject.bobbleheads.JoeBobbleHead.description=
 //[Reference] 'Joe Bobblehead'
 staxel.tileObject.bobbleheads.JoeBobbleHead.name=Joe Bobblehead
+staxel.tileObject.bobbleheads.MayorBobbleHead.description=
+//TODO Translate [Reference] 'Mayor Bobblehead'
+staxel.tileObject.bobbleheads.MayorBobbleHead.name=
 staxel.tileObject.bobbleheads.MoocowBobbleHead.description=
 //[Reference] 'Moocow Bobblehead'
 staxel.tileObject.bobbleheads.MoocowBobbleHead.name=Moocow Bobblehead
@@ -412,6 +418,18 @@ staxel.tileObject.fairyVillage.GlowingMushroom3.name=빛나는 버섯
 staxel.tileObject.fairyVillage.TulipRose.description=놀랍지만 특이한 꽃
 //[Reference] 'Red Tulip Rose'
 staxel.tileObject.fairyVillage.TulipRose.name=빨간색 장미
+//TODO Translate [Reference] 'A sprinkler that covers 3 tiles away from the center!'
+staxel.tileObject.farm.LargeSprinkler.description=
+//TODO Translate [Reference] 'Large Sprinkler'
+staxel.tileObject.farm.LargeSprinkler.name=
+//TODO Translate [Reference] 'A sprinkler that covers 1 tiles away from the center!'
+staxel.tileObject.farm.SmallSprinkler.description=
+//TODO Translate [Reference] 'Small Sprinkler'
+staxel.tileObject.farm.SmallSprinkler.name=
+//TODO Translate [Reference] 'A sprinkler that covers 2 tiles away from the center!'
+staxel.tileObject.farm.Sprinkler.description=
+//TODO Translate [Reference] 'Sprinkler'
+staxel.tileObject.farm.Sprinkler.name=
 //[Reference] 'An adorable little creature that lays delicious eggs.'
 staxel.tileObject.farmAnimals.Chicken.description=맛있는 알을 낳은 귀엽고 작은 친구입니다!
 //[Reference] 'Chicken in a Crate'
@@ -574,6 +592,21 @@ staxel.tileObject.pets.PetHouse.name=애완동물 집
 staxel.tileObject.presents.TradeCrate.description=
 //[Reference] 'Trading Crate'
 staxel.tileObject.presents.TradeCrate.name=거래 상자
+staxel.tileObject.quest.Max.abstract.statue.description=
+//TODO Translate [Reference] 'Abstract Statue'
+staxel.tileObject.quest.Max.abstract.statue.name=
+staxel.tileObject.quest.Max.cubic.statue.description=
+//TODO Translate [Reference] 'Cubic Statue'
+staxel.tileObject.quest.Max.cubic.statue.name=
+staxel.tileObject.quest.Max.farmer.statue.description=
+//TODO Translate [Reference] 'Farmer Statue'
+staxel.tileObject.quest.Max.farmer.statue.name=
+staxel.tileObject.quest.Max.MaxFestivalFlyer.description=
+//TODO Translate [Reference] 'Max Festival Flyer'
+staxel.tileObject.quest.Max.MaxFestivalFlyer.name=
+staxel.tileObject.quest.Max.slimy.statue.description=
+//TODO Translate [Reference] 'Slimy Statue'
+staxel.tileObject.quest.Max.slimy.statue.name=
 //[Reference] 'Thick, sturdy railing with an old feel to it.'
 staxel.tileObject.retrotest.dungeon_railing.description=오래된 것 같은 두껍고 튼튼한 난간
 //[Reference] 'Straight Dungeon Railing'
@@ -2335,6 +2368,21 @@ staxel.tileObject.totems.OscarMailbox.name=Oscar의 우체통
 staxel.tileObject.totems.PatisserieSign.description=
 //[Reference] 'Patisserie Sign'
 staxel.tileObject.totems.PatisserieSign.name=케이크 가게 표지판
+staxel.tileObject.totems.quest.MaxStatuePlaqueA.description=
+//TODO Translate [Reference] 'Abstract Statue Plaque'
+staxel.tileObject.totems.quest.MaxStatuePlaqueA.name=
+staxel.tileObject.totems.quest.MaxStatuePlaqueB.description=
+//TODO Translate [Reference] 'Cubic Statue Plaque'
+staxel.tileObject.totems.quest.MaxStatuePlaqueB.name=
+staxel.tileObject.totems.quest.MaxStatuePlaqueC.description=
+//TODO Translate [Reference] 'Slimy Statue Plaque'
+staxel.tileObject.totems.quest.MaxStatuePlaqueC.name=
+staxel.tileObject.totems.quest.MaxStatuePlaqueD.description=
+//TODO Translate [Reference] 'Farmer Statue Plaque'
+staxel.tileObject.totems.quest.MaxStatuePlaqueD.name=
+staxel.tileObject.totems.quest.SmallFestivalGroundsSign.description=
+//TODO Translate [Reference] 'Small Festival Grounds Sign'
+staxel.tileObject.totems.quest.SmallFestivalGroundsSign.name=
 staxel.tileObject.totems.RosemaryMailbox.description=
 //[Reference] 'Rosemary's Postbox'
 staxel.tileObject.totems.RosemaryMailbox.name=Rosemary의 우체통
