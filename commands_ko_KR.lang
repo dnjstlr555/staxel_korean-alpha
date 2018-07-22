@@ -368,7 +368,7 @@ commands.unmute.failure={0-player}의 음소거를 해제하지 못했습니다:
 commands.unmute.success={0-player}의 말문이 트였습니다!
 //[Reference] 'Unrecognised command :'{0-command}''
 commands.unrecognised=인식할 수 없는 명령어입니다 :'{0-command}'
-//TODO Translate [Reference] '^c:F2E200;unmute ^c:FFFFFF;villagerName/Code amount'
+//TODO Translate [Reference] '^c:F2E200;updateReputation ^c:FFFFFF;villagerName/Code amount'
 commands.updateReputation.description=
 //TODO Translate [Reference] 'Reputation updated to {0-newAmount} for villager {1-villagerCode}'
 commands.updateReputation.success=

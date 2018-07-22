@@ -5,6 +5,12 @@ font=staxel/fonts/SDMiSaeng.ttf
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Achievement unlocked: {0-achievement}!'
 achievements.achievementUnlocked={0-achievement} 도전과제를 달성했어요!
+//TODO Translate [Reference] 'Alua'
+Alua=아우라
+//TODO Translate [Reference] 'Box Builder Settings'
+BoxPlacerSettings.title=사면체 생성기(Box Builder) 설정
+//TODO Translate [Reference] 'Save'
+BuildToolSettings.accept=적용
 //[Reference] 'Buy:'
 catalogue.buy=구매:
 //[Reference] 'Clear'
@@ -153,7 +159,7 @@ crafting.action.keyword.carvedesigninto=조각내서 모양만들기
 //[Reference] 'Combine'
 crafting.action.keyword.combine=합치기
 //[Reference] 'Construct'
-crafting.action.keyword.construct=건축하기
+crafting.action.keyword.construct=만들기
 //[Reference] 'Cut'
 crafting.action.keyword.cut=자르기
 //[Reference] 'Fry'
@@ -167,7 +173,7 @@ crafting.action.keyword.reap=베기
 //[Reference] 'Saw'
 crafting.action.keyword.saw=톱질하기
 //[Reference] 'Tile'
-crafting.action.keyword.tile=Tile
+crafting.action.keyword.tile=붙이기
 //[Reference] '{0-itemOne}, {1-itemTwo}'
 crafting.action.task.listedItems={0-itemOne}, {1-itemTwo}
 //[Reference] '{0-keyword} {1-listedItems} and {2-lastListedItem}'
@@ -227,7 +233,7 @@ credits.terrorcell.description=프로그래머인데 특기는 프로그래밍�
 //[Reference] 'He manages our marketing & PR.'
 credits.thomas.description=PR과 마케팅을 관리하고 있습니다.
 //[Reference] 'Is our dedicated environment designer. He designs the premade structures that you'll find in-game.'
-credits.winters.description=게임 환경 디자이너 입니다. 게임 내에서의 세계는 이 사람이 제작했습니다.
+credits.winters.description=게임 환경 디자이너 입니다. 게임 내에서의 세계 생성 구조는 이 사람이 제작했습니다.
 
 //[Reference] 'You're starting to feel sleepy...'
 dayNight.hintNightTransition=졸음이 몰려오기 시작했습니다...
@@ -256,7 +262,7 @@ escapemenu.exit=나가기
 //[Reference] 'Back to Game'
 escapeMenu.back=계속하기
 //[Reference] 'Character Designer'
-escapeMenu.characterDesigner=외형 변경
+escapeMenu.characterDesigner=캐릭터 만들기
 //[Reference] 'Control Hints'
 escapeMenu.controlHints=조작 설명
 //[Reference] 'Exit to Desktop'
@@ -267,6 +273,8 @@ escapeMenu.mainMenu=메인 메뉴로 나가기
 escapeMenu.options=설정
 //[Reference] 'Teleport Home'
 escapeMenu.returnHome=집으로 순간이동
+//TODO Translate [Reference] 'Face Extruder Settings'
+FaceExtruderSettings.title=면 돌출기(Face Extruder) 설정
 
 //[Reference] 'It got away!'
 fishing.gotAway=물고기가 도망갔어요!
@@ -318,7 +326,7 @@ hintText.inventorySpaceNeeded=적어도 {0-count}칸 이상의 공간이 가방�
 //[Reference] 'Your journal has been updated!'
 hintText.journalUpdate=일지가 기록되었습니다!
 //[Reference] 'Kind: {0-itemCode}'
-hintText.kind=Kind: {0-itemCode}
+hintText.kind={0-itemCode}
 //[Reference] 'The light will turn on after a few seconds'
 hintText.lightTurnOn=금방 불이 켜질거에요
 //[Reference] 'That's not a bug!'
@@ -347,6 +355,8 @@ hintText.thiefThief=이 도둑놈! 이번 한번만 넘어갈줄 알아.
 hintText.thiefWarning=도둑질에는 대가가 뒤따릅니다.
 //[Reference] 'true'
 language.validated=true
+//TODO Translate [Reference] 'Line Builder Settings'
+LinePlacerSettings.title=선 생성기(Line Builder) 설정
 
 //[Reference] 'Downloading bundle assets'
 loading.bundles=번들 에셋 다운로드중
@@ -376,7 +386,7 @@ notifications.festivalEnded=축제가 끝났습니다.
 
 //[Reference] 'It looks like something is happening in the village!'
 notifications.festivalStarted=마을에 무슨 일이 일어난것 같아요!
-//TODO Translate [Reference] 'The harvest festival has started!'
+//[Reference] 'The harvest festival has started!'
 notifications.harvestFestivalStarted=수확제가 시작되었어요!
 //[Reference] 'You can't break that during festivals.'
 notifications.unbreakableFestivalTotem=축제 기간에는 부술수 없습니다.
@@ -421,6 +431,22 @@ options.audio.description=소리를 설정합니다.
 options.auto=자동
 //[Reference] '(X)'
 options.backButton=(X)
+//TODO Translate [Reference] 'Destructive Mode'
+options.boxtool.destructive=파괴 모드
+//TODO Translate [Reference] 'Determines whether or not the tool will destroy tiles in the way when creating a box'
+options.boxtool.destructive.description=도구를 사용할때 작용되는 범위와 겹치는 블럭이 생길경우 해당 블럭을 덮어 씌울지를 결정합니다.
+//TODO Translate [Reference] 'Hollow Mode'
+options.boxtool.hollow=속 빈 강정 모드
+//TODO Translate [Reference] 'When On, the created box will be hollow inside'
+options.boxtool.hollow.description=이 설정이 켜지면 도구를 사용해 만들어진 구조물의 내부를 비웁니다.
+//TODO Translate [Reference] 'Allow Gaps'
+options.faceextruder.allowgaps=공백 무시 모드
+//TODO Translate [Reference] 'Will extrude tiles even if there is a one tile gap from the main face'
+options.faceextruder.allowgaps.description=같은 면으로된 블럭끼리 1블럭의 공백이 있을경우, 이를 무시하고 돌출시킵니다.
+//TODO Translate [Reference] 'Destructive Mode'
+options.faceextruder.destructive=파괴 모드
+//TODO Translate [Reference] 'Determines whether or not the tool will destroy tiles in the way when extruding a face'
+options.faceextruder.destructive.description=면을 돌출시킬때 작용되는 범위와 겹치는 블럭이 생길경우 해당 블럭을 덮어 씌울지를 결정합니다.
 //[Reference] 'Gameplay'
 options.gameplay=게임
 //[Reference] 'Mute Error Sounds'
@@ -462,7 +488,7 @@ options.gameplay.mouse.flipWheelDirection=마우스 휠 반전
 options.gameplay.mouse.flipY=마우스 위 아래 반전
 //[Reference] 'Mouse Velocity:'
 options.gameplay.mouse.mouseVelocity=마우스 감도:
-//TODO Translate [Reference] 'Smoothing'
+//[Reference] 'Smoothing'
 options.gameplay.mouse.smoothingFactor=마우스 부드럽게
 //[Reference] 'Other'
 options.gameplay.other=기타
@@ -519,17 +545,17 @@ options.general.graphics.autoDetect=그래픽 자동 설정
 options.general.graphics.bloom=블룸(Bloom) 효과
 //[Reference] 'Borderless Window'
 options.general.graphics.borderless=테두리 없는 창모드
-//TODO Translate [Reference] 'Brightness'
+//[Reference] 'Brightness'
 options.general.graphics.brightness=밝기
 //[Reference] 'Camera Distance:'
 options.general.graphics.cameraDistance=카메라와의 거리
-//TODO Translate [Reference] 'Contrast'
+//[Reference] 'Contrast'
 options.general.graphics.contrast=대비
 //[Reference] 'Field Of View:'
 options.general.graphics.fieldOfView=시야각(FOV):
 //[Reference] 'Fullscreen'
 options.general.graphics.fullscreen=전체 화면
-//TODO Translate [Reference] 'Gamma'
+//[Reference] 'Gamma'
 options.general.graphics.gamma=감마
 //[Reference] 'Half Resolution'
 options.general.graphics.halfResolution=절반 해상도로 렌더링
@@ -558,9 +584,9 @@ options.general.graphics.mode.windowed=창모드
 options.general.graphics.MultiSampling=멀티 샘플링
 //[Reference] 'Reduced View Range'
 options.general.graphics.reducedViewRange=시야 거리 줄이기
-//TODO Translate [Reference] 'Reset Sliders'
+//[Reference] 'Reset Sliders'
 options.general.graphics.resetSliders=초기화
-//TODO Translate [Reference] 'Saturation'
+//[Reference] 'Saturation'
 options.general.graphics.saturation=채도
 //[Reference] 'Shadows'
 options.general.graphics.shadows=그림자 표시
@@ -570,9 +596,9 @@ options.general.graphics.shoulderHeight=어깨로부터의 높이
 options.general.graphics.shoulderOffset=어깨로부터의 위치
 //[Reference] 'Show Grid Cursor'
 options.general.graphics.showGridCursor=바라보는 블럭의 격자 표시
-//TODO Translate [Reference] 'Sliders'
+//[Reference] 'Sliders'
 options.general.graphics.sliders=세부 설정
-//TODO Translate [Reference] 'Enabled Sliders'
+//[Reference] 'Enabled Sliders'
 options.general.graphics.slidersEnabled=세부 설정 활성화
 //[Reference] 'Super Low'
 options.general.graphics.superLow=아주 낮음
@@ -605,6 +631,14 @@ options.keyBindings.pressToCancel={0} 키를 눌러 키 설정을 취소합니�
 options.keyBindings.pressToRemove={0} 키를 눌러 키 설정을 삭제합니다.
 //[Reference] 'Reset to Default Key Bindings'
 options.keyBindings.resetToDefault=기본 설정으로 되돌리기
+//TODO Translate [Reference] 'Destructive Mode'
+options.linetool.destructive=파괴 모드
+//TODO Translate [Reference] 'Determines whether or not the tool will destroy tiles in the way when creating a line'
+options.linetool.destructive.description=도구를 사용할때 작용되는 범위와 겹치는 블럭이 생길경우 해당 블럭을 덮어 씌울지를 결정합니다.
+//TODO Translate [Reference] 'Supported Lines'
+options.linetool.supported=안전한 선 만들기
+//TODO Translate [Reference] 'Adds extra tiles between tiles to ensure the structure is supported. (Can mess up diagonals such as rooves of On)'
+options.linetool.supported.description=구조물이 안전할수 있도록 선을 만들때 추가적인 블럭을 더 생성합니다. (대각선이 그려지지 않을수 있습니다.)
 //[Reference] 'Misc'
 options.misc=기타
 //[Reference] 'Reset'
@@ -617,6 +651,18 @@ options.misc.resetToDefault=현재 설정을 기본 설정으로 되돌리기
 options.network=네트워크
 //[Reference] 'Preferences'
 options.network.preferences=설정
+//TODO Translate [Reference] 'Destructive Mode'
+options.spheretool.destructive=파괴 모드
+//TODO Translate [Reference] 'Determines whether or not the tool will destroy tiles in the way when creating a sphere'
+options.spheretool.destructive.description=도구를 사용할때 작용되는 범위와 겹치는 블럭이 생길경우 해당 블럭을 덮어 씌울지를 결정합니다.
+//TODO Translate [Reference] 'Hollow Mode'
+options.spheretool.hollow=속 빈 강정 모드
+//TODO Translate [Reference] 'When On, the created sphere will be hollow inside'
+options.spheretool.hollow.description=이 설정이 켜지면 도구를 사용해 만들어진 구조물의 내부를 비웁니다.
+//TODO Translate [Reference] 'Sphere Radius'
+options.spheretool.radius=구의 반지름
+//TODO Translate [Reference] 'The radius of the sphere to create'
+options.spheretool.radius.description=만들어질 구 도형의 반지름을 설정합니다.
 //[Reference] 'Video'
 options.video=비디오
 //[Reference] 'Set video options here'
@@ -751,6 +797,8 @@ singleplayer.storageLockFile=사용중인 파일이 있어 파일을 수정할 �
 singleplayer.village=마을
 //[Reference] 'World Size'
 singleplayer.worldSize=세계 넓이
+//TODO Translate [Reference] 'Sphere Builder Settings'
+SpherePlacerSettings.title=구 도형 생성기(Sphere Builder) 설정
 
 //[Reference] 'Controller is available'
 startMenu.controllerReady=컨트롤러를 사용할수 있습니다.
@@ -865,141 +913,186 @@ staxel.accessories.explorer.Trousers.description=
 staxel.accessories.explorer.Trousers.name=탐험가 바지
 staxel.accessories.fullBodyOutfits.villager.Aliza.description=
 //[Reference] 'Aliza'
-staxel.accessories.fullBodyOutfits.villager.Aliza.name=Aliza
+staxel.accessories.fullBodyOutfits.villager.Aliza.name=앨리자
+staxel.accessories.fullBodyOutfits.villager.Alua.description=
+//TODO Translate [Reference] 'Alua'
+staxel.accessories.fullBodyOutfits.villager.Alua.name=아우라
+staxel.accessories.fullBodyOutfits.villager.BoisterousTourist.description=
+//TODO Translate [Reference] 'Boisterous Tourist'
+staxel.accessories.fullBodyOutfits.villager.BoisterousTourist.name=험상궂은 여행자 
 staxel.accessories.fullBodyOutfits.villager.Cecile.description=
 //[Reference] 'Cecile'
-staxel.accessories.fullBodyOutfits.villager.Cecile.name=Cecile
+staxel.accessories.fullBodyOutfits.villager.Cecile.name=세실
 staxel.accessories.fullBodyOutfits.villager.CecilesMonster.description=
 //TODO Translate [Reference] 'Ceciles Monster'
-staxel.accessories.fullBodyOutfits.villager.CecilesMonster.name=
+staxel.accessories.fullBodyOutfits.villager.CecilesMonster.name=세실의 괴물
 staxel.accessories.fullBodyOutfits.villager.Cirahna.description=
 //TODO Translate [Reference] 'Cirahna'
-staxel.accessories.fullBodyOutfits.villager.Cirahna.name=
+staxel.accessories.fullBodyOutfits.villager.Cirahna.name=시라나
 staxel.accessories.fullBodyOutfits.villager.Emilia.description=
 //[Reference] 'Emilia'
-staxel.accessories.fullBodyOutfits.villager.Emilia.name=Emilia
+staxel.accessories.fullBodyOutfits.villager.Emilia.name=에밀리아
 staxel.accessories.fullBodyOutfits.villager.Eris.description=
 //[Reference] 'Eris'
-staxel.accessories.fullBodyOutfits.villager.Eris.name=Eris
+staxel.accessories.fullBodyOutfits.villager.Eris.name=에리스
 staxel.accessories.fullBodyOutfits.villager.festival.Ami.description=
 //[Reference] 'Ami'
-staxel.accessories.fullBodyOutfits.villager.festival.Ami.name=Ami
+staxel.accessories.fullBodyOutfits.villager.festival.Ami.name=에이미
 staxel.accessories.fullBodyOutfits.villager.festival.Caren.description=
 //[Reference] 'Caren'
-staxel.accessories.fullBodyOutfits.villager.festival.Caren.name=Caren
+staxel.accessories.fullBodyOutfits.villager.festival.Caren.name=캐런
 staxel.accessories.fullBodyOutfits.villager.festival.DefinitelyNotRiah.description=
 //[Reference] 'Definitely Not Riah'
-staxel.accessories.fullBodyOutfits.villager.festival.DefinitelyNotRiah.name=Definitely Not Riah
+staxel.accessories.fullBodyOutfits.villager.festival.DefinitelyNotRiah.name=절대로 리아가 아냐!
 staxel.accessories.fullBodyOutfits.villager.festival.EmiliaFeyMasquerade.description=
 //[Reference] 'Emilia Fey Masquerade'
-staxel.accessories.fullBodyOutfits.villager.festival.EmiliaFeyMasquerade.name=Emilia Fey Masquerade
+staxel.accessories.fullBodyOutfits.villager.festival.EmiliaFeyMasquerade.name=가면 쓴 에밀리아
 staxel.accessories.fullBodyOutfits.villager.festival.FeyQueen.description=
 //[Reference] 'Fey Queen'
-staxel.accessories.fullBodyOutfits.villager.festival.FeyQueen.name=Fey Queen
+staxel.accessories.fullBodyOutfits.villager.festival.FeyQueen.name=요정 여왕
 staxel.accessories.fullBodyOutfits.villager.festival.NotRiah.description=
 //[Reference] 'Not Riah'
-staxel.accessories.fullBodyOutfits.villager.festival.NotRiah.name=Not Riah
+staxel.accessories.fullBodyOutfits.villager.festival.NotRiah.name=리아 아님
 staxel.accessories.fullBodyOutfits.villager.Jamie.description=
 //[Reference] 'Jamie'
-staxel.accessories.fullBodyOutfits.villager.Jamie.name=Jamie
+staxel.accessories.fullBodyOutfits.villager.Jamie.name=제이미
 staxel.accessories.fullBodyOutfits.villager.Leif.description=
 //[Reference] 'Leif'
 staxel.accessories.fullBodyOutfits.villager.Leif.name=레이프
 staxel.accessories.fullBodyOutfits.villager.MayorMax.description=
 //[Reference] 'Mayor Max'
-staxel.accessories.fullBodyOutfits.villager.MayorMax.name=Mayor Max
+staxel.accessories.fullBodyOutfits.villager.MayorMax.name=맥스 이장님
 staxel.accessories.fullBodyOutfits.villager.Prince.description=
 //TODO Translate [Reference] 'Prince'
-staxel.accessories.fullBodyOutfits.villager.Prince.name=
+staxel.accessories.fullBodyOutfits.villager.Prince.name=왕자
 staxel.accessories.fullBodyOutfits.villager.Princess.description=
 //TODO Translate [Reference] 'Princess'
-staxel.accessories.fullBodyOutfits.villager.Princess.name=
+staxel.accessories.fullBodyOutfits.villager.Princess.name=공주
+staxel.accessories.fullBodyOutfits.villager.RainbowButterfly.description=
+//TODO Translate [Reference] 'Rainbow Butterfly'
+staxel.accessories.fullBodyOutfits.villager.RainbowButterfly.name=무지개빛 나비
 staxel.accessories.fullBodyOutfits.villager.Riah.description=
 //[Reference] 'Riah'
-staxel.accessories.fullBodyOutfits.villager.Riah.name=Riah
+staxel.accessories.fullBodyOutfits.villager.Riah.name=리아
 staxel.accessories.fullBodyOutfits.villager.Rosemary.description=
 //[Reference] 'Rosemary'
-staxel.accessories.fullBodyOutfits.villager.Rosemary.name=Rosemary
+staxel.accessories.fullBodyOutfits.villager.Rosemary.name=로즈메리
 staxel.accessories.fullBodyOutfits.villager.Rowan.description=
 //[Reference] 'Rowan'
-staxel.accessories.fullBodyOutfits.villager.Rowan.name=Rowan
+staxel.accessories.fullBodyOutfits.villager.Rowan.name=로완
+staxel.accessories.fullBodyOutfits.villager.ShyTourist.description=
+//TODO Translate [Reference] 'Shy Tourist'
+staxel.accessories.fullBodyOutfits.villager.ShyTourist.name=부끄럼쟁이 여행자
+staxel.accessories.fullBodyOutfits.villager.SmartTourist.description=
+//TODO Translate [Reference] 'Smart Tourist'
+staxel.accessories.fullBodyOutfits.villager.SmartTourist.name=똑똑한 여행자
+staxel.accessories.fullBodyOutfits.villager.TrashFairy.description=
+//TODO Translate [Reference] 'Trash Fairy'
+staxel.accessories.fullBodyOutfits.villager.TrashFairy.name=쓰레기 요정
 staxel.accessories.fullBodyOutfits.villager.Vorlen.description=
 //TODO Translate [Reference] 'Vorlen'
-staxel.accessories.fullBodyOutfits.villager.Vorlen.name=
+staxel.accessories.fullBodyOutfits.villager.Vorlen.name=보아랭
 staxel.accessories.generic.cooking.BakingJacket.description=
 //TODO Translate [Reference] 'Baking Jacket'
-staxel.accessories.generic.cooking.BakingJacket.name=
+staxel.accessories.generic.cooking.BakingJacket.name=요리 재킷
 staxel.accessories.helmets.mecha.Mecha_Classic.description=
 
 //[Reference] 'Mecha_Classic'
-staxel.accessories.helmets.mecha.Mecha_Classic.name=Mecha_Classic
+staxel.accessories.helmets.mecha.Mecha_Classic.name=메카로봇_Classic
 staxel.accessories.helmets.mecha.Mecha_EG4D.description=
 //[Reference] 'Mecha_EG4D'
-staxel.accessories.helmets.mecha.Mecha_EG4D.name=Mecha_EG4D
+staxel.accessories.helmets.mecha.Mecha_EG4D.name=메카로봇_EG4D
 staxel.accessories.helmets.mecha.Mecha_L0V3.description=
 //[Reference] 'Mecha_L0V3'
-staxel.accessories.helmets.mecha.Mecha_L0V3.name=Mecha_L0V3
+staxel.accessories.helmets.mecha.Mecha_L0V3.name=메카로봇_L0V3
 staxel.accessories.helmets.mecha.Mecha_P.description=
 //[Reference] 'Mecha_P'
-staxel.accessories.helmets.mecha.Mecha_P.name=Mecha_P
+staxel.accessories.helmets.mecha.Mecha_P.name=메카로봇_P
 staxel.accessories.helmets.mecha.Mecha_Red.description=
 //[Reference] 'Mecha_Red'
-staxel.accessories.helmets.mecha.Mecha_Red.name=Mecha_Red
+staxel.accessories.helmets.mecha.Mecha_Red.name=메카로봇_Red
 staxel.accessories.helmets.mecha.Mecha_XYellow.description=
 //[Reference] 'Mecha_XYellow'
-staxel.accessories.helmets.mecha.Mecha_XYellow.name=Mecha_XYellow
+staxel.accessories.helmets.mecha.Mecha_XYellow.name=메카로봇_XYellow
 staxel.accessories.shirts.colouredhoodie.ColouredHoodie.description=
 
 //[Reference] 'Coloured Hoodie'
-staxel.accessories.shirts.colouredhoodie.ColouredHoodie.name=Coloured Hoodie
+staxel.accessories.shirts.colouredhoodie.ColouredHoodie.name=색깔 입혀진 후드티
 staxel.accessories.shirts.darkhoodie.DarkHoodie.description=
 //[Reference] 'Dark Hoodie'
-staxel.accessories.shirts.darkhoodie.DarkHoodie.name=Dark Hoodie
+staxel.accessories.shirts.darkhoodie.DarkHoodie.name=검은 후드티
 staxel.accessories.shirts.ghostshirts.GhostShirt.description=
 //[Reference] 'Ghost Shirt'
-staxel.accessories.shirts.ghostshirts.GhostShirt.name=Ghost Shirt
+staxel.accessories.shirts.ghostshirts.GhostShirt.name=유령 셔츠
 staxel.accessories.shirts.stripedshirts.StripedShirt.description=
 //[Reference] 'StripedShirt'
-staxel.accessories.shirts.stripedshirts.StripedShirt.name=StripedShirt
+staxel.accessories.shirts.stripedshirts.StripedShirt.name=줄무늬 셔츠
 staxel.accessories.shirts.tartanshirts.TartanShirt.description=
 //[Reference] 'Tartan Shirt'
-staxel.accessories.shirts.tartanshirts.TartanShirt.name=Tartan Shirt
+staxel.accessories.shirts.tartanshirts.TartanShirt.name=남방 셔츠
+staxel.accessories.shorts.BermudaShorts.description=
+//TODO Translate [Reference] 'Bermuda Shorts'
+staxel.accessories.shorts.BermudaShorts.name=버뮤다 셔츠
 staxel.accessories.shorts.shortjeanspaletted.description=
 //[Reference] 'shortjeanspaletted'
-staxel.accessories.shorts.shortjeanspaletted.name=shortjeanspaletted
+staxel.accessories.shorts.shortjeanspaletted.name=짧은 청바지
+staxel.accessories.skirts.MiniSkirt.description=
+//TODO Translate [Reference] 'Mini Skirt'
+staxel.accessories.skirts.MiniSkirt.name=미니스커트
+staxel.accessories.skirts.Skirt.1.description=
+//TODO Translate [Reference] 'Skirt'
+staxel.accessories.skirts.Skirt.1.name=치마
+staxel.accessories.skirts.Skirt.2.description=
+//TODO Translate [Reference] 'Skirt'
+staxel.accessories.skirts.Skirt.2.name=치마
+staxel.accessories.skirts.Skirt.3.description=
+//TODO Translate [Reference] 'Skirt'
+staxel.accessories.skirts.Skirt.3.name=치마
+staxel.accessories.skirts.Skirt.description=
+//TODO Translate [Reference] 'Skirt'
+staxel.accessories.skirts.Skirt.name=치마
+staxel.accessories.skirts.SkirtLongRuffles.description=
+//TODO Translate [Reference] 'Skirt Long Ruffles'
+staxel.accessories.skirts.SkirtLongRuffles.name=주름잡힌 치마
+staxel.accessories.swimsuits.Swimsuit.1.description=
+//TODO Translate [Reference] '1'
+staxel.accessories.swimsuits.Swimsuit.1.name=1
+staxel.accessories.swimsuits.Swimsuit.2.description=
+//TODO Translate [Reference] '2'
+staxel.accessories.swimsuits.Swimsuit.2.name=2
 staxel.accessories.villagers.Aliza.MechanicsHat.description=
 //TODO Translate [Reference] 'Mechanics Hat'
-staxel.accessories.villagers.Aliza.MechanicsHat.name=
+staxel.accessories.villagers.Aliza.MechanicsHat.name=기계 정비공 모자
 staxel.accessories.villagers.Cecile.ScientistGoggles.description=
 //TODO Translate [Reference] 'Scientist Goggles'
-staxel.accessories.villagers.Cecile.ScientistGoggles.name=
+staxel.accessories.villagers.Cecile.ScientistGoggles.name=과학자 안경
 staxel.accessories.villagers.Cirahna.WitchHat.description=
 //TODO Translate [Reference] 'Witch Hat'
-staxel.accessories.villagers.Cirahna.WitchHat.name=
+staxel.accessories.villagers.Cirahna.WitchHat.name=마녀 모자
 staxel.accessories.villagers.Emilia.CupcakeHat.description=
 //TODO Translate [Reference] 'Cupcake Hat'
-staxel.accessories.villagers.Emilia.CupcakeHat.name=
+staxel.accessories.villagers.Emilia.CupcakeHat.name=컵케이크 모자
 staxel.accessories.villagers.FarmFan.CowHat.description=
 //TODO Translate [Reference] 'Cow Hat'
-staxel.accessories.villagers.FarmFan.CowHat.name=
+staxel.accessories.villagers.FarmFan.CowHat.name=소 모자
 staxel.accessories.villagers.Max.TopHat.description=
 //TODO Translate [Reference] 'Top Hat'
-staxel.accessories.villagers.Max.TopHat.name=
+staxel.accessories.villagers.Max.TopHat.name=모자
 staxel.accessories.villagers.Oscar.PolicemanHat.description=
 //TODO Translate [Reference] 'Policeman Hat'
-staxel.accessories.villagers.Oscar.PolicemanHat.name=
+staxel.accessories.villagers.Oscar.PolicemanHat.name=경찰 모자
 staxel.accessories.villagers.Riah.FishHat.description=
 //TODO Translate [Reference] 'Fish Hat'
-staxel.accessories.villagers.Riah.FishHat.name=
+staxel.accessories.villagers.Riah.FishHat.name=생선 모자
 staxel.accessories.villagers.Rosemary.BunnyHat.description=
 //TODO Translate [Reference] 'Bunny Hat'
-staxel.accessories.villagers.Rosemary.BunnyHat.name=
+staxel.accessories.villagers.Rosemary.BunnyHat.name=토끼 모자
 staxel.accessories.villagers.Rowan.CoffeeCupHat.description=
 //TODO Translate [Reference] 'Coffee Cup Hat'
-staxel.accessories.villagers.Rowan.CoffeeCupHat.name=
+staxel.accessories.villagers.Rowan.CoffeeCupHat.name=커피 컵 모자
 staxel.accessories.villagers.Vorlen.FossilHat.description=
 //TODO Translate [Reference] 'Fossil Hat'
-staxel.accessories.villagers.Vorlen.FossilHat.name=
+staxel.accessories.villagers.Vorlen.FossilHat.name=고고학자 모자
 
 //[Reference] 'None'
 staxel.accessory.none=없음
@@ -1054,6 +1147,8 @@ staxel.category.abstract=
 staxel.category.accessories=
 //[Reference] 'acorn'
 staxel.category.acorn=도토리
+//TODO Translate [Reference] 'amber'
+staxel.category.amber=
 //[Reference] 'animal Crate'
 staxel.category.animalCrate=동물 상자
 //[Reference] 'Apple Pie Stand'
@@ -1110,14 +1205,28 @@ staxel.category.carve=썰기
 staxel.category.carving=썰기
 //[Reference] 'case'
 staxel.category.case=용기
+//TODO Translate [Reference] 'castle'
+staxel.category.castle=
 //[Reference] 'cave'
 staxel.category.cave=동굴
 //TODO Translate [Reference] 'Cecile'
 staxel.category.Cecile=
 //[Reference] 'Cherry Pie Stand'
 staxel.category.CherryPieStand=체리파이 스탠드
+//TODO Translate [Reference] 'chocoblueberry'
+staxel.category.chocoblueberry=
+//TODO Translate [Reference] 'chocogrape'
+staxel.category.chocogrape=
 //[Reference] 'Chocolate Cake Stand'
 staxel.category.ChocolateCakeStand=초콜릿케이크 스탠드
+//TODO Translate [Reference] 'chocolime'
+staxel.category.chocolime=
+//TODO Translate [Reference] 'chocomint'
+staxel.category.chocomint=
+//TODO Translate [Reference] 'chocoorange'
+staxel.category.chocoorange=
+//TODO Translate [Reference] 'chocostrawberry'
+staxel.category.chocostrawberry=
 //[Reference] 'cicada'
 staxel.category.cicada=매미
 //TODO Translate [Reference] 'cirahna'
@@ -1141,7 +1250,7 @@ staxel.category.coral=산호초
 //TODO Translate [Reference] 'cotton'
 staxel.category.cotton=
 //[Reference] 'creaturebud'
-staxel.category.creaturebud=생명싹
+staxel.category.creaturebud=방울꽃
 //[Reference] 'Cube'
 staxel.category.cube=큐브
 //TODO Translate [Reference] 'cubic'
@@ -1200,6 +1309,8 @@ staxel.category.GoldenPumpkin=황금호박
 staxel.category.GoldenStrawberry=황금딸기
 //[Reference] 'Golden Watermelon'
 staxel.category.GoldenWatermelon=황금수박
+//TODO Translate [Reference] 'grape'
+staxel.category.grape=
 //[Reference] 'hanging'
 staxel.category.hanging=벽걸이
 //TODO Translate [Reference] 'harvest'
@@ -1271,8 +1382,12 @@ staxel.category.meat=고기
 staxel.category.mermaid=인어
 //TODO Translate [Reference] 'microwave'
 staxel.category.microwave=
+//TODO Translate [Reference] 'mill'
+staxel.category.mill=
 //[Reference] 'mine'
 staxel.category.mine=광산
+//TODO Translate [Reference] 'mint'
+staxel.category.mint=
 //[Reference] 'mix'
 staxel.category.mix=혼합
 //[Reference] 'mortar'
@@ -1294,6 +1409,8 @@ staxel.category.OrangePieStand=오렌지 파이 스탠드
 staxel.category.order=주문
 //TODO Translate [Reference] 'oscar Quest Trash'
 staxel.category.oscarQuestTrash=
+//TODO Translate [Reference] 'pail'
+staxel.category.pail=
 //[Reference] 'painting'
 staxel.category.painting=그림
 //TODO Translate [Reference] 'pallet'
@@ -1312,6 +1429,10 @@ staxel.category.pastry=
 staxel.category.patisserie=제과점
 //[Reference] 'Peach Pie Stand'
 staxel.category.PeachPieStand=복숭아파이 스탠드
+//TODO Translate [Reference] 'pepper'
+staxel.category.pepper=
+//TODO Translate [Reference] 'petal'
+staxel.category.petal=
 //TODO Translate [Reference] 'pinball'
 staxel.category.pinball=
 //TODO Translate [Reference] 'pizza'
@@ -1332,6 +1453,8 @@ staxel.category.polisher=닦이
 staxel.category.poop=똥
 //[Reference] 'popcorn'
 staxel.category.popcorn=팝콘
+//TODO Translate [Reference] 'popsicle'
+staxel.category.popsicle=
 //[Reference] 'porridge'
 staxel.category.porridge=죽
 //TODO Translate [Reference] 'potion'
@@ -1384,10 +1507,14 @@ staxel.category.shell=조개껍데기
 staxel.category.shingles=조약돌
 //[Reference] 'ship'
 staxel.category.ship=배
+//TODO Translate [Reference] 'shovel'
+staxel.category.shovel=
 //[Reference] 'shrimp'
 staxel.category.shrimp=새우
 //[Reference] 'shrine'
 staxel.category.shrine=사당
+//TODO Translate [Reference] 'slime'
+staxel.category.slime=
 //TODO Translate [Reference] 'slimy'
 staxel.category.slimy=
 //[Reference] 'Small Bug Display'
@@ -1434,6 +1561,8 @@ staxel.category.varnish=광택제
 staxel.category.vase=
 //[Reference] 'Vegetable Pie Stand'
 staxel.category.VegetablePieStand=야채파이 스탠드
+//TODO Translate [Reference] 'vial'
+staxel.category.vial=
 //TODO Translate [Reference] 'wand'
 staxel.category.wand=
 //[Reference] 'washer'
@@ -1451,7 +1580,7 @@ staxel.core.Compound.description=
 //[Reference] 'Compound'
 staxel.core.Compound.name=단지
 //TODO Translate [Reference] 'Airship Parts'
-staxel.crafting.recipes.AirshipParts.name=
+staxel.crafting.recipes.AirshipParts.name=비행선 부품
 staxel.crafting.recipes.Apiary.description=
 //[Reference] 'Apiary'
 staxel.crafting.recipes.Apiary.name=양봉장
@@ -1519,8 +1648,8 @@ staxel.crafting.recipes.BrownWoodBlock.name=갈색 나무 블록
 staxel.crafting.recipes.Butter.description=
 //[Reference] 'Butter'
 staxel.crafting.recipes.Butter.name=버터
-//TODO Translate [Reference] 'Cake Cheese'
-staxel.crafting.recipes.CakeCheese.name=
+//TODO Translate [Reference] 'Cheesecake'
+staxel.crafting.recipes.CakeCheese.name=치즈 케이크
 staxel.crafting.recipes.CandyCorn.description=
 //[Reference] 'Candy Corn'
 staxel.crafting.recipes.CandyCorn.name=옥수수 사탕
@@ -1528,13 +1657,13 @@ staxel.crafting.recipes.CaptureCrate.description=
 //[Reference] 'CaptureCrate'
 staxel.crafting.recipes.CaptureCrate.name=포획용 우리
 //TODO Translate [Reference] 'Cauldron'
-staxel.crafting.recipes.Cauldron.name=
+staxel.crafting.recipes.Cauldron.name=가마솥
 staxel.crafting.recipes.ChickenCoop.description=
 //[Reference] 'ChickenCoop'
 staxel.crafting.recipes.ChickenCoop.name=닭장
 staxel.crafting.recipes.ChickenFeeder.description=
 //[Reference] 'ChickenFeeder'
-staxel.crafting.recipes.ChickenFeeder.name=닭모이 급식대
+staxel.crafting.recipes.ChickenFeeder.name=닭 모이 주는곳
 staxel.crafting.recipes.Chips.description=
 //[Reference] 'Chips'
 staxel.crafting.recipes.Chips.name=칩
@@ -1548,7 +1677,7 @@ staxel.crafting.recipes.ClassicWoodBlock.description=
 staxel.crafting.recipes.ClassicWoodBlock.name=고풍적 나무 블록
 staxel.crafting.recipes.CobbleStonePath.description=
 //[Reference] 'Cobble Stone Path'
-staxel.crafting.recipes.CobbleStonePath.name=조약돌길
+staxel.crafting.recipes.CobbleStonePath.name=조약돌 길
 staxel.crafting.recipes.CoffeeTable.description=
 //[Reference] 'CoffeeTable'
 staxel.crafting.recipes.CoffeeTable.name=커피테이블
@@ -1556,7 +1685,7 @@ staxel.crafting.recipes.CombineFruitSalad.description=
 //[Reference] 'Fruit Salad'
 staxel.crafting.recipes.CombineFruitSalad.name=과일 샐러드
 //TODO Translate [Reference] 'Communications Rod'
-staxel.crafting.recipes.CommunicationsRod.name=
+staxel.crafting.recipes.CommunicationsRod.name=통신 안테나
 staxel.crafting.recipes.Crate.description=
 //[Reference] 'Crate'
 staxel.crafting.recipes.Crate.name=상자
@@ -1576,7 +1705,7 @@ staxel.crafting.recipes.CreamWoodBlock.description=
 //[Reference] 'Cream Wood Block'
 staxel.crafting.recipes.CreamWoodBlock.name=연노란색 나무 블록
 //TODO Translate [Reference] 'Dark Petal Core'
-staxel.crafting.recipes.DarkPetalCore.name=
+staxel.crafting.recipes.DarkPetalCore.name=어두운 꽃잎 코어
 staxel.crafting.recipes.DarkWoodBlock.description=
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Dark Wood Block'
@@ -1587,7 +1716,7 @@ staxel.crafting.recipes.DoorFrame.description=문짝을 다는 틀입니다. 작
 staxel.crafting.recipes.DoorFrame.name=문틀
 staxel.crafting.recipes.EggFriedRice.description=
 //[Reference] 'Egg Fried Rice'
-staxel.crafting.recipes.EggFriedRice.name=달걀후라이밥
+staxel.crafting.recipes.EggFriedRice.name=달걀 후라이 볶음밥
 staxel.crafting.recipes.EmptyTrough.description=
 //[Reference] 'Empty Trough'
 staxel.crafting.recipes.EmptyTrough.name=빈 여물통
@@ -1599,7 +1728,7 @@ staxel.crafting.recipes.FishRack.description=
 staxel.crafting.recipes.FishRack.name=물고기 건조대
 staxel.crafting.recipes.FriedEgg.description=
 //[Reference] 'FriedEgg'
-staxel.crafting.recipes.FriedEgg.name=달걀후라이
+staxel.crafting.recipes.FriedEgg.name=달걀 후라이
 staxel.crafting.recipes.GreenBrick.description=
 //[Reference] 'Green Brick'
 staxel.crafting.recipes.GreenBrick.name=녹색 벽돌
@@ -1617,9 +1746,9 @@ staxel.crafting.recipes.GreyWoodBlock.description=
 staxel.crafting.recipes.GreyWoodBlock.name=회색 나무 블록
 staxel.crafting.recipes.JackOLantern.description=
 //[Reference] 'Jack O' Lantern'
-staxel.crafting.recipes.JackOLantern.name=잭 오 랜턴
+staxel.crafting.recipes.JackOLantern.name=할로윈 호박
 //TODO Translate [Reference] 'Large Gear'
-staxel.crafting.recipes.LargeGear.name=
+staxel.crafting.recipes.LargeGear.name=대형 톱니바퀴
 staxel.crafting.recipes.lightMeal.BoiledEgg.description=
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Boiled Egg'
@@ -1628,9 +1757,9 @@ staxel.crafting.recipes.Lumber.description=
 //[Reference] 'Lumber'
 staxel.crafting.recipes.Lumber.name=목재
 //TODO Translate [Reference] 'Magicless Wand'
-staxel.crafting.recipes.MagiclessWand.name=
+staxel.crafting.recipes.MagiclessWand.name=고장난 지팡이
 //TODO Translate [Reference] 'Magic Mainspring'
-staxel.crafting.recipes.MagicMainspring.name=
+staxel.crafting.recipes.MagicMainspring.name=마법의 메인스프링
 staxel.crafting.recipes.MakeSyrup.description=
 //[Reference] 'Syrup'
 staxel.crafting.recipes.MakeSyrup.name=시럽
@@ -1642,21 +1771,21 @@ staxel.crafting.recipes.Manure.description=
 //[Reference] 'Manure'
 staxel.crafting.recipes.Manure.name=거름
 //TODO Translate [Reference] 'Mortar Sacks'
-staxel.crafting.recipes.MortarSacks.name=
+staxel.crafting.recipes.MortarSacks.name=회반죽 자루
 //TODO Translate [Reference] 'Mug O Sap'
-staxel.crafting.recipes.MugOSap.name=
+staxel.crafting.recipes.MugOSap.name=고로쇠표 꽃물
 //TODO Translate [Reference] 'Mushroom Chair'
-staxel.crafting.recipes.mushroomFurniture.MushroomChair.name=
+staxel.crafting.recipes.mushroomFurniture.MushroomChair.name=버섯 의자
 //TODO Translate [Reference] 'Mushroom Double Bed'
-staxel.crafting.recipes.mushroomFurniture.MushroomDoubleBed.name=
+staxel.crafting.recipes.mushroomFurniture.MushroomDoubleBed.name=버섯 이중 침대
 //TODO Translate [Reference] 'Mushroom Dresser'
-staxel.crafting.recipes.mushroomFurniture.MushroomDresser.name=
+staxel.crafting.recipes.mushroomFurniture.MushroomDresser.name=버섯 장롱
 //TODO Translate [Reference] 'Mushroom Lamp'
-staxel.crafting.recipes.mushroomFurniture.MushroomLamp.name=
+staxel.crafting.recipes.mushroomFurniture.MushroomLamp.name=버섯 램프
 //TODO Translate [Reference] 'Mushroom Sofa'
-staxel.crafting.recipes.mushroomFurniture.MushroomSofa.name=
+staxel.crafting.recipes.mushroomFurniture.MushroomSofa.name=버섯 소파
 //TODO Translate [Reference] 'Mushroom Table'
-staxel.crafting.recipes.mushroomFurniture.MushroomTable.name=
+staxel.crafting.recipes.mushroomFurniture.MushroomTable.name=버섯 테이블
 staxel.crafting.recipes.MushroomRisotto.description=
 //[Reference] 'Mushroom Risotto'
 staxel.crafting.recipes.MushroomRisotto.name=버섯 리소토
@@ -1673,12 +1802,12 @@ staxel.crafting.recipes.OrangeWoodBlock.description=
 //[Reference] 'Orange Wood Block'
 staxel.crafting.recipes.OrangeWoodBlock.name=주황색 나무 블록
 //TODO Translate [Reference] 'Pallet Stack'
-staxel.crafting.recipes.PalletStack.name=
+staxel.crafting.recipes.PalletStack.name=파렛트 더미
 staxel.crafting.recipes.Pancakes.description=
 //[Reference] 'Pancakes'
 staxel.crafting.recipes.Pancakes.name=팬케이크
 //TODO Translate [Reference] 'Petal Wand Core'
-staxel.crafting.recipes.PetalWandCore.name=
+staxel.crafting.recipes.PetalWandCore.name=꽃잎 지팡이 코어
 staxel.crafting.recipes.PetFood.description=
 //[Reference] 'Pet Food'
 staxel.crafting.recipes.PetFood.name=애완동물 사료
@@ -1755,13 +1884,13 @@ staxel.crafting.recipes.RopeFence.description=
 //[Reference] 'RopeFence'
 staxel.crafting.recipes.RopeFence.name=밧줄 울타리
 //TODO Translate [Reference] 'Runic Gear'
-staxel.crafting.recipes.RunicGear.name=
+staxel.crafting.recipes.RunicGear.name=고대 유럽인의 톱니바퀴
 //TODO Translate [Reference] 'Science Machine Large'
-staxel.crafting.recipes.ScienceMachineLarge.name=
+staxel.crafting.recipes.ScienceMachineLarge.name=과학 기계 대형
 //TODO Translate [Reference] 'Science Machine Small'
-staxel.crafting.recipes.ScienceMachineSmall.name=
+staxel.crafting.recipes.ScienceMachineSmall.name=과학 기계 소형
 //TODO Translate [Reference] 'Science Machine Tall'
-staxel.crafting.recipes.ScienceMachineTall.name=
+staxel.crafting.recipes.ScienceMachineTall.name=기다란 과학 기계
 staxel.crafting.recipes.ScrambledEgg.description=
 //[Reference] 'Scrambled Egg'
 staxel.crafting.recipes.ScrambledEgg.name=스크램블 에그
@@ -1794,7 +1923,7 @@ staxel.crafting.recipes.SmallCrate.description=
 //[Reference] 'Small Crate'
 staxel.crafting.recipes.SmallCrate.name=작은 상자
 //TODO Translate [Reference] 'Small Gear'
-staxel.crafting.recipes.SmallGear.name=
+staxel.crafting.recipes.SmallGear.name=작은 톱니바퀴
 staxel.crafting.recipes.SoupCabbage.description=
 //[Reference] 'Cabbage Soup'
 staxel.crafting.recipes.SoupCabbage.name=양배추 수프
@@ -1820,7 +1949,7 @@ staxel.crafting.recipes.Trough.description=
 //[Reference] 'Trough'
 staxel.crafting.recipes.Trough.name=여물통
 //TODO Translate [Reference] 'Weather Vane'
-staxel.crafting.recipes.WeatherVane.name=
+staxel.crafting.recipes.WeatherVane.name=풍향계
 staxel.crafting.recipes.WhiteStone.description=
 //[Reference] 'White Stone'
 staxel.crafting.recipes.WhiteStone.name=흰 돌
@@ -1877,7 +2006,7 @@ staxel.crop.CatTurnip.description=
 staxel.crop.CatTurnip.name=고양이 순무
 staxel.crop.CoffeeBean.description=
 //TODO Translate [Reference] 'Coffee Bean'
-staxel.crop.CoffeeBean.name=
+staxel.crop.CoffeeBean.name=커피 콩
 //[Reference] 'Delicious yellow corn.'
 staxel.crop.Corn.description=맛있는 노란색 옥수수입니다.
 //[Reference] 'Corn Seed'
@@ -1892,7 +2021,7 @@ staxel.crop.Eggplant.description=매우 반짝이는 가지입니다.
 staxel.crop.Eggplant.name=가지 씨앗
 staxel.crop.GiantMushroom.description=
 //TODO Translate [Reference] 'Giant Mushroom'
-staxel.crop.GiantMushroom.name=
+staxel.crop.GiantMushroom.name=대형 버섯
 //[Reference] 'How strange, this beet is solid gold!'
 staxel.crop.GoldenBeet.description=이상하네요, 이 사탕무는 완전 금덩이같아요!
 //[Reference] 'Golden Beet Seed'
@@ -1906,7 +2035,7 @@ staxel.crop.GoldenCarrot.description=세상에, 이 당근은 완전 금덩이�
 staxel.crop.GoldenCarrot.name=황금 당근 씨앗
 staxel.crop.GoldenCoffeeBean.description=
 //TODO Translate [Reference] 'Golden Coffee Bean'
-staxel.crop.GoldenCoffeeBean.name=
+staxel.crop.GoldenCoffeeBean.name=황금 커피 콩
 //[Reference] 'This corn is made of gold! Best make sure no kernels fall off!'
 staxel.crop.GoldenCorn.description=이 옥수수는 금으로 이루어졌어요! 옥수수 한 알도 떨구지 않게 조심하세요!
 //[Reference] 'Golden Corn Seed'
@@ -2060,45 +2189,45 @@ staxel.description.GrowTimeValidSeasons.4=모든 계절에서 {0-growTime} 자�
 
 staxel.docks.merchantStalls.FestivalMerchant.description=
 //[Reference] 'Festival Merchant Stall'
-staxel.docks.merchantStalls.FestivalMerchant.name=Festival Merchant Stall
+staxel.docks.merchantStalls.FestivalMerchant.name=축제용 상인 천막
 staxel.docks.merchantStalls.MerchantDock2.description=
 //[Reference] 'Merchant Stall 1'
-staxel.docks.merchantStalls.MerchantDock2.name=Merchant Stall 1
+staxel.docks.merchantStalls.MerchantDock2.name=상인 천막 1
 staxel.docks.merchantStalls.MerchantDock3.description=
 //[Reference] 'Merchant Stall 2'
-staxel.docks.merchantStalls.MerchantDock3.name=Merchant Stall 2
+staxel.docks.merchantStalls.MerchantDock3.name=상인 천막 2
 staxel.docks.merchantStalls.MerchantDockSingle3.description=
 //[Reference] 'Single Merchant Stall 1'
-staxel.docks.merchantStalls.MerchantDockSingle3.name=Single Merchant Stall 1
+staxel.docks.merchantStalls.MerchantDockSingle3.name=소형 상인 천막 1
 staxel.docks.merchantStalls.MerchantDockSingle4.description=
 //[Reference] 'Single Merchant Stall 2'
-staxel.docks.merchantStalls.MerchantDockSingle4.name=Single Merchant Stall 2
+staxel.docks.merchantStalls.MerchantDockSingle4.name=소형 상인 천막 2
 staxel.docks.merchantStalls.MerchantShopLarge.description=
 //[Reference] 'Large Merchant Stall'
-staxel.docks.merchantStalls.MerchantShopLarge.name=Large Merchant Stall
+staxel.docks.merchantStalls.MerchantShopLarge.name=대형 상인 천막
 staxel.emote.Inspect.begin.description=
 //[Reference] 'Inspect Emote'
-staxel.emote.Inspect.begin.name=Inspect Emote
+staxel.emote.Inspect.begin.name=감정표현 찾아보기
 staxel.emote.LookAround.description=
 //[Reference] 'Look Around'
-staxel.emote.LookAround.name=Look Around
+staxel.emote.LookAround.name=주위 둘러보기
 staxel.emote.No.description=
 //[Reference] 'No Emote'
-staxel.emote.No.name=No Emote
+staxel.emote.No.name=감정표현 없음
 staxel.emote.ScratchHead.description=
 //[Reference] 'Scratch Head'
-staxel.emote.ScratchHead.name=Scratch Head
+staxel.emote.ScratchHead.name=머리 긁기
 staxel.emote.Search.begin.description=
 //[Reference] 'Search Emote'
-staxel.emote.Search.begin.name=Search Emote
+staxel.emote.Search.begin.name=감정표현 검색
 
 //[Reference] 'Use this to trigger the wave emote.'
-staxel.emote.Wave.description=Use this to trigger the wave emote.
+staxel.emote.Wave.description=웨이브 감정표현을 쓰려면 이걸 사용하세요.
 //[Reference] 'Wave Emote'
-staxel.emote.Wave.name=Wave Emote
+staxel.emote.Wave.name=웨이브 추기
 staxel.emote.Yes.description=
 //[Reference] 'Yes Emote'
-staxel.emote.Yes.name=Yes Emote
+staxel.emote.Yes.name=고개 끄덕이기
 
 //[Reference] 'Chicken'
 staxel.farmAnimal.Chicken=닭
@@ -2165,7 +2294,7 @@ staxel.gameLogicalButton.Slot9=슬롯 9
 //[Reference] 'Slot10'
 staxel.gameLogicalButton.Slot10=슬롯 10
 //[Reference] 'Sneak'
-staxel.gameLogicalButton.Sneak=Sneak
+staxel.gameLogicalButton.Sneak=몰래 움직이기
 //[Reference] 'Swap Camera Mode'
 staxel.gameLogicalButton.SwapCameraMode=카메라 모드 변경
 //[Reference] 'Switch Item'
@@ -2175,7 +2304,7 @@ staxel.gamePadAxis.A=A
 //[Reference] 'B'
 staxel.gamePadAxis.B=B
 //[Reference] 'Back'
-staxel.gamePadAxis.Back=Back
+staxel.gamePadAxis.Back=뒤로가기
 //[Reference] 'D Pad Down'
 staxel.gamePadAxis.DPadDown=D Pad 아래
 //[Reference] 'D Pad Left'
@@ -2185,33 +2314,33 @@ staxel.gamePadAxis.DPadRight=D Pad 오른쪽
 //[Reference] 'D Pad Up'
 staxel.gamePadAxis.DPadUp=D Pad 위
 //[Reference] 'Left Shoulder'
-staxel.gamePadAxis.LeftShoulder=왼쪽 숄더(L1)
+staxel.gamePadAxis.LeftShoulder=L 숄더(L1)
 //[Reference] 'Left Stick'
-staxel.gamePadAxis.LeftStick=왼쪽 스틱 버튼
+staxel.gamePadAxis.LeftStick=L 스틱 버튼
 //[Reference] 'Left Stick X Left'
-staxel.gamePadAxis.LeftStickXLeft=왼쪽 스틱의 왼쪽 X축
+staxel.gamePadAxis.LeftStickXLeft=L 스틱 X축 왼쪽
 //[Reference] 'Left Stick X Right'
-staxel.gamePadAxis.LeftStickXRight=왼쪽 스틱의 오른쪽 X축
+staxel.gamePadAxis.LeftStickXRight=L 스틱 X축 오른쪽
 //[Reference] 'Left Stick Y Down'
-staxel.gamePadAxis.LeftStickYDown=왼쪽 스틱의 아래 Y축
+staxel.gamePadAxis.LeftStickYDown=L 스틱 Y축 아래
 //[Reference] 'Left Stick Y Up'
-staxel.gamePadAxis.LeftStickYUp=왼쪽 스틱의 위 Y축
+staxel.gamePadAxis.LeftStickYUp=R 스틱 Y축 위
 //[Reference] 'Left Trigger'
-staxel.gamePadAxis.LeftTrigger=왼쪽 트리거(L2)
+staxel.gamePadAxis.LeftTrigger=L 트리거(L2)
 //[Reference] 'Right Shoulder'
-staxel.gamePadAxis.RightShoulder=오른쪽 숄더(R1)
+staxel.gamePadAxis.RightShoulder=R 숄더(R1)
 //[Reference] 'Right Stick'
-staxel.gamePadAxis.RightStick=오른쪽 스틱 버튼
+staxel.gamePadAxis.RightStick=R 스틱 버튼
 //[Reference] 'Right Stick X Left'
-staxel.gamePadAxis.RightStickXLeft=오른쪽 스틱의 왼쪽 X축
+staxel.gamePadAxis.RightStickXLeft=R 스틱 X축 왼쪽
 //[Reference] 'Right Stick X Right'
-staxel.gamePadAxis.RightStickXRight=오른쪽 스틱의 오른쪽 X축
+staxel.gamePadAxis.RightStickXRight=R 스틱 X축 오른쪽
 //[Reference] 'Right Stick Y Down'
-staxel.gamePadAxis.RightStickYDown=오른쪽 스틱의 아래 Y축
+staxel.gamePadAxis.RightStickYDown=R 스틱 Y축 아래
 //[Reference] 'Right Stick Y Up'
-staxel.gamePadAxis.RightStickYUp=오른쪽 스틱의 위 Y축
+staxel.gamePadAxis.RightStickYUp=R 스틱 Y축 위
 //[Reference] 'Right Trigger'
-staxel.gamePadAxis.RightTrigger=오른쪽 트리거(R2)
+staxel.gamePadAxis.RightTrigger=R 트리거(R2)
 //[Reference] 'Start'
 staxel.gamePadAxis.Start=시작 버튼
 //[Reference] 'X'
@@ -2228,24 +2357,24 @@ staxel.gatherable.BrownMushroom.description=숲에서 주운 맛있는 도토리
 staxel.gatherable.BrownMushroom.name=갈색 버섯
 staxel.gatherable.Creaturebud.description=
 //[Reference] 'Creaturebud'
-staxel.gatherable.Creaturebud.name=Creaturebud
+staxel.gatherable.Creaturebud.name=방울꽃
 staxel.gatherable.HermitShell.description=
 //[Reference] 'Hermit Shell'
 staxel.gatherable.HermitShell.name=소라 껍데기
 staxel.gatherable.PawShell.description=
 //TODO Translate [Reference] 'Paw Shell'
-staxel.gatherable.PawShell.name=
+staxel.gatherable.PawShell.name=조개 껍질
 staxel.gatherable.PearlShell.description=
 //[Reference] 'Pearl Shell'
 staxel.gatherable.PearlShell.name=조개 껍데기
 staxel.gatherable.RareMushroom.description=
 //TODO Translate [Reference] 'Rare Mushroom'
-staxel.gatherable.RareMushroom.name=
+staxel.gatherable.RareMushroom.name=생 버섯
 staxel.gatherable.RedCoral.description=
 //[Reference] 'Red Coral'
 staxel.gatherable.RedCoral.name=붉은 산호
 //[Reference] 'You really need to be careful with this mushroom..'
-staxel.gatherable.RedWhiteMushroom.description=이 버섯을 가지고 있으면 정말로 조심해야해요.
+staxel.gatherable.RedWhiteMushroom.description=이 버섯은 정말로 조심해야해요.
 //[Reference] 'Toadstool'
 staxel.gatherable.RedWhiteMushroom.name=버섯
 staxel.gatherable.Seaweed.description=
@@ -2257,29 +2386,29 @@ staxel.gatherable.SnowMound.name=눈더미
 staxel.gatherable.Starfish.description=
 //[Reference] 'Starfish'
 staxel.gatherable.Starfish.name=불가사리
-staxel.gatherable.StarJelly.description=불가사의하게 생겼다.
+staxel.gatherable.StarJelly.description=불가사의하게 생겼어요.
 //[Reference] 'Star Jelly'
 staxel.gatherable.StarJelly.name=스타젤리
 staxel.gatherable.SwirlyShell.description=
 //[Reference] 'Swirly Shell'
 staxel.gatherable.SwirlyShell.name=소용돌이 소라 껍데기
 //[Reference] 'Popular in many dishes.'
-staxel.gatherable.WhiteMushrooms.description=식재료로 유명하다.
+staxel.gatherable.WhiteMushrooms.description=식재료로 유명해요.
 //[Reference] 'White Mushrooms'
 staxel.gatherable.WhiteMushrooms.name=하얀 버섯
 staxel.gatherable.Wildberry.description=
 //TODO Translate [Reference] 'Wildberry'
-staxel.gatherable.Wildberry.name=
+staxel.gatherable.Wildberry.name=산딸기
 //TODO Translate [Reference] 'Interface Letters'
-staxel.inputMappingModality.InterfaceLetters=
+staxel.inputMappingModality.InterfaceLetters=인터페이스 글자
 //TODO Translate [Reference] 'Main Down'
-staxel.inputMappingModality.MainDown=
+staxel.inputMappingModality.MainDown=메인 다운
 //TODO Translate [Reference] 'Main Up'
-staxel.inputMappingModality.MainUp=
+staxel.inputMappingModality.MainUp=메인 업
 //[Reference] 'None'
 staxel.inputMappingModality.None=없음
 //TODO Translate [Reference] 'No Shift Control Alt'
-staxel.inputMappingModality.NoShiftControlAlt=
+staxel.inputMappingModality.NoShiftControlAlt=Shift Control Alt 안됨
 //[Reference] 'Accept'
 staxel.interfaceLogicalButton.Accept=수락
 //[Reference] 'Back'
@@ -2311,21 +2440,21 @@ staxel.interfaceLogicalButton.ScrollRight=스크롤 오른쪽
 //[Reference] 'Scroll Up'
 staxel.interfaceLogicalButton.ScrollUp=스크롤 올리기
 //TODO Translate [Reference] 'Tab1'
-staxel.interfaceLogicalButton.Tab1=
+staxel.interfaceLogicalButton.Tab1=탭 1
 //TODO Translate [Reference] 'Tab2'
-staxel.interfaceLogicalButton.Tab2=
+staxel.interfaceLogicalButton.Tab2=탭 2
 //TODO Translate [Reference] 'Tab3'
-staxel.interfaceLogicalButton.Tab3=
+staxel.interfaceLogicalButton.Tab3=탭 3
 //TODO Translate [Reference] 'Tab4'
-staxel.interfaceLogicalButton.Tab4=
+staxel.interfaceLogicalButton.Tab4=탭 4
 //TODO Translate [Reference] 'Tab5'
-staxel.interfaceLogicalButton.Tab5=
+staxel.interfaceLogicalButton.Tab5=탭 5
 //TODO Translate [Reference] 'Tab Down'
-staxel.interfaceLogicalButton.TabDown=
+staxel.interfaceLogicalButton.TabDown=탭 내리기
 //TODO Translate [Reference] 'Tab Up'
-staxel.interfaceLogicalButton.TabUp=
+staxel.interfaceLogicalButton.TabUp=탭 올리기
 //TODO Translate [Reference] 'Up'
-staxel.interfaceLogicalButton.Up=
+staxel.interfaceLogicalButton.Up=위
 staxel.item.buildingTools.Export.description=
 //[Reference] 'Export'
 staxel.item.buildingTools.Export.name=내보내기
@@ -2334,11 +2463,11 @@ staxel.item.buildingTools.Import.description=
 staxel.item.buildingTools.Import.name=불러오기
 staxel.item.buildingTools.MassReplacer.description=
 //[Reference] 'Mass Replacer'
-staxel.item.buildingTools.MassReplacer.name=Mass Replacer
+staxel.item.buildingTools.MassReplacer.name=대량 교체기(Mass Replacer)
 //[Reference] 'Rowan asked you to deliver this. There might be a cat's paw mark on it?'
-staxel.item.CatLetter.description=Rowan asked you to deliver this. There might be a cat's paw mark on it?
+staxel.item.CatLetter.description=로완이 이 편지를 부탁했습니다. 고양이 발자국 도장이 찍혀있는것 같아요.
 //[Reference] 'Letter to Farm Fan'
-staxel.item.CatLetter.name=Farm Fan이 받을 편지
+staxel.item.CatLetter.name=팜팬에게 보내는 편지
 staxel.item.crafting.ApiaryFrame.description=
 //[Reference] 'ApiaryFrame'
 staxel.item.crafting.ApiaryFrame.name=양봉장
@@ -2354,7 +2483,7 @@ staxel.item.crafting.Bacon.description=돼지가 이걸 어떻게 만드는지�
 staxel.item.crafting.Bacon.name=베이컨
 staxel.item.crafting.BaconSandwich.description=
 //TODO Translate [Reference] 'Bacon Sandwich'
-staxel.item.crafting.BaconSandwich.name=
+staxel.item.crafting.BaconSandwich.name=배이컨 샌드위치
 staxel.item.crafting.BakedPotatoWithCheese.description=
 //[Reference] 'BakedPotatoWithCheese'
 staxel.item.crafting.BakedPotatoWithCheese.name=구운 감자와 치즈
@@ -2369,13 +2498,16 @@ staxel.item.crafting.Batter.description=
 staxel.item.crafting.Batter.name=반죽
 staxel.item.crafting.BlackPetal.description=
 //TODO Translate [Reference] 'Black Petal'
-staxel.item.crafting.BlackPetal.name=
+staxel.item.crafting.BlackPetal.name=검은 꽃잎
 staxel.item.crafting.Blanket.description=
 //TODO Translate [Reference] 'Blanket'
-staxel.item.crafting.Blanket.name=
+staxel.item.crafting.Blanket.name=이불
+staxel.item.crafting.BlueberryPopsicle.description=
+//TODO Translate [Reference] 'Blueberry Popsicle'
+staxel.item.crafting.BlueberryPopsicle.name=블루베리 아이스크림
 staxel.item.crafting.BluePetal.description=
 //TODO Translate [Reference] 'Blue Petal'
-staxel.item.crafting.BluePetal.name=
+staxel.item.crafting.BluePetal.name=파란 꽃잎
 staxel.item.crafting.BoiledRice.description=
 //[Reference] 'Boiled Rice'
 staxel.item.crafting.BoiledRice.name=쌀밥
@@ -2387,19 +2519,19 @@ staxel.item.crafting.CakeBatter.description=
 staxel.item.crafting.CakeBatter.name=케이크반죽
 staxel.item.crafting.CakeCheese.description=
 //TODO Translate [Reference] 'Cake Cheese'
-staxel.item.crafting.CakeCheese.name=
+staxel.item.crafting.CakeCheese.name=케이크용 치즈
 staxel.item.crafting.CakeCheeseBatter.description=
 //TODO Translate [Reference] 'Cake Cheese Batter'
-staxel.item.crafting.CakeCheeseBatter.name=
+staxel.item.crafting.CakeCheeseBatter.name=케이크용 치즈 반죽
 staxel.item.crafting.CakeRods.description=
 //TODO Translate [Reference] 'Cake Rods'
-staxel.item.crafting.CakeRods.name=
+staxel.item.crafting.CakeRods.name=케이크 막대기
 staxel.item.crafting.CaptureCrateDoor.description=
 //[Reference] 'CaptureCrateDoor'
 staxel.item.crafting.CaptureCrateDoor.name=포획상자 문
 staxel.item.crafting.CaptureCrateFrame.description=
 //[Reference] 'CaptureCrateFrame'
-staxel.item.crafting.CaptureCrateFrame.name=포획상자
+staxel.item.crafting.CaptureCrateFrame.name=포획상자 뼈대
 staxel.item.crafting.CheapVarnish.description=
 //[Reference] 'Cheap Varnish'
 staxel.item.crafting.CheapVarnish.name=저렴한 광택제
@@ -2409,56 +2541,77 @@ staxel.item.crafting.ChickenCoopFrame.name=닭장
 staxel.item.crafting.Chips.description=
 //[Reference] 'Chips'
 staxel.item.crafting.Chips.name=감자칩
+staxel.item.crafting.ChocoBlueberryPopsicle.description=
+//TODO Translate [Reference] 'Choco Blueberry Popsicle'
+staxel.item.crafting.ChocoBlueberryPopsicle.name=초코랑 블루베리 아이스크림
+staxel.item.crafting.ChocoGrapePopsicle.description=
+//TODO Translate [Reference] 'Choco Grape Popsicle'
+staxel.item.crafting.ChocoGrapePopsicle.name=초코랑 포도 아이스크림
+staxel.item.crafting.ChocoLimePopsicle.description=
+//TODO Translate [Reference] 'Choco Lime Popsicle'
+staxel.item.crafting.ChocoLimePopsicle.name=초코랑 라임 아이스크림
+staxel.item.crafting.ChocoMintPopsicle.description=
+//TODO Translate [Reference] 'Choco Mint Popsicle'
+staxel.item.crafting.ChocoMintPopsicle.name=초코랑 민트 아이스크림
+staxel.item.crafting.ChocoOrangePopsicle.description=
+//TODO Translate [Reference] 'Choco Orange Popsicle'
+staxel.item.crafting.ChocoOrangePopsicle.name=초코랑 오렌지 아이스크림
+staxel.item.crafting.ChocoStrawberryPopsicle.description=
+//TODO Translate [Reference] 'Choco Strawberry Popsicle'
+staxel.item.crafting.ChocoStrawberryPopsicle.name=초코랑 딸기 아이스크림
 staxel.item.crafting.Coffee.description=
 //TODO Translate [Reference] 'Coffee'
-staxel.item.crafting.Coffee.name=
+staxel.item.crafting.Coffee.name=커피
 staxel.item.crafting.DoubleBedBase.description=
 //TODO Translate [Reference] 'Double Bed Base'
-staxel.item.crafting.DoubleBedBase.name=
+staxel.item.crafting.DoubleBedBase.name=더블 침대 기초
 staxel.item.crafting.DoubleBedFrame.description=
 //TODO Translate [Reference] 'Double Bed Frame'
-staxel.item.crafting.DoubleBedFrame.name=
+staxel.item.crafting.DoubleBedFrame.name=더블 침대 뼈대
 staxel.item.crafting.EggFriedRice.description=
 //TODO Translate [Reference] 'Egg Fried Rice'
-staxel.item.crafting.EggFriedRice.name=
+staxel.item.crafting.EggFriedRice.name=계란 후라이 볶음밥
 staxel.item.crafting.FineLumber.description=
 //[Reference] 'FineLumber'
 staxel.item.crafting.FineLumber.name=손질한 목재
 //TODO Translate [Reference] 'A mix of various fish. There's basically no reason to ever do this. Taste at your own peril.'
-staxel.item.crafting.FishMixAlpha.description=
+staxel.item.crafting.FishMixAlpha.description=여러가지 물고기를 막 섞었습니다. 굳이 먹겠다면 말리지는 않을께요...
 //TODO Translate [Reference] 'Fish Mix α'
-staxel.item.crafting.FishMixAlpha.name=
+staxel.item.crafting.FishMixAlpha.name=막 섞은 물고기 요리 ver α
 //TODO Translate [Reference] 'This stuff smells even worse than the last batch. Why did you even make it?'
-staxel.item.crafting.FishMixBeta.description=
+staxel.item.crafting.FishMixBeta.description=전에 만든것 보다 상태가 더 심각합니다. 왜 만드신거죠?
 //TODO Translate [Reference] 'Fish Mix β'
-staxel.item.crafting.FishMixBeta.name=
+staxel.item.crafting.FishMixBeta.name=막 섞은 물고기 요리 ver β
 staxel.item.crafting.FriedMushrooms.description=
 //[Reference] 'Assorted Fried Mushrooms'
 staxel.item.crafting.FriedMushrooms.name=익힌 버섯
 staxel.item.crafting.FruitSalad.description=
 //TODO Translate [Reference] 'Fruit Salad'
-staxel.item.crafting.FruitSalad.name=
+staxel.item.crafting.FruitSalad.name=과일 샐러드
 staxel.item.crafting.GlassPane.description=
 //[Reference] 'GlassPane'
 staxel.item.crafting.GlassPane.name=유리창
 staxel.item.crafting.Glue.description=
 //[Reference] 'Glue'
 staxel.item.crafting.Glue.name=풀
+staxel.item.crafting.GrapePopsicle.description=
+//TODO Translate [Reference] 'Grape Popsicle'
+staxel.item.crafting.GrapePopsicle.name=포도 아이스크림
 staxel.item.crafting.GreenLeaf.description=
 //TODO Translate [Reference] 'Green Leaf'
-staxel.item.crafting.GreenLeaf.name=
+staxel.item.crafting.GreenLeaf.name=초록 나뭇잎
 staxel.item.crafting.HayBale.description=
 //[Reference] 'Hay Bale'
-staxel.item.crafting.HayBale.name=Hay Bale
+staxel.item.crafting.HayBale.name=건초 더미
 staxel.item.crafting.Hinge.description=
 //[Reference] 'Hinge'
-staxel.item.crafting.Hinge.name=Hinge
+staxel.item.crafting.Hinge.name=경첩
 staxel.item.crafting.Knob.description=
 //[Reference] 'Knob'
 staxel.item.crafting.Knob.name=손잡이
 staxel.item.crafting.LargeGear.description=
 //TODO Translate [Reference] 'Large Gear'
-staxel.item.crafting.LargeGear.name=
+staxel.item.crafting.LargeGear.name=대형 톱니바퀴
 staxel.item.crafting.LargeWoodenFrame.description=
 //[Reference] 'Large Wooden Frame'
 staxel.item.crafting.LargeWoodenFrame.name=큰 나무
@@ -2476,25 +2629,31 @@ staxel.item.crafting.lightMeal.Porridge.description=
 staxel.item.crafting.lightMeal.Porridge.name=죽
 staxel.item.crafting.LightMeal.Onigiri.description=
 //TODO Translate [Reference] 'Onigiri'
-staxel.item.crafting.LightMeal.Onigiri.name=
+staxel.item.crafting.LightMeal.Onigiri.name=오니기리(일본식 삼각김밥)
 staxel.item.crafting.LightMeal.SeasonedSalmon.description=
 //TODO Translate [Reference] 'Seasoned Salmon'
-staxel.item.crafting.LightMeal.SeasonedSalmon.name=
+staxel.item.crafting.LightMeal.SeasonedSalmon.name=간 맞춰진 연어 
 staxel.item.crafting.LightMeal.Sushi.description=
 //TODO Translate [Reference] 'Sushi'
-staxel.item.crafting.LightMeal.Sushi.name=
+staxel.item.crafting.LightMeal.Sushi.name=초밥
+staxel.item.crafting.LimePopsicle.description=
+//TODO Translate [Reference] 'Lime Popsicle'
+staxel.item.crafting.LimePopsicle.name=라임 아이스크림
 staxel.item.crafting.Lumber.description=
 //[Reference] 'Lumber'
 staxel.item.crafting.Lumber.name=목재
 staxel.item.crafting.MagicMainspring.description=
 //TODO Translate [Reference] 'Magic Mainspring'
-staxel.item.crafting.MagicMainspring.name=
+staxel.item.crafting.MagicMainspring.name=마법의 메인스프링
 staxel.item.crafting.MangoPeachSmoothie.description=
 //[Reference] 'MangoPeachSmoothie'
 staxel.item.crafting.MangoPeachSmoothie.name=망고 복숭아 스무디
 staxel.item.crafting.MetalBands.description=
 //[Reference] 'Metal Bands'
 staxel.item.crafting.MetalBands.name=금속 고리
+staxel.item.crafting.MintPopsicle.description=
+//TODO Translate [Reference] 'Mint Popsicle'
+staxel.item.crafting.MintPopsicle.name=민트 아이스크림
 staxel.item.crafting.Mortar.description=
 //[Reference] 'Mortar'
 staxel.item.crafting.Mortar.name=타르
@@ -2504,6 +2663,9 @@ staxel.item.crafting.MushroomRisotto.name=버섯 리조토
 staxel.item.crafting.Nails.description=
 //[Reference] 'Nails'
 staxel.item.crafting.Nails.name=못
+staxel.item.crafting.OrangePopsicle.description=
+//TODO Translate [Reference] 'Orange Popsicle'
+staxel.item.crafting.OrangePopsicle.name=오렌지 아이스크림
 staxel.item.crafting.PancakeBatter.description=
 //[Reference] 'PancakeBatter'
 staxel.item.crafting.PancakeBatter.name=팬케이크 버터
@@ -2515,7 +2677,7 @@ staxel.item.crafting.Pickets.description=
 staxel.item.crafting.Pickets.name=울타리 말뚝
 staxel.item.crafting.PlainIceCream.description=
 //TODO Translate [Reference] 'Ice Cream'
-staxel.item.crafting.PlainIceCream.name=
+staxel.item.crafting.PlainIceCream.name=아이스크림
 staxel.item.crafting.Popcorn.description=
 //[Reference] 'Popcorn'
 staxel.item.crafting.Popcorn.name=팝콘
@@ -2524,7 +2686,7 @@ staxel.item.crafting.RaspberryBlackberrySmoothie.description=
 staxel.item.crafting.RaspberryBlackberrySmoothie.name=산딸기 블랙베리 스무디
 staxel.item.crafting.RedPetal.description=
 //TODO Translate [Reference] 'Red Petal'
-staxel.item.crafting.RedPetal.name=
+staxel.item.crafting.RedPetal.name=빨간 꽃잎
 staxel.item.crafting.Rice.description=
 //[Reference] 'Rice'
 staxel.item.crafting.Rice.name=쌀
@@ -2533,28 +2695,31 @@ staxel.item.crafting.Rope.description=
 staxel.item.crafting.Rope.name=밧줄
 staxel.item.crafting.RunicGear.description=
 //TODO Translate [Reference] 'Runic Gear'
-staxel.item.crafting.RunicGear.name=
+staxel.item.crafting.RunicGear.name=고대 북유럽 장비
 staxel.item.crafting.SackCloth.description=
 //TODO Translate [Reference] 'Sack Cloth'
-staxel.item.crafting.SackCloth.name=
+staxel.item.crafting.SackCloth.name=자루옷
 staxel.item.crafting.ScrambledEgg.description=
 //TODO Translate [Reference] 'Scrambled Egg'
-staxel.item.crafting.ScrambledEgg.name=
+staxel.item.crafting.ScrambledEgg.name=스크램블 에그
 staxel.item.crafting.ScrambledEggMix.description=
 //TODO Translate [Reference] 'Scrambled Egg Mix'
-staxel.item.crafting.ScrambledEggMix.name=
+staxel.item.crafting.ScrambledEggMix.name=영양소 많은 스크램블 에그
 staxel.item.crafting.SheetMetal.description=
 //[Reference] 'Sheet Metal'
 staxel.item.crafting.SheetMetal.name=금속판
 staxel.item.crafting.ShrimpFriedRice.description=
 //TODO Translate [Reference] 'Shrimp Fried Rice'
-staxel.item.crafting.ShrimpFriedRice.name=
+staxel.item.crafting.ShrimpFriedRice.name=새우 볶음밥
 staxel.item.crafting.SmallGear.description=
 //TODO Translate [Reference] 'Small Gear'
-staxel.item.crafting.SmallGear.name=
+staxel.item.crafting.SmallGear.name=작은 톱니바퀴
 staxel.item.crafting.StrawberryBlueberrySmoothie.description=
 //[Reference] 'StrawberryBlueberrySmoothie'
 staxel.item.crafting.StrawberryBlueberrySmoothie.name=딸기 블루베리 스무디
+staxel.item.crafting.StrawberryPopsicle.description=
+//TODO Translate [Reference] 'Strawberry Popsicle'
+staxel.item.crafting.StrawberryPopsicle.name=딸기 아이스크림
 staxel.item.crafting.UnbakedBakedPotatoWithColdUnbakedCheese.description=
 //[Reference] 'UnbakedBakedPotatoWithColdUnbakedCheese'
 staxel.item.crafting.UnbakedBakedPotatoWithColdUnbakedCheese.name=익히지 않은 감자와 차가운 치즈
@@ -2563,35 +2728,50 @@ staxel.item.crafting.UnbakedPotatoWithCheese.description=
 staxel.item.crafting.UnbakedPotatoWithCheese.name=익히지 않은 감자와 치즈
 staxel.item.crafting.UncookedBaconSandwich.description=
 //TODO Translate [Reference] 'Uncooked Bacon Sandwich'
-staxel.item.crafting.UncookedBaconSandwich.name=
+staxel.item.crafting.UncookedBaconSandwich.name=안 구워진 베이커 샌드위치
 staxel.item.crafting.Varnish.description=
 //[Reference] 'Varnish'
 staxel.item.crafting.Varnish.name=광택제
+staxel.item.crafting.VialBlue.description=
+//TODO Translate [Reference] 'Blue Potion'
+staxel.item.crafting.VialBlue.name=파란 포션
+staxel.item.crafting.VialGreen.description=
+//TODO Translate [Reference] 'Green Potion'
+staxel.item.crafting.VialGreen.name=초록 포션
+staxel.item.crafting.VialMixed.description=
+//TODO Translate [Reference] 'Mixed Potion'
+staxel.item.crafting.VialMixed.name=잡동사니 포션
+staxel.item.crafting.VialRed.description=
+//TODO Translate [Reference] 'Red Potion'
+staxel.item.crafting.VialRed.name=빨간 포션
+staxel.item.crafting.VialYellow.description=
+//TODO Translate [Reference] 'Yellow Potion'
+staxel.item.crafting.VialYellow.name=노란 포션
 staxel.item.crafting.WhitePetal.description=
 //TODO Translate [Reference] 'White Petal'
-staxel.item.crafting.WhitePetal.name=
+staxel.item.crafting.WhitePetal.name=하얀 꽃잎
 //TODO Translate [Reference] 'It's electrifying!'
-staxel.item.crafting.Wire.description=
+staxel.item.crafting.Wire.description=짜릿해요!
 //TODO Translate [Reference] 'Wire'
-staxel.item.crafting.Wire.name=
+staxel.item.crafting.Wire.name=선
 staxel.item.crafting.WoodShingles.description=
 //[Reference] 'WoodShingles'
 staxel.item.crafting.WoodShingles.name=나무 지붕널
 staxel.item.crafting.YellowPetal.description=
 //TODO Translate [Reference] 'Yellow Petal'
-staxel.item.crafting.YellowPetal.name=
+staxel.item.crafting.YellowPetal.name=노란 꽃잎
 staxel.item.crops.CatTurnip.description=
 //[Reference] 'Cat Turnip'
 staxel.item.crops.CatTurnip.name=순무
 staxel.item.crops.CoffeeBean.description=
 //TODO Translate [Reference] 'Coffee Bean'
-staxel.item.crops.CoffeeBean.name=
+staxel.item.crops.CoffeeBean.name=커피콩
 staxel.item.crops.GoldenCabbage.description=
 //[Reference] 'Golden Cabbage'
 staxel.item.crops.GoldenCabbage.name=황금 양배추
 staxel.item.crops.GoldenCoffeeBean.description=
 //TODO Translate [Reference] 'Golden Coffee Bean'
-staxel.item.crops.GoldenCoffeeBean.name=
+staxel.item.crops.GoldenCoffeeBean.name=황금 커피콩
 staxel.item.crops.GoldenPumpkin.description=
 //[Reference] 'Golden Pumpkin'
 staxel.item.crops.GoldenPumpkin.name=황금 호박
@@ -2606,18 +2786,18 @@ staxel.item.crops.Sunflower.description=
 staxel.item.crops.Sunflower.name=해바라기
 staxel.item.DarkPetalCore.description=
 //TODO Translate [Reference] 'Dark Petal Core'
-staxel.item.DarkPetalCore.name=
+staxel.item.DarkPetalCore.name=어두운 꽃잎 코어
 staxel.item.debug.Export.description=
 //[Reference] 'Export'
 staxel.item.debug.Export.name=내보내기
 //[Reference] 'Rowan asked you to deliver this. It looks like he drew a bone on it?'
-staxel.item.DogLetter.description=Rowan이 당신에게 부탁한 편지이다. 편지에 뼈를 그린 것 처럼 보인다?
+staxel.item.DogLetter.description=로완이 이 편지를 부탁했습니다. 개뼈 도장이 찍혀있는것 같아요.
 //[Reference] 'Letter to Farm Fan'
-staxel.item.DogLetter.name=Farm Fan이 받을 편지
+staxel.item.DogLetter.name=팜팬에게 보내는 편지
 //TODO Translate [Reference] 'Soaks up water (stackable)'
-staxel.item.DrySponge.description=
+staxel.item.DrySponge.description=물을 빨아들입니다. (쌓을수 있어요)
 //TODO Translate [Reference] 'Dry Sponge'
-staxel.item.DrySponge.name=
+staxel.item.DrySponge.name=마른 스펀지
 staxel.item.festival.CandyCorn.description=
 //[Reference] 'Candy Corn'
 staxel.item.festival.CandyCorn.name=캔디콘
@@ -2659,7 +2839,7 @@ staxel.item.gatherable.ButterflyFish.description=
 staxel.item.gatherable.ButterflyFish.name=나비고기
 staxel.item.gatherable.Creaturebud.description=
 //[Reference] 'Creaturebud'
-staxel.item.gatherable.Creaturebud.name=Creaturebud
+staxel.item.gatherable.Creaturebud.name=방울꽃
 staxel.item.gatherable.Cricket.description=
 //[Reference] 'Cricket'
 staxel.item.gatherable.Cricket.name=메뚜기
@@ -2718,7 +2898,7 @@ staxel.item.gatherable.garbage.RustedKey.description=
 staxel.item.gatherable.garbage.RustedKey.name=녹슨열쇠
 staxel.item.gatherable.GoldenDragonfly.description=
 //TODO Translate [Reference] 'Golden Dragonfly'
-staxel.item.gatherable.GoldenDragonfly.name=
+staxel.item.gatherable.GoldenDragonfly.name=초록 잠자리 
 staxel.item.gatherable.GoldenKoi.description=
 
 //[Reference] 'Golden Snowdust Koi'
@@ -2769,13 +2949,13 @@ staxel.item.gatherable.PurpleButterfly.description=
 staxel.item.gatherable.PurpleButterfly.name=보라색 나비
 staxel.item.gatherable.quest.LostFishingTools.description=
 //TODO Translate [Reference] 'Lost Fishing Tools'
-staxel.item.gatherable.quest.LostFishingTools.name=
+staxel.item.gatherable.quest.LostFishingTools.name=잃어버린 낚싯대 도구
 staxel.item.gatherable.RainbowTrout.description=
 //[Reference] 'Rainbow Trout'
 staxel.item.gatherable.RainbowTrout.name=무지개 송어
 staxel.item.gatherable.RareMushroom.description=
 //TODO Translate [Reference] 'Rare Mushroom'
-staxel.item.gatherable.RareMushroom.name=
+staxel.item.gatherable.RareMushroom.name=생 버섯
 staxel.item.gatherable.RedDragonfly.description=
 //[Reference] 'Red Dragonfly'
 staxel.item.gatherable.RedDragonfly.name=고추잠자리
@@ -2825,7 +3005,7 @@ staxel.item.gatherable.WhiteButterfly.description=
 staxel.item.gatherable.WhiteButterfly.name=흰나비
 staxel.item.gatherable.Wildberry.description=
 //TODO Translate [Reference] 'Wildberry'
-staxel.item.gatherable.Wildberry.name=
+staxel.item.gatherable.Wildberry.name=산딸기
 staxel.item.gatherable.WillOTheWisp.description=
 //[Reference] 'Will-o'-the-wisp'
 staxel.item.gatherable.WillOTheWisp.name=도깨비불
@@ -2838,77 +3018,83 @@ staxel.item.gatherable.YellowPerch.name=농어
 staxel.item.gatherable.ZebraButterfly.description=
 //[Reference] 'Zebra Butterfly'
 staxel.item.gatherable.ZebraButterfly.name=얼룩 나비
+staxel.item.generic.BlueBook.description=
+//TODO Translate [Reference] 'Blue Book'
+staxel.item.generic.BlueBook.name=파랑 책
+staxel.item.generic.YellowBook.description=
+//TODO Translate [Reference] 'Yellow Book'
+staxel.item.generic.YellowBook.name=노랑 책
 staxel.item.LightPetalCore.description=
 //TODO Translate [Reference] 'Light Petal Core'
-staxel.item.LightPetalCore.name=
+staxel.item.LightPetalCore.name=연한 꽃잎 코어
 //TODO Translate [Reference] 'Who knows what you might find if you polish this old relic!'
-staxel.item.museum.Fossil.description=
+staxel.item.museum.Fossil.description=이 유물을 닦아내면 뭐가 나올까요?
 //TODO Translate [Reference] 'Unpolished Fossil'
-staxel.item.museum.Fossil.name=
+staxel.item.museum.Fossil.name=닦지 않은 유물
 //[Reference] 'A note addressed to Rowan. Probably best not to open it.'
-staxel.item.NoteToRowan.description=A note addressed to Rowan. Probably best not to open it.
+staxel.item.NoteToRowan.description=로완씨에게 보내진 편지입니다. 열지 않는게 왠지 좋을것 같습니다.
 //[Reference] 'Note To Rowan'
-staxel.item.NoteToRowan.name=Note To Rowan
+staxel.item.NoteToRowan.name=로완에게 보내는 편지
 staxel.item.PetalWandCore.description=
 //TODO Translate [Reference] 'Petal Wand Core'
-staxel.item.PetalWandCore.name=
+staxel.item.PetalWandCore.name=꽃잎 지팡이 코어
 staxel.item.quest.Aliza.AirshipParts.description=
 //TODO Translate [Reference] 'Airship Parts'
-staxel.item.quest.Aliza.AirshipParts.name=
+staxel.item.quest.Aliza.AirshipParts.name=비행선 부품
 staxel.item.quest.Aliza.IllegibleAirshipBlueprint.description=
 //TODO Translate [Reference] 'Illegible Airship Blueprint'
-staxel.item.quest.Aliza.IllegibleAirshipBlueprint.name=
+staxel.item.quest.Aliza.IllegibleAirshipBlueprint.name=읽기 힘든 비행선 청사진
 staxel.item.quest.Aliza.NewAirshipBlueprint.description=
 //TODO Translate [Reference] 'Airship Blueprint'
-staxel.item.quest.Aliza.NewAirshipBlueprint.name=
+staxel.item.quest.Aliza.NewAirshipBlueprint.name=비행선 청사진
 staxel.item.quest.Aliza.NewAirshipBlueprintAnnotated.description=
 //TODO Translate [Reference] 'Annotated Airship Blueprint'
-staxel.item.quest.Aliza.NewAirshipBlueprintAnnotated.name=
+staxel.item.quest.Aliza.NewAirshipBlueprintAnnotated.name=뭔가 써져있는 비행선 청사진
 staxel.item.quest.CaithWitchLocket.description=
 //TODO Translate [Reference] 'Cirahna's Mother's Locket'
-staxel.item.quest.CaithWitchLocket.name=
+staxel.item.quest.CaithWitchLocket.name=시라하 부모님표 로켓
 staxel.item.quest.CapturedMonster.description=
 //TODO Translate [Reference] 'Captured Monster'
-staxel.item.quest.CapturedMonster.name=
+staxel.item.quest.CapturedMonster.name=포획된 몬스터
 staxel.item.quest.Cecile.LeifLetter.description=
 //TODO Translate [Reference] 'Leif Letter'
-staxel.item.quest.Cecile.LeifLetter.name=
+staxel.item.quest.Cecile.LeifLetter.name=레이프 편지
 staxel.item.quest.CoffeeBrewer.description=
 //TODO Translate [Reference] 'Coffee Brewer'
-staxel.item.quest.CoffeeBrewer.name=
+staxel.item.quest.CoffeeBrewer.name=커피 머신
 staxel.item.quest.CraftedWitchWand.description=
 //TODO Translate [Reference] 'Magicless Wand'
-staxel.item.quest.CraftedWitchWand.name=
+staxel.item.quest.CraftedWitchWand.name=고장난 지팡이
 //TODO Translate [Reference] 'It just says 'Farm Fan' in big letters.'
-staxel.item.quest.DecoratedChocolateCake.description=
+staxel.item.quest.DecoratedChocolateCake.description=큰 글씨로 '팜팬' 이라고만 적혀 있어요.
 //TODO Translate [Reference] 'Decorated Chocolate Cake'
-staxel.item.quest.DecoratedChocolateCake.name=
+staxel.item.quest.DecoratedChocolateCake.name=장식된 초코 케이크
 //TODO Translate [Reference] 'This bracelet signifies a unique bond. Gift it to the villager you want to make your roomie!'
-staxel.item.quest.FriendshipBracelet.description=
+staxel.item.quest.FriendshipBracelet.description=이 팔찌는 좋아하는 사람들끼리만 차고다니는 멋진 팔찌입니다. 좋아하는 마을 사람에게 이 팔찌를 선물해보세요!
 //TODO Translate [Reference] 'Friendship Bracelet'
-staxel.item.quest.FriendshipBracelet.name=
+staxel.item.quest.FriendshipBracelet.name=짱친 팔찌
 staxel.item.quest.GameDesignBook.description=
 //TODO Translate [Reference] 'Beginner's Game Design Book'
-staxel.item.quest.GameDesignBook.name=
+staxel.item.quest.GameDesignBook.name=초보자의 게임 디자인 책
 staxel.item.quest.GiftPackage.description=
 //TODO Translate [Reference] 'Gift Packages'
-staxel.item.quest.GiftPackage.name=
+staxel.item.quest.GiftPackage.name=선물 포장
 staxel.item.quest.GildedRod.description=
 //TODO Translate [Reference] 'Gilded Fishing Rod'
-staxel.item.quest.GildedRod.name=
+staxel.item.quest.GildedRod.name=금 도금된 낚싯대
 //TODO Translate [Reference] 'A cute forest bunny'
-staxel.item.quest.Hazel.description=
+staxel.item.quest.Hazel.description=귀여운 숲토끼
 //TODO Translate [Reference] 'Hazel'
-staxel.item.quest.Hazel.name=
+staxel.item.quest.Hazel.name=하젤
 staxel.item.quest.InsuranceCertificate.description=
 //TODO Translate [Reference] 'Insurance Certificate'
-staxel.item.quest.InsuranceCertificate.name=
+staxel.item.quest.InsuranceCertificate.name=보험 증명서
 staxel.item.quest.LegendaryFarmerBook.description=
 //TODO Translate [Reference] 'Legendary Farmers Book'
-staxel.item.quest.LegendaryFarmerBook.name=
+staxel.item.quest.LegendaryFarmerBook.name=전설의 농부가 쓴 책
 staxel.item.quest.LeifGift.description=
 //TODO Translate [Reference] 'Leif Gift'
-staxel.item.quest.LeifGift.name=
+staxel.item.quest.LeifGift.name=레이프 선물
 staxel.item.quest.MachineDescription.description=
 //TODO Translate [Reference] 'Machine Description'
 staxel.item.quest.MachineDescription.name=
@@ -2926,15 +3112,15 @@ staxel.item.quest.MachinePartScreen.description=
 staxel.item.quest.MachinePartScreen.name=
 //TODO Translate [Reference] 'This ultra-strong coffee has a similar colour and consistency to machine oil. The aroma is slightly concerning.'
 staxel.item.quest.OrderForAliza.description=
-//TODO Translate [Reference] 'Order For Aliza'
+//TODO Translate [Reference] 'Ultra-strong coffee'
 staxel.item.quest.OrderForAliza.name=
 //TODO Translate [Reference] 'A very particular meal that comes with a mug o' sap. Even the food itself reeks of the stuff!'
 staxel.item.quest.OrderForFarmFan.description=
-//TODO Translate [Reference] 'Order For Farm Fan'
+//TODO Translate [Reference] 'Meal o' Sap'
 staxel.item.quest.OrderForFarmFan.name=
 //TODO Translate [Reference] 'A rather simply prepared fish fillet. It might as well be raw.'
 staxel.item.quest.OrderForRiah.description=
-//TODO Translate [Reference] 'Order For Riah'
+//TODO Translate [Reference] 'Almost-raw fish fillet'
 staxel.item.quest.OrderForRiah.name=
 staxel.item.quest.Oscar.AluaLetter.description=
 //TODO Translate [Reference] 'Alua Letter'
@@ -3062,15 +3248,35 @@ staxel.item.SoakedSponge.description=
 staxel.item.SoakedSponge.name=
 //TODO Translate [Reference] 'Sponge'
 staxel.item.Sponge.name=
+//TODO Translate [Reference] 'Click a tile to start, click another to end. Builds a box between the corners. Alt click for settings. (uses first tile as material)'
+staxel.item.tool.BoxPlacer.description=
+//TODO Translate [Reference] 'Box Builder'
+staxel.item.tool.BoxPlacer.name=
+//TODO Translate [Reference] 'Click a surface of connected same-type tiles to extrude the face in that direction. Alt click for settings'
+staxel.item.tool.FaceExtruder.description=
+//TODO Translate [Reference] 'Face Extruder'
+staxel.item.tool.FaceExtruder.name=
 staxel.item.tool.FlowerWatercan.description=
 //[Reference] 'Flower Watering Can'
 staxel.item.tool.FlowerWatercan.name=물뿌리개
+//TODO Translate [Reference] 'Click a tile to start, click another to end. Builds a line between. Alt click for settings. (uses first tile as material)'
+staxel.item.tool.LinePlacer.description=
+//TODO Translate [Reference] 'Line Builder'
+staxel.item.tool.LinePlacer.name=
 staxel.item.tool.Manure.description=
 //TODO Translate [Reference] 'Manure'
 staxel.item.tool.Manure.name=
+//TODO Translate [Reference] 'Click a tile to start, click another to end. First and last tile inclusive'
+staxel.item.tool.MeasuringTape.description=
+//TODO Translate [Reference] 'Measuring Tape'
+staxel.item.tool.MeasuringTape.name=
 staxel.item.tool.PumpkingScythe.description=
 //[Reference] 'Pumpking Scythe'
 staxel.item.tool.PumpkingScythe.name=호박 낫
+//TODO Translate [Reference] 'Click a tile to place a sphere at it. Alt click for settings. (uses clicked tile as material)'
+staxel.item.tool.SpherePlacer.description=
+//TODO Translate [Reference] 'Sphere Builder'
+staxel.item.tool.SpherePlacer.name=
 staxel.item.tool.TaikoHammer.description=
 //[Reference] 'Taiko Hammer'
 staxel.item.tool.TaikoHammer.name=태고
@@ -3143,17 +3349,17 @@ staxel.merchants.SellBox.description=
 //[Reference] 'Sell Box'
 staxel.merchants.SellBox.name=판매용 상자
 //TODO Translate [Reference] 'Left'
-staxel.mouseAxis.Left=
+staxel.mouseAxis.Left=왼쪽
 //TODO Translate [Reference] 'Middle'
-staxel.mouseAxis.Middle=
+staxel.mouseAxis.Middle=스크롤
 //TODO Translate [Reference] 'Right'
-staxel.mouseAxis.Right=
+staxel.mouseAxis.Right=오른쪽
 
 //[Reference] 'Tip: Scythe grass or flowers to get mixed seeds'
 staxel.nightTransition.Line1=잡초나 꽃을 베다 보면 잡동사니 씨앗을 얻을수 있습니다.
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Tip: Press shift or the left stick to move stacks on shelves or in the inventory'
-staxel.nightTransition.Line2=Hold shift to make some inventory actions faster
+staxel.nightTransition.Line2=가방 안에서 물건을 빨리 이동시키기 위해 Shift 키를 누른 채로 조작해보세요.
 //[Reference] 'Tip: The seed maker has a chance of giving golden seeds'
 staxel.nightTransition.Line3=가끔 씨앗 제조기에서 황금 씨앗이 나올때가 있습니다.
 //[Reference] 'Tip: You can craft capture crates to move your animals around'
@@ -3163,13 +3369,13 @@ staxel.nightTransition.Line6=도구를 들고 마우스 왼쪽 버튼을 꾹 누
 //[Reference] 'Tip: Use the mousewheel or bumpers to rotate items before you place them'
 staxel.nightTransition.Line7=물건을 설치하기 전에 마우스 휠을 돌리면 설치 방향을 바꿀수 있습니다.
 //[Reference] 'Tip: Crops that are ready to pick have a green outline'
-staxel.nightTransition.Line8=수확할 준비가 된 식물에게는 초록색 윤곽선이 표시됩니다.
+staxel.nightTransition.Line8=수확할 준비가 된 식물은 초록색 윤곽선이 표시됩니다.
 //[Reference] 'Tip: Play fetch with your pets by holding a ball, interacting with your pets, and then throwing the ball'
-staxel.nightTransition.Line9=Tip: Play fetch with your pets by holding a ball, interacting with your pets, and then throwing the ball
+staxel.nightTransition.Line9=공을 잡은채로 애완동물을 클릭한 다음, 공을 던져서 애완동물과 공놀이를 할수 있어요.
 //[Reference] 'Tip: Use a pickaxe to unhoe dirt'
 staxel.nightTransition.Line10=곡괭이로 갈궈진 흙을 원래대로 돌려 놓을 수 있습니다.
 //[Reference] 'Tip: A building sign's region only matters for its requirements. Feel free to build beyond it!'
-staxel.nightTransition.Line11=건축 표지판으로 건물을 만들때, 건축 표지판에 적혀있는 요구 사항만 만족하면 무엇이든 만들수 있습니다.
+staxel.nightTransition.Line11=건축 표지판으로 건물을 만들때 건축 표지판에 적혀있는 요구 사항만 만족하면 무엇이든 만들수 있습니다.
 //[Reference] 'Tip: Activating an empty crafting station will re-place the last craft's ingredients'
 staxel.nightTransition.Line12=Tip: Activating an empty crafting station will re-place the last craft's ingredients
 //[Reference] 'Tip: A table saw will run automatically, but it's slower than doing it yourself'
@@ -3202,6 +3408,10 @@ staxel.nightTransition.PressToContinue={0-key}키를 눌러 하루를 시작합�
 staxel.nightTransition.prev=뒤로가기
 //[Reference] 'This tile has already been tilled!'
 staxel.notifications.AlreadyHoed=이 땅은 이미 갈궈졌어요!
+//TODO Translate [Reference] 'Distance: {0} tiles'
+staxel.notifications.BuildingTools.MeasuredDistance=
+//TODO Translate [Reference] 'Measuring point one set'
+staxel.notifications.BuildingTools.MeasuringTapeOne=
 //[Reference] 'You can't break this tile.'
 staxel.notifications.CantBreak=이 블럭은 부술수 없습니다.
 //[Reference] 'Farm Fan has set aside this day to show you around the farm, you should do that before sleeping!'
@@ -3365,7 +3575,7 @@ staxel.plant.gatherable.Acorn.description=
 staxel.plant.gatherable.Acorn.name=솔방울
 staxel.plant.gatherable.Creaturebud.description=
 //[Reference] 'Creaturebud'
-staxel.plant.gatherable.Creaturebud.name=Creaturebud
+staxel.plant.gatherable.Creaturebud.name=방울꽃
 staxel.plant.gatherable.PawShell.description=
 //TODO Translate [Reference] 'Paw Shell'
 staxel.plant.gatherable.PawShell.name=
@@ -3621,9 +3831,15 @@ staxel.tileObject.airship.RopeFenceTSection.name=밧줄 울타리
 staxel.tileObject.airship.WeatherVane.description=
 //TODO Translate [Reference] 'Weather Vane'
 staxel.tileObject.airship.WeatherVane.name=
+staxel.tileObject.beachset.BeachToys.description=
+//TODO Translate [Reference] 'Beach Toys'
+staxel.tileObject.beachset.BeachToys.name=
 staxel.tileObject.beachset.PalmTree.description=
 //[Reference] 'Palm Tree'
 staxel.tileObject.beachset.PalmTree.name=야자수
+staxel.tileObject.beachset.SandCastle.description=
+//TODO Translate [Reference] 'Sand Castle'
+staxel.tileObject.beachset.SandCastle.name=
 staxel.tileObject.biomeDebris.ForestBox.description=
 //[Reference] 'Forest Box'
 staxel.tileObject.biomeDebris.ForestBox.name=숲속 상자
@@ -3684,6 +3900,9 @@ staxel.tileObject.biomeDebris.LongMeadowGrass.4.Summer.name=여름
 staxel.tileObject.biomeDebris.LongMeadowGrass.4.Winter.description=
 //[Reference] 'Winter'
 staxel.tileObject.biomeDebris.LongMeadowGrass.4.Winter.name=겨울
+staxel.tileObject.bobbleheads.AlizaBobblehead.description=
+//TODO Translate [Reference] 'Aliza Bobblehead'
+staxel.tileObject.bobbleheads.AlizaBobblehead.name=
 staxel.tileObject.bobbleheads.BadgerBobbleHead.description=
 //[Reference] 'Badger Bobble Head'
 staxel.tileObject.bobbleheads.BadgerBobbleHead.name=Badger 버블헤드
@@ -3715,6 +3934,15 @@ staxel.tileObject.bobbleheads.LambdaBobbleHead.name=Lambda 버블헤드
 staxel.tileObject.bobbleheads.OscarBobbleHead.description=
 //TODO Translate [Reference] 'Oscar Bobble Head'
 staxel.tileObject.bobbleheads.OscarBobbleHead.name=
+staxel.tileObject.bobbleheads.RiahBobbleHead.description=
+//TODO Translate [Reference] 'Riah Bobble Head'
+staxel.tileObject.bobbleheads.RiahBobbleHead.name=
+staxel.tileObject.bobbleheads.RosemaryBobbleHead.description=
+//TODO Translate [Reference] 'Rosemary Bobblehead'
+staxel.tileObject.bobbleheads.RosemaryBobbleHead.name=
+staxel.tileObject.bobbleheads.RowanBobblehead.description=
+//TODO Translate [Reference] 'Rowan Bobblehead'
+staxel.tileObject.bobbleheads.RowanBobblehead.name=
 staxel.tileObject.bobbleheads.ThomasBobbleHead.description=
 //[Reference] 'Thomas Bobble Head'
 staxel.tileObject.bobbleheads.ThomasBobbleHead.name=Thomas 버블헤드
@@ -3869,6 +4097,15 @@ staxel.tileObject.festival.feymasquerade.SmallPinkDaisyTable.name=작은 분홍�
 staxel.tileObject.festival.feymasquerade.SmallRoseTable.description=
 //[Reference] 'Small Rose Fey Table'
 staxel.tileObject.festival.feymasquerade.SmallRoseTable.name=작은 장미 잎사귀 테이블
+staxel.tileObject.festival.feymasquerade.WallLamp.description=
+//TODO Translate [Reference] 'Wall Lamp'
+staxel.tileObject.festival.feymasquerade.WallLamp.name=
+staxel.tileObject.festival.FeyTreasureBox.description=
+//TODO Translate [Reference] 'Fey Treasure Box'
+staxel.tileObject.festival.FeyTreasureBox.name=
+staxel.tileObject.festival.FeyTreasureBoxUsed.description=
+//TODO Translate [Reference] 'Fey Treasure Box Used'
+staxel.tileObject.festival.FeyTreasureBoxUsed.name=
 staxel.tileObject.festival.NekoShrine.description=
 //[Reference] 'Small Shrine'
 staxel.tileObject.festival.NekoShrine.name=작은 사당
@@ -5354,6 +5591,8 @@ staxel.totem.AlizaHome=Aliza의 집
 
 //[Reference] '{0-roof} (Any blocks)'
 staxel.totem.anyBlock={0-roof} (모든 블록)
+//TODO Translate [Reference] 'Away from Village.'
+staxel.totem.awayFromTown=
 //[Reference] 'Simple Barn'
 staxel.totem.Barn=간단한 헛간
 //[Reference] 'Barn'
@@ -5394,21 +5633,27 @@ staxel.totem.festival.feymasquerade.FeyRoom208=요정들의 방 208
 staxel.totem.festival.feymasquerade.FeyThroneRoom=요정왕의 방
 //[Reference] 'Snowdust Shrine'
 staxel.totem.festival.SnowdustShrine=빛나는 눈조각
+//TODO Translate [Reference] 'This overlaps a festival area. These are periodically overwritten!'
+staxel.totem.FestivalOverlapped=
 //TODO Translate [Reference] 'Warning: Festival gate regions are periodically overwritten!'
 staxel.totem.FestivalTotem=
 //[Reference] 'Furnishing requirements complete!'
 staxel.totem.FurnitureComplete=가구 준비가 완료되었습니다!
+//TODO Translate [Reference] 'Goth Mushroom'
+staxel.totem.GothMushroom=
+//TODO Translate [Reference] '(Too Close)'
+staxel.totem.isNotAwayFromTown=
 //TODO Translate [Reference] '(Currently overlapping)'
 staxel.totem.isOverlapping=
 //[Reference] 'Jamie's Home'
 staxel.totem.JamieHome=Jamie의 집
-//TODO Translate [Reference] 'Max Statue A'
+//TODO Translate [Reference] 'Abstract Statue Plaque'
 staxel.totem.MaxStatueA=
-//TODO Translate [Reference] 'Max Statue B'
+//TODO Translate [Reference] 'Cubic Statue Plaque'
 staxel.totem.MaxStatueB=
-//TODO Translate [Reference] 'Max Statue C'
+//TODO Translate [Reference] 'Slime Statue Plaque'
 staxel.totem.MaxStatueC=
-//TODO Translate [Reference] 'Max Statue D'
+//TODO Translate [Reference] 'Farmer Statue Plaque'
 staxel.totem.MaxStatueD=
 //[Reference] 'Maximilian's Home'
 staxel.totem.MayorMaxHome=Maximilian의 집
@@ -5428,6 +5673,8 @@ staxel.totem.RiahHome=Riah의 집
 staxel.totem.roofMissing=(부족함)
 //[Reference] 'Rosemary's Home'
 staxel.totem.RosemaryHome=Rosemary의 집
+//TODO Translate [Reference] 'Small Festival Grounds'
+staxel.totem.SmallFestivalGrounds=
 //TODO Translate [Reference] 'Stone Resource'
 staxel.totem.StoneResource=
 //[Reference] 'Test'
@@ -5530,11 +5777,13 @@ staxel.tree.TangerineTree.description=이 나무는 겨울에 감귤이 자랍�
 staxel.tree.TangerineTree.name=귤 나무 씨앗
 staxel.village.dialogue.ForestBunnyGiveItem.=
 //TODO Translate [Reference] '...'
-staxel.village.dialogue.ForestBunnyGiveItem.line:10000101=
+staxel.village.dialogue.ForestBunnyGiveItem.line:10000101=...
 //[Reference] '{0-name} has left the village.'
 staxel.village.villagerLeftTown={0-name} (이)가 마을을 떠났습니다.
 //[Reference] 'Aliza'
 staxel.villager.Aliza.name=앨리자
+//TODO Translate [Reference] 'Alua'
+staxel.villager.Alua.name=
 //[Reference] 'Ami'
 staxel.villager.Ami.name=에이미
 //TODO Translate [Reference] 'Boisterous Tourist'
@@ -5547,6 +5796,8 @@ staxel.villager.Butterfly.name=
 staxel.villager.Caren.name=캐런
 //[Reference] 'Cecile'
 staxel.villager.Cecile.name=세실
+//TODO Translate [Reference] 'Cecile's Monster'
+staxel.villager.Cecile's Monster.name=
 //[Reference] 'Cirahna'
 staxel.villager.Cirahna.name=시라나
 //[Reference] 'Riah?!?'
@@ -5573,8 +5824,14 @@ staxel.villager.MaybeRiah.name=리아!
 staxel.villager.NotRiah.name=리아?
 //[Reference] 'Oscar'
 staxel.villager.Oscar.name=오스카
+//TODO Translate [Reference] 'Prince'
+staxel.villager.Prince.name=왕자
+//TODO Translate [Reference] 'Princess'
+staxel.villager.Princess.name=공주
 //TODO Translate [Reference] 'Reserved Tourist'
 staxel.villager.QuietTourist.name=
+//TODO Translate [Reference] 'Rainbow Butterfly'
+staxel.villager.Rainbow Butterfly.name=
 //TODO Translate [Reference] 'Reserved Tourist'
 staxel.villager.Reserved Tourist.name=
 //[Reference] 'Riah'
@@ -5589,6 +5846,8 @@ staxel.villager.Smart Tourist.name=
 staxel.villager.SmartTourist.name=
 //[Reference] 'Stray Cat'
 staxel.villager.Stray Cat.name=스트레이 캣
+//TODO Translate [Reference] 'Trash Fairy'
+staxel.villager.Trash Fairy.name=
 //[Reference] 'Vorlen'
 staxel.villager.Vorlen.name=보어랭
 staxel.weed.Weed1.description=
