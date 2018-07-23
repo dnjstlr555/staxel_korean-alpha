@@ -641,7 +641,7 @@ staxel.item.crops.Cucumber.description=잘 자란 신선한 오이입니다.
 //[Reference] 'Cucumber'
 staxel.item.crops.Cucumber.name=오이
 //TODO Translate [Reference] 'What a beautiful looking fruit, it almost looks alien!'
-staxel.item.crops.DragonFruit.description=
+staxel.item.crops.DragonFruit.description=외계인 같이 생겼어요. 멋있네요!
 //[Reference] 'Dragon Fruit'
 staxel.item.crops.DragonFruit.name=용과
 //[Reference] 'A very shiny eggplant.'
@@ -669,7 +669,7 @@ staxel.item.crops.GoldenCucumber.description=우와, 금으로 만들어진 오�
 //[Reference] 'Golden Cucumber'
 staxel.item.crops.GoldenCucumber.name=황금 오이
 //[Reference] 'This Eggplant is made of gold! Unfortunately, golden chickens don't hatch out of golden eggplants.'
-staxel.item.crops.GoldenEggplant.description=금으로 만들어진 가지입니다! Unfortunately, golden chickens don't hatch out of golden eggplants.
+staxel.item.crops.GoldenEggplant.description=금으로 만들어진 가지입니다! 뭔가 가지가지 해요.
 //[Reference] 'Golden Eggplant'
 staxel.item.crops.GoldenEggplant.name=황금 가지
 //[Reference] 'This lettuce is made of gold! I hear this is what caesar salads were originally made with...'
@@ -970,7 +970,7 @@ staxel.item.quest.BlueSocks.name=파란색 양말
 //[Reference] 'Somebody forgot their gaming device!'
 staxel.item.quest.BlueVoxelboy.description=누군가 이 게임기를 잊고갔나 보네요!
 //[Reference] 'Blue Voxelboy'
-staxel.item.quest.BlueVoxelboy.name=파란샋 복셀보이
+staxel.item.quest.BlueVoxelboy.name=파란색 복셀보이
 //[Reference] 'Uh oh, looks like someone lost their phone!'
 staxel.item.quest.BunnyPhoneBlue.description=이런, 누가 잃어버린 것 같은 휴대전화네요!
 //[Reference] 'Blue Bunny Phone'
@@ -985,10 +985,10 @@ staxel.item.quest.BunnyPhoneYellow.description=이런, 누가 잃어버린 것 �
 staxel.item.quest.BunnyPhoneYellow.name=노란색 토끼 휴대전화
 staxel.item.quest.Max.GaintTurnip.description=
 //TODO Translate [Reference] 'Giant Turnip'
-staxel.item.quest.Max.GaintTurnip.name=
+staxel.item.quest.Max.GaintTurnip.name=대형 순무
 staxel.item.quest.Max.GrandPrizeVoucher.description=
 //TODO Translate [Reference] 'Grand Prize Voucher'
-staxel.item.quest.Max.GrandPrizeVoucher.name=
+staxel.item.quest.Max.GrandPrizeVoucher.name=대박 상품 쿠폰
 staxel.item.quest.Parcel.description=
 //[Reference] 'Parcel'
 staxel.item.quest.Parcel.name=꾸러미
@@ -1001,7 +1001,7 @@ staxel.item.quest.PinkSocks.description=누가 이걸 길에 두고 간걸까요
 staxel.item.quest.PinkSocks.name=분홍색 양말
 staxel.item.quest.Vorlen.StrangePhotograph.description=
 //TODO Translate [Reference] 'Strange Photograph'
-staxel.item.quest.Vorlen.StrangePhotograph.name=
+staxel.item.quest.Vorlen.StrangePhotograph.name=이상한 사진
 staxel.item.quest.YellowLetter.description=
 //[Reference] 'Yellow Letter'
 staxel.item.quest.YellowLetter.name=노란색 편지

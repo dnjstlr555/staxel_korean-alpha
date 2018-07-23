@@ -33,7 +33,7 @@ staxel.achievement.CatchFish.description=낚싯줄을 물에 던져 물고기를
 staxel.achievement.CatchFish.name=물고기 낚기
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Catch one of each type of fish.'
-staxel.achievement.CatchFishOneOfEach.description=모든 종류의 물고기를 낚아 포X몬 마스터가 되보세요.
+staxel.achievement.CatchFishOneOfEach.description=모든 종류의 물고기를 낚아 포케몬 마스터가 되보세요.
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Catch Every Fish'
 staxel.achievement.CatchFishOneOfEach.name=모든 종류의 물고기 낚기
@@ -162,7 +162,7 @@ staxel.achievement.GetEgg100.description=한 바구니로는 부족할 것 같�
 //[Reference] 'Pick up 100 Eggs'
 staxel.achievement.GetEgg100.name=달걀 100개 줍기
 //TODO Translate [Reference] 'Get your hands on a work of art'
-staxel.achievement.GetPainting.description=
+staxel.achievement.GetPainting.description=예술 작품을 손에 넣으세요.
 //[Reference] 'Obtain a Painting'
 staxel.achievement.GetPainting.name=그림 찾기
 //[Reference] 'They love to play in the mud.'
@@ -311,7 +311,7 @@ staxel.achievement.SellItem.description=택배 보관함을 이용해 싱싱한 
 //[Reference] 'Sell a Crop'
 staxel.achievement.SellItem.name=농작물 팔기
 //[Reference] 'Shear a Sheep. Don't worry, they'll be fine!'
-staxel.achievement.ShearSheep.description=양털을 깎으세요. 걱정은 마세요, 양들은 괜찮을거예요!
+staxel.achievement.ShearSheep.description=양털을 깎으세요. 걱정마세요, 양들은 괜찮을거예요!
 //[Reference] 'Shear a Sheep'
 staxel.achievement.ShearSheep.name=양털 깎기
 //[Reference] 'Rev up those shears!'
@@ -349,7 +349,7 @@ staxel.achievements.chargeMax=제일 세게 힘 모으기
 //[Reference] 'Orders placed for {0-item}'
 staxel.achievements.descriptions.OrderItem.text={0-item} 주문됨
 //[Reference] '{0-item} placed'
-staxel.achievements.descriptions.PlaceItem.text={0-item} 설치 됨
+staxel.achievements.descriptions.PlaceItem.text={0-item} 설치됨
 //[Reference] '{0-item} planted'
 staxel.achievements.descriptions.PlantItem.text={0-item} 심어짐
 //[Reference] 'Sales of {0-item}'

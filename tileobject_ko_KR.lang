@@ -163,21 +163,21 @@ staxel.tileObject.bobbleheads.CowBobbleHead.description=
 staxel.tileObject.bobbleheads.CowBobbleHead.name=소 버블헤드
 staxel.tileObject.bobbleheads.EgaddBobbleHead.description=
 //[Reference] 'Egadd Bobblehead'
-staxel.tileObject.bobbleheads.EgaddBobbleHead.name=Egadd Bobblehead
+staxel.tileObject.bobbleheads.EgaddBobbleHead.name=Egadd 버블헤드
 staxel.tileObject.bobbleheads.GolemBobbleHead.description=
-//[Reference] 'Golem Bobblehead'
-staxel.tileObject.bobbleheads.GolemBobbleHead.name=Golem Bobblehead
+//[Reference] 'Golem 버블헤드'
+staxel.tileObject.bobbleheads.GolemBobbleHead.name=Golem 버블헤드
 staxel.tileObject.bobbleheads.HarryBobbleHead.description=
-//[Reference] 'Harry Bobblehead'
-staxel.tileObject.bobbleheads.HarryBobbleHead.name=Harry Bobblehead
+//[Reference] 'Harry 버블헤드'
+staxel.tileObject.bobbleheads.HarryBobbleHead.name=Harry 버블헤드
 staxel.tileObject.bobbleheads.JenBobbleHead.description=
-//[Reference] 'Jen Bobblehead'
-staxel.tileObject.bobbleheads.JenBobbleHead.name=Jen Bobblehead
+//[Reference] 'Jen 버블헤드'
+staxel.tileObject.bobbleheads.JenBobbleHead.name=Jen 버블헤드
 staxel.tileObject.bobbleheads.JoeBobbleHead.description=
-//[Reference] 'Joe Bobblehead'
-staxel.tileObject.bobbleheads.JoeBobbleHead.name=Joe Bobblehead
+//[Reference] 'Joe 버블헤드'
+staxel.tileObject.bobbleheads.JoeBobbleHead.name=Joe 버블헤드
 staxel.tileObject.bobbleheads.MayorBobbleHead.description=
-//TODO Translate [Reference] 'Mayor Bobblehead'
+//TODO Translate [Reference] 'Mayor 버블헤드'
 staxel.tileObject.bobbleheads.MayorBobbleHead.name=
 staxel.tileObject.bobbleheads.MoocowBobbleHead.description=
 //[Reference] 'Moocow Bobblehead'
@@ -1237,19 +1237,19 @@ staxel.tileObject.serverVillage.exterior.Lilypad1.name=수련의 잎
 //[Reference] 'Found in ponds, lily pads serve as a frog's walkway.'
 staxel.tileObject.serverVillage.exterior.Lilypad2.description=Found in ponds, lily pads serve as a frog's walkway.
 //[Reference] 'Lily Pad'
-staxel.tileObject.serverVillage.exterior.Lilypad2.name=Lily Pad-연꽃잎
+staxel.tileObject.serverVillage.exterior.Lilypad2.name=연꽃잎
 //[Reference] 'Found in ponds, lily pads serve as a frog's walkway.'
-staxel.tileObject.serverVillage.exterior.Lilypad3.description=Found in ponds, lily pads serve as a frog's walkway.-연못에서 발견할 수 있습니다, 연꽃잎은 개구리의 산책로가 됩니다.
+staxel.tileObject.serverVillage.exterior.Lilypad3.description=연못에서 발견할 수 있습니다, 연꽃잎은 개구리의 산책로가 됩니다.
 //[Reference] 'Lily Pad'
-staxel.tileObject.serverVillage.exterior.Lilypad3.name=Lily Pad-연꽃잎
+staxel.tileObject.serverVillage.exterior.Lilypad3.name=연꽃잎
 //[Reference] 'Left over from some build project it seems.'
-staxel.tileObject.serverVillage.exterior.LooseBricks.description=Left over from some build project it seems.-건물을 짓고 남은 벽돌 같습니다.
+staxel.tileObject.serverVillage.exterior.LooseBricks.description=건물을 짓고 남은 벽돌 같습니다.
 //[Reference] 'Loose Bricks'
-staxel.tileObject.serverVillage.exterior.LooseBricks.name=loose brick-마모된 벽돌
+staxel.tileObject.serverVillage.exterior.LooseBricks.name=마모된 벽돌
 //[Reference] 'Market stalls are a great way to set up a store quickly.'
 staxel.tileObject.serverVillage.exterior.MarketStallBlue.description=Market stalls are a great way to set up a store quickly.
 //[Reference] 'Blue Market Stall'
-staxel.tileObject.serverVillage.exterior.MarketStallBlue.name=Blue Market Stall-파란색
+staxel.tileObject.serverVillage.exterior.MarketStallBlue.name=파란색
 //[Reference] 'Market stalls are a great way to set up a store quickly.'
 staxel.tileObject.serverVillage.exterior.MarketStallGreen.description=Market stalls are a great way to set up a store quickly.
 //[Reference] 'Green Market Stall'
@@ -1263,32 +1263,32 @@ staxel.tileObject.serverVillage.exterior.MarketStallRed.description=Market stall
 //[Reference] 'Red Market Stall'
 staxel.tileObject.serverVillage.exterior.MarketStallRed.name=Red Market Stall
 //[Reference] 'Mail is delivered here, every house should have one!'
-staxel.tileObject.serverVillage.exterior.Postbox.description=Mail is delivered here, every house should have one!-집집마다 하나씩은 있는 우편 배달함입니다.
+staxel.tileObject.serverVillage.exterior.Postbox.description=집집마다 하나씩은 있는 우편 배달함입니다.
 //[Reference] 'Mailbox'
-staxel.tileObject.serverVillage.exterior.Postbox.name=Mailbox-우편함
+staxel.tileObject.serverVillage.exterior.Postbox.name=우편함
 //[Reference] 'The spookiest vegetable!'
-staxel.tileObject.serverVillage.exterior.Pumpkin.description=The spookiest vegetable!-가장 무시무시한 야채!
+staxel.tileObject.serverVillage.exterior.Pumpkin.description=가장 무시무시한 야채!
 //[Reference] 'Pumpkin'
-staxel.tileObject.serverVillage.exterior.Pumpkin.name=Pumpkin-호박
+staxel.tileObject.serverVillage.exterior.Pumpkin.name=호박
 //[Reference] 'This flower bed has some pink flowers growing inside.'
-staxel.tileObject.serverVillage.exterior.RedClayPlantPotPink.description=This flower bed has some pink flowers growing inside.-이 화분에는 분홍색 꽃이 자라고 있습니다.
+staxel.tileObject.serverVillage.exterior.RedClayPlantPotPink.description=이 화분에는 분홍색 꽃이 자라고 있습니다.
 //[Reference] 'Red Clay Bed With Pink Flowers'
-staxel.tileObject.serverVillage.exterior.RedClayPlantPotPink.name=Red Clay Bed With Pink Flowers-분홍 꽃이 핀 빨간색 점토 화분
+staxel.tileObject.serverVillage.exterior.RedClayPlantPotPink.name=분홍 꽃이 핀 빨간색 점토 화분
 //[Reference] 'This flower bed has some seedlings growing inside.'
-staxel.tileObject.serverVillage.exterior.RedClayPlantPotSeedling.description=This flower bed has some seedlings growing inside.-이 화문에는 묘목이 자라고 있습니다.
+staxel.tileObject.serverVillage.exterior.RedClayPlantPotSeedling.description=이 화문에는 묘목이 자라고 있습니다.
 //[Reference] 'Red Clay Bed With Seedlings'
-staxel.tileObject.serverVillage.exterior.RedClayPlantPotSeedling.name=Red Clay Bed With Seedlings-묘목이 심어진 빨산색 점토 화분
+staxel.tileObject.serverVillage.exterior.RedClayPlantPotSeedling.name=묘목이 심어진 빨산색 점토 화분
 //[Reference] 'This flower bed has some white flowers growing inside.'
-staxel.tileObject.serverVillage.exterior.RedClayPlantPotWhite.description=This flower bed has some white flowers growing inside.-이 화분에는 하얀색 꽃이 자라고 있습니다.
+staxel.tileObject.serverVillage.exterior.RedClayPlantPotWhite.description=이 화분에는 하얀색 꽃이 자라고 있습니다.
 //[Reference] 'Red Clay Bed With White Flowers'
-staxel.tileObject.serverVillage.exterior.RedClayPlantPotWhite.name=Red Clay Bed With White Flowers-하얀 꽃이 핀 빨간색 점토 화분
+staxel.tileObject.serverVillage.exterior.RedClayPlantPotWhite.name=하얀 꽃이 핀 빨간색 점토 화분
 staxel.tileObject.serverVillage.exterior.Reeds.description=
 //[Reference] 'Reeds'
-staxel.tileObject.serverVillage.exterior.Reeds.name=Reeds-갈대
+staxel.tileObject.serverVillage.exterior.Reeds.name=갈대
 //[Reference] 'A roofing piece with a simple design.'
 staxel.tileObject.serverVillage.exterior.RoofCornerHigh.description=A roofing piece with a simple design.
 //[Reference] 'Upper Corner Basic Roof'
-staxel.tileObject.serverVillage.exterior.RoofCornerHigh.name=Upper Corner Basic Roof-모서리 쪽 기본 지붕
+staxel.tileObject.serverVillage.exterior.RoofCornerHigh.name=모서리 쪽 기본 지붕
 //[Reference] 'A roofing piece with a simple design.'
 staxel.tileObject.serverVillage.exterior.RoofCornerLow.description=A roofing piece with a simple design.
 //[Reference] 'Lower Corner Basic Roof'
@@ -1334,341 +1334,341 @@ staxel.tileObject.serverVillage.exterior.RoofTop.description=A roofing piece wit
 //[Reference] 'Basic Red Roof Top.'
 staxel.tileObject.serverVillage.exterior.RoofTop.name=Basic Red Roof Top.
 //[Reference] 'A tall, solid, wooden fence.'
-staxel.tileObject.serverVillage.exterior.RoughWoodenFenceCorner.description=A tall, solid, wooden fence.-크고 단단한 나무 울타리
+staxel.tileObject.serverVillage.exterior.RoughWoodenFenceCorner.description=크고 단단한 나무 울타리
 //[Reference] 'Rough Wooden Fence Corner'
-staxel.tileObject.serverVillage.exterior.RoughWoodenFenceCorner.name=Rough Wooden Fence Corner-모서리 쪽 거친 나무 울타리
+staxel.tileObject.serverVillage.exterior.RoughWoodenFenceCorner.name=모서리 쪽 거친 나무 울타리
 //[Reference] 'A tall, solid, wooden fence.'
-staxel.tileObject.serverVillage.exterior.RoughWoodenFenceStraight.description=A tall, solid, wooden fence.-크고 단단한 나무 울타리
+staxel.tileObject.serverVillage.exterior.RoughWoodenFenceStraight.description=크고 단단한 나무 울타리
 //[Reference] 'Rough Wooden Fence'
-staxel.tileObject.serverVillage.exterior.RoughWoodenFenceStraight.name=Rough Wooden Fence-거친 나무 울타리
+staxel.tileObject.serverVillage.exterior.RoughWoodenFenceStraight.name=거친 나무 울타리
 //[Reference] 'Keeps all those pesky crows away from your crops. He's great at his job!'
-staxel.tileObject.serverVillage.exterior.Scarecrow.description=Keeps all those pesky crows away from your crops. He's great at his job!-성가신 까마귀들을 농작물로부터 내쫒습니다.
+staxel.tileObject.serverVillage.exterior.Scarecrow.description=성가신 까마귀들을 농작물로부터 내쫒습니다.
 //[Reference] 'Scarecrow'
-staxel.tileObject.serverVillage.exterior.Scarecrow.name=Scarecrow-허수아비
+staxel.tileObject.serverVillage.exterior.Scarecrow.name=허수아비
 //[Reference] 'A beautiful blue mushroom. It looks like it came from an alien planet!'
 staxel.tileObject.serverVillage.exterior.ShinyMushroom.description=A beautiful blue mushroom. It looks like it came from an alien planet!
 //[Reference] 'Shiny Mushroom'
 staxel.tileObject.serverVillage.exterior.ShinyMushroom.name=Shiny Mushroom
 //[Reference] 'A wooden counter, usually used for retail stores.'
-staxel.tileObject.serverVillage.exterior.ShopCounter.description=A wooden counter, usually used for retail stores.-보통 소매점에서 사용하는 나무 계산대입니다.
+staxel.tileObject.serverVillage.exterior.ShopCounter.description=보통 소매점에서 사용하는 나무 계산대입니다.
 //[Reference] 'Shop Counter'
-staxel.tileObject.serverVillage.exterior.ShopCounter.name=Shop Counter-상점 계산대
+staxel.tileObject.serverVillage.exterior.ShopCounter.name=상점 계산대
 //[Reference] 'Place it on a building to indicate to passersby that it's an inn.'
-staxel.tileObject.serverVillage.exterior.SignInn.description=Place it on a building to indicate to passersby that it's an inn.-지나가는 사람들이 여기가 여관이란 것을 알 수 있도록 설치하세요.
+staxel.tileObject.serverVillage.exterior.SignInn.description=지나가는 사람들이 여기가 여관이란 것을 알 수 있도록 설치하세요.
 //[Reference] 'Inn Sign'
-staxel.tileObject.serverVillage.exterior.SignInn.name=Inn Sign-여관 간판
+staxel.tileObject.serverVillage.exterior.SignInn.name=여관 간판
 //[Reference] 'Place it on a building to indicate to passersby that it's a post office.'
-staxel.tileObject.serverVillage.exterior.SignPost.description=Place it on a building to indicate to passersby that it's a post office.-자나가는 사람들이 여기가 우체국이란 것을 알 수 있도록 설치하세요.
+staxel.tileObject.serverVillage.exterior.SignPost.description=자나가는 사람들이 여기가 우체국이란 것을 알 수 있도록 설치하세요.
 //[Reference] 'Sign Post'
-staxel.tileObject.serverVillage.exterior.SignPost.name=Sign Post-우체국 간판
+staxel.tileObject.serverVillage.exterior.SignPost.name=우체국 간판
 //[Reference] 'Place it on a building to indicate to passersby that it's a store.'
-staxel.tileObject.serverVillage.exterior.SignStore.description=Place it on a building to indicate to passersby that it's a store.-지나가는 사람들이 여기가 상점이란 것을 알 수 있도록 설치하세요.
+staxel.tileObject.serverVillage.exterior.SignStore.description=지나가는 사람들이 여기가 상점이란 것을 알 수 있도록 설치하세요.
 //[Reference] 'Store Sign'
-staxel.tileObject.serverVillage.exterior.SignStore.name=Store Sign-상점 간판
+staxel.tileObject.serverVillage.exterior.SignStore.name=상점 간판
 //[Reference] 'This small tree is still growing, but it looks healthy.'
-staxel.tileObject.serverVillage.exterior.SmallBushyTree.description=This small tree is still growing, but it looks healthy.-이 작은 나무는 여전히 튼튼하게 자라고 있는 것 같습니다.
+staxel.tileObject.serverVillage.exterior.SmallBushyTree.description=이 작은 나무는 여전히 튼튼하게 자라고 있는 것 같습니다.
 //[Reference] 'Small Bushy Tree'
-staxel.tileObject.serverVillage.exterior.SmallBushyTree.name=Small Bushy Tree-작은 덤불 나무
+staxel.tileObject.serverVillage.exterior.SmallBushyTree.name=작은 덤불 나무
 //[Reference] 'A good way to divide up land without being too obtrusive.'
-staxel.tileObject.serverVillage.exterior.SmallHedgeCorner.description=A good way to divide up land without being too obtrusive.-분위기를 해치지 않고 구역을 나누는 좋은 방법입니다.
+staxel.tileObject.serverVillage.exterior.SmallHedgeCorner.description=분위기를 해치지 않고 구역을 나누는 좋은 방법입니다.
 //[Reference] 'Low Hedge Corner'
-staxel.tileObject.serverVillage.exterior.SmallHedgeCorner.name=Low Hedge Corner-나무 울타리 모퉁이
+staxel.tileObject.serverVillage.exterior.SmallHedgeCorner.name=나무 울타리 모퉁이
 //[Reference] 'A good way to divide up land without being too obtrusive.'
-staxel.tileObject.serverVillage.exterior.SmallHedgeEnd.description=A good way to divide up land without being too obtrusive.-분위기를 해치지 않고 구역을 나누는 좋은 방법입니다.
+staxel.tileObject.serverVillage.exterior.SmallHedgeEnd.description=분위기를 해치지 않고 구역을 나누는 좋은 방법입니다.
 //[Reference] 'Low Hedge End'
-staxel.tileObject.serverVillage.exterior.SmallHedgeEnd.name=Low Hedge End-나무 울타리 끝 부분
+staxel.tileObject.serverVillage.exterior.SmallHedgeEnd.name=나무 울타리 끝 부분
 //[Reference] 'A good way to divide up land without being too obtrusive.'
-staxel.tileObject.serverVillage.exterior.SmallHedgeStraight.description=A good way to divide up land without being too obtrusive.-분위기를 해치지 않고 구역을 나누는 좋은 방법입니다.
+staxel.tileObject.serverVillage.exterior.SmallHedgeStraight.description=분위기를 해치지 않고 구역을 나누는 좋은 방법입니다.
 //[Reference] 'Low Hedge'
-staxel.tileObject.serverVillage.exterior.SmallHedgeStraight.name=Low Hedge-나무 울타리
+staxel.tileObject.serverVillage.exterior.SmallHedgeStraight.name=나무 울타리
 //[Reference] 'A good way to divide up land without being too obtrusive.'
-staxel.tileObject.serverVillage.exterior.SmallHomelyBush.description=A good way to divide up land without being too obtrusive.-분위기를 해치지 않고 구역을 나누는 좋은 방법입니다.
+staxel.tileObject.serverVillage.exterior.SmallHomelyBush.description=분위기를 해치지 않고 구역을 나누는 좋은 방법입니다.
 //[Reference] 'Small Shrub'
-staxel.tileObject.serverVillage.exterior.SmallHomelyBush.name=Small Shrub-작은 관목
+staxel.tileObject.serverVillage.exterior.SmallHomelyBush.name=작은 관목
 
 staxel.tileObject.serverVillage.exterior.SmallWoodenPoleFenceCorner.description=
 //[Reference] 'Low Wooden Fence'
-staxel.tileObject.serverVillage.exterior.SmallWoodenPoleFenceCorner.name=Low Wooden Fence-낮은 나무 울타리
+staxel.tileObject.serverVillage.exterior.SmallWoodenPoleFenceCorner.name=낮은 나무 울타리
 staxel.tileObject.serverVillage.exterior.SmallWoodenPoleFenceMiddle.description=
 //[Reference] 'Low Wooden Fence'
-staxel.tileObject.serverVillage.exterior.SmallWoodenPoleFenceMiddle.name=Low Wooden Fence-낮은 나무 울타리
+staxel.tileObject.serverVillage.exterior.SmallWoodenPoleFenceMiddle.name=낮은 나무 울타리
 staxel.tileObject.serverVillage.exterior.SmallWoodenPoleFenceTSection.description=
 //[Reference] 'Low Wooden Fence'
-staxel.tileObject.serverVillage.exterior.SmallWoodenPoleFenceTSection.name=Low Wooden Fence-낮은 나무 울타리
+staxel.tileObject.serverVillage.exterior.SmallWoodenPoleFenceTSection.name=낮은 나무 울타리
 //[Reference] 'Flooring which is great for both indoors and outdoors.'
-staxel.tileObject.serverVillage.exterior.SolidSlabFlooring.description=Flooring which is great for both indoors and outdoors.-안에서든 밖에서든 좋은 바닥재입니다.
+staxel.tileObject.serverVillage.exterior.SolidSlabFlooring.description=안에서든 밖에서든 좋은 바닥재입니다.
 //[Reference] 'Solid Slab Flooring'
-staxel.tileObject.serverVillage.exterior.SolidSlabFlooring.name=Solid Slab Flooring-단단한 석판 바닥재
+staxel.tileObject.serverVillage.exterior.SolidSlabFlooring.name=단단한 석판 바닥재
 //[Reference] 'The fence is quite low and has a nice, simple design.'
-staxel.tileObject.serverVillage.exterior.StoneFence.description=The fence is quite low and has a nice, simple design.-이 낮은 울타리는 단순하고 멋진 외형을 갖추고 있습니다.
+staxel.tileObject.serverVillage.exterior.StoneFence.description=이 낮은 울타리는 단순하고 멋진 외형을 갖추고 있습니다.
 //[Reference] 'Stone Fence'
-staxel.tileObject.serverVillage.exterior.StoneFence.name=Stone Fence-석조 울타리
+staxel.tileObject.serverVillage.exterior.StoneFence.name=석조 울타리
 //[Reference] 'The fence is quite low and has a nice, simple design.'
-staxel.tileObject.serverVillage.exterior.StoneFencePillar.description=The fence is quite low and has a nice, simple design.-이 낮은 울타리는 단순하고 멋진 외형을 갖추고 있습니다.
+staxel.tileObject.serverVillage.exterior.StoneFencePillar.description=이 낮은 울타리는 단순하고 멋진 외형을 갖추고 있습니다.
 //[Reference] 'Stone Fence Pillar'
-staxel.tileObject.serverVillage.exterior.StoneFencePillar.name=Stone Fence Pillar-석조 기둥
+staxel.tileObject.serverVillage.exterior.StoneFencePillar.name=석조 기둥
 //[Reference] 'The fence is quite low and has a nice, simple design.'
-staxel.tileObject.serverVillage.exterior.StoneFenceStraight.description=The fence is quite low and has a nice, simple design.-이 낮은 울타리는 단순하고 멋진 외형을 갖추고 있습니다.
+staxel.tileObject.serverVillage.exterior.StoneFenceStraight.description=이 낮은 울타리는 단순하고 멋진 외형을 갖추고 있습니다.
 //[Reference] 'Stone Fence Straight'
-staxel.tileObject.serverVillage.exterior.StoneFenceStraight.name=Stone Fence Straight-곧은 석조 울타리
+staxel.tileObject.serverVillage.exterior.StoneFenceStraight.name=곧은 석조 울타리
 //[Reference] 'The fence is quite low and has a nice, simple design.'
-staxel.tileObject.serverVillage.exterior.StoneFenceStraight2.description=The fence is quite low and has a nice, simple design.-이 낮은 울타리는 단순하고 멋진 외형을 갖추고 있습니다.
+staxel.tileObject.serverVillage.exterior.StoneFenceStraight2.description=이 낮은 울타리는 단순하고 멋진 외형을 갖추고 있습니다.
 //[Reference] 'Stone Fence Straight'
-staxel.tileObject.serverVillage.exterior.StoneFenceStraight2.name=Stone Fence Straight-곧은 석조 울타리
+staxel.tileObject.serverVillage.exterior.StoneFenceStraight2.name=곧은 석조 울타리
 //[Reference] 'Very well crafted. Made from raw stone.'
-staxel.tileObject.serverVillage.exterior.Stonework.houseTile.description=Very well crafted. Made from raw stone.-거친 돌로 만든 훌륭한 바닥입니다.
+staxel.tileObject.serverVillage.exterior.Stonework.houseTile.description=거친 돌로 만든 훌륭한 바닥입니다.
 //[Reference] 'Stonework House Tile'
-staxel.tileObject.serverVillage.exterior.Stonework.houseTile.name=Stonework House Tile-가공된 돌 바닥
+staxel.tileObject.serverVillage.exterior.Stonework.houseTile.name=가공된 돌 바닥
 //[Reference] 'All that's left from an ancient tree...'
-staxel.tileObject.serverVillage.exterior.TreeStump.description=All that's left from an ancient tree...-오랫동안 자랐던 나무의 흔적입니다...
+staxel.tileObject.serverVillage.exterior.TreeStump.description=오랫동안 자랐던 나무의 흔적입니다...
 //[Reference] 'Tree Stump'
-staxel.tileObject.serverVillage.exterior.TreeStump.name=Tree Stump-나무 밑동
+staxel.tileObject.serverVillage.exterior.TreeStump.name=나무 밑동
 //[Reference] 'A great finishing touch to any building.'
-staxel.tileObject.serverVillage.exterior.Vines.1.description=A great finishing touch to any building.-건물을 멋지게 마무리하는 데에 좋습니다.
+staxel.tileObject.serverVillage.exterior.Vines.1.description=건물을 멋지게 마무리하는 데에 좋습니다.
 //[Reference] 'Vines'
-staxel.tileObject.serverVillage.exterior.Vines.1.name=Vines-덩굴
+staxel.tileObject.serverVillage.exterior.Vines.1.name=덩굴
 //[Reference] 'A great finishing touch to any building.'
-staxel.tileObject.serverVillage.exterior.Vines.2.description=A great finishing touch to any building.-건물을 멋지게 마무리하는 데에 좋습니다.
+staxel.tileObject.serverVillage.exterior.Vines.2.description=건물을 멋지게 마무리하는 데에 좋습니다.
 //[Reference] 'Vines'
-staxel.tileObject.serverVillage.exterior.Vines.2.name=Vines-덩굴
+staxel.tileObject.serverVillage.exterior.Vines.2.name=덩굴
 //[Reference] 'A great finishing touch to any building.'
-staxel.tileObject.serverVillage.exterior.Vines.3.description=A great finishing touch to any building.-건물을 멋지게 마무리하는 데에 좋습니다.
+staxel.tileObject.serverVillage.exterior.Vines.3.description=건물을 멋지게 마무리하는 데에 좋습니다.
 //[Reference] 'Vines'
-staxel.tileObject.serverVillage.exterior.Vines.3.name=Vines-덩굴
+staxel.tileObject.serverVillage.exterior.Vines.3.name=덩굴
 //[Reference] 'A convenient way to brighten up any space.'
-staxel.tileObject.serverVillage.exterior.WallLamp.description=A convenient way to brighten up any space.-어느 곳이든 밝게 빛내는 편리한 램프입니다.
+staxel.tileObject.serverVillage.exterior.WallLamp.description=어느 곳이든 밝게 빛내는 편리한 램프입니다.
 //[Reference] 'Wall Lamp'
-staxel.tileObject.serverVillage.exterior.WallLamp.name=Wall Lamp-벽붙이 램프
+staxel.tileObject.serverVillage.exterior.WallLamp.name=벽붙이 램프
 //[Reference] 'A solid block of liquid.'
-staxel.tileObject.serverVillage.exterior.WaterBlock.description=A solid block of liquid.-액체 블록입니다.
+staxel.tileObject.serverVillage.exterior.WaterBlock.description=액체 블록입니다.
 //[Reference] 'Water Block'
-staxel.tileObject.serverVillage.exterior.WaterBlock.name=Water Block-물 블록
+staxel.tileObject.serverVillage.exterior.WaterBlock.name=물 블록
 //[Reference] 'A large well... it must be a hundred years old, at least!'
-staxel.tileObject.serverVillage.exterior.Well.description=A large well... it must be a hundred years old, at least!-큰 우물입니다... 적어도 100년은 지났을 것 같네요!
+staxel.tileObject.serverVillage.exterior.Well.description=큰 우물입니다... 적어도 100년은 지났을 것 같네요!
 //[Reference] 'Well'
-staxel.tileObject.serverVillage.exterior.Well.name=Well-우물
+staxel.tileObject.serverVillage.exterior.Well.name=우물
 //[Reference] 'A grain with a lot of different purposes.'
-staxel.tileObject.serverVillage.exterior.Wheat.description=A grain with a lot of different purposes.-다양한 용도로 쓰이는 곡식입니다.
+staxel.tileObject.serverVillage.exterior.Wheat.description=다양한 용도로 쓰이는 곡식입니다.
 //[Reference] 'Wheat'
-staxel.tileObject.serverVillage.exterior.Wheat.name=Wheat-밀
+staxel.tileObject.serverVillage.exterior.Wheat.name=밀
 //[Reference] 'Welcome to Winton!'
-staxel.tileObject.serverVillage.exterior.WintonSign.description=Welcome to Winton!-윈튼에 오신 것을 환영합니다!
+staxel.tileObject.serverVillage.exterior.WintonSign.description=윈튼에 오신 것을 환영합니다!
 //[Reference] 'Winton Sign'
-staxel.tileObject.serverVillage.exterior.WintonSign.name=Winton Sign-마을 간판
+staxel.tileObject.serverVillage.exterior.WintonSign.name=마을 간판
 //[Reference] 'Good to use on decking or at the top of stair cases.'
-staxel.tileObject.serverVillage.exterior.WoodenDeckingRailing.description=Good to use on decking or at the top of stair cases.-갑판 및 계단 윗부분에 설치하면 좋습니다.
+staxel.tileObject.serverVillage.exterior.WoodenDeckingRailing.description=갑판 및 계단 윗부분에 설치하면 좋습니다.
 //[Reference] 'Wooden Deck Railing'
-staxel.tileObject.serverVillage.exterior.WoodenDeckingRailing.name=Wooden Deck Railing-나무 갑판 난간
+staxel.tileObject.serverVillage.exterior.WoodenDeckingRailing.name=나무 갑판 난간
 //[Reference] 'Good to use on decking or at the top of stair cases.'
-staxel.tileObject.serverVillage.exterior.WoodenDeckingRailingCorner.description=Good to use on decking or at the top of stair cases.-갑판 및 계단 윗부분에 설치하면 좋습니다.
+staxel.tileObject.serverVillage.exterior.WoodenDeckingRailingCorner.description=갑판 및 계단 윗부분에 설치하면 좋습니다.
 //[Reference] 'Cornered Wooden Deck Railing'
-staxel.tileObject.serverVillage.exterior.WoodenDeckingRailingCorner.name=Cornered Wooden Deck Railing-나무 갑판 난간 모퉁이
+staxel.tileObject.serverVillage.exterior.WoodenDeckingRailingCorner.name=나무 갑판 난간 모퉁이
 //[Reference] 'A block crafted from wooden planks.'
-staxel.tileObject.serverVillage.exterior.WoodenHouseBlock.description=A block crafted from wooden planks.-나무 판자로 만들어진 블록입니다.
+staxel.tileObject.serverVillage.exterior.WoodenHouseBlock.description=나무 판자로 만들어진 블록입니다.
 //[Reference] 'Wooden House Block'
-staxel.tileObject.serverVillage.exterior.WoodenHouseBlock.name=Wooden House Block-나무 집 블록
+staxel.tileObject.serverVillage.exterior.WoodenHouseBlock.name=나무 집 블록
 //[Reference] 'A new, sturdy looking fence.'
-staxel.tileObject.serverVillage.exterior.WoodenPoleFenceCorner.description=A new, sturdy looking fence.-튼튼하고 세것처럼 보이는 울타리입니다.
+staxel.tileObject.serverVillage.exterior.WoodenPoleFenceCorner.description=튼튼하고 세것처럼 보이는 울타리입니다.
 //[Reference] 'Wooden Pole Fence Corner'
-staxel.tileObject.serverVillage.exterior.WoodenPoleFenceCorner.name=Wooden Pole Fence Corner-나무 울타리 기둥 모퉁이
+staxel.tileObject.serverVillage.exterior.WoodenPoleFenceCorner.name=나무 울타리 기둥 모퉁이
 //[Reference] 'A new, sturdy looking fence.'
-staxel.tileObject.serverVillage.exterior.WoodenPoleFenceMiddle.description=A new, sturdy looking fence.-튼튼하고 세것처럼 보이는 울타리입니다.
+staxel.tileObject.serverVillage.exterior.WoodenPoleFenceMiddle.description=튼튼하고 세것처럼 보이는 울타리입니다.
 //[Reference] 'Wooden Pole Fence Middle'
-staxel.tileObject.serverVillage.exterior.WoodenPoleFenceMiddle.name=Wooden Pole Fence Middle-나무 울타리 가운데 기둥
+staxel.tileObject.serverVillage.exterior.WoodenPoleFenceMiddle.name=나무 울타리 가운데 기둥
 //[Reference] 'A new, sturdy looking fence.'
-staxel.tileObject.serverVillage.exterior.WoodenPoleFenceStraight.description=A new, sturdy looking fence.-튼튼하고 세것처럼 보이는 울타리입니다.
+staxel.tileObject.serverVillage.exterior.WoodenPoleFenceStraight.description=튼튼하고 세것처럼 보이는 울타리입니다.
 //[Reference] 'Wooden Pole Fence'
-staxel.tileObject.serverVillage.exterior.WoodenPoleFenceStraight.name=Wooden Pole Fence-나무 기둥 울타리
+staxel.tileObject.serverVillage.exterior.WoodenPoleFenceStraight.name=나무 기둥 울타리
 //[Reference] 'Finished with a cream-coloured paint, this picket fence would look good anywhere.'
-staxel.tileObject.serverVillage.FenceCorner.description=Finished with a cream-coloured paint, this picket fence would look good anywhere.-크림같은 색감으로 칠해져 어디에서든 어울리는 말뚝 울타리입니다.
+staxel.tileObject.serverVillage.FenceCorner.description=크림같은 색감으로 칠해져 어디에서든 어울리는 말뚝 울타리입니다.
 //[Reference] 'Inner Corner White Picket Fence'
-staxel.tileObject.serverVillage.FenceCorner.name=Inner Corner White Picket Fence-모퉁이 내부 흰색 말뚝 울타리
+staxel.tileObject.serverVillage.FenceCorner.name=모퉁이 내부 흰색 말뚝 울타리
 //[Reference] 'Finished with a cream-coloured paint, this picket fence would look good anywhere.'
-staxel.tileObject.serverVillage.FenceCornerOuter.description=Finished with a cream-coloured paint, this picket fence would look good anywhere.-크림같은 색감으로 칠해져 어디에서든 어울리는 말뚝 울타리입니다.
+staxel.tileObject.serverVillage.FenceCornerOuter.description=크림같은 색감으로 칠해져 어디에서든 어울리는 말뚝 울타리입니다.
 //[Reference] 'Outer Corner White Picket Fence'
-staxel.tileObject.serverVillage.FenceCornerOuter.name=Outer Corner White Picket Fence-모퉁이 외부 읜색 말뚝 울타리
+staxel.tileObject.serverVillage.FenceCornerOuter.name=모퉁이 외부 읜색 말뚝 울타리
 //[Reference] 'Finished with a cream-coloured paint, this picket fence would look good anywhere.'
-staxel.tileObject.serverVillage.FenceStraight.description=Finished with a cream-coloured paint, this picket fence would look good anywhere.-크림같은 색감으로 칠해져 어디에서든 어울리는 말뚝 울타리입니다.
+staxel.tileObject.serverVillage.FenceStraight.description=크림같은 색감으로 칠해져 어디에서든 어울리는 말뚝 울타리입니다.
 //[Reference] 'White Picket Fence'
-staxel.tileObject.serverVillage.FenceStraight.name=White Picket Fence-흰색 말뚝 울타리
+staxel.tileObject.serverVillage.FenceStraight.name=흰색 말뚝 울타리
 //[Reference] 'A stunning fountain with fresh water inside. Perhaps it's time to make a wish!'
-staxel.tileObject.serverVillage.FilledFountain.description=A stunning fountain with fresh water inside. Perhaps it's time to make a wish!-신선한 물이 흐르는 멋진 분수대입니다. 소원을 빌어보세요!
+staxel.tileObject.serverVillage.FilledFountain.description=신선한 물이 흐르는 멋진 분수대입니다. 소원을 빌어보세요!
 //[Reference] 'Fountain'
-staxel.tileObject.serverVillage.FilledFountain.name=Fountain-분수대
+staxel.tileObject.serverVillage.FilledFountain.name=분수대
 staxel.tileObject.serverVillage.FilledFountainLarge.description=
 //[Reference] 'Large Fountain'
-staxel.tileObject.serverVillage.FilledFountainLarge.name=Large Fountain-큰 분수대
+staxel.tileObject.serverVillage.FilledFountainLarge.name=큰 분수대
 //[Reference] 'Used for storing your food and keeping it fresh.'
-staxel.tileObject.serverVillage.Fridge.description=Used for storing your food and keeping it fresh.-음식을 보관하고 신선하게 유지시켜줍니다.
+staxel.tileObject.serverVillage.Fridge.description=음식을 보관하고 신선하게 유지시켜줍니다.
 //[Reference] 'Simply Freezing Fridge'
-staxel.tileObject.serverVillage.Fridge.name=Simply Freezing Fridge-간단한 냉장고
+staxel.tileObject.serverVillage.Fridge.name=간단한 냉장고
 //[Reference] 'This station is for frying anything a recipe calls for.'
-staxel.tileObject.serverVillage.FryingStation.description=This station is for frying anything a recipe calls for.-이 곳에서는 레시피에 적힌 대로 모두 튀길 수 있습니다.
+staxel.tileObject.serverVillage.FryingStation.description=이 곳에서는 레시피에 적힌 대로 모두 튀길 수 있습니다.
 //[Reference] 'Frying Station'
-staxel.tileObject.serverVillage.FryingStation.name=Frying Station-튀김기
+staxel.tileObject.serverVillage.FryingStation.name=튀김기
 //[Reference] 'Don't just leave your garbage lying around, there's a special place for that.'
-staxel.tileObject.serverVillage.GarbageBin.description=Don't just leave your garbage lying around, there's a special place for that.-땅에 쓰레기를 버리지 말고, 이곳에 버려주세요.
+staxel.tileObject.serverVillage.GarbageBin.description=땅에 쓰레기를 버리지 말고, 이곳에 버려주세요.
 //[Reference] 'Blue Trash Can'
-staxel.tileObject.serverVillage.GarbageBin.name=Blue Trash Can-파란색 쓰레기통
+staxel.tileObject.serverVillage.GarbageBin.name=파란색 쓰레기통
 //[Reference] 'Hotdogs, a must have for any party!'
-staxel.tileObject.serverVillage.Hotdogs.description=Hotdogs, a must have for any party!-파티에 꼭 필요한 핫도그입니다!
+staxel.tileObject.serverVillage.Hotdogs.description=파티에 꼭 필요한 핫도그입니다!
 //[Reference] 'Plate of Hotdogs'
-staxel.tileObject.serverVillage.Hotdogs.name=Plate of Hotdogs-핫도그가 놓여진 접시
+staxel.tileObject.serverVillage.Hotdogs.name=핫도그가 놓여진 접시
 //[Reference] 'An indoor lamp with a a sleek, modern design.'
-staxel.tileObject.serverVillage.IndoorLamp.description=An indoor lamp with a a sleek, modern design.-세련된 현대식 디자인의 실내용 램프입니다.
+staxel.tileObject.serverVillage.IndoorLamp.description=세련된 현대식 디자인의 실내용 램프입니다.
 //[Reference] 'Black Floor Lamp'
-staxel.tileObject.serverVillage.IndoorLamp.name=Black Floor Lamp-검은색 바닥 램프
+staxel.tileObject.serverVillage.IndoorLamp.name=검은색 바닥 램프
 //[Reference] 'A standard, kitchen chair. Would go well with a standard kitchen table.'
-staxel.tileObject.serverVillage.KitchenChair.description=A standard, kitchen chair. Would go well with a standard kitchen table.-보편적인 주방 의자입니다, 주방 식탁과 어울릴 것 같습니다.
+staxel.tileObject.serverVillage.KitchenChair.description=보편적인 주방 의자입니다, 주방 식탁과 어울릴 것 같습니다.
 //[Reference] 'Simply Comfy Chair'
-staxel.tileObject.serverVillage.KitchenChair.name=Simply Comfy Chair-편안한 의자
+staxel.tileObject.serverVillage.KitchenChair.name=편안한 의자
 //[Reference] 'Sure this kitchen counter was designed in the '50s, but it's design is still going strong today!'
-staxel.tileObject.serverVillage.KitchenCounter.description=Sure this kitchen counter was designed in the '50s, but it's design is still going strong today!-이 주방 카운터는 50년대 디자인이지만, 여전히 이어져 오고 있습니다!
+staxel.tileObject.serverVillage.KitchenCounter.description=이 주방 카운터는 50년대 디자인이지만, 여전히 이어져 오고 있습니다!
 //[Reference] 'Simply Stylish Kitchen Counter'
-staxel.tileObject.serverVillage.KitchenCounter.name=Simply Stylish Kitchen Counter-세련된 주방 카운터
+staxel.tileObject.serverVillage.KitchenCounter.name=세련된 주방 카운터
 //[Reference] 'A sink with a large basin, and a water proof area to leave your freshly washed dishes to dry off.'
-staxel.tileObject.serverVillage.KitchenSink.description=A sink with a large basin, and a water proof area to leave your freshly washed dishes to dry off.-큰 세면대가 있는 싱크대와 설거지한 접시를 놓을 건조대가 있습니다.
+staxel.tileObject.serverVillage.KitchenSink.description=큰 세면대가 있는 싱크대와 설거지한 접시를 놓을 건조대가 있습니다.
 //[Reference] 'Simply Stylish Kitchen Sink'
-staxel.tileObject.serverVillage.KitchenSink.name=Simply Stylish Kitchen Sink-세련된 주방 싱크대
+staxel.tileObject.serverVillage.KitchenSink.name=세련된 주방 싱크대
 //[Reference] 'It says 'kitchen' table, but you can use it in a dining room too!'
-staxel.tileObject.serverVillage.KitchenTable.description=It says 'kitchen' table, but you can use it in a dining room too!-'주방용' 탁자지만, 식당에서도 쓸 수 있을 것 같네요!
+staxel.tileObject.serverVillage.KitchenTable.description='주방용' 탁자지만, 식당에서도 쓸 수 있을 것 같네요!
 //[Reference] 'Simply Wooden Kitchen Table'
-staxel.tileObject.serverVillage.KitchenTable.name=Simply Wooden Kitchen Table-주방용 나무 탁자
+staxel.tileObject.serverVillage.KitchenTable.name=주방용 나무 탁자
 //[Reference] 'Perfect for eating outdoors, and it seems like it was recently repainted.'
-staxel.tileObject.serverVillage.LargePicnicTable.description=Perfect for eating outdoors, and it seems like it was recently repainted.-밖에서 먹고 싶을 땐 딱이죠, 최근에 다시 색을 칠한 것 같네요.
+staxel.tileObject.serverVillage.LargePicnicTable.description=밖에서 먹고 싶을 땐 딱이죠, 최근에 다시 색을 칠한 것 같네요.
 //[Reference] 'Picnic Table'
-staxel.tileObject.serverVillage.LargePicnicTable.name=Picnic Table-소풍용 탁자
+staxel.tileObject.serverVillage.LargePicnicTable.name=소풍용 탁자
 //[Reference] 'A crafting station used to mix up ingredients.'
-staxel.tileObject.serverVillage.MixingStation.description=A crafting station used to mix up ingredients.-식재료들을 섞는 데에 쓰는 기구입니다.
+staxel.tileObject.serverVillage.MixingStation.description=식재료들을 섞는 데에 쓰는 기구입니다.
 //[Reference] 'Mixing Station'
-staxel.tileObject.serverVillage.MixingStation.name=Mixing Station-거품기
+staxel.tileObject.serverVillage.MixingStation.name=거품기
 //[Reference] 'Delicious orange juice, what a fine way to start the day.'
-staxel.tileObject.serverVillage.OrangeJuice.description=Delicious orange juice, what a fine way to start the day.-맛있는 오렌지 주스, 하루를 시작하기 전에 한 잔 어떠세요?
+staxel.tileObject.serverVillage.OrangeJuice.description=맛있는 오렌지 주스, 하루를 시작하기 전에 한 잔 어떠세요?
 //[Reference] 'Orange Juice'
-staxel.tileObject.serverVillage.OrangeJuice.name=Orange Juice-오렌지 주스
+staxel.tileObject.serverVillage.OrangeJuice.name=오렌지 주스
 //[Reference] 'The oven is used to cook your delicious hot dishes!'
-staxel.tileObject.serverVillage.Oven.description=The oven is used to cook your delicious hot dishes!-이 오븐은 맛있는 요리를 뜨겁게 만드는데 사용됩니다!
+staxel.tileObject.serverVillage.Oven.description=이 오븐은 맛있는 요리를 뜨겁게 만드는데 사용됩니다!
 //[Reference] 'Basic Oven'
-staxel.tileObject.serverVillage.Oven.name=Basic Oven-간단한 오븐
+staxel.tileObject.serverVillage.Oven.name=간단한 오븐
 //[Reference] 'Packing boxes are essential for moving.'
-staxel.tileObject.serverVillage.PackingBox1.description=Packing boxes are essential for moving.-포장된 상자는 옮길때 필수적인 요소입니다.
+staxel.tileObject.serverVillage.PackingBox1.description=포장된 상자는 옮길때 필수적인 요소입니다.
 //[Reference] 'Cardboard Box'
-staxel.tileObject.serverVillage.PackingBox1.name=Cardboard Box-골판지 상자
+staxel.tileObject.serverVillage.PackingBox1.name=골판지 상자
 //[Reference] 'Packing boxes are essential for moving.'
-staxel.tileObject.serverVillage.PackingBox2.description=Packing boxes are essential for moving.-포장된 상자는 옮길때 필수적인 요소입니다.
+staxel.tileObject.serverVillage.PackingBox2.description=포장된 상자는 옮길때 필수적인 요소입니다.
 //[Reference] 'Cardboard Box'
-staxel.tileObject.serverVillage.PackingBox2.name=Cardboard Box-골판지 상자
+staxel.tileObject.serverVillage.PackingBox2.name=골판지 상자
 //[Reference] 'Made from thick material, this blanket is perfect to sit on for a nice picnic under the sun.'
-staxel.tileObject.serverVillage.PicnicBlanket.description=Made from thick material, this blanket is perfect to sit on for a nice picnic under the sun.-두꺼운 소재로 제작된 이 담요는 태양 아래에서 소풍을 즐기기에 적합합니다.
+staxel.tileObject.serverVillage.PicnicBlanket.description=두꺼운 소재로 제작된 이 담요는 태양 아래에서 소풍을 즐기기에 적합합니다.
 //[Reference] 'Picnic Blanket'
-staxel.tileObject.serverVillage.PicnicBlanket.name=Picnic Blanket-소풍용 담요
+staxel.tileObject.serverVillage.PicnicBlanket.name=소풍용 담요
 //[Reference] 'Ancient pillars, with very odd writing craved into the top.'
-staxel.tileObject.serverVillage.Pillars.description=Ancient pillars, with very odd writing craved into the top.-이상한 글자가 새겨져 있는 고대 기둥.
+staxel.tileObject.serverVillage.Pillars.description=이상한 글자가 새겨져 있는 고대 기둥.
 //[Reference] 'Pillared Archway'
-staxel.tileObject.serverVillage.Pillars.name=Pillared Archway-기둥이 있는 아치 길
+staxel.tileObject.serverVillage.Pillars.name=기둥이 있는 아치 길
 //[Reference] 'Two loose slabs of wood.'
-staxel.tileObject.serverVillage.Planks.description=Two loose slabs of wood.-두 개의 납작한 나무 판.
+staxel.tileObject.serverVillage.Planks.description=두 개의 납작한 나무 판.
 //[Reference] 'Planks'
-staxel.tileObject.serverVillage.Planks.name=Planks-판자
+staxel.tileObject.serverVillage.Planks.name=판자
 //[Reference] 'A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!'
-staxel.tileObject.serverVillage.PottedPlant.leafy.description=A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!-커다란 벽돌로 만든 화단입니다. 누군가가 이 화단을 부술 걱정을 하지 않아도 됩니다!
+staxel.tileObject.serverVillage.PottedPlant.leafy.description=커다란 벽돌로 만든 화단입니다. 누군가가 이 화단을 부술 걱정을 하지 않아도 됩니다!
 //[Reference] 'Flower Bed With Bush'
-staxel.tileObject.serverVillage.PottedPlant.leafy.name=Flower Bed With Bush-덤불이 있는 화단
+staxel.tileObject.serverVillage.PottedPlant.leafy.name=덤불이 있는 화단
 //[Reference] 'A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!'
-staxel.tileObject.serverVillage.PottedPlant.long.orange.description=A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!-커다란 벽돌로 만든 화단입니다. 누군가가 이 화단을 부술 걱정을 하지 않아도 됩니다!
+staxel.tileObject.serverVillage.PottedPlant.long.orange.description=커다란 벽돌로 만든 화단입니다. 누군가가 이 화단을 부술 걱정을 하지 않아도 됩니다!
 //[Reference] 'Long Flower Bed With Orange Flowers'
-staxel.tileObject.serverVillage.PottedPlant.long.orange.name=Long Flower Bed With Orange Flowers-오렌지색 꽃이 심어진 긴 화분
+staxel.tileObject.serverVillage.PottedPlant.long.orange.name=오렌지색 꽃이 심어진 긴 화분
 //[Reference] 'A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!'
-staxel.tileObject.serverVillage.PottedPlant.long.pink.description=A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!-커다란 벽돌로 만든 화단입니다. 누군가가 이 화단을 부술 걱정을 하지 않아도 됩니다!
+staxel.tileObject.serverVillage.PottedPlant.long.pink.description=커다란 벽돌로 만든 화단입니다. 누군가가 이 화단을 부술 걱정을 하지 않아도 됩니다!
 //[Reference] 'Long Flower Bed With Pink Flowers'
-staxel.tileObject.serverVillage.PottedPlant.long.pink.name=Long Flower Bed With Pink Flowers-분홍색 꽃이 심어진 긴 화분
+staxel.tileObject.serverVillage.PottedPlant.long.pink.name=분홍색 꽃이 심어진 긴 화분
 //[Reference] 'A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!'
-staxel.tileObject.serverVillage.PottedPlant.long.purple.description=A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!-커다란 벽돌로 만든 화단입니다. 누군가가 이 화단을 부술 걱정을 하지 않아도 됩니다!
+staxel.tileObject.serverVillage.PottedPlant.long.purple.description=커다란 벽돌로 만든 화단입니다. 누군가가 이 화단을 부술 걱정을 하지 않아도 됩니다!
 //[Reference] 'Long Flower Bed With Purple Flowers'
-staxel.tileObject.serverVillage.PottedPlant.long.purple.name=Long Flower Bed With Purple Flowers-보라색 쫓이 심어진 긴 화분
+staxel.tileObject.serverVillage.PottedPlant.long.purple.name=보라색 쫓이 심어진 긴 화분
 //[Reference] 'A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!'
-staxel.tileObject.serverVillage.PottedPlant.orange.description=A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!-커다란 벽돌로 만든 화단입니다. 누군가가 이 화단을 부술 걱정을 하지 않아도 됩니다!
+staxel.tileObject.serverVillage.PottedPlant.orange.description=커다란 벽돌로 만든 화단입니다. 누군가가 이 화단을 부술 걱정을 하지 않아도 됩니다!
 //[Reference] 'Flower Bed With Orange Flowers'
-staxel.tileObject.serverVillage.PottedPlant.orange.name=Flower Bed With Orange Flowers-오랜지색 꽃이 심어진 화분
+staxel.tileObject.serverVillage.PottedPlant.orange.name=오랜지색 꽃이 심어진 화분
 //[Reference] 'Potted, healthy looking, orange roses.'
-staxel.tileObject.serverVillage.PottedPlant.orangeRose.description=Potted, healthy looking, orange roses.-화분에 심어진 건강한 주황 장미들.
+staxel.tileObject.serverVillage.PottedPlant.orangeRose.description=화분에 심어진 건강한 주황 장미들.
 //[Reference] 'Potted Plant With Orange Roses'
-staxel.tileObject.serverVillage.PottedPlant.orangeRose.name=Potted Plant With Orange Roses-주황색 장미가 심어진 화분
+staxel.tileObject.serverVillage.PottedPlant.orangeRose.name=주황색 장미가 심어진 화분
 //[Reference] 'A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!'
-staxel.tileObject.serverVillage.PottedPlant.pink.description=A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!-커다란 벽돌로 만든 화단입니다. 누군가가 이 화단을 부술 걱정을 하지 않아도 됩니다!
+staxel.tileObject.serverVillage.PottedPlant.pink.description=커다란 벽돌로 만든 화단입니다. 누군가가 이 화단을 부술 걱정을 하지 않아도 됩니다!
 //[Reference] 'Flower Bed With Pink Flowers'
-staxel.tileObject.serverVillage.PottedPlant.pink.name=Flower Bed With Pink Flowers-분홍색 꽃이 심어진 화분
+staxel.tileObject.serverVillage.PottedPlant.pink.name=분홍색 꽃이 심어진 화분
 //[Reference] 'A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!'
-staxel.tileObject.serverVillage.PottedPlant.purple.description=A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!-커다란 벽돌로 만든 화단입니다. 누군가가 이 화단을 부술 걱정을 하지 않아도 됩니다!
+staxel.tileObject.serverVillage.PottedPlant.purple.description=커다란 벽돌로 만든 화단입니다. 누군가가 이 화단을 부술 걱정을 하지 않아도 됩니다!
 //[Reference] 'Flower Bed With Purple Flowers'
-staxel.tileObject.serverVillage.PottedPlant.purple.name=Flower Bed With Purple Flowers-보라색 꽃이 심어진 화분
+staxel.tileObject.serverVillage.PottedPlant.purple.name=보라색 꽃이 심어진 화분
 //[Reference] 'Potted, healthy looking, red roses.'
-staxel.tileObject.serverVillage.PottedPlant.redRose.description=Potted, healthy looking, red roses.-화분에 심어진 건강한 빨간 장미들.
+staxel.tileObject.serverVillage.PottedPlant.redRose.description=화분에 심어진 건강한 빨간 장미들.
 //[Reference] 'Potted Plant With Red Roses'
-staxel.tileObject.serverVillage.PottedPlant.redRose.name=Potted Plant With Red Roses-빨간 장미가 심어진 화분
+staxel.tileObject.serverVillage.PottedPlant.redRose.name=빨간 장미가 심어진 화분
 //[Reference] 'A miniature tree, perfectly trimmed for a round shape.'
-staxel.tileObject.serverVillage.PottedPlant.roundTree.description=A miniature tree, perfectly trimmed for a round shape.-완벽하게 둥글게 손질된 작은 나무.
+staxel.tileObject.serverVillage.PottedPlant.roundTree.description=완벽하게 둥글게 손질된 작은 나무.
 //[Reference] 'Potted Plant With A Rounded Tree'
-staxel.tileObject.serverVillage.PottedPlant.roundTree.name=Potted Plant With A Rounded Tree-둥근 나무가 심어진 화분
+staxel.tileObject.serverVillage.PottedPlant.roundTree.name=둥근 나무가 심어진 화분
 //[Reference] 'A miniature tree, perfectly trimmed for a square shape.'
-staxel.tileObject.serverVillage.PottedPlant.squareTree.description=A miniature tree, perfectly trimmed for a square shape.-완벽하게 네모낳게 손질된 작은 나무.
+staxel.tileObject.serverVillage.PottedPlant.squareTree.description=완벽하게 네모낳게 손질된 작은 나무.
 //[Reference] 'Potted Plant With A Square Tree'
-staxel.tileObject.serverVillage.PottedPlant.squareTree.name=Potted Plant With A Square Tree-네모난 나무가 심어진 화분
+staxel.tileObject.serverVillage.PottedPlant.squareTree.name=네모난 나무가 심어진 화분
 //[Reference] 'Potted, healthy looking, white roses.'
-staxel.tileObject.serverVillage.PottedPlant.whiteRose.description=Potted, healthy looking, white roses.-화분에 심어진 건강한 하얀 장미들.
+staxel.tileObject.serverVillage.PottedPlant.whiteRose.description=화분에 심어진 건강한 하얀 장미들.
 //[Reference] 'Potted Plant With White Roses'
-staxel.tileObject.serverVillage.PottedPlant.whiteRose.name=Potted Plant With White Roses-하얀색 장미가 심어진 화분
+staxel.tileObject.serverVillage.PottedPlant.whiteRose.name=하얀색 장미가 심어진 화분
 //[Reference] 'A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!'
-staxel.tileObject.serverVillage.PottedPlant.yellow.description=A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!-커다란 벽돌로 만든 화단입니다. 누군가가 이 화단을 부술 걱정을 하지 않아도 됩니다!
+staxel.tileObject.serverVillage.PottedPlant.yellow.description=커다란 벽돌로 만든 화단입니다. 누군가가 이 화단을 부술 걱정을 하지 않아도 됩니다!
 //[Reference] 'Flower Bed With Yellow Flowers'
-staxel.tileObject.serverVillage.PottedPlant.yellow.name=Flower Bed With Yellow Flowers-노란색 꽃이 심어진 화분
+staxel.tileObject.serverVillage.PottedPlant.yellow.name=노란색 꽃이 심어진 화분
 //[Reference] 'Fresh punch, get some before it runs out!'
-staxel.tileObject.serverVillage.PunchBowl.description=Fresh punch, get some before it runs out!-신선한 음료입니다, 다 떨어지기 전에 드세요!
+staxel.tileObject.serverVillage.PunchBowl.description=신선한 음료입니다, 다 떨어지기 전에 드세요!
 //[Reference] 'Punch Bowl'
-staxel.tileObject.serverVillage.PunchBowl.name=Punch Bowl-음료 그릇
+staxel.tileObject.serverVillage.PunchBowl.name=음료 그릇
 staxel.tileObject.serverVillage.RanchBlindLeft.description=
 //[Reference] 'Ranch Blind Left'
-staxel.tileObject.serverVillage.RanchBlindLeft.name=Ranch Blind Left-농장 왼쪽 가림개
+staxel.tileObject.serverVillage.RanchBlindLeft.name=농장 왼쪽 가림개
 staxel.tileObject.serverVillage.RanchBlindRight.description=
 //[Reference] 'Ranch Blind Right'
-staxel.tileObject.serverVillage.RanchBlindRight.name=Ranch Blind Right-농장 오른쪽 가림개
+staxel.tileObject.serverVillage.RanchBlindRight.name=농장 오른쪽 가림개
 staxel.tileObject.serverVillage.RanchDoor.description=
 //[Reference] 'Ranch Door'
-staxel.tileObject.serverVillage.RanchDoor.name=Ranch Door-농장 입구
+staxel.tileObject.serverVillage.RanchDoor.name=농장 입구
 staxel.tileObject.serverVillage.RanchStairs.description=
 //[Reference] 'Ranch Stairs'
-staxel.tileObject.serverVillage.RanchStairs.name=Ranch Stairs-농장 계단
+staxel.tileObject.serverVillage.RanchStairs.name=농장 계단
 staxel.tileObject.serverVillage.RanchWindow.description=
 //[Reference] 'Ranch Window'
-staxel.tileObject.serverVillage.RanchWindow.name=Ranch Window-농장 창문
+staxel.tileObject.serverVillage.RanchWindow.name=농장 창문
 staxel.tileObject.serverVillage.RanchWindowBroken.description=
 //[Reference] 'Broken Ranch Window'
-staxel.tileObject.serverVillage.RanchWindowBroken.name=Broken Ranch Window-농장 깨진 창문
+staxel.tileObject.serverVillage.RanchWindowBroken.name=농장 깨진 창문
 staxel.tileObject.serverVillage.RanchWindowLarge.description=
 //[Reference] 'Large Ranch Window'
-staxel.tileObject.serverVillage.RanchWindowLarge.name=Large Ranch Window-큰 농장 창문
+staxel.tileObject.serverVillage.RanchWindowLarge.name=큰 농장 창문
 //[Reference] 'A freshly baked pie with a delicious, raspberry filling.'
-staxel.tileObject.serverVillage.RaspberryPie.description=A freshly baked pie with a delicious, raspberry filling.-산딸기를 넣고 방금 막 구워 낸 맛있는 파이입니다.
+staxel.tileObject.serverVillage.RaspberryPie.description=산딸기를 넣고 방금 막 구워 낸 맛있는 파이입니다.
 //[Reference] 'Raspberry Pie'
-staxel.tileObject.serverVillage.RaspberryPie.name=Raspberry Pie-산딸기 파이
+staxel.tileObject.serverVillage.RaspberryPie.name=산딸기 파이
 //[Reference] 'What a festive banner. Great for decorating an outdoor event.'
-staxel.tileObject.serverVillage.RedFestivalBanner.description=What a festive banner. Great for decorating an outdoor event.-축제날에 장식하기에 좋은 깃발입니다.
+staxel.tileObject.serverVillage.RedFestivalBanner.description=축제날에 장식하기에 좋은 깃발입니다.
 //[Reference] 'Red Festival Banner'
-staxel.tileObject.serverVillage.RedFestivalBanner.name=Red Festival Banner-붉은색 축제용 깃발
+staxel.tileObject.serverVillage.RedFestivalBanner.name=붉은색 축제용 깃발
 //[Reference] 'This juice has a vague, red flavour.'
-staxel.tileObject.serverVillage.RedJuice.description=This juice has a vague, red flavour.-이 주스에서는 붉은 색 느낌의 모호한 향이 납니다.
+staxel.tileObject.serverVillage.RedJuice.description=이 주스에서는 붉은 색 느낌의 모호한 향이 납니다.
 //[Reference] 'Red Juice'
-staxel.tileObject.serverVillage.RedJuice.name=Red Juice-붉은색 주스
+staxel.tileObject.serverVillage.RedJuice.name=붉은색 주스
 //[Reference] 'Collects seeds from crops'
-staxel.tileObject.serverVillage.SeedMaker.description=Collects seeds from crops-농작물로부터 씨앗을 모읍니다.
+staxel.tileObject.serverVillage.SeedMaker.description=농작물로부터 씨앗을 모읍니다.
 //[Reference] 'Seed Maker'
-staxel.tileObject.serverVillage.SeedMaker.name=Seed Maker-씨앗 제조기
+staxel.tileObject.serverVillage.SeedMaker.name=씨앗 제조기
 //[Reference] 'Some generic, unidentifiable seeds.'
-staxel.tileObject.serverVillage.Seeds.description=Some generic, unidentifiable seeds.-일반적이며, 어떤 품종인지는 알 수 없는 씨앗들입니다.
+staxel.tileObject.serverVillage.Seeds.description=일반적이며, 어떤 품종인지는 알 수 없는 씨앗들입니다.
 //[Reference] 'Seeds'
-staxel.tileObject.serverVillage.Seeds.name=Seeds-씨앗
+staxel.tileObject.serverVillage.Seeds.name=씨앗
 //[Reference] 'Use this catalogue to place orders from a wide range of goods. After placing an order, a crate will be delivered to your shipping station the next day.'
-staxel.tileObject.serverVillage.ShippingCatalogue.description=Use this catalogue to place orders from a wide range of goods. After placing an order, a crate will be delivered to your shipping station the next day.-이 배송 목록으로 광범위하게 물품을 구매할 수 있습니다. 배송을 요청하면 다음 날에 상자가 당신의 물품 운송 지점으로 배달 될 것입니다.
+staxel.tileObject.serverVillage.ShippingCatalogue.description=이 배송 목록으로 광범위하게 물품을 구매할 수 있습니다. 배송을 요청하면 다음 날에 상자가 당신의 물품 운송 지점으로 배달 될 것입니다.
 //[Reference] 'Shipping Catalogue'
 staxel.tileObject.serverVillage.ShippingCatalogue.name=쇼핑 카탈로그
 //[Reference] 'This shipping station has two sections. One side has spaces for placing items to sell. The other side is a space for a crate to be delivered. Items are picked up and delivered at midnight.'
@@ -1676,152 +1676,152 @@ staxel.tileObject.serverVillage.ShippingStation.description=이 곳에는 판매
 //[Reference] 'Shipping Station'
 staxel.tileObject.serverVillage.ShippingStation.name=택배 보관함
 //[Reference] 'A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!'
-staxel.tileObject.serverVillage.SimplePottedPlant.orange.description=A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!-커다란 벽돌로 만든 화단입니다. 누군가가 이 화단을 부술 걱정을 하지 않아도 됩니다!
+staxel.tileObject.serverVillage.SimplePottedPlant.orange.description=커다란 벽돌로 만든 화단입니다. 누군가가 이 화단을 부술 걱정을 하지 않아도 됩니다!
 //[Reference] 'Flower Bed With Orange Flowers'
-staxel.tileObject.serverVillage.SimplePottedPlant.orange.name=Flower Bed With Orange Flowers-주황색 꽃이 심어진 화분
+staxel.tileObject.serverVillage.SimplePottedPlant.orange.name=주황색 꽃이 심어진 화분
 //[Reference] 'A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!'
-staxel.tileObject.serverVillage.SimplePottedPlant.pink.description=A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!-커다란 벽돌로 만든 화단입니다. 누군가가 이 화단을 부술 걱정을 하지 않아도 됩니다!
+staxel.tileObject.serverVillage.SimplePottedPlant.pink.description=커다란 벽돌로 만든 화단입니다. 누군가가 이 화단을 부술 걱정을 하지 않아도 됩니다!
 //[Reference] 'Flower Bed With Pink Flowers'
-staxel.tileObject.serverVillage.SimplePottedPlant.pink.name=Flower Bed With Pink Flowers-분홍색 꽃이 심어진 화분
+staxel.tileObject.serverVillage.SimplePottedPlant.pink.name=분홍색 꽃이 심어진 화분
 //[Reference] 'A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!'
-staxel.tileObject.serverVillage.SimplePottedPlant.purple.description=A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!-커다란 벽돌로 만든 화단입니다. 누군가가 이 화단을 부술 걱정을 하지 않아도 됩니다!
+staxel.tileObject.serverVillage.SimplePottedPlant.purple.description=커다란 벽돌로 만든 화단입니다. 누군가가 이 화단을 부술 걱정을 하지 않아도 됩니다!
 //[Reference] 'Flower Bed With Purple Flowers'
-staxel.tileObject.serverVillage.SimplePottedPlant.purple.name=Flower Bed With Purple Flowers-보라색 꽃이 심어진 화분
+staxel.tileObject.serverVillage.SimplePottedPlant.purple.name=보라색 꽃이 심어진 화분
 //[Reference] 'A classic sofa, with a twist!'
-staxel.tileObject.serverVillage.Sofa.round.description=A classic sofa, with a twist!-나선 모양이 있는 오랜 소파!
+staxel.tileObject.serverVillage.Sofa.round.description=나선 모양이 있는 오랜 소파!
 //[Reference] 'Simply Comfy Round Sofa'
-staxel.tileObject.serverVillage.Sofa.round.name=Simply Comfy Round Sofa-편안한 둥근 소파
+staxel.tileObject.serverVillage.Sofa.round.name=편안한 둥근 소파
 //[Reference] 'To the untrained eye this looks like it's just a plain old sofa. It also looks like that to a trained eye...'
-staxel.tileObject.serverVillage.Sofa.square.description=To the untrained eye this looks like it's just a plain old sofa. It also looks like that to a trained eye...-평범한 사람들에게는 그냥 낡은 평면 소파로 보이겠죠. 특별한 사람들도 그렇게 보일테고요...
+staxel.tileObject.serverVillage.Sofa.square.description=평범한 사람들에게는 그냥 낡은 평면 소파로 보이겠죠. 특별한 사람들도 그렇게 보일테고요...
 //[Reference] 'Simply Comfy Square Sofa'
-staxel.tileObject.serverVillage.Sofa.square.name=Simply Comfy Square Sofa-편안한 사각 소파
+staxel.tileObject.serverVillage.Sofa.square.name=편안한 사각 소파
 //[Reference] 'These steps are made from brick and are painted white.'
-staxel.tileObject.serverVillage.Stairs.back.description=These steps are made from brick and are painted white.-이 계단은 벽돌로 만들어 진 다음 하얀색으로 칠해졌습니다.
+staxel.tileObject.serverVillage.Stairs.back.description=이 계단은 벽돌로 만들어 진 다음 하얀색으로 칠해졌습니다.
 //[Reference] 'White Brick Stairs Back'
-staxel.tileObject.serverVillage.Stairs.back.name=White Brick Stairs Back-하얀색 벽돌 계단 뒤쪽
+staxel.tileObject.serverVillage.Stairs.back.name=하얀색 벽돌 계단 뒤쪽
 //[Reference] 'These steps are made from brick and are painted white.'
-staxel.tileObject.serverVillage.Stairs.front.description=These steps are made from brick and are painted white.-이 계단은 벽돌로 만들어 진 다음 하얀색으로 칠해졌습니다.
+staxel.tileObject.serverVillage.Stairs.front.description=이 계단은 벽돌로 만들어 진 다음 하얀색으로 칠해졌습니다.
 //[Reference] 'White Brick Stairs'
-staxel.tileObject.serverVillage.Stairs.front.name=White Brick Stairs-하얀색 벽돌 계단
+staxel.tileObject.serverVillage.Stairs.front.name=하얀색 벽돌 계단
 //[Reference] 'These steps are made from brick and are painted white.'
-staxel.tileObject.serverVillage.Stairs.left.description=These steps are made from brick and are painted white.-이 계단은 벽돌로 만들어 진 다음 하얀색으로 칠해졌습니다.
+staxel.tileObject.serverVillage.Stairs.left.description=이 계단은 벽돌로 만들어 진 다음 하얀색으로 칠해졌습니다.
 //[Reference] 'White Brick Stairs Left'
-staxel.tileObject.serverVillage.Stairs.left.name=White Brick Stairs Left-하얀색 벽돌 계단 왼쪽
+staxel.tileObject.serverVillage.Stairs.left.name=하얀색 벽돌 계단 왼쪽
 //[Reference] 'These steps are made from brick and are painted white.'
-staxel.tileObject.serverVillage.Stairs.right.description=These steps are made from brick and are painted white.-이 계단은 벽돌로 만들어 진 다음 하얀색으로 칠해졌습니다.
+staxel.tileObject.serverVillage.Stairs.right.description=이 계단은 벽돌로 만들어 진 다음 하얀색으로 칠해졌습니다.
 //[Reference] 'White Brick Stairs Right'
-staxel.tileObject.serverVillage.Stairs.right.name=White Brick Stairs Right-하얀색 벽돌 계단 오른쪽
+staxel.tileObject.serverVillage.Stairs.right.name=하얀색 벽돌 계단 오른쪽
 //[Reference] 'Be careful when walking under these! They're a beautiful natural formation that hang from the top of caves.'
-staxel.tileObject.serverVillage.stalactite.description=Be careful when walking under these! They're a beautiful natural formation that hang from the top of caves.-이 밑을 걸어갈 때는 조심하세요! 동굴 꼭대기에 매달려 있는 아름다운 자연의 형성물이니까요.
+staxel.tileObject.serverVillage.stalactite.description=이 밑을 걸어갈 때는 조심하세요! 동굴 꼭대기에 매달려 있는 아름다운 자연의 형성물이니까요.
 //[Reference] 'Stalactite'
-staxel.tileObject.serverVillage.stalactite.name=Stalactite-종유석
+staxel.tileObject.serverVillage.stalactite.name=종유석
 //[Reference] 'Stalagmites rise from the floor of some caves, a stunning natural formation.'
-staxel.tileObject.serverVillage.stalagmite.description=Stalagmites rise from the floor of some caves, a stunning natural formation.-석순들은 동굴 바닥에서부터 솟아오른 자연의 놀라운 형성물입니다.
+staxel.tileObject.serverVillage.stalagmite.description=석순들은 동굴 바닥에서부터 솟아오른 자연의 놀라운 형성물입니다.
 //[Reference] 'Stalagmite'
-staxel.tileObject.serverVillage.stalagmite.name=Stalagmite-석순
+staxel.tileObject.serverVillage.stalagmite.name=석순
 //[Reference] 'Lighting up your streets by lining them with street lamps.'
-staxel.tileObject.serverVillage.Streetlamp.description=Lighting up your streets by lining them with street lamps.-가로등을 줄줄이 세워 거리를 밝혀 보세요.
+staxel.tileObject.serverVillage.Streetlamp.description=가로등을 줄줄이 세워 거리를 밝혀 보세요.
 //[Reference] 'Street Lamp'
-staxel.tileObject.serverVillage.Streetlamp.name=Street Lamp-가로등
+staxel.tileObject.serverVillage.Streetlamp.name=가로등
 //[Reference] 'Produces fine lumber at the expense of mother nature.'
-staxel.tileObject.serverVillage.TableSaw.description=Produces fine lumber at the expense of mother nature.-자연의 희생으로 훌륭한 목재를 생산하였습니다.
+staxel.tileObject.serverVillage.TableSaw.description=자연의 희생으로 훌륭한 목재를 생산하였습니다.
 //[Reference] 'Table Saw'
-staxel.tileObject.serverVillage.TableSaw.name=Table Saw-제재소 톱
+staxel.tileObject.serverVillage.TableSaw.name=제재소 톱
 //[Reference] 'Bread goes in, toast comes out! But where does the bread go?'
-staxel.tileObject.serverVillage.Toaster.description=Bread goes in, toast comes out! But where does the bread go?-빵이 들어가면, 토스트가 나옵니다! 그런데 빵은 어디로 간걸까?
+staxel.tileObject.serverVillage.Toaster.description=빵이 들어가면, 토스트가 나옵니다! 그런데 빵은 어디로 간걸까?
 //[Reference] 'Toaster'
-staxel.tileObject.serverVillage.Toaster.name=Toaster-토스터
+staxel.tileObject.serverVillage.Toaster.name=토스터
 //[Reference] 'Grows plump, delicious tomatoes.'
-staxel.tileObject.serverVillage.TomatoPlant.description=Grows plump, delicious tomatoes.-통통하고 맛있는 토마토가 자랍니다.
+staxel.tileObject.serverVillage.TomatoPlant.description=통통하고 맛있는 토마토가 자랍니다.
 //[Reference] 'Tomato Plant'
-staxel.tileObject.serverVillage.TomatoPlant.name=Tomato Plant-토마토 식물
+staxel.tileObject.serverVillage.TomatoPlant.name=토마토 식물
 //[Reference] 'The most popular crop for farming.'
-staxel.tileObject.serverVillage.Turnip.description=The most popular crop for farming.-농사하면 떠오르는 대표적인 작물입니다.
+staxel.tileObject.serverVillage.Turnip.description=농사하면 떠오르는 대표적인 작물입니다.
 //[Reference] 'Turnip'
-staxel.tileObject.serverVillage.Turnip.name=Turnip-순무
+staxel.tileObject.serverVillage.Turnip.name=순무
 //[Reference] 'The current channel is showing some programmer as he develops something.'
-staxel.tileObject.serverVillage.Tv.description=The current channel is showing some programmer as he develops something.-지금 채널은 뭔가를 개발하는 프로그래머를 보여주고 있습니다.
+staxel.tileObject.serverVillage.Tv.description=지금 채널은 뭔가를 개발하는 프로그래머를 보여주고 있습니다.
 //[Reference] 'Television'
-staxel.tileObject.serverVillage.Tv.name=Television-텔레비전
+staxel.tileObject.serverVillage.Tv.name=텔레비전
 //[Reference] 'What's a T.V. without a T.V. stand?'
-staxel.tileObject.serverVillage.TvStand.description=What's a T.V. without a T.V. stand?-TV 받침대가 없으면 그게 뭐가 TV겠어요?
+staxel.tileObject.serverVillage.TvStand.description=TV 받침대가 없으면 그게 뭐가 TV겠어요?
 //[Reference] 'Television Stand'
-staxel.tileObject.serverVillage.TvStand.name=Television Stand-텔레비전 받침대
+staxel.tileObject.serverVillage.TvStand.name=텔레비전 받침대
 //[Reference] 'A flat platform that can be used as the floor for multi-storied buildings.'
-staxel.tileObject.serverVillage.UpperWoodenFloor.description=A flat platform that can be used as the floor for multi-storied buildings.-다층 건물의 바닥으로 쓸만한 플랫폼입니다.
+staxel.tileObject.serverVillage.UpperWoodenFloor.description=다층 건물의 바닥으로 쓸만한 플랫폼입니다.
 //[Reference] 'Upper Wooden Floor'
-staxel.tileObject.serverVillage.UpperWoodenFloor.name=Upper Wooden Floor-높은 나무 바닥
+staxel.tileObject.serverVillage.UpperWoodenFloor.name=높은 나무 바닥
 //[Reference] 'A basic wall-mounted shelf. The cornerstone of any rustic kitchen!'
-staxel.tileObject.serverVillage.WallShelf.description=A basic wall-mounted shelf. The cornerstone of any rustic kitchen!-기본적인 벽걸이 식 선반입니다. 시골 느낌의 주방에는 필수품이죠!
+staxel.tileObject.serverVillage.WallShelf.description=기본적인 벽걸이 식 선반입니다. 시골 느낌의 주방에는 필수품이죠!
 //[Reference] 'Wooden Shelf'
-staxel.tileObject.serverVillage.WallShelf.name=Wooden Shelf-나무 선반
+staxel.tileObject.serverVillage.WallShelf.name=나무 선반
 //[Reference] 'What a large wardrobe, I can fit all sorts in here!'
-staxel.tileObject.serverVillage.Wardrobe.double.description=What a large wardrobe, I can fit all sorts in here!-정말 큰 옷장이라서, 모든 물건이 다 들어갈 것 같습니다.
+staxel.tileObject.serverVillage.Wardrobe.double.description=정말 큰 옷장이라서, 모든 물건이 다 들어갈 것 같습니다.
 //[Reference] 'Simply Wooden Double Wardrobe'
-staxel.tileObject.serverVillage.Wardrobe.double.name=Simply Wooden Double Wardrobe-대형 나무 옷장
+staxel.tileObject.serverVillage.Wardrobe.double.name=대형 나무 옷장
 //[Reference] 'A small wardrobe, but has a surprising amount of storage space.'
-staxel.tileObject.serverVillage.Wardrobe.single.description=A small wardrobe, but has a surprising amount of storage space.-작은 옷장이지만, 물건들을 넣기엔 충분한 공간입니다.
+staxel.tileObject.serverVillage.Wardrobe.single.description=작은 옷장이지만, 물건들을 넣기엔 충분한 공간입니다.
 //[Reference] 'Simply Wooden Single Wardrobe'
-staxel.tileObject.serverVillage.Wardrobe.single.name=Simply Wooden Single Wardrobe-나무 옷장
+staxel.tileObject.serverVillage.Wardrobe.single.name=나무 옷장
 //[Reference] 'The front gate for a white fence. It has a cute little flower pot hanging from the front, how nice.'
-staxel.tileObject.serverVillage.WhiteFarmFence.description=The front gate for a white fence. It has a cute little flower pot hanging from the front, how nice.-흰색 울타리 정문입니다. 앞에 작은 화분이 달려있네요. 귀엽지 않나요?
+staxel.tileObject.serverVillage.WhiteFarmFence.description=흰색 울타리 정문입니다. 앞에 작은 화분이 달려있네요. 귀엽지 않나요?
 //[Reference] 'White Farm Fence Gate'
-staxel.tileObject.serverVillage.WhiteFarmFence.name=White Farm Fence Gate-흰색 울타리 정문
+staxel.tileObject.serverVillage.WhiteFarmFence.name=흰색 울타리 정문
 //[Reference] 'A very sturdy window frame.'
-staxel.tileObject.serverVillage.WindowFrame.description=A very sturdy window frame.-아주 튼튼한 창틀입니다.
+staxel.tileObject.serverVillage.WindowFrame.description=아주 튼튼한 창틀입니다.
 //[Reference] 'Basic Window Frame'
-staxel.tileObject.serverVillage.WindowFrame.name=Basic Window Frame-기본 창틀
+staxel.tileObject.serverVillage.WindowFrame.name=기본 창틀
 staxel.tileObject.serverVillage.WoodBeamHorizontal.description=
 //[Reference] 'Horizontal Wooden Beam'
-staxel.tileObject.serverVillage.WoodBeamHorizontal.name=Horizontal Wooden Beam-수평 나무 갑판보
+staxel.tileObject.serverVillage.WoodBeamHorizontal.name=수평 나무 갑판보
 //[Reference] 'A useful place to do a bunch of different tasks.'
-staxel.tileObject.serverVillage.WorkBench.description=A useful place to do a bunch of different tasks.-여러 일들을 하는 데에 유용한 장소입니다.
+staxel.tileObject.serverVillage.WorkBench.description=여러 일들을 하는 데에 유용한 장소입니다.
 //[Reference] 'Work Bench'
-staxel.tileObject.serverVillage.WorkBench.name=Work Bench-작업대
+staxel.tileObject.serverVillage.WorkBench.name=작업대
 //[Reference] 'This juice looks zingy!'
-staxel.tileObject.serverVillage.YellowJuice.description=This juice looks zingy!-이 음료는 싱싱한 것 같습니다!
+staxel.tileObject.serverVillage.YellowJuice.description=이 음료는 싱싱한 것 같습니다!
 //[Reference] 'Lemon Juice'
-staxel.tileObject.serverVillage.YellowJuice.name=Lemon Juice-레몬 주스
+staxel.tileObject.serverVillage.YellowJuice.name=레몬 주스
 staxel.tileObject.shop.CashRegister.description=
 //[Reference] 'Cash Register'
-staxel.tileObject.shop.CashRegister.name=Cash Register-금전 등록기
+staxel.tileObject.shop.CashRegister.name=금전 등록기
 staxel.tileObject.shop.DisplayCaseLeft.description=
 //[Reference] 'Left Display Case'
-staxel.tileObject.shop.DisplayCaseLeft.name=Left Display Case-왼쪽 전시대
+staxel.tileObject.shop.DisplayCaseLeft.name=왼쪽 전시대
 staxel.tileObject.shop.DisplayCaseMiddlePlain.description=
 //[Reference] 'Middle Display Case'
-staxel.tileObject.shop.DisplayCaseMiddlePlain.name=Middle Display Case-가운데 전시대
+staxel.tileObject.shop.DisplayCaseMiddlePlain.name=가운데 전시대
 staxel.tileObject.shop.DisplayCaseMiddleSun.description=
 //[Reference] 'Middle Display Case with Sun'
-staxel.tileObject.shop.DisplayCaseMiddleSun.name=Middle Display Case with Sun-태양이 그려진 가운데 전시대
+staxel.tileObject.shop.DisplayCaseMiddleSun.name=태양이 그려진 가운데 전시대
 staxel.tileObject.shop.DisplayCaseRight.description=
 //[Reference] 'Right Display Case'
-staxel.tileObject.shop.DisplayCaseRight.name=Right Display Case-오른쪽 전시대
+staxel.tileObject.shop.DisplayCaseRight.name=오른쪽 전시대
 staxel.tileObject.shop.DisplayCaseStandalone.description=
 //[Reference] 'Standalone Display Case'
-staxel.tileObject.shop.DisplayCaseStandalone.name=Standalone Display Case-독립형 전시대
+staxel.tileObject.shop.DisplayCaseStandalone.name=독립형 전시대
 staxel.tileObject.shop.FurnitureDock.description=
 //[Reference] 'Furniture Case'
-staxel.tileObject.shop.FurnitureDock.name=Furniture Case-가구 케이스
+staxel.tileObject.shop.FurnitureDock.name=가구 케이스
 staxel.tileObject.shop.Mannequin.description=
 //[Reference] 'Mannequin'
-staxel.tileObject.shop.Mannequin.name=Mannequin-마네킹
+staxel.tileObject.shop.Mannequin.name=마네킹
 staxel.tileObject.shop.PedestalDock.description=
 //[Reference] 'Pedestal Dock'
-staxel.tileObject.shop.PedestalDock.name=Pedestal Dock-받침대 도크
+staxel.tileObject.shop.PedestalDock.name=받침대 도크
 staxel.tileObject.shop.ShopCounter.description=
 //[Reference] 'Shop Counter'
-staxel.tileObject.shop.ShopCounter.name=Shop Counter-상점 계산대
+staxel.tileObject.shop.ShopCounter.name=상점 계산대
 staxel.tileObject.shop.ShopShelf.description=
 //[Reference] 'Shop Shelf'
-staxel.tileObject.shop.ShopShelf.name=Shop Shelf-상점 선반
+staxel.tileObject.shop.ShopShelf.name=상점 선반
 staxel.tileObject.shop.ShopShelfMerchant.description=
 //[Reference] 'Shop Shelf'
 staxel.tileObject.shop.ShopShelfMerchant.name=상점 선반
 //[Reference] 'Shop Shelf'
 staxel.tileObject.shop.ShopShelfPlayer.name=상점 선반
 //[Reference] 'A strange red flower found growing on swampy grounds.'
-staxel.tileObject.swampRuins.Flower.red.1.description=A strange red flower found growing on swampy grounds.-늪지에서 자라는 이상한 붉은색 꽃입니다.
+staxel.tileObject.swampRuins.Flower.red.1.description=늪지에서 자라는 이상한 붉은색 꽃입니다.
 //[Reference] 'Red Swamp Flower'
 staxel.tileObject.swampRuins.Flower.red.1.name=붉은 늪지대 꽃
 //[Reference] 'A strange red flower found growing on swampy grounds.'
