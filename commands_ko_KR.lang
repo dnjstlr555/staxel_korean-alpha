@@ -1,9 +1,9 @@
 ﻿language.code=ko-KR
 language=한국어
-//TODO Translate [Reference] '^c:F2E200;activateMurmur ^c:FFFFFF;murmurCode'
-commands.activateMurmur.description=
-//TODO Translate [Reference] 'Successfully activated {0-murmur}.'
-commands.activateMurmur.success=
+//[Reference] '^c:F2E200;activateMurmur ^c:FFFFFF;murmurCode'
+commands.activateMurmur.description=^c:F2E200;activateMurmur  ^c:FFFFFF;murmur코드
+//[Reference] 'Successfully activated {0-murmur}.'
+commands.activateMurmur.success={0-murmur}가 성공적으로 작동되었습니다.
 
 //[Reference] '^c:F2E200;advanceTime ^c:FFFFFF;amount(0.0-1.0)'
 commands.advanceTime.description=^c:F2E200;advanceTime ^c:FFFFFF;값(0.0-1.0)
@@ -47,30 +47,30 @@ commands.cameraSave.success=플레이어의 화면을 파일로 저장했습니�
 commands.cameraStop.description=^c:F2E200;cameraStop
 //[Reference] 'Stopped camera mode'
 commands.cameraStop.success=카메라 모드를 중지했습니다.
-//TODO Translate [Reference] '^c:F2E200;catchableDetails ^c:FFFFFF;(optional)location({0,0,0})'
-commands.catchableDetails.description=
-//TODO Translate [Reference] 'Failed to parse location {0-location}'
-commands.catchableDetails.failParse=
-//TODO Translate [Reference] 'Tile not found'
-commands.catchableDetails.notFound=
-//TODO Translate [Reference] 'Catchable entity does not exist: {0-details}'
-commands.catchableDetails.success.false=
-//TODO Translate [Reference] 'Catchable entity exists: {0-details}'
-commands.catchableDetails.success.true=
+//[Reference] '^c:F2E200;catchableDetails ^c:FFFFFF;(optional)location({0,0,0})'
+commands.catchableDetails.description=^c:F2E200;catchableDetails ^c:FFFFFF;(필요시에만)위치({0,0,0})
+//[Reference] 'Failed to parse location {0-location}'
+commands.catchableDetails.failParse={0-location} - 해당 위치를 확인할수 없었습니다
+//[Reference] 'Tile not found'
+commands.catchableDetails.notFound=블럭을 찾을 수 없었습니다.
+//[Reference] 'Catchable entity does not exist: {0-details}'
+commands.catchableDetails.success.false=잡을수 있는 엔티티를 찾을 수 없었습니다 : {0-details}
+//[Reference] 'Catchable entity exists: {0-details}'
+commands.catchableDetails.success.true=잡을수 있는 엔티티를 확인했습니다 : {0-details}
 //[Reference] 'Not looking at an animal'
 commands.changeMood.animalNotFound=동물을 보고 있어야 합니다.
 //[Reference] '^c:F2E200;changeMood ^c:FFFFFF;increase/decrease(true/false)'
 commands.changeMood.description=^c:F2E200;changeMood ^c:FFFFFF;증가/감소(true/false)
 //[Reference] 'Mood altered successfully'
 commands.changeMood.success=기분이 성공적으로 변경되었습니다.
-//TODO Translate [Reference] '^c:F2E200;checkMail'
-commands.checkMail.description=
-//TODO Translate [Reference] '^c:F2E200;completeQuest ^c:FFFFFF;questCode villagerName/Code'
-commands.completeQuest.description=
-//TODO Translate [Reference] 'Quest does not exist'
-commands.completeQuest.noSuchQuest=
-//TODO Translate [Reference] 'Quest completed successfuly'
-commands.completeQuest.success=
+//[Reference] '^c:F2E200;checkMail'
+commands.checkMail.description=^c:F2E200;checkMail
+//[Reference] '^c:F2E200;completeQuest ^c:FFFFFF;questCode villagerName/Code'
+commands.completeQuest.description=^c:F2E200;completeQuest ^c:FFFFFF;퀘스트코드 주민이름/코드
+//[Reference] 'Quest does not exist'
+commands.completeQuest.noSuchQuest=퀘스트가 존재하지 않습니다.
+//[Reference] 'Quest completed successfuly'
+commands.completeQuest.success=퀘스트가 완료되었습니다.
 //[Reference] '^c:F2E200;creative ^c:FFFFFF;(optional)playerName (optional)startCreativeMode(true/false)'
 commands.creative.description=^c:F2E200;creative ^c:FFFFFF;(필요시에만)닉네임 (필요시에만)창작모드_시작_여부(true/false)
 //[Reference] 'Temporarily switched creative mode for {0-user} to {1-creative}'
@@ -78,11 +78,11 @@ commands.creative.success={0-user} 을 {1-creative} 모드로 변경하였습니
 //[Reference] '^c:F2E200;currentTime'
 commands.currentTime.description=^c:F2E200;currentTime
 //[Reference] 'The day is {0-day} and phase is {1:G2-phase} ({2-time}).'
-commands.currentTime.success=지금은 {0-day} 이며 {1:G2-phase} 만큼 진행중입니다. ({2-time})
-//TODO Translate [Reference] '^c:F2E200;deactivateMurmur ^c:FFFFFF;'
-commands.deactivateMurmur.description=
-//TODO Translate [Reference] 'Successfully deactivated {0-murmur} if it existed.'
-commands.deactivateMurmur.success=
+commands.currentTime.success=지금은 {0-day}이며 {1:G2-phase}만큼 진행중입니다. ({2-time})
+//[Reference] '^c:F2E200;deactivateMurmur ^c:FFFFFF;'
+commands.deactivateMurmur.description=^c:F2E200;deactivateMurmur ^c:FFFFFF;
+//[Reference] 'Successfully deactivated {0-murmur} if it existed.'
+commands.deactivateMurmur.success={0-murmur}가 비활성화 되었습니다.
 //[Reference] '^c:F2E200;demoMode ^c:FFFFFF;(optional)on(true/false)'
 commands.demoMode.description=^c:F2E200;demoMode ^c:FFFFFF;(필요시에만)활성화_여부(true/false)
 //[Reference] 'Switched server demo mode to {0-demoMode}'
@@ -94,9 +94,9 @@ commands.describeItem.success=아이템 오브젝트: {0-itemDesc}
 //[Reference] '^c:F2E200;ditto ^c:FFFFFF;(optional)playerName villagernpcCode'
 commands.ditto.description=^c:F2E200;ditto ^c:FFFFFF;(필요시에만)닉네임 NPC코드
 //[Reference] 'Player {0-playerName} does not have enough inventory space for all npc clothing items'
-commands.ditto.notEnoughSpace=플레이어 {0-playerName} 는 NPC의 의상 아이템을 위한 인벤토리 공간이 부족합니다.
+commands.ditto.notEnoughSpace=플레이어 {0-playerName}는 NPC의 의상 아이템을 위한 인벤토리 공간이 부족합니다.
 //[Reference] 'Player {0-playerName} disguised successfully'
-commands.ditto.success=플레이어 {0-playerName} 이 성공적으로 변장되었습니다.
+commands.ditto.success=플레이어 {0-playerName}이 성공적으로 변장되었습니다.
 //[Reference] '^c:F2E200;doemote ^c:FFFFFF;emoteName (optional)useLookatEntity(true/false)'
 commands.doemote.description=^c:F2E200;doemote ^c:FFFFFF;emoteName (필요시에만)useLookatEntity(true/false)
 //[Reference] '^c:F2E200;emote ^c:FFFFFF;emoteName'
@@ -125,12 +125,12 @@ commands.entityNotFound=엔티티가 발견되지 않았습니다.
 commands.flyMode.description=^c:F2E200;fly ^c:FFFFFF;(optional)playerName (optional)startFlying(true/false)
 //[Reference] 'Switched flying mode to: {0-flymode}'
 commands.flyMode.success=비행 모드를: {0-flymode} 로 변경하였습니다.
-//TODO Translate [Reference] '^c:F2E200;forceAchievement ^c:FFFFFF;achievementCode'
-commands.forceAchievement.description=
-//TODO Translate [Reference] 'Missing achievement code.'
-commands.forceAchievement.missingParam=
-//TODO Translate [Reference] 'Achievement not found.'
-commands.forceAchievement.noSuchAchievement=
+//[Reference] '^c:F2E200;forceAchievement ^c:FFFFFF;achievementCode'
+commands.forceAchievement.description=^c:F2E200;forceAchievement ^c:FFFFFF;도전과제코드
+//[Reference] 'Missing achievement code.'
+commands.forceAchievement.missingParam=도전과제 코드란이 비었습니다.
+//[Reference] 'Achievement not found.'
+commands.forceAchievement.noSuchAchievement=해당 도전과제를 찾을수 없었습니다.
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] '^c:F2E200;giveallrecipes ^c:FFFFFF;(optional)playerName'
 commands.giveallrecipes.description=^c:F2E200;Give all recipes ^c:FFFFFF;(optional)playerName
@@ -189,9 +189,9 @@ commands.noClip.description=^c:F2E200;noclip ^c:FFFFFF;(optional)playerName (opt
 //[Reference] 'Switched noclip mode to: {0-noclip}'
 commands.noClip.success=지형무시 모드로 변경하였습니다: {0-noclip}
 //[Reference] '{0-user} does not have the correct rights to use this command'
-commands.noRights={0-user} 는 이 명령어를 사용할 권한이 없습니다.
+commands.noRights={0-user}는 이 명령어를 사용할 권한이 없습니다.
 //[Reference] 'No such player '{0-player}''
-commands.noSuchPlayer='{0-player}'플레이어를 찾을 수 없습니다.
+commands.noSuchPlayer='{0-player}'플레이어를 찾을 수 없었습니다.
 //[Reference] 'Not a player entity.'
 commands.notAPlayer=플레이어 엔티티가 아닙니다.
 //[Reference] '^c:F2E200;op ^c:FFFFFF;playerName'
@@ -286,6 +286,14 @@ commands.spawnMaterial.description=^c:F2E200;spawnmaterial ^c:FFFFFF;(optional)p
 commands.spawnMaterial.notFound=존재하지 않는 종류의 재료입니다.
 //[Reference] 'Spawn material successful'
 commands.spawnMaterial.success=재료가 성공적으로 소환되었습니다.
+//TODO Translate [Reference] '^c:F2E200;spawnStars ^c:FFFFFF;(optional)amount'
+commands.spawnStars.description=
+//TODO Translate [Reference] 'Failed to star bits item.'
+commands.spawnStars.failed=
+//TODO Translate [Reference] 'Star amount is not a valid positive number.'
+commands.spawnStars.invalidNumber=
+//TODO Translate [Reference] 'Spawn star success.'
+commands.spawnStars.success=
 //[Reference] '^c:F2E200;spawntile ^c:FFFFFF;(optional)playerName tileCode'
 commands.spawnTile.description=^c:F2E200;spawntile ^c:FFFFFF;(optional)playerName tileCode
 //[Reference] 'Tile kind not found.'
@@ -337,12 +345,12 @@ commands.tileAt.notFound=존재하지 않는 타일입니다.
 commands.tileAt.success.false=Tile code: {0-tilecode} at {1-position} (compoundFiller: false, rotation: {2-rotation}, alt: {3-alt}, chunk: {4-chunk})
 //[Reference] 'Tile code: {0-tilecode} at {1-position} (compoundFiller: true, rotation: {2-rotation}, alt: {3-alt}, chunk: {4-chunk})'
 commands.tileAt.success.true=Tile code: {0-tilecode} at {1-position} (compoundFiller: true, rotation: {2-rotation}, alt: {3-alt}, chunk: {4-chunk})
-//TODO Translate [Reference] '^c:F2E200;toggleTimePassing ^c:FFFFFF;Toggles the passing of time'
-commands.toggleTimePassing.description=
-//TODO Translate [Reference] 'Time Resumed'
-commands.toggleTimePassing.resume=
-//TODO Translate [Reference] 'Time Stopped'
-commands.toggleTimePassing.stop=
+//[Reference] '^c:F2E200;toggleTimePassing ^c:FFFFFF;Toggles the passing of time'
+commands.toggleTimePassing.description=^c:F2E200;toggleTimePassing ^c:FFFFFF;시간을 멈췄다 계속할수 있습니다.
+//[Reference] 'Time Resumed'
+commands.toggleTimePassing.resume=시간 계속됨
+//[Reference] 'Time Stopped'
+commands.toggleTimePassing.stop=시간 정지됨
 commands.traceStart.description=
 //[Reference] 'Started tracing.'
 commands.traceStart.success=추적을 시작합니다.
@@ -368,14 +376,14 @@ commands.unmute.failure={0-player}의 음소거를 해제하지 못했습니다:
 commands.unmute.success={0-player}의 말문이 트였습니다!
 //[Reference] 'Unrecognised command :'{0-command}''
 commands.unrecognised=인식할 수 없는 명령어입니다 :'{0-command}'
-//TODO Translate [Reference] '^c:F2E200;updateReputation ^c:FFFFFF;villagerName/Code amount'
-commands.updateReputation.description=
-//TODO Translate [Reference] 'Reputation updated to {0-newAmount} for villager {1-villagerCode}'
-commands.updateReputation.success=
-//TODO Translate [Reference] 'Villager Entity not found'
-commands.villagerEntityNotFound=
+//[Reference] '^c:F2E200;updateReputation ^c:FFFFFF;villagerName/Code amount'
+commands.updateReputation.description=^c:F2E200;updateReputation ^c:FFFFFF;주민이름/코드
+//[Reference] 'Reputation updated to {0-newAmount} for villager {1-villagerCode}'
+commands.updateReputation.success={1-villagerCode}에 대한 {0-newAmount}만큼의 명성 업데이트됨
+//[Reference] 'Villager Entity not found'
+commands.villagerEntityNotFound=해당 주민을 찾을수 없었습니다.
 //[Reference] '^c:F2E200;weather ^c:FFFFFF;Type (Sun, Rain, Snow, Storm or weather code.)'
-commands.weather.description=^c:F2E200;weather ^c:FFFFFF;Type (Sun, Rain, Snow, Storm or weather code.)
+commands.weather.description=^c:F2E200;weather ^c:FFFFFF;Type (Sun, Rain, Snow, Storm 이나 다른 날짜 코드)
 //[Reference] 'Unable to set weather: {0-weather}. Does not exist.'
 commands.weather.noweather=해당 날씨로 변경할 수 없습니다: {0-weather}. 존재하지 않는 날씨입니다.
 //[Reference] 'Set weather to: {0-weather}.'

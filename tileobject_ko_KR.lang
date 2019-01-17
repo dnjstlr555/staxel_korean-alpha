@@ -1,8 +1,8 @@
 ﻿language.code=ko-KR
 language=한국어
 staxel.plant.quest.GaintTurnip.tile.description=
-//TODO Translate [Reference] 'Gaint Turnip'
-staxel.plant.quest.GaintTurnip.tile.name=
+//[Reference] 'Gaint Turnip'
+staxel.plant.quest.GaintTurnip.tile.name=대형 튤립
 
 staxel.tileObject.airship.RopeFenceCorner.description=
 //[Reference] 'Rope Fence'
@@ -12,7 +12,7 @@ staxel.tileObject.airship.RopeFenceStraight.description=
 staxel.tileObject.airship.RopeFenceStraight.name=밧줄 울타리
 
 //[Reference] 'This is where bees are kept. If a bee colony resides here they will slowly make and store honey inside here which can be harvested!'
-staxel.tileObject.animalFurniture.Apiary.description=벌들이 들어있는 곳입니다. 꿀벌 나라가 여기 있으면 꿀벌들이 여기로 꿀을 가지고 옵니다!
+staxel.tileObject.animalFurniture.Apiary.description=벌들이 들어있는 곳입니다. 꿀벌 나라가 이곳에 생기면 꿀벌들이 여기로 꿀을 가지고 옵니다!
 //[Reference] 'Apiary'
 staxel.tileObject.animalFurniture.Apiary.name=벌 양봉장
 //[Reference] 'A little structure for chickens so they have a place to sleep at night. Very homely!'
@@ -165,36 +165,40 @@ staxel.tileObject.bobbleheads.EgaddBobbleHead.description=
 //[Reference] 'Egadd Bobblehead'
 staxel.tileObject.bobbleheads.EgaddBobbleHead.name=Egadd 버블헤드
 staxel.tileObject.bobbleheads.GolemBobbleHead.description=
-//[Reference] 'Golem 버블헤드'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Golem Bobblehead'
 staxel.tileObject.bobbleheads.GolemBobbleHead.name=Golem 버블헤드
 staxel.tileObject.bobbleheads.HarryBobbleHead.description=
-//[Reference] 'Harry 버블헤드'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Harry Bobblehead'
 staxel.tileObject.bobbleheads.HarryBobbleHead.name=Harry 버블헤드
 staxel.tileObject.bobbleheads.JenBobbleHead.description=
-//[Reference] 'Jen 버블헤드'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Jen Bobblehead'
 staxel.tileObject.bobbleheads.JenBobbleHead.name=Jen 버블헤드
 staxel.tileObject.bobbleheads.JoeBobbleHead.description=
-//[Reference] 'Joe 버블헤드'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Joe Bobblehead'
 staxel.tileObject.bobbleheads.JoeBobbleHead.name=Joe 버블헤드
 staxel.tileObject.bobbleheads.MayorBobbleHead.description=
-//TODO Translate [Reference] 'Mayor 버블헤드'
-staxel.tileObject.bobbleheads.MayorBobbleHead.name=
+//[Reference] 'Mayor Bobblehead'
+staxel.tileObject.bobbleheads.MayorBobbleHead.name=이장님 버블헤드
 staxel.tileObject.bobbleheads.MoocowBobbleHead.description=
 //[Reference] 'Moocow Bobblehead'
-staxel.tileObject.bobbleheads.MoocowBobbleHead.name=Moocow Bobblehead
+staxel.tileObject.bobbleheads.MoocowBobbleHead.name=Moocow 버블헤드
 staxel.tileObject.bobbleheads.PigBobbleHead.description=
 //[Reference] 'Pig Bobblehead'
-staxel.tileObject.bobbleheads.PigBobbleHead.name=돼지 Bobblehead
+staxel.tileObject.bobbleheads.PigBobbleHead.name=돼지 버블헤드
 staxel.tileObject.bobbleheads.RazzBobbleHead.description=
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Razzleberry Bobblehead'
-staxel.tileObject.bobbleheads.RazzBobbleHead.name=Razzelberry Bobblehead
+staxel.tileObject.bobbleheads.RazzBobbleHead.name=Razzelberry 버블헤드
 staxel.tileObject.bobbleheads.SheepBobbleHead.description=
 //[Reference] 'Sheep Bobblehead'
-staxel.tileObject.bobbleheads.SheepBobbleHead.name=양 Bobblehead
+staxel.tileObject.bobbleheads.SheepBobbleHead.name=양 버블헤드
 staxel.tileObject.bobbleheads.SteinBobbleHead.description=
 //[Reference] 'SteampunkStein Bobblehead'
-staxel.tileObject.bobbleheads.SteinBobbleHead.name=SteampunkStein Bobblehead
+staxel.tileObject.bobbleheads.SteinBobbleHead.name=SteampunkStein 버블헤드
 
 staxel.tileObject.campingset.Campfire.description=
 //[Reference] 'Campfire'
@@ -244,7 +248,7 @@ staxel.tileObject.christmas.ChristmasTree.description=작은 조명들과 꼭대
 //[Reference] 'Christmas Tree'
 staxel.tileObject.christmas.ChristmasTree.name=크리스마스 트리
 //[Reference] 'A gingerbread fence with yummy icing!'
-staxel.tileObject.christmas.GingerbreadFence.description=맛있는 설탕이 뿌려진 생강 빵으로 만든 울타리다!
+staxel.tileObject.christmas.GingerbreadFence.description=맛있는 설탕이 뿌려진 생강 빵으로 만든 울타리에요!
 //[Reference] 'Gingerbread Fence'
 staxel.tileObject.christmas.GingerbreadFence.name=생강 빵 울타리
 //[Reference] 'Is it a decoration or a delicious treat? That's up to you!'
@@ -260,7 +264,7 @@ staxel.tileObject.christmas.GreenPresent.description=하얀색 리본이 장식�
 //[Reference] 'Green Gift'
 staxel.tileObject.christmas.GreenPresent.name=초록색 선물상자
 //[Reference] 'What's better than a peppermint Lollipop? A giant peppermint lollipop!'
-staxel.tileObject.christmas.PeppermintLollipop.description=민트맛 막대사탕 보다 더 나은게 뭐게? 바로 커다란 민트맛 막대사탕이지!
+staxel.tileObject.christmas.PeppermintLollipop.description=민트맛 막대사탕 보다 더 나은게 뭐게요? 바로 커다란 민트맛 막대사탕!
 //[Reference] 'Giant Peppermint Lollipop'
 staxel.tileObject.christmas.PeppermintLollipop.name=커다란 민트맛 막대사탕
 //[Reference] 'A gift in a hot pink box and topped with a lovely black bow.'
@@ -276,7 +280,7 @@ staxel.tileObject.christmas.RedCandyCaneSmall.description=이것이 장식이 �
 //[Reference] 'Small Red Candy Cane'
 staxel.tileObject.christmas.RedCandyCaneSmall.name=작은 빨간색 지팡이 사탕
 //[Reference] 'Yummm, I think it's strawberry!'
-staxel.tileObject.christmas.RedLollipop.description=음, 딸기맛이네!
+staxel.tileObject.christmas.RedLollipop.description=할짝... 딸기맛이네!
 //[Reference] 'Red Lollipop'
 staxel.tileObject.christmas.RedLollipop.name=빨간색 막대사탕
 //[Reference] 'A gift in a yellow box and topped with a traditional red bow.'
@@ -292,7 +296,7 @@ staxel.tileObject.creepyBiome.Creepytree.description=섬뜩하게 비틀려있�
 //[Reference] 'Creepy Tree'
 staxel.tileObject.creepyBiome.Creepytree.name=섬뜩한 나무
 //[Reference] 'I wonder who put that lamp there?'
-staxel.tileObject.creepyBiome.Creepytreelight.description=누가 저 조명을 둔거지?
+staxel.tileObject.creepyBiome.Creepytreelight.description=누가 조명을 넣은거지?
 //[Reference] 'Creepy Tree Light'
 staxel.tileObject.creepyBiome.Creepytreelight.name=섬뜩한 나무 조명
 //[Reference] 'A classic candle which emits a comfortable orange light.'
@@ -320,7 +324,7 @@ staxel.tileObject.creepyBiome.TombstoneSmall.description=존경의 마음으로 
 //[Reference] 'Small Tombstone'
 staxel.tileObject.creepyBiome.TombstoneSmall.name=작은 비석
 //[Reference] 'This tombstone seems to have been damaged from the elements.'
-staxel.tileObject.creepyBiome.TombstoneSmallBroken.description=오랜세월에 의해 금이 간 것 같다.
+staxel.tileObject.creepyBiome.TombstoneSmallBroken.description=오랜세월에 의해 금이 간 것 같아요.
 //[Reference] 'Small Broken Tombstone'
 staxel.tileObject.creepyBiome.TombstoneSmallBroken.name=금이 간 작은 무덤
 staxel.tileObject.decorations.BarberPole.description=
@@ -339,7 +343,7 @@ staxel.tileObject.decorations.WindChime.description=
 //[Reference] 'Wind Chime'
 staxel.tileObject.decorations.WindChime.name=풍경
 //[Reference] 'Too much to fit in a coin purse, but not enough to swim in.'
-staxel.tileObject.dungeon.MoneyPile.description=동전이 많이 쌓여있다! 하지만 수영을 하기엔 부족할 것 같아.
+staxel.tileObject.dungeon.MoneyPile.description=동전이 많이 쌓여있어요! 하지만 수영을 하기엔 부족할 것 같은 양.
 //[Reference] 'Pile of Gold'
 staxel.tileObject.dungeon.MoneyPile.name=금 더미
 //[Reference] 'That's a lot of gold, I wonder how much that is in petals?'
@@ -908,7 +912,8 @@ staxel.tileObject.serverVillage.Bed.double.red.description=편안하고 잘 만�
 staxel.tileObject.serverVillage.Bed.double.red.name=평범한 빨간색 2인용 침대
 //[Reference] 'A comfortable, well made, single bed.'
 staxel.tileObject.serverVillage.Bed.single.black.description=편안하고 잘 만들어진 침대
-//[Reference] 'Simply Red Single Bed'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Simply Black Single Bed'
 staxel.tileObject.serverVillage.Bed.single.black.name=평범한 빨간색 침대
 //[Reference] 'A comfortable, well made, single bed.'
 staxel.tileObject.serverVillage.Bed.single.blue.description=편안하고 잘 만들어진 침대
@@ -2350,22 +2355,22 @@ staxel.tileObject.totems.BarnSign.description=
 staxel.tileObject.totems.BarnSign.name=곳간 표지판
 staxel.tileObject.totems.CecileMailbox.description=
 //[Reference] 'Cecile's Postbox'
-staxel.tileObject.totems.CecileMailbox.name=Cecile의 우체통
+staxel.tileObject.totems.CecileMailbox.name=세실의 우체통
 staxel.tileObject.totems.EmiliaMailbox.description=
 //[Reference] 'Emilia's Postbox'
-staxel.tileObject.totems.EmiliaMailbox.name=Emilia의 우체통
+staxel.tileObject.totems.EmiliaMailbox.name=에밀리아의 우체통
 staxel.tileObject.totems.ErisMailbox.description=
 //[Reference] 'Eris' Postbox'
-staxel.tileObject.totems.ErisMailbox.name=Eris의 우체통
+staxel.tileObject.totems.ErisMailbox.name=에리스의 우체통
 staxel.tileObject.totems.JamieMailbox.description=
 //[Reference] 'Jamie's Postbox'
-staxel.tileObject.totems.JamieMailbox.name=Jamie의 우체통
+staxel.tileObject.totems.JamieMailbox.name=제이미의 우체통
 staxel.tileObject.totems.MayorMaxMailbox.description=
 //[Reference] 'Maximilian's Postbox'
-staxel.tileObject.totems.MayorMaxMailbox.name=Maximilian의 우체통
+staxel.tileObject.totems.MayorMaxMailbox.name=막시밀리안의 우체통
 staxel.tileObject.totems.OscarMailbox.description=
 //[Reference] 'Oscar's Postbox'
-staxel.tileObject.totems.OscarMailbox.name=Oscar의 우체통
+staxel.tileObject.totems.OscarMailbox.name=오스카의 우체통
 staxel.tileObject.totems.PatisserieSign.description=
 //[Reference] 'Patisserie Sign'
 staxel.tileObject.totems.PatisserieSign.name=케이크 가게 표지판
@@ -2389,7 +2394,7 @@ staxel.tileObject.totems.RosemaryMailbox.description=
 staxel.tileObject.totems.RosemaryMailbox.name=Rosemary의 우체통
 staxel.tileObject.totems.Test.description=
 //[Reference] 'Test'
-staxel.tileObject.totems.Test.name=Test
+staxel.tileObject.totems.Test.name=테스트
 staxel.tileObject.totems.TownHall.description=
 
 //[Reference] 'Town Hall Sign'
@@ -2426,13 +2431,13 @@ staxel.tileObject.villagers.OscarSpawner.description=
 staxel.tileObject.villagers.OscarSpawner.name=Oscar 소환
 staxel.tileObject.villagers.RosemarySpawner.description=
 //[Reference] 'Rosemary Spawner'
-staxel.tileObject.villagers.RosemarySpawner.name=Rosemary 소환
+staxel.tileObject.villagers.RosemarySpawner.name=로즈메리 소환
 staxel.tileObject.villagers.RowanSpawner.description=
 //[Reference] 'Rowan Spawner'
-staxel.tileObject.villagers.RowanSpawner.name=Rowan 소환
+staxel.tileObject.villagers.RowanSpawner.name=로완 소환
 staxel.tileObject.villagers.TutorialNpcSpawner.description=
 //[Reference] 'Tutorial NPC Spawner'
-staxel.tileObject.villagers.TutorialNpcSpawner.name=Tutorial NPC 소환
+staxel.tileObject.villagers.TutorialNpcSpawner.name=튜토리얼 NPC 소환
 //[Reference] 'From the 'Wicker Furniture Set' - A single bed with a wicker base and a soft mattress.'
 staxel.tileObject.wicker.WickerBed.description=고리버들 가구 모음에 있는 침대입니다. 버드나무 가지를 엮어 만든 매트리스로 푹신합니다.
 //[Reference] 'Wicker Bed'

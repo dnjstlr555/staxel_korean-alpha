@@ -1,5 +1,13 @@
 ﻿language.code=ko-KR
 language=한국어
+//[Reference] 'Reach acquaintance level with any villager'
+staxel.achievement.Acquaintance.description=마을 사람과 친해져 보아요.
+//[Reference] 'Getting to know the Village'
+staxel.achievement.Acquaintance.name=마을 사람과 친해지기
+//[Reference] 'Become a villager's best friend'
+staxel.achievement.BestFriends.description=마을 사람과 단짝 친구가 되어보아요.
+//[Reference] 'Besties'
+staxel.achievement.BestFriends.name=마을 사람과 짱친되기
 //[Reference] 'Bugs can be sold for money.'
 staxel.achievement.Catch10Bug.description=곤충을 팔아서 부자가 되어보아요.
 //[Reference] 'Catch 10 Bugs'
@@ -9,7 +17,7 @@ staxel.achievement.Catch10Fish.description=낚싯대를 사용해서 물고기�
 //[Reference] 'Catch 10 Fish'
 staxel.achievement.Catch10Fish.name=물고기 10마리 낚기
 //[Reference] 'If only programming bugs were so easy to catch.'
-staxel.achievement.Catch100Bug.description=벌레같은 게임 '버그'들 게임에서 만큼 현실세계에서도 잡혀주었으면...
+staxel.achievement.Catch100Bug.description=곤충은 대단해요!
 //[Reference] 'Catch 100 Bugs'
 staxel.achievement.Catch100Bug.name=곤충 100마리 잡기
 //[Reference] 'Them's good eating!'
@@ -51,6 +59,10 @@ staxel.achievement.ChargeTool.description=도구를 사용할 때 힘을 모아�
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Charge a Tool'
 staxel.achievement.ChargeTool.name=힘 모으기
+//[Reference] 'Invite any villager to become your roomie'
+staxel.achievement.Commitment.description=같이 살 방 친구를 만드세요.
+//[Reference] 'The Ultimate Commitment'
+staxel.achievement.Commitment.name=더 이상 외롭지 않아
 //[Reference] 'Now you can call yourself a master chef.'
 staxel.achievement.Cook100.description=이제 최고의 요리사라고 불러도 손색이 없겠는데요?
 //[Validate] Delete this comment if or when the translation is accurate.
@@ -120,6 +132,10 @@ staxel.achievement.Find100Fossil.name=화석 100개 찾기
 staxel.achievement.FindFossil.description=첫번째 화석을 찾아보아요!
 //[Reference] 'Find a Fossil'
 staxel.achievement.FindFossil.name=화석 찾기
+//[Reference] 'Befriend any villager'
+staxel.achievement.Friends.description=마을 사람과 친구가 되어보아요.
+//[Reference] 'Making Friends'
+staxel.achievement.Friends.name=마을 사람과 친구되기
 //[Reference] 'Mushrooms are a great way to make money. Activate them to pick them up.'
 staxel.achievement.Gather10Mushrooms.description=용돈 벌이에는 버섯을 파는 것 만 한게 없죠.
 //[Reference] 'Gather 10 Mushrooms'
@@ -161,7 +177,7 @@ staxel.achievement.GetEgg.name=달걀 줍기
 staxel.achievement.GetEgg100.description=한 바구니로는 부족할 것 같아요!
 //[Reference] 'Pick up 100 Eggs'
 staxel.achievement.GetEgg100.name=달걀 100개 줍기
-//TODO Translate [Reference] 'Get your hands on a work of art'
+//[Reference] 'Get your hands on a work of art'
 staxel.achievement.GetPainting.description=예술 작품을 손에 넣으세요.
 //[Reference] 'Obtain a Painting'
 staxel.achievement.GetPainting.name=그림 찾기
@@ -189,6 +205,10 @@ staxel.achievement.HarvestCrop.name=농작물 수확하기
 staxel.achievement.HarvestHoney.description=꿀을 얻기 위해서는 벌 양봉장이 필요합니다.
 //[Reference] 'Harvest Honey'
 staxel.achievement.HarvestHoney.name=꿀 수확하기
+//[Reference] 'Become liked by any villager'
+staxel.achievement.Liked.description=마을 사람과 썸을 타보아요.
+//[Reference] 'A Warm Feeling'
+staxel.achievement.Liked.name=마을 사람과 썸타기
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Fairies sometimes forget their goodies in forests.'
 staxel.achievement.LootTreasure.description=보물을 찾아보아요.
@@ -273,6 +293,10 @@ staxel.achievement.Plant1000.name=씨앗 1000개 심기
 staxel.achievement.PlantCrop.description=괭이로 간 흙에 씨앗을 심으세요.
 //[Reference] 'Plant a Seed'
 staxel.achievement.PlantCrop.name=씨앗 심기
+//[Reference] 'Complete any villager's quest line'
+staxel.achievement.QuestComplete.description=마을 사람의 퀘스트를 전부 완료해 보아요.
+//[Reference] 'Inseparable'
+staxel.achievement.QuestComplete.name=끈끈한 우정
 //[Reference] 'Grab a pickaxe and mine some stone!'
 staxel.achievement.RawStone.description=곡괭이를 들고 돌을 캡시다!
 //[Reference] 'Mine Raw Stone'
@@ -353,7 +377,7 @@ staxel.achievements.descriptions.PlaceItem.text={0-item} 설치됨
 //[Reference] '{0-item} planted'
 staxel.achievements.descriptions.PlantItem.text={0-item} 심어짐
 //[Reference] 'Sales of {0-item}'
-staxel.achievements.descriptions.SellItem.text={0-item} 팔기
+staxel.achievements.descriptions.SellItem.text={0-item} 팔아짐
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Loot Treasure'
 staxel.achievements.lootTreasure=보물 찾기
