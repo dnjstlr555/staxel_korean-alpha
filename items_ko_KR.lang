@@ -717,7 +717,7 @@ staxel.item.crops.Lemon.description=맛있고 신 과일입니다.
 //[Reference] 'Lemon'
 staxel.item.crops.Lemon.name=레몬
 //TODO Translate [Reference] 'A head of green lettuce'
-staxel.item.crops.Lettuce.description=
+staxel.item.crops.Lettuce.description=초록 상추 대가리
 //[Reference] 'Lettuce'
 staxel.item.crops.Lettuce.name=상추
 //[Reference] 'A brightly coloured lime green lime.'
@@ -1038,7 +1038,7 @@ staxel.item.tool.Broom.name=빗자루
 //[Reference] 'Use this to capture farm animals!'
 staxel.item.tool.captureCrate.description=농장 동물들을 이 상자에 넣을 수 있어요!
 //TODO Translate [Reference] 'Capture Crate'
-staxel.item.tool.captureCrate.name=
+staxel.item.tool.captureCrate.name=포획 상자
 //[Reference] 'A tool used to disassemble objects. Charge the tool to affect a larger area'
 staxel.item.tool.Hammer.description=이 도구를 사용해 놓아둔 물건들을 부술 수 있습니다. 힘을 모아 더 넓은 곳을 한번에 부술 수 있습니다.
 //[Reference] 'Hammer'

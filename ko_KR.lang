@@ -260,7 +260,7 @@ error.back=돌아가기
 
 //[Reference] 'Bad Version'
 error.badVersion=서버와 버전이 맞지 않아요.
-//TODO Translate [Reference] 'Failed to connect to server. Address: {0-address} ErrorMessage: {1-message}'
+//[Reference] 'Failed to connect to server. Address: {0-address} ErrorMessage: {1-message}'
 error.failedToConnect=서버에 접속할 수 없었어요. 주소: {0-address} 오류: {1-message}
 //[Reference] 'Server Full'
 error.serverFull=서버가 가득 찼어요.
@@ -268,39 +268,39 @@ error.serverFull=서버가 가득 찼어요.
 error.serverOffline=스타셀 서버가 열려있지 않은것 같아요. 나중에 다시 시도해주세요.
 //[Reference] 'SORRY!'
 error.sorry=죄송해요!
-//TODO Translate [Reference] 'You have been banned from this server.'
+//[Reference] 'You have been banned from this server.'
 error.startGame.banned=이 서버에서 차단되셨어요.
-//TODO Translate [Reference] 'Connection Closed'
+//[Reference] 'Connection Closed'
 error.startGame.connectionClosed=연결이 끊어졌어요.
-//TODO Translate [Reference] 'Cannot start a local private server for single player mode.{0-newLine}Is another copy of the game still running?{1-newLine}'
+//[Reference] 'Cannot start a local private server for single player mode.{0-newLine}Is another copy of the game still running?{1-newLine}'
 error.startGame.gameRunning=혼자서 놀기 위해 서버를 만들어야 했는데 그러지 못했어요.{0-newLine}스타셀이 한꺼번에 여러개 켜져 있어서 그럴수 있어요.
-//TODO Translate [Reference] 'Invalid credentials.'
+//[Reference] 'Invalid credentials.'
 error.startGame.invalidCredential=인증하는데 오류가 있었어요.
-//TODO Translate [Reference] 'Local game closed unexpectedly.'
+//[Reference] 'Local game closed unexpectedly.'
 error.startGame.localGameUnexpected=알 수 없는 오류로 게임이 종료되었어요.
-//TODO Translate [Reference] 'Game failed to start a local private server for single player mode. Server closed before client could make local tcp connection.'
+//[Reference] 'Game failed to start a local private server for single player mode. Server closed before client could make local tcp connection.'
 error.startGame.localTcp=혼자 놀기 전용 서버를 만드는데 오류가 있었어요. TCP로 접속하기 전에 서버가 먼저 닫히고 말았어요.
-//TODO Translate [Reference] 'Connection closed because a new connection was made by the same player.'
+//[Reference] 'Connection closed because a new connection was made by the same player.'
 error.startGame.muliLogin=이미 같은 사람이 접속돼있었어요. 분신술을 쓰셨나???
-//TODO Translate [Reference] 'Not logged in.'
+//[Reference] 'Not logged in.'
 error.startGame.notLoggedIn=로그인이 되어있지 않아요.
-//TODO Translate [Reference] 'A premium account is required to play on this server.'
+//[Reference] 'A premium account is required to play on this server.'
 error.startGame.premiumAccount=이 서버에서 놀려면 프리미엄 계정이 필요해요.
-//TODO Translate [Reference] 'Game failed to start a local private server for single player mode. Server closed quickly before client could connect.'
+//[Reference] 'Game failed to start a local private server for single player mode. Server closed quickly before client could connect.'
 error.startGame.quickNoConnect=혼자 놀기 전용 서버를 만드는데 오류가 있었어요. 접속하기도 전에 먼저 서버가 닫혔어요.
-//TODO Translate [Reference] 'Server is set to allow only accounts with special attributes.'
-error.startGame.specialAttributes=특정 계정만 접속할 수 있게끔 서버가 설정되어 있었어요. 
-//TODO Translate [Reference] 'Game failed to start a local private server for single player mode. Timeout on trying to connect with local server.'
+//[Reference] 'Server is set to allow only accounts with special attributes.'
+error.startGame.specialAttributes=특정 계정만 접속할 수 있게끔 서버가 설정되어 있었어요.
+//[Reference] 'Game failed to start a local private server for single player mode. Timeout on trying to connect with local server.'
 error.startGame.timeout=혼자 놀기 전용 서버를 만드는데 오류가 있었어요. 혼자 놀기 서버가 너무 오랫동안 응답하지 않았어요.
-//TODO Translate [Reference] 'Game failed to start a local private server for single player mode. Server closed very quickly before client could connect.'
+//[Reference] 'Game failed to start a local private server for single player mode. Server closed very quickly before client could connect.'
 error.startGame.veryQuickNoConnect=혼자 놀기 전용 서버를 만드는데 오류가 있었어요. 엄청난 속도로 뭔가 하기도 전에 서버가 닫혔어요.
-//TODO Translate [Reference] 'Weak credentials not allowed by server.'
+//[Reference] 'Weak credentials not allowed by server.'
 error.startGame.weakCredential=약한 보안 설정을 서버에서 막아뒀어요.
 //[Reference] 'Cancel'
 escapemenu.cancel=아니요
 //[Reference] 'Are you sure you want to exit to desktop? Progress is saved automatically.'
 escapemenu.confirmExit=게임을 종료하실래요? 지금까지 해온 일지들은 자동으로 저장됩니다.
-//TODO Translate [Reference] 'Are you sure you want to exit to desktop?'
+//[Reference] 'Are you sure you want to exit to desktop?'
 escapemenu.confirmExitMultiPlayer=게임을 종료하실래요?
 //[Reference] 'Exit'
 escapemenu.exit=나가기
@@ -425,7 +425,7 @@ multiplayerMenu.back=돌아가기
 multiplayerMenu.joinServer=서버 참가
 //[Reference] 'Play With Friends'
 multiplayerMenu.playWithFriends=친구랑 같이하기
-//TODO Translate [Reference] 'Play With Friends'
+//[Reference] 'Play With Friends'
 multiplayerMenu.playWithFriendsStandalone=친구랑 같이하기
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Server Address:'
@@ -511,11 +511,11 @@ options.gameplay.audio.muteErrorSounds=오류 알림 음소거
 options.gameplay.controller=컨트롤러
 //[Reference] 'Enable Controller Input'
 options.gameplay.controller.enableController=컨트롤러 사용
-//TODO Translate [Reference] 'Flip Left X Axis'
+//[Reference] 'Flip Left X Axis'
 options.gameplay.controller.flipLeftX=왼쪽 아날로그 스틱 좌우 거꾸로
 //[Reference] 'Flip Left Y Axis'
 options.gameplay.controller.flipLeftY=왼쪽 아날로그 스틱 위아래 거꾸로
-//TODO Translate [Reference] 'Flip Right X Axis'
+//[Reference] 'Flip Right X Axis'
 options.gameplay.controller.flipRightX=오른쪽 아날로그 스틱 좌우 거꾸로
 //[Reference] 'Flip Right Y Axis'
 options.gameplay.controller.flipRightY=오른쪽 아날로그 스틱 위아래 거꾸로
@@ -544,7 +544,7 @@ options.gameplay.keyboard=키보드
 options.gameplay.mouse=마우스
 //[Reference] 'Flip Wheel Direction'
 options.gameplay.mouse.flipWheelDirection=마우스 휠 거꾸로
-//TODO Translate [Reference] 'Flip X Axis'
+//[Reference] 'Flip X Axis'
 options.gameplay.mouse.flipX=마우스 좌우 거꾸로
 //[Reference] 'Flip Y Axis'
 options.gameplay.mouse.flipY=마우스 위 아래 거꾸로
@@ -556,7 +556,7 @@ options.gameplay.mouse.smoothingFactor=마우스 부드럽게
 options.gameplay.other=기타
 //[Reference] 'Active Achievement Tracker'
 options.gameplay.other.activeAchievement=도전과제 알리미 활성화
-//TODO Translate [Reference] 'Auto Pickup Items'
+//[Reference] 'Auto Pickup Items'
 options.gameplay.other.autoPickupItems=아이템 자동으로 줍기
 //[Reference] 'Text Speed:'
 options.gameplay.other.ChatSpeed=대화 진행 속도
@@ -580,9 +580,9 @@ options.gameplay.other.showCraftingKeywordTags=제작대의 이름표 표시
 options.gameplay.other.StepWiseUIScale=UI 늘림 방지
 //[Reference] 'Prevent NPC Staring'
 options.gameplay.other.StopNPCStaring=NPC의 시선 고정 방지
-//TODO Translate [Reference] 'StaxelNet'
+//[Reference] 'StaxelNet'
 options.gameplay.StaxelNet=스타넷
-//TODO Translate [Reference] 'Relay'
+//[Reference] 'Relay'
 options.gameplay.StaxelNet.Relay=회선
 //[Reference] 'UI'
 options.gameplay.ui=UI
@@ -686,11 +686,11 @@ options.general.graphics.ultra=최고
 options.general.graphics.WeatherParticles=실내에서의 날씨 효과 해제
 //[Reference] 'Language'
 options.general.language=언어
-//TODO Translate [Reference] 'The {0-binding} control is not available for {1-logicalType} bindings.'
+//[Reference] 'The {0-binding} control is not available for {1-logicalType} bindings.'
 options.keyBindings.bindingLocked={0-binding}키는 {1-logicalType}에 사용할수 없어요
 //[Reference] 'Controller'
 options.keyBindings.controller=컨트롤러
-//TODO Translate [Reference] 'Control Scheme'
+//[Reference] 'Control Scheme'
 options.keyBindings.controlScheme=조작 프리셋
 //[Reference] 'Gameplay'
 options.keyBindings.gameplay=게임 플레이
@@ -854,9 +854,9 @@ singleplayer.friendJoin=친구랑 같이하기
 singleplayer.launch=시작
 //[Reference] 'Storage with this name already exists'
 singleplayer.nameAlreadyExists=이 이름은 이미 있는 이름이에요.
-//TODO Translate [Reference] 'Name is invalid (contains invalid characters)'
+//[Reference] 'Name is invalid (contains invalid characters)'
 singleplayer.nameIsInvalid=이 이름을 사용할수 없어요. (이상한 글자가 들어가 있어요)
-//TODO Translate [Reference] 'Name too long (max 16 characters)'
+//[Reference] 'Name too long (max 16 characters)'
 singleplayer.nameTooLong=이 이름은 너무 길어요. (최대 16글자에요)
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Name too short (min 3 characters)'
@@ -865,9 +865,9 @@ singleplayer.nameTooShort=이름이 너무 짧아요. (최소 3글자 이상이�
 singleplayer.newWorld=새로운 세계
 //[Reference] 'Play With Friends'
 singleplayer.playWithFriends=친구랑 같이하기
-//TODO Translate [Reference] 'Rename'
+//[Reference] 'Rename'
 singleplayer.rename=이름 바꾸기
-//TODO Translate [Reference] 'Error while renaming world.'
+//[Reference] 'Error while renaming world.'
 singleplayer.renameError=세계 이름을 바꾸는 중에 오류가 생겼어요.
 //[Reference] 'Name'
 singleplayer.serverName=이름
@@ -876,13 +876,13 @@ singleplayer.serverSeed=고유 번호
 
 //[Reference] 'Single Player'
 singleplayer.singleplayer=혼자서 놀기
-//TODO Translate [Reference] 'Use StaxelNet'
+//[Reference] 'Use StaxelNet'
 singleplayer.StaxelNet=스타넷 사용하기
-//TODO Translate [Reference] 'Play With Friends (StaxelNet)'
+//[Reference] 'Play With Friends (StaxelNet)'
 singleplayer.StaxelNetStandalone=친구랑 같이하기 (스타넷)
-//TODO Translate [Reference] 'Not authenticated'
+//[Reference] 'Not authenticated'
 singleplayer.staxelNetStandaloneWeakAuth=인증되지 않았어요
-//TODO Translate [Reference] 'World has not yet been created.'
+//[Reference] 'World has not yet been created.'
 singleplayer.storageDoesNotExist=세계가 아직 생성되지 않았어요.
 //Single Player
 //[Validate] Delete this comment if or when the translation is accurate.
@@ -3484,15 +3484,15 @@ staxel.merchant.Melissa.name=멜리사
 staxel.merchant.Morgan.name=모건
 //[Reference] 'Not enough money'
 staxel.merchant.NotEnoughMoney=꽃잎이 부족합니다.
-//TODO Translate [Reference] 'That isn't worth anything at the moment.'
+//[Reference] 'That isn't worth anything at the moment.'
 staxel.merchant.novalue=이 아이템은 별로 팔만한게 못되는것 같아요...
 //[Reference] 'Paid {0-amount} petals!'
 staxel.merchant.paid={0-amount} 꽃잎을 냈습니다!
 //[Reference] 'Received {0-amount} petals!'
 staxel.merchant.received={0-amount} 꽃잎을 받았습니다!
-//TODO Translate [Reference] 'You need to build a {0-totem} before you can buy this!'
+//[Reference] 'You need to build a {0-totem} before you can buy this!'
 staxel.merchant.RequiresTotem=먼저 {0-totem}을(를) 만들어야 이 제품을 살수 있어요.
-//TODO Translate [Reference] 'You need a tier {1-tier} {0-totem} before you can buy this!'
+//[Reference] 'You need a tier {1-tier} {0-totem} before you can buy this!'
 staxel.merchant.RequiresTotemTier=먼저 {1-tier} {0-totem}을(를) 만들어야 이 제품을 살수 있어요.
 
 //[Reference] 'Rob'
@@ -3529,11 +3529,11 @@ staxel.mouseAxis.Left=왼쪽
 staxel.mouseAxis.Middle=스크롤
 //[Reference] 'Right'
 staxel.mouseAxis.Right=오른쪽
-//TODO Translate [Reference] 'Close'
+//[Reference] 'Close'
 staxel.netIssuesPrompt.accept=닫기
-//TODO Translate [Reference] 'The connection to the server seems to have a problem, this may be due to a number of issues. For the best experience we recommend fixing these issues before continuing to play. You can check our FAQ for further information on how to troubleshoot bad network conditions at www.playstaxel.com/networkissues.html'
+//[Reference] 'The connection to the server seems to have a problem, this may be due to a number of issues. For the best experience we recommend fixing these issues before continuing to play. You can check our FAQ for further information on how to troubleshoot bad network conditions at www.playstaxel.com/networkissues.html'
 staxel.netIssuesPrompt.info=서버와의 연결에 문제가 있는것 같습니다. 이 문제를 해결하고 게임을 플레이 하시는게 좋을것 같아요. www.playstaxel.com/networkissues.html 에서 문제를 해결할 방법을 찾아보세요.
-//TODO Translate [Reference] 'Network Issues Detected'
+//[Reference] 'Network Issues Detected'
 staxel.netIssuesPrompt.title=네트워크 문제 확인됨
 
 //[Reference] 'Tip: Scythe grass or flowers to get mixed seeds'
@@ -3583,7 +3583,7 @@ staxel.nightTransition.Line22=내 애완동물을 매일같이 사랑해주세�
 staxel.nightTransition.Line23=마우스 오른쪽을 꾹 누르고 있으면 씨앗을 심는 일이나 아이템 줍는 일을 더 빨리 할수 있습니다.
 //[Reference] 'Next'
 staxel.nightTransition.next=넘기기
-//TODO Translate [Reference] 'Wake Up'
+//[Reference] 'Wake Up'
 staxel.nightTransition.PressContinueButton=일어나기
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Click '{0-button}' or press '{1-key}' to continue...'
@@ -3644,7 +3644,7 @@ staxel.notifications.feeder.FeederAlreadyFilled=이미 {0}/{1} 칸의 먹이가 
 staxel.notifications.feeder.Filled=먹이를 {0}칸만큼 채웠어요!
 //[Reference] 'Use the hoe on grass or dirt.'
 staxel.notifications.HoeFail=괭이는 땅이나 흙에 사용해주세요.
-//TODO Translate [Reference] 'Unlocked: {0-ItemName}'
+//[Reference] 'Unlocked: {0-ItemName}'
 staxel.notifications.itemUnlocked=해제됨: {0-ItemName}
 //[Reference] 'Try a milkable animal'
 staxel.notifications.milker.NotLookingAtMilkableAnimal=젖을 짤수 있는 동물에게 사용해주세요.
@@ -3708,7 +3708,7 @@ staxel.notifications.WrongToolUniversal.3=이것을 {3}거나 {4}고 {5}려면 {
 staxel.notifications.WrongToolUniversal.4=이것을 {4}거나 {5}고, {6}거나 {7}려면 {0}, {1} 또는 {2}, {3}(이)가 필요합니다.
 //[Reference] 'You need: {0}, {1}, {2}, {3}, or {4} to {5}/{6}/{7}/{8}/{9} this.'
 staxel.notifications.WrongToolUniversal.5=이것을 {5}거나 {6}고, {7}거나 {8}고 {9}려면 {0}, {1} 또는 {2}, {3} 아니면 {4}(이)가 필요합니다.
-//TODO Translate [Reference] 'You can't refill the watering can on this tile.'
+//[Reference] 'You can't refill the watering can on this tile.'
 staxel.notifications.WrongWateringCanUse=이 블럭에는 물이 없어요.
 
 //[Reference] 'Chicken'
@@ -3797,17 +3797,17 @@ staxel.plant.tree.BasicNaturalTree.name=기본 자연 나무
 
 //[Reference] 'Free in Creative'
 staxel.priceTag.freeInCreative=무료
-//TODO Translate [Reference] 'StaxelNet join failed, invalid claim.'
+//[Reference] 'StaxelNet join failed, invalid claim.'
 staxel.relay.invalidClaim=스타넷에 접속하는데 실패했어요. 이상한 요청이 보내졌어요.
-//TODO Translate [Reference] 'StaxelNet join failed, address not found.'
+//[Reference] 'StaxelNet join failed, address not found.'
 staxel.relay.joinFailed=스타넷에 접속하는데 실패했어요. 주소를 찾을 수 없었어요.
-//TODO Translate [Reference] 'California1'
+//[Reference] 'California1'
 staxel.relays.Ca1=캘리포니아1
-//TODO Translate [Reference] 'NewJersey1'
+//[Reference] 'NewJersey1'
 staxel.relays.Nj1=뉴저지1
-//TODO Translate [Reference] 'Singapore1'
+//[Reference] 'Singapore1'
 staxel.relays.Sg1=싱가포르1
-//TODO Translate [Reference] 'London1'
+//[Reference] 'London1'
 staxel.relays.Uk1=런던1
 //[Reference] 'Autumn'
 staxel.season.Autumn=가을
@@ -3844,7 +3844,7 @@ staxel.season.date.14=14일째
 staxel.season.date.15=15일째
 //[Reference] '16th'
 staxel.season.date.16=16일째
-//TODO Translate [Reference] '17th'
+//[Reference] '17th'
 staxel.season.date.17=17일째
 //TODO Translate [Reference] '18th'
 staxel.season.date.18=
@@ -3879,7 +3879,7 @@ staxel.season.Summer=여름
 //[Reference] 'Winter'
 staxel.season.Winter=겨울
 staxel.serverVillage.TrashCan.description=
-//TODO Translate [Reference] 'Trash Can'
+//[Reference] 'Trash Can'
 staxel.serverVillage.TrashCan.name=쓰레기통
 
 //[Reference] 'Open your delivery before selling Items!'
@@ -3905,17 +3905,18 @@ staxel.shipping.orderSuccess={1-item} {0-num}개가 주문되었어요! 다음 �
 staxel.shipping.youHaveItems=아이템이 택배 보관함에 도착했어요!
 //[Reference] 'There is money waiting at your shipping station'
 staxel.shipping.YouHaveMoney=먼저 택배 보관함에 도착한 돈을 받아야 되요
-//TODO Translate [Reference] 'Save'
+//[Reference] 'Save'
 staxel.signSettings.accept=설정
-//TODO Translate [Reference] 'Edit Sign'
+//[Reference] 'Edit Sign'
 staxel.signSettings.title=표지판 고치기
-//TODO Translate [Reference] 'Steal'
+//[Reference] 'Steal'
 staxel.stealPrompt.accept=훔치기
-//TODO Translate [Reference] 'Cancel'
+//[Reference] 'Cancel'
 staxel.stealPrompt.decline=취소
-//TODO Translate [Reference] 'Are you sure you want to steal from this? There may be consequences!'
+//[Reference] 'Are you sure you want to steal from this? There may be consequences!'
 staxel.stealPrompt.info=정말로 훔치실꺼에요? 훔친 만큼 대가를 치뤄야 할꺼에요!
-//TODO Translate [Reference] 'Steal From' yavolu
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Steal From'
 staxel.stealPrompt.title=훔친것
 staxel.tile.grass.ForestGrassLayer.1.Autumn.description=
 //[Reference] 'Autumn'

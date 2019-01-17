@@ -287,15 +287,15 @@ commands.spawnMaterial.notFound=존재하지 않는 종류의 재료입니다.
 //[Reference] 'Spawn material successful'
 commands.spawnMaterial.success=재료가 성공적으로 소환되었습니다.
 //TODO Translate [Reference] '^c:F2E200;spawnStars ^c:FFFFFF;(optional)amount'
-commands.spawnStars.description=
+commands.spawnStars.description=^c:F2E200;spawnStars ^c:FFFFFF;(필요시에만)양
 //TODO Translate [Reference] 'Failed to star bits item.'
-commands.spawnStars.failed=
+commands.spawnStars.failed=별 소환에 실패했습니다.
 //TODO Translate [Reference] 'Star amount is not a valid positive number.'
-commands.spawnStars.invalidNumber=
+commands.spawnStars.invalidNumber=별 소환의 양이 유효한 양수 값이 아닙니다.
 //TODO Translate [Reference] 'Spawn star success.'
-commands.spawnStars.success=
+commands.spawnStars.success=별을 소환했습니다.
 //[Reference] '^c:F2E200;spawntile ^c:FFFFFF;(optional)playerName tileCode'
-commands.spawnTile.description=^c:F2E200;spawntile ^c:FFFFFF;(optional)playerName tileCode
+commands.spawnTile.description=^c:F2E200;spawntile ^c:FFFFFF;(추가적으로)플레이어이름 타일코드
 //[Reference] 'Tile kind not found.'
 commands.spawnTile.notFound=존재하지 않는 타일 종류입니다.
 //[Reference] 'Spawn tile successful.'
@@ -342,9 +342,9 @@ commands.tileAt.failParse=해당 {0-position} 위치를 해석하지 못하였�
 //[Reference] 'Tile not found'
 commands.tileAt.notFound=존재하지 않는 타일입니다.
 //[Reference] 'Tile code: {0-tilecode} at {1-position} (compoundFiller: false, rotation: {2-rotation}, alt: {3-alt}, chunk: {4-chunk})'
-commands.tileAt.success.false=Tile code: {0-tilecode} at {1-position} (compoundFiller: false, rotation: {2-rotation}, alt: {3-alt}, chunk: {4-chunk})
+commands.tileAt.success.false=블럭 코드: {0-tilecode} 위치 {1-position} (compoundFiller: false, rotation: {2-rotation}, alt: {3-alt}, chunk: {4-chunk})
 //[Reference] 'Tile code: {0-tilecode} at {1-position} (compoundFiller: true, rotation: {2-rotation}, alt: {3-alt}, chunk: {4-chunk})'
-commands.tileAt.success.true=Tile code: {0-tilecode} at {1-position} (compoundFiller: true, rotation: {2-rotation}, alt: {3-alt}, chunk: {4-chunk})
+commands.tileAt.success.true=블럭 코드: {0-tilecode} 위치 {1-position} (compoundFiller: true, rotation: {2-rotation}, alt: {3-alt}, chunk: {4-chunk})
 //[Reference] '^c:F2E200;toggleTimePassing ^c:FFFFFF;Toggles the passing of time'
 commands.toggleTimePassing.description=^c:F2E200;toggleTimePassing ^c:FFFFFF;시간을 멈췄다 계속할수 있습니다.
 //[Reference] 'Time Resumed'

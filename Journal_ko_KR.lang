@@ -1,15 +1,15 @@
 ﻿language.code=ko-KR
 language=한국어
 //TODO Translate [Reference] 'Delivery quest'
-staxel.dailyQuest.DeliveryQuest=
+staxel.dailyQuest.DeliveryQuest=배달 심부름
 //TODO Translate [Reference] 'Fetch quest'
 staxel.dailyQuest.FetchQuest=
 //TODO Translate [Reference] 'Lost item quest'
-staxel.dailyQuest.LostItemQuest=
+staxel.dailyQuest.LostItemQuest=아이템 찾기 심부름
 //TODO Translate [Reference] 'Expires on the {0-day} of {1-season}.'
-staxel.journal.dailyQuest.Expiry=
+staxel.journal.dailyQuest.Expiry={1-season}의 {0-day}까지 완료해야해요.
 //TODO Translate [Reference] 'There's nothing here right now.'
-staxel.journal.noQuests=
+staxel.journal.noQuests=아직 적힌게 없어요.
 //TODO Translate [Reference] 'It's Just Business'
 staxel.mainQuest.Aliza.BestFriends=
 //TODO Translate [Reference] 'Sustainable Building'
@@ -51,7 +51,7 @@ staxel.mainQuest.FarmFan.Liked=
 //TODO Translate [Reference] 'Let them eat fish'
 staxel.mainQuest.FishingSpot=
 //TODO Translate [Reference] 'It's Called Art'
-staxel.mainQuest.Max.BestFriend=
+staxel.mainQuest.Max.BestFriend=이걸 예술이라 한단다
 //TODO Translate [Reference] 'Bountiful Harvest'
 staxel.mainQuest.Max.Friend=
 //TODO Translate [Reference] 'Funding Round'
@@ -61,13 +61,13 @@ staxel.mainQuest.MaxBarn=
 //TODO Translate [Reference] 'Dawn at the museum'
 staxel.mainQuest.MuseumConstruction=
 //TODO Translate [Reference] 'All Cleaned Up'
-staxel.mainQuest.Oscar.AllCleanedUp=
+staxel.mainQuest.Oscar.AllCleanedUp=대청소
 //TODO Translate [Reference] 'Fight The Power'
-staxel.mainQuest.Oscar.FightThePower=
+staxel.mainQuest.Oscar.FightThePower=맞서 싸우자
 //TODO Translate [Reference] 'Junk Artist'
-staxel.mainQuest.Oscar.JunkArtist=
+staxel.mainQuest.Oscar.JunkArtist=쓰레기 화가
 //TODO Translate [Reference] 'Junk Queen'
-staxel.mainQuest.Oscar.JunkQueen=
+staxel.mainQuest.Oscar.JunkQueen=쓰레기 요정
 //TODO Translate [Reference] 'Sweet dreams'
 staxel.mainQuest.Patisserie=
 //TODO Translate [Reference] 'Hooked'
@@ -87,9 +87,9 @@ staxel.mainQuest.Rosemary.Liked=
 //TODO Translate [Reference] 'Rowan's parcel'
 staxel.mainQuest.RowansParcel=
 //TODO Translate [Reference] 'Starting out'
-staxel.mainQuest.Tutorial=
+staxel.mainQuest.Tutorial=시작하기
 //TODO Translate [Reference] 'Rainbow Butterfly'
-staxel.mainQuest.Vorlen.BestFriend=
+staxel.mainQuest.Vorlen.BestFriend=무지개색 나비
 //TODO Translate [Reference] 'Lepidopterist'
 staxel.mainQuest.Vorlen.Friend=
 //TODO Translate [Reference] 'Collector'

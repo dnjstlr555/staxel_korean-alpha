@@ -1,14 +1,14 @@
 ﻿language.code=ko-KR
 language=한국어
-//TODO Translate [Reference] 'A bigger store is always gonna be better for us here.'
-staxel.village.character.dialogue.AlizaLiked.line:10000100=
-//TODO Translate [Reference] 'It helps me help you, an' all that.'
-staxel.village.character.dialogue.AlizaLiked.line:10000200=
-//TODO Translate [Reference] 'Ya can build more, an' I can sell ya more to build even more!'
-staxel.village.character.dialogue.AlizaLiked.line:10000300=
-//TODO Translate [Reference] 'Sometimes my competitive nature really gets me goin'...'
-staxel.village.character.dialogue.AlizaLiked.line:10000400=
-//TODO Translate [Reference] 'Kinda hard to stop when I really get into it...'
-staxel.village.character.dialogue.AlizaLiked.line:10000500=
-//TODO Translate [Reference] 'I'll crush all of 'em! Every rival we have!'
-staxel.village.character.dialogue.AlizaLiked.line:10000600=
+//[Reference] 'A bigger store is always gonna be better for us here.'
+staxel.village.character.dialogue.AlizaLiked.line:10000100=큰 상점을 차리면 모두가 행복해 집니다.
+//[Reference] 'It helps me help you, an' all that.'
+staxel.village.character.dialogue.AlizaLiked.line:10000200=누가 그러더라...
+//[Reference] 'Ya can build more, an' I can sell ya more to build even more!'
+staxel.village.character.dialogue.AlizaLiked.line:10000300=너가 더 많이 지으면 나는 더 많이 파는구나!!
+//[Reference] 'Sometimes my competitive nature really gets me goin'...'
+staxel.village.character.dialogue.AlizaLiked.line:10000400=가끔 내 경쟁심이 너무 과해서... 약간...
+//[Reference] 'Kinda hard to stop when I really get into it...'
+staxel.village.character.dialogue.AlizaLiked.line:10000500=집중하다보면 내 자신을 막을수가 없어.
+//[Reference] 'I'll crush all of 'em! Every rival we have!'
+staxel.village.character.dialogue.AlizaLiked.line:10000600=다 박살내버릴꺼야!!! 내 라이벌이 누구냐!!!
