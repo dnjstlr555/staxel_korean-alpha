@@ -1,5 +1,18 @@
 ﻿language.code=ko-KR
 language=한국어
+staxel.tile.brick.Basalt.description=
+//TODO Translate [Reference] 'Basalt Brick Block'
+staxel.tile.brick.Basalt.name=
+staxel.tile.brick.Limestone.description=
+//TODO Translate [Reference] 'Limestone Brick Block'
+staxel.tile.brick.Limestone.name=
+staxel.tile.brick.Marble.description=
+//TODO Translate [Reference] 'Marble Brick Block'
+staxel.tile.brick.Marble.name=
+//TODO Translate [Reference] 'This block somehow stays floating even when not connected to anything...'
+staxel.tile.Cloud.description=
+//TODO Translate [Reference] 'Cloud Block'
+staxel.tile.Cloud.name=
 
 //[Reference] 'This a simple black block.'
 staxel.tile.color.Color.black.description=평범한 검정색 블럭입니다.
@@ -329,6 +342,18 @@ staxel.tile.lighthouse.PaintedBrick.white.name=하얀 페인트 벽돌 블럭
 staxel.tile.lighthouse.Stone.small.description=작고 흔한 돌입니다.
 //[Reference] 'Small Stone'
 staxel.tile.lighthouse.Stone.small.name=작은 돌
+staxel.tile.mushroomIsland.MushroomRedHat.description=
+//TODO Translate [Reference] 'Mushroom Block - Red Hat'
+staxel.tile.mushroomIsland.MushroomRedHat.name=
+staxel.tile.mushroomIsland.MushroomSpot.description=
+//TODO Translate [Reference] 'Mushroom Block - Spotty'
+staxel.tile.mushroomIsland.MushroomSpot.name=
+staxel.tile.mushroomIsland.MushroomUnderside.description=
+//TODO Translate [Reference] 'Mushroom Block - Underside'
+staxel.tile.mushroomIsland.MushroomUnderside.name=
+staxel.tile.mushroomIsland.MyceliumGrass.description=
+//TODO Translate [Reference] 'Mycelium Grass Block'
+staxel.tile.mushroomIsland.MyceliumGrass.name=
 
 //[Reference] 'A rough cobblestone block, great for outdoor pathing.'
 staxel.tile.newVillage.CobbleStonePath.description=바깥 길로 쓰기 적당한 울퉁불퉁한 조약돌 블럭입니다.
@@ -460,6 +485,18 @@ staxel.tile.retrotest.dungeon_staircase_alternate.name=밝은 갈색 벽돌 블�
 staxel.tile.retrotest.water.description=액체지만 흐르지 않습니다. 얼리엑세스라서...
 //[Reference] 'Water Block'
 staxel.tile.retrotest.water.name=물 블럭
+staxel.tile.rock.Basalt.1.description=
+//TODO Translate [Reference] 'Basalt Rock Block'
+staxel.tile.rock.Basalt.1.name=
+staxel.tile.rock.IndestructibleRock.description=
+//TODO Translate [Reference] 'Indestructible Rock Block'
+staxel.tile.rock.IndestructibleRock.name=
+staxel.tile.rock.Limestone.1.description=
+//TODO Translate [Reference] 'Limestone Rock Block'
+staxel.tile.rock.Limestone.1.name=
+staxel.tile.rock.Marble.1.description=
+//TODO Translate [Reference] 'Marble Rock Block'
+staxel.tile.rock.Marble.1.name=
 
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'A solid stone block. Usually mined and broken down into smaller chunks of stone.'
@@ -527,6 +564,9 @@ staxel.tile.temple.LeafyTile.name=짙은 녹색 잎 블럭
 staxel.tile.temple.Water.description=액체지만 흐르지 않습니다. 얼리엑세스라서...
 //[Reference] 'Water Block'
 staxel.tile.temple.Water.name=물 블럭
+staxel.tile.water.GlowingCaveWater.description=
+//TODO Translate [Reference] 'Glowing Cave Water Block'
+staxel.tile.water.GlowingCaveWater.name=
 staxel.tile.water.PondWater.description=
 
 //[Reference] 'Pond Water'
@@ -544,6 +584,12 @@ staxel.tile.wood.BasicWood.name=나무 블럭
 staxel.tile.wood.ForestWood.description=
 //[Reference] 'Forest Wood Block'
 staxel.tile.wood.ForestWood.name=숲속 나무 블럭
+staxel.tile.wood.HardWood.description=
+//TODO Translate [Reference] 'Hard Wood Block'
+staxel.tile.wood.HardWood.name=
+staxel.tile.wood.SequoiaWood.description=
+//TODO Translate [Reference] 'Sequoia Wood Block'
+staxel.tile.wood.SequoiaWood.name=
 //[Reference] 'A quality flooring block of lightly coloured wooden planks.'
 staxel.tile.wood.WoodPlankTile.description=밝은 색 나무 판자로 만든 바닥입니다.
 //[Reference] 'White Wooden Plank Flooring'

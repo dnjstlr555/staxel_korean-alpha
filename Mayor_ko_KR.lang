@@ -30,7 +30,7 @@ staxel.village.dialogue.Mayor.line:10002300=생각이 바뀌면 언제든지 나
 //[Reference] 'I imagine I'll be seeing you quite often!'
 staxel.village.dialogue.Mayor.line:10002400=앞으로 자네를 자주 보길 바랄께요!
 //[Reference] 'Now that you're a fully licensed farmer...'
-staxel.village.dialogue.Mayor.line:10002500=이제 자네가 자격을 갖춘 농장 주인이니까...
+staxel.village.dialogue.Mayor.line:10002500=이제 자격을 갖춘 농장 주인이니까...
 //[Reference] 'We can finally get those stray ^c:d03e37;cattle^c:pop; off our hands!'
 staxel.village.dialogue.Mayor.line:10002600=자네 농장에 ^c:d03e37;소^c:pop;들이 조금 필요하지 않을까요?
 //[Validate] Delete this comment if or when the translation is accurate.
@@ -56,20 +56,20 @@ staxel.village.dialogue.Mayor.line:10003400=^c:1486b0;{0-mech_name}^c:pop; 가 �
 //[Reference] 'She's usually hanging out around the ^c:1486b0;building store^c:pop; during the day.'
 staxel.village.dialogue.Mayor.line:10003500=그 친구는 보통 낮에^c:1486b0;건축 상점^c:pop; 주변에서 볼수 있을꺼에요.
 //[Reference] 'I've been hearing about the fabulous new ^c:1486b0;barn^c:pop; you built!'
-staxel.village.dialogue.Mayor.line:10003800=자네가 멋진 ^c:1486b0;헛간^c:pop;을 새롭게 지었다는 얘기를 들었네!
+staxel.village.dialogue.Mayor.line:10003800=자네가 멋진 ^c:1486b0;헛간^c:pop;을 훌륭히 지었다는 얘기를 들었어요!
 //[Reference] 'Sounds like everything is in order.'
-staxel.village.dialogue.Mayor.line:10003900=아무래도 모든 준비가 된 듯하군.
+staxel.village.dialogue.Mayor.line:10003900=아무래도 모든 준비가 된 듯 하네요.
 //[Reference] 'Here are the few ^c:d03e37;cows^c:pop; we managed to round up.'
-staxel.village.dialogue.Mayor.line:10004000=여기 우리가 모아둔 ^c:d03e37;소^c:pop; 들이 있다네.
+staxel.village.dialogue.Mayor.line:10004000=여기 저희가 모아둔 ^c:d03e37;소^c:pop; 들이 있어요.
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'They all ran away when the previous owner left.'
-staxel.village.dialogue.Mayor.line:10004100=예전 주인이 떠나고 나서 전부 달아났던 애들이지.
+staxel.village.dialogue.Mayor.line:10004100=예전 주인이 떠나고 나서 전부 달아났던 애들이지요.
 //[Reference] 'Good luck!'
-staxel.village.dialogue.Mayor.line:10004200=행운을 비네!
+staxel.village.dialogue.Mayor.line:10004200=행운을 빌어요!
 //[Reference] 'By the way, we've been looking for good builders for a long time.'
-staxel.village.dialogue.Mayor.line:10004300=그런데 말일세, 우리는 훌륭한 건축가를 쭉 바라고 있었다네.
+staxel.village.dialogue.Mayor.line:10004300=그런데 말이에요, 우리는 훌륭한 건축가를 쭉 바라고 있었어요.
 //[Reference] 'Sometimes we get notices from people who want to move in here.'
-staxel.village.dialogue.Mayor.line:10004400=가끔은 여기로 이사 오고 싶어하는 사람들에게 연락을 받기도 하고 말이지.
+staxel.village.dialogue.Mayor.line:10004400=가끔은 여기로 이사 오고 싶어하는 사람들이 있어요.
 //[Reference] 'Before that, they need a house to live in.'
 staxel.village.dialogue.Mayor.line:10004500=그런데 이사를 오려면, 집이 필요할걸세.
 //[Reference] 'Given your impressive work on the ^c:1486b0;barn^c:pop;, we'd love your help!'
@@ -492,3 +492,11 @@ staxel.village.dialogue.Mayor.line:10024900=
 staxel.village.dialogue.Mayor.line:10025000=
 //TODO Translate [Reference] 'Or not, of course! I leave that decision entirely up to you!'
 staxel.village.dialogue.Mayor.line:10025100=
+//TODO Translate [Reference] 'Ah, ^c:1486b0;{0-playername}^c:pop;. I wasn't expecting to run into you!'
+staxel.village.dialogue.Mayor.line:10025200=
+//TODO Translate [Reference] 'A rather smart individual came by earlier and handed me a letter to pass on to you.'
+staxel.village.dialogue.Mayor.line:10025300=
+//TODO Translate [Reference] 'Unfortunately, I can't give it to you now - I already posted it!'
+staxel.village.dialogue.Mayor.line:10025400=
+//TODO Translate [Reference] 'If I had known you were coming, I would have given it to you in person...'
+staxel.village.dialogue.Mayor.line:10025500=

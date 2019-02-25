@@ -63,6 +63,10 @@ commands.changeMood.animalNotFound=동물을 보고 있어야 합니다.
 commands.changeMood.description=^c:F2E200;changeMood ^c:FFFFFF;증가/감소(true/false)
 //[Reference] 'Mood altered successfully'
 commands.changeMood.success=기분이 성공적으로 변경되었습니다.
+//TODO Translate [Reference] '^c:F2E200;changeNickname ^c:FFFFFF;nickname'
+commands.changeNickname.description=
+//TODO Translate [Reference] 'Nickname changed to {0-newNickname}'
+commands.changeNickname.success=
 //[Reference] '^c:F2E200;checkMail'
 commands.checkMail.description=^c:F2E200;checkMail
 //[Reference] '^c:F2E200;completeQuest ^c:FFFFFF;questCode villagerName/Code'
@@ -131,6 +135,12 @@ commands.forceAchievement.description=^c:F2E200;forceAchievement ^c:FFFFFF;도�
 commands.forceAchievement.missingParam=도전과제 코드란이 비었습니다.
 //[Reference] 'Achievement not found.'
 commands.forceAchievement.noSuchAchievement=해당 도전과제를 찾을수 없었습니다.
+//TODO Translate [Reference] '^c:F2E200;getUsername ^c:FFFFFF;nickname'
+commands.getUsername.description=
+//TODO Translate [Reference] '{0-nickname}'s username is {1-username}.'
+commands.getUsername.success=
+//TODO Translate [Reference] 'Multiple people found with the nickname: {0-nickname}. They are; {1-usernamelist}.'
+commands.getUsername.successes=
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] '^c:F2E200;giveallrecipes ^c:FFFFFF;(optional)playerName'
 commands.giveallrecipes.description=^c:F2E200;Give all recipes ^c:FFFFFF;(optional)playerName
@@ -170,6 +180,10 @@ commands.loadDesign.noSuchDesign=존재하지 않는 디자인입니다. {0-desi
 commands.loadDesign.noSuchFile=파일이 존재하지 않습니다. {0-file}
 //[Reference] 'Design loaded successfully'
 commands.loadDesign.success=디자인을 성공적으로 불러왔습니다.
+//TODO Translate [Reference] '^c:F2E200;magicTeleport ^c:FFFFFF;festivalCode'
+commands.magicTeleport.description=
+//TODO Translate [Reference] 'No such offmap template: {0-template}'
+commands.magicTeleport.template=
 //[Reference] '^c:F2E200;model ^c:FFFFFF;(optional)playerName (optional)modelFileName'
 commands.model.description=^c:F2E200;model ^c:FFFFFF;(optional)playerName (optional)modelFileName
 //[Reference] 'Could not switch to character model '{0-model}' not found in assets.'
@@ -192,6 +206,8 @@ commands.noClip.success=지형무시 모드로 변경하였습니다: {0-noclip}
 commands.noRights={0-user}는 이 명령어를 사용할 권한이 없습니다.
 //[Reference] 'No such player '{0-player}''
 commands.noSuchPlayer='{0-player}'플레이어를 찾을 수 없었습니다.
+//TODO Translate [Reference] 'No such player with nickname '{0-player}'.'
+commands.noSuchPlayerNickname=
 //[Reference] 'Not a player entity.'
 commands.notAPlayer=플레이어 엔티티가 아닙니다.
 //[Reference] '^c:F2E200;op ^c:FFFFFF;playerName'
@@ -286,13 +302,13 @@ commands.spawnMaterial.description=^c:F2E200;spawnmaterial ^c:FFFFFF;(optional)p
 commands.spawnMaterial.notFound=존재하지 않는 종류의 재료입니다.
 //[Reference] 'Spawn material successful'
 commands.spawnMaterial.success=재료가 성공적으로 소환되었습니다.
-//TODO Translate [Reference] '^c:F2E200;spawnStars ^c:FFFFFF;(optional)amount'
+//[Reference] '^c:F2E200;spawnStars ^c:FFFFFF;(optional)amount'
 commands.spawnStars.description=^c:F2E200;spawnStars ^c:FFFFFF;(필요시에만)양
-//TODO Translate [Reference] 'Failed to star bits item.'
+//[Reference] 'Failed to star bits item.'
 commands.spawnStars.failed=별 소환에 실패했습니다.
-//TODO Translate [Reference] 'Star amount is not a valid positive number.'
+//[Reference] 'Star amount is not a valid positive number.'
 commands.spawnStars.invalidNumber=별 소환의 양이 유효한 양수 값이 아닙니다.
-//TODO Translate [Reference] 'Spawn star success.'
+//[Reference] 'Spawn star success.'
 commands.spawnStars.success=별을 소환했습니다.
 //[Reference] '^c:F2E200;spawntile ^c:FFFFFF;(optional)playerName tileCode'
 commands.spawnTile.description=^c:F2E200;spawntile ^c:FFFFFF;(추가적으로)플레이어이름 타일코드

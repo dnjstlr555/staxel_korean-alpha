@@ -23,7 +23,7 @@ staxel.village.dialogue.Barkeep.line:10000265=아무것도 아니에요.
 //TODO Translate [Reference] 'I'd like to buy some of your secret ingredient.'
 staxel.village.dialogue.Barkeep.line:10000266=
 //TODO Translate [Reference] 'I'm hungry.'
-staxel.village.dialogue.Barkeep.line:10000267=
+staxel.village.dialogue.Barkeep.line:10000267=배가 고파요.
 //[Reference] 'I'm sure you'll fit right in.'
 staxel.village.dialogue.Barkeep.line:10000300=분명 마을에 잘 적응해 나갈꺼라 믿네.
 //[Reference] 'Here, this is on the house!'
@@ -33,9 +33,9 @@ staxel.village.dialogue.Barkeep.line:10000410=잠깐, {0-playername}. 우리 대
 //[Reference] 'Think of it as our welcome to the town.'
 staxel.village.dialogue.Barkeep.line:10000500=우리 마을에 온걸 환영하네. 그런 의미로 주는거야.
 //[Reference] 'I hope to see you around here every now and again.'
-staxel.village.dialogue.Barkeep.line:10000600=얼굴 많이 볼수 있기를 바라네.
+staxel.village.dialogue.Barkeep.line:10000600=앞으로 자주 들러줬으면 좋겠네.
 //[Reference] 'By the way... and perhaps this might seem like an odd question but...'
-staxel.village.dialogue.Barkeep.line:10000610=그나저나... 조금 이상한 질문일수 있겠다만...
+staxel.village.dialogue.Barkeep.line:10000610=그나저나... 조금 갑작스런 질문일수 있겠다만...
 //[Reference] 'Is there a particular type of animal you like?'
 staxel.village.dialogue.Barkeep.line:10000620=자네는 어떤 동물을 좋아하나?
 //[Reference] 'Cats are super cute!'
@@ -45,9 +45,9 @@ staxel.village.dialogue.Barkeep.line:10000640=엄청 든든한 강아지요!
 //[Reference] 'Oh! How lucky for you!'
 staxel.village.dialogue.Barkeep.line:10000650=오! 운이 좋구만!
 //[Reference] 'A merchant came by the other day whose aunt's friend's sister's son had a litter!'
-staxel.village.dialogue.Barkeep.line:10000660=마침 상인이 이쪽으로 오는 길이라 하네.
+staxel.village.dialogue.Barkeep.line:10000660=내 이모의 친구의 동생의 아들이 상인인데, 마침 이쪽으로 오는 길이네.
 //[Reference] 'If you come back once you're done with ^c:1486b0;{0-tut_name}^c:pop;, I might just have one for you!'
-staxel.village.dialogue.Barkeep.line:10000670=^c:1486b0;{0-tut_name}^c:pop;과 일이 잘 끝나면, 내가 하나 구해보도록 하겠네!
+staxel.village.dialogue.Barkeep.line:10000670=^c:1486b0;{0-tut_name}^c:pop;과 일이 잘 끝나면, 내가 상인한테 하나 구해보도록 하겠네!
 //[Reference] 'Good luck!'
 staxel.village.dialogue.Barkeep.line:10000680=그럼 잘해보게나!
 //[Reference] 'Hope to see you around!'
@@ -61,7 +61,7 @@ staxel.village.dialogue.Barkeep.line:10002900=^c:1486b0;{0-quest_giver_0}^c:pop;
 //[Reference] 'Seems things aren't perfect for ^c:1486b0;{0-quest_giver_1}^c:pop; either.'
 staxel.village.dialogue.Barkeep.line:10003000=^c:1486b0;{0-quest_giver_1}^c:pop;도 무슨 큰일이 생겼나봐.
 //[Reference] '^c:1486b0;{0-quest_giver_2}^c:pop; might appreciate some help too.'
-staxel.village.dialogue.Barkeep.line:10003100=^c:1486b0;{0-quest_giver_2}^c:pop; 역시 힘든일이 있다고 해.
+staxel.village.dialogue.Barkeep.line:10003100=^c:1486b0;{0-quest_giver_2}^c:pop; 역시 힘든 일이 있다고 해.
 //[Reference] 'What will you have?'
 staxel.village.dialogue.Barkeep.line:10003200=뭐가 마시고 싶은가?
 //[Reference] 'A Mug o' Sap! ({0-currency}{1-sap})'
@@ -91,11 +91,11 @@ staxel.village.dialogue.Barkeep.line:10005400=그러면...
 //[Reference] 'Tell you what, run a little errand for me and I'll see what I can do.'
 staxel.village.dialogue.Barkeep.line:10005500=자네, 단순한 심부름을 맡겨도 되겠나? 그동안 그 문제는 내가 해결해 놓겠네.
 //[Reference] 'Nothing major or anything...'
-staxel.village.dialogue.Barkeep.line:10005600=뭐 대단한 일은 아니네만...
+staxel.village.dialogue.Barkeep.line:10005600=뭐 대단한 일은 아니지만...
 //[Reference] 'Just hand that over to ^c:1486b0;{0-shop_name}^c:pop; at the ^c:1486b0;general store^c:pop; and he'll know what I need.'
 staxel.village.dialogue.Barkeep.line:10005700=이걸 좀 ^c:1486b0;{0-shop_name}^c:pop; 에게 전해주게. 그 친구는 아마 ^c:1486b0;상점^c:pop;에 있을거야.
 //[Reference] 'It's an order I've been waiting on for just under a week.'
-staxel.village.dialogue.Barkeep.line:10005800=내가 일주일이나 기다린거야...\n후후후.
+staxel.village.dialogue.Barkeep.line:10005800=내가 일주일이나 기다린거야...후후후.
 //[Reference] 'As you can probably see, I've just been too busy to leave the place unattended...'
 staxel.village.dialogue.Barkeep.line:10005900=그냥 내가 가면 안되냐고? 미안하지만 많이 바쁘네. 그럼 부탁하네.
 //[Reference] 'Still don't have my order eh?'

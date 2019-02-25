@@ -351,7 +351,7 @@ staxel.achievement.SweepBall.name=공으로 하키 놀이
 //[Reference] 'Use right click or left trigger to talk to her.'
 staxel.achievement.TalkFarmFan.description=오른쪽 클릭이나 L버튼으로 말을 거세요.
 //[Reference] 'Talk to Farm Fan'
-staxel.achievement.TalkFarmFan.name=Farm Fan과 대화하기
+staxel.achievement.TalkFarmFan.name=팜팬과 대화하기
 //[Reference] 'Throw a ball for your pet. They'll fetch it if they're following you!'
 staxel.achievement.ThrowBall.description=공을 던지세요. 애완동물이 공을 가져와 줄 거예요!
 //[Reference] 'Throw a Ball'

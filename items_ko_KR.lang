@@ -461,7 +461,20 @@ staxel.item.crafting.PotWaterBoiling.name=끓는 물이 담긴 냄비
 staxel.item.crafting.RaspberryPie.description=방금 막 구운 맛있는 라즈베리맛 파이입니다.
 //[Reference] 'Raspberry Pie'
 staxel.item.crafting.RaspberryPie.name=라즈베리 파이
-//[Reference] 'Raw stone, mined from more stone.'
+//TODO Translate [Reference] 'Raw basalt, mined from basalt.'
+staxel.item.crafting.RawBasalt.description=
+//TODO Translate [Reference] 'Raw Basalt'
+staxel.item.crafting.RawBasalt.name=
+//TODO Translate [Reference] 'Raw limestone, mined from limestone.'
+staxel.item.crafting.RawLimestone.description=
+//TODO Translate [Reference] 'Raw Limestone'
+staxel.item.crafting.RawLimestone.name=
+//TODO Translate [Reference] 'Raw marble, mined from marble.'
+staxel.item.crafting.RawMarble.description=
+//TODO Translate [Reference] 'Raw Marble'
+staxel.item.crafting.RawMarble.name=
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Raw stone, mined from stone.'
 staxel.item.crafting.RawStone.description=돌덩이에서 떨어져 나온 돌입니다.
 //[Reference] 'Raw Stone'
 staxel.item.crafting.RawStone.name=생 돌
@@ -716,7 +729,7 @@ staxel.item.crops.Kiwi.name=키위
 staxel.item.crops.Lemon.description=맛있고 신 과일입니다.
 //[Reference] 'Lemon'
 staxel.item.crops.Lemon.name=레몬
-//TODO Translate [Reference] 'A head of green lettuce'
+//[Reference] 'A head of green lettuce'
 staxel.item.crops.Lettuce.description=초록 상추 대가리
 //[Reference] 'Lettuce'
 staxel.item.crops.Lettuce.name=상추
@@ -953,6 +966,15 @@ staxel.item.generic.RedBook.name=빨간색 책
 staxel.item.generic.Whistle.description=애완동물이 당신을 따라오게 하거나 훈련을 시킬 때 사용하세요!
 //[Reference] 'Whistle'
 staxel.item.generic.Whistle.name=호루라기
+staxel.item.Ore1.description=
+//TODO Translate [Reference] 'Ore1 [WIP]'
+staxel.item.Ore1.name=
+staxel.item.Ore2.description=
+//TODO Translate [Reference] 'Ore2 [WIP]'
+staxel.item.Ore2.name=
+staxel.item.Ore3.description=
+//TODO Translate [Reference] 'Ore3 [WIP]'
+staxel.item.Ore3.name=
 staxel.item.pets.PetFood.description=
 //[Reference] 'Pet Food'
 staxel.item.pets.PetFood.name=애완동물 먹이
@@ -989,6 +1011,10 @@ staxel.item.quest.Max.GaintTurnip.name=대형 순무
 staxel.item.quest.Max.GrandPrizeVoucher.description=
 //[Reference] 'Grand Prize Voucher'
 staxel.item.quest.Max.GrandPrizeVoucher.name=대박 상품 쿠폰
+//TODO Translate [Reference] 'You don't know if you can trust this strange concoction...'
+staxel.item.quest.Morel.MushroomPotion.description=
+//TODO Translate [Reference] 'Mushroom Potion'
+staxel.item.quest.Morel.MushroomPotion.name=
 staxel.item.quest.Parcel.description=
 //[Reference] 'Parcel'
 staxel.item.quest.Parcel.name=꾸러미
@@ -1027,22 +1053,48 @@ staxel.item.seed.GrassSeedPacket.name=잔디 씨앗
 staxel.item.seed.ThickGrassSeedPacket.description=두꺼운 잔디가 자라는 씨앗입니다.
 //[Reference] 'Thick Grass Seed Packet'
 staxel.item.seed.ThickGrassSeedPacket.name=두꺼운 잔디 씨앗
-//[Reference] 'A tool used to chop down big trees. Charge the tool to cut deeper.'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'A tool used to chop down big trees.'
 staxel.item.tool.Axe.description=이 도구는 큰 나무를 자를 때 씁니다. 힘을 모으면 더 크게 자를 수 있습니다.
 //[Reference] 'Axe'
 staxel.item.tool.Axe.name=도끼
+//TODO Translate [Reference] 'A tool used to chop down big trees. Charge the tool to cut deeper.'
+staxel.item.tool.Axe2.description=
+//TODO Translate [Reference] 'Hardened Axe [WIP]'
+staxel.item.tool.Axe2.name=
+//TODO Translate [Reference] 'A tool used to chop down big trees. Has 2 levels of charge.'
+staxel.item.tool.Axe3.description=
+//TODO Translate [Reference] 'Reinforced Axe [WIP]'
+staxel.item.tool.Axe3.name=
+//TODO Translate [Reference] 'A tool used to chop down big trees. Has 3 levels of charge.'
+staxel.item.tool.Axe4.description=
+//TODO Translate [Reference] 'Infused Axe [WIP]'
+staxel.item.tool.Axe4.name=
 //[Reference] 'Use to push dropped items, or play broom hockey!'
 staxel.item.tool.Broom.description=떨어진 아이템을 치울때 씁니다. 빗자루 하키를 할 때도 쓸 수 있어요!
 //[Reference] 'Broom'
 staxel.item.tool.Broom.name=빗자루
 //[Reference] 'Use this to capture farm animals!'
 staxel.item.tool.captureCrate.description=농장 동물들을 이 상자에 넣을 수 있어요!
-//TODO Translate [Reference] 'Capture Crate'
+//[Reference] 'Capture Crate'
 staxel.item.tool.captureCrate.name=포획 상자
-//[Reference] 'A tool used to disassemble objects. Charge the tool to affect a larger area'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'A tool used to disassemble objects.'
 staxel.item.tool.Hammer.description=이 도구를 사용해 놓아둔 물건들을 부술 수 있습니다. 힘을 모아 더 넓은 곳을 한번에 부술 수 있습니다.
 //[Reference] 'Hammer'
 staxel.item.tool.Hammer.name=망치
+//TODO Translate [Reference] 'A tool used to disassemble objects. Charge the tool to affect a larger area.'
+staxel.item.tool.Hammer2.description=
+//TODO Translate [Reference] 'Hardened Hammer [WIP]'
+staxel.item.tool.Hammer2.name=
+//TODO Translate [Reference] 'A tool used to disassemble objects. Has 2 levels of charge.'
+staxel.item.tool.Hammer3.description=
+//TODO Translate [Reference] 'Reinforced Hammer [WIP]'
+staxel.item.tool.Hammer3.name=
+//TODO Translate [Reference] 'A tool used to disassemble objects. Has 3 levels of charge.'
+staxel.item.tool.Hammer4.description=
+//TODO Translate [Reference] 'Infused Hammer [WIP]'
+staxel.item.tool.Hammer4.name=
 //[Reference] 'Your hands.'
 staxel.item.tool.Hands.description=네모난 손입니다.
 //[Reference] 'your hands'
@@ -1062,7 +1114,7 @@ staxel.item.tool.MagnifyingGlass.name=돋보기
 //[Reference] 'A tool used to milk a cow.'
 staxel.item.tool.Milker.description=소에게서 우유를 짤 수 있습니다.
 //[Reference] 'Milker'
-staxel.item.tool.Milker.name=착유병
+staxel.item.tool.Milker.name=소 젖짜개
 //[Reference] 'A bag of mixed seeds. What seeds will you plant? It's a mystery!'
 staxel.item.tool.MixedSeeds.description=잡동사니 씨앗들 입니다. 이 씨앗에서 뭐가 자랄까요? 그건 아무도 모르죠!
 //[Reference] 'Bag of Mixed Seeds'
@@ -1071,18 +1123,48 @@ staxel.item.tool.MixedSeeds.name=잡동사니 씨앗들
 staxel.item.tool.Net.description=곤충들을 잡을 때 쓰는 도구입니다. 꽃 주변이나 나무 위를 잘 찾아보세요!
 //[Reference] 'Bug Net'
 staxel.item.tool.Net.name=잠자리채
-//[Reference] 'A tool used to mine stone. Charge the tool to affect a larger area.'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'A tool used to mine stone.'
 staxel.item.tool.Pickaxe.description=돌을 캘 수 있는 도구입니다. 힘모으기로
 //[Reference] 'Pickaxe'
 staxel.item.tool.Pickaxe.name=곡괭이
+//TODO Translate [Reference] 'A tool used to mine stone. Charge the tool to affect a larger area.'
+staxel.item.tool.Pickaxe2.description=
+//TODO Translate [Reference] 'Hardened Pickaxe [WIP]'
+staxel.item.tool.Pickaxe2.name=
+//TODO Translate [Reference] 'A tool used to mine stone. Has 2 levels of charge.'
+staxel.item.tool.Pickaxe3.description=
+//TODO Translate [Reference] 'Reinforced Pickaxe [WIP]'
+staxel.item.tool.Pickaxe3.name=
+//TODO Translate [Reference] 'A tool used to mine stone. Has 3 levels of charge.'
+staxel.item.tool.Pickaxe4.description=
+//TODO Translate [Reference] 'Infused Pickaxe [WIP]'
+staxel.item.tool.Pickaxe4.name=
+//TODO Translate [Reference] 'A form used to rename yourself.'
+staxel.item.tool.PlayerRenamer.description=
+//TODO Translate [Reference] 'Player Naming Form'
+staxel.item.tool.PlayerRenamer.name=
 //[Reference] 'A form used to (re)name animals.'
 staxel.item.tool.Renamer.description=이 문서로 농장동물들의 이름을 지어줄 수 있습니다.
-//[Reference] 'Naming Form'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Animal Naming Form'
 staxel.item.tool.Renamer.name=이름짓는 문서
 //[Reference] 'A tool used to catch fish.'
 staxel.item.tool.Rod.description=이 도구를 사용해서 물고기를 잡을 수 있습니다.
 //[Reference] 'Fishing Rod'
 staxel.item.tool.Rod.name=낚싯대
+//TODO Translate [Reference] 'A tool used to catch fish.'
+staxel.item.tool.Rod2.description=
+//TODO Translate [Reference] 'Hardened Fishing Rod [WIP]'
+staxel.item.tool.Rod2.name=
+//TODO Translate [Reference] 'A tool used to catch fish.'
+staxel.item.tool.Rod3.description=
+//TODO Translate [Reference] 'Reinforced Fishing Rod [WIP]'
+staxel.item.tool.Rod3.name=
+//TODO Translate [Reference] 'A tool used to catch fish.'
+staxel.item.tool.Rod4.description=
+//TODO Translate [Reference] 'Infused Fishing Rod [WIP]'
+staxel.item.tool.Rod4.name=
 //[Reference] 'A tool used to cut down long grass, flowers, weeds and more! Charge the tool to cut more.'
 staxel.item.tool.Scythe.description=이 도구를 사용해서 길게자란 풀이나 꽃 같은 것들을 자를 수 있습니다. 힘모으기로 더 많은 풀들을 자를 수 있습니다.
 //[Reference] 'Scythe'
@@ -1091,10 +1173,23 @@ staxel.item.tool.Scythe.name=낫
 staxel.item.tool.Shears.description=이 도구를 사용해서 양들의 털을 깎을 수 있습니다.
 //[Reference] 'Sheep-Shears'
 staxel.item.tool.Shears.name=양털깎이
-//[Reference] 'A tool used to dig up earth. Charge the tool to dig more.'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'A tool used to dig up earth.'
 staxel.item.tool.Shovel.description=이 도구를 사용해서 흙을 팔 수 있습니다. 힘을 모아 더 넓은 곳을 한번에 팔 수 있습니다.
 //[Reference] 'Shovel'
 staxel.item.tool.Shovel.name=삽
+//TODO Translate [Reference] 'A tool used to dig up earth. Charge the tool to dig more.'
+staxel.item.tool.Shovel2.description=
+//TODO Translate [Reference] 'Hardened Shovel [WIP]'
+staxel.item.tool.Shovel2.name=
+//TODO Translate [Reference] 'A tool used to dig up earth. Has 2 levels of charge.'
+staxel.item.tool.Shovel3.description=
+//TODO Translate [Reference] 'Reinforced Shovel [WIP]'
+staxel.item.tool.Shovel3.name=
+//TODO Translate [Reference] 'A tool used to dig up earth. Has 3 levels of charge.'
+staxel.item.tool.Shovel4.description=
+//TODO Translate [Reference] 'Infused Shovel [WIP]'
+staxel.item.tool.Shovel4.name=
 //[Reference] 'A smoker is used to put bees into a comfortable sleep. This ensures safety when harvesting honey.'
 staxel.item.tool.Smoker.description=벌들을 편안한 잠에 들게 하는 도구입니다. 꿀을 수확할 때 훨씬 안전할거예요.
 //[Reference] 'Smoker'
@@ -1103,3 +1198,19 @@ staxel.item.tool.Smoker.name=훈연기
 staxel.item.tool.WateringCan.description=농작물에 좀 더 쉽게 물을 줄 수 있는 도구입니다. 길게 누르면 더 빨리 물을 줍니다.
 //[Reference] 'Watering Can'
 staxel.item.tool.WateringCan.name=물뿌리개
+//TODO Translate [Reference] 'A tool used to water your crops easily. Hold it down to water faster.'
+staxel.item.tool.WateringCan2.description=
+//TODO Translate [Reference] 'Hardened Watering Can [WIP]'
+staxel.item.tool.WateringCan2.name=
+//TODO Translate [Reference] 'A tool used to water your crops easily. Hold it down to water faster.'
+staxel.item.tool.WateringCan3.description=
+//TODO Translate [Reference] 'Reinforced Watering Can [WIP]'
+staxel.item.tool.WateringCan3.name=
+//TODO Translate [Reference] 'A tool used to water your crops easily. Contains an infinite amount of water.'
+staxel.item.tool.WateringCan4.description=
+//TODO Translate [Reference] 'Infused Watering Can [WIP]'
+staxel.item.tool.WateringCan4.name=
+//TODO Translate [Reference] 'This kills off any pesky weeds and other plants around the farm!'
+staxel.item.tool.WeedKiller.description=
+//TODO Translate [Reference] 'Weed Killer'
+staxel.item.tool.WeedKiller.name=
