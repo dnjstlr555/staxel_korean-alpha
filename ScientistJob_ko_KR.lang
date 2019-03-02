@@ -13,9 +13,9 @@ staxel.village.dialogue.job.Scientist.line:10000500=새로운 실험의 시험 �
 //[Reference] 'Does that seem appealing to you ^c:1486b0;{0-playername}^c:pop;?'
 staxel.village.dialogue.job.Scientist.line:10000600=^c:1486b0;{0-playername}^c:pop;,당신은 무엇일까??
 //[Reference] 'I can't really pay you or anything...'
-staxel.village.dialogue.job.Scientist.line:10000700=별다른 것을 줄 수는 없지만…
+staxel.village.dialogue.job.Scientist.line:10000700=별다른 보상을 줄 수는 없지만…
 //[Reference] 'But it could help advance humankind to the next stage of evolution!'
-staxel.village.dialogue.job.Scientist.line:10000800=인류를 다음 단계로 발전시키기위한 힘이 될 수있을거야!
+staxel.village.dialogue.job.Scientist.line:10000800=당신은 인류를 다음 단계로 발전시키기위한 힘이 될 수있을거야!
 //[Reference] 'Alternatively, you might turn into a bug.'
 staxel.village.dialogue.job.Scientist.line:10000900=그리고, 잘못하면 벌레가되어 버릴지도.
 //[Reference] 'The odds are only slightly in favour of turning into a bug.'
@@ -35,21 +35,21 @@ staxel.village.dialogue.job.Scientist.line:10001600=ㅌ...타...타임머신 ?!
 //[Reference] 'Who told you about that?!'
 staxel.village.dialogue.job.Scientist.line:10001700=누가 너에게 그걸 말했어?!
 //[Reference] 'I have no such thing!'
-staxel.village.dialogue.job.Scientist.line:10001800=나,난 그런 것을 가지고 있지 않으니까!
+staxel.village.dialogue.job.Scientist.line:10001800=나,난 그런거 없다고!
 //[Reference] 'I thought I was the only one tapping phones...'
-staxel.village.dialogue.job.Scientist.line:10001810=전화 도청을 하고 있는건 나 뿐이라고 생각 했어 ...
+staxel.village.dialogue.job.Scientist.line:10001810=이 마을에서 전화 도청을 하고 있는건 나 뿐이라고 생각 했는데..
 //[Reference] 'It's been weeks and I've yet to hear anything...'
-staxel.village.dialogue.job.Scientist.line:10001900=몇 주 동안 아무것도 들리지 않은거야 ...
+staxel.village.dialogue.job.Scientist.line:10001900=몇 주 동안 아무 얘기도 못들었어...
 //[Reference] 'The mayor promised to look over all the paperwork!'
-staxel.village.dialogue.job.Scientist.line:10002000=촌장은 모든 서류를 확인한다고 약속 했어!
+staxel.village.dialogue.job.Scientist.line:10002000=촌장이 모든 서류를 확인한다고 약속 했는데!
 //[Reference] 'Surely it can't have been rejected?'
-staxel.village.dialogue.job.Scientist.line:10002100=기각될 리 없지?
+staxel.village.dialogue.job.Scientist.line:10002100=기각되진 않았겠지?
 //[Reference] 'Can they not see how beneficial the implants would be for the village?'
-staxel.village.dialogue.job.Scientist.line:10002200=임플란트가 마을에 가져다 줄 수 있는 좋은 영향을 이해할 수 없는 것일까?
+staxel.village.dialogue.job.Scientist.line:10002200=사실 몇 년 전부터 이 인공 눈알을 개발하고 있었거든.
 //[Reference] 'I've been working on this bionic eye for the past year.'
-staxel.village.dialogue.job.Scientist.line:10002300=몇 년 전부터이 바이오 의안을 개발하고있어.
+staxel.village.dialogue.job.Scientist.line:10002300=인공 장기가 마을에 가져다 줄 수 있는 좋은 영향을 이해할 수 없는 것일까?
 //[Reference] 'Would you like to be a test subject? It won't hurt.'
-staxel.village.dialogue.job.Scientist.line:10002400=시험 삼아서 찔러 볼래? 안아파!
+staxel.village.dialogue.job.Scientist.line:10002400=너는 어때? 시험 삼아서 찔러 볼래? 안 아파!
 //[Reference] 'We just stick a third eye to your forehead.'
 staxel.village.dialogue.job.Scientist.line:10002500=그저 이마에 제 3의 눈을 붙일 뿐이야.
 //[Reference] 'The WiFi will do the rest!'

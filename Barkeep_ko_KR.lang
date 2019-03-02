@@ -22,7 +22,7 @@ staxel.village.dialogue.Barkeep.line:10000260=목 말라요~
 staxel.village.dialogue.Barkeep.line:10000265=아무것도 아니에요.
 //TODO Translate [Reference] 'I'd like to buy some of your secret ingredient.'
 staxel.village.dialogue.Barkeep.line:10000266=
-//TODO Translate [Reference] 'I'm hungry.'
+//[Reference] 'I'm hungry.'
 staxel.village.dialogue.Barkeep.line:10000267=배가 고파요.
 //[Reference] 'I'm sure you'll fit right in.'
 staxel.village.dialogue.Barkeep.line:10000300=분명 마을에 잘 적응해 나갈꺼라 믿네.
@@ -35,7 +35,7 @@ staxel.village.dialogue.Barkeep.line:10000500=우리 마을에 온걸 환영하�
 //[Reference] 'I hope to see you around here every now and again.'
 staxel.village.dialogue.Barkeep.line:10000600=앞으로 자주 들러줬으면 좋겠네.
 //[Reference] 'By the way... and perhaps this might seem like an odd question but...'
-staxel.village.dialogue.Barkeep.line:10000610=그나저나... 조금 갑작스런 질문일수 있겠다만...
+staxel.village.dialogue.Barkeep.line:10000610=그나저나... 조금 갑작스런 질문일 수 있겠다만...
 //[Reference] 'Is there a particular type of animal you like?'
 staxel.village.dialogue.Barkeep.line:10000620=자네는 어떤 동물을 좋아하나?
 //[Reference] 'Cats are super cute!'
@@ -111,7 +111,7 @@ staxel.village.dialogue.Barkeep.line:10006400=내 택배구만!
 //[Reference] 'I can't express just how much I've been looking forward to this!'
 staxel.village.dialogue.Barkeep.line:10006500=내가 이걸 구하려 얼마나 고생을 했는지 아는가!
 //[Reference] 'The entrancing fragrance... the incomparable flavours...'
-staxel.village.dialogue.Barkeep.line:10006600=쓰읍. 아아.. 쓰러질것만 같은 이 향기...
+staxel.village.dialogue.Barkeep.line:10006600=쓰읍. 아아.. 쓰러질 것만 같은 이 향기...
 //[Reference] 'Hm? You want to know what's in the package?'
 staxel.village.dialogue.Barkeep.line:10006700=하아...흠? 이 택배 안에 뭐가 있는지 궁금한가?
 //[Reference] 'It's a special type of fermented fish!'
@@ -121,7 +121,7 @@ staxel.village.dialogue.Barkeep.line:10006900=이런걸 만드는 섬은 흔치�
 //[Reference] 'I like to tease ^c:1486b0;{0-shop_name}^c:pop; a little by having it sent to the store first...'
 staxel.village.dialogue.Barkeep.line:10007000=또 ^c:1486b0;{0-shop_name}^c:pop; 가 힘들어 하는 모습을 보는게 내 취미이기도 하고...
 //[Reference] 'But enough about that! I imagine you're eager to get back to your pet!'
-staxel.village.dialogue.Barkeep.line:10007100=아무튼 이 정도면 됐어! 자네가 애완동물을 보고 싶어서 안절부절 하는 것만 같구만!
+staxel.village.dialogue.Barkeep.line:10007100=아무튼 이 정도면 됐어! 자네가 애완동물을 보고 싶어서 안절부절 못 하는 것 같구만!
 //[Reference] 'Hm? Oh! I didn't tell you?'
 staxel.village.dialogue.Barkeep.line:10007200=응? 내가 얘기 안해줬나?
 //[Reference] 'I've already sent your pet over to ^c:1486b0;{0-tut_name}^c:pop;!'
@@ -141,7 +141,7 @@ staxel.village.dialogue.Barkeep.line:10007900=저녁쯤에는 복작복작 하�
 //[Reference] 'You probably shouldn't stay out too late though!'
 staxel.village.dialogue.Barkeep.line:10008000=물론 그렇다고 너무 늦게까지 나와있진 말게!
 //[Reference] 'It's good to get back to your bed and sleep the night away.'
-staxel.village.dialogue.Barkeep.line:10008100=침대에 누워 밤을 지내는것 만큼 좋은게 없으니 말이야.
+staxel.village.dialogue.Barkeep.line:10008100=침대에 누워 밤을 지내는 것 만큼 좋은게 없으니 말이야.
 //TODO Translate [Reference] 'Mmm, there have been quite a few concerning mutterings recently...'
 staxel.village.dialogue.Barkeep.line:10008200=
 //TODO Translate [Reference] 'It's hard to give them credence, but with so many reports you start to wonder...'

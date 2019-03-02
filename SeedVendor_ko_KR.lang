@@ -5,7 +5,7 @@ staxel.village.dialogue.SeedVendor.line:10000100=안녕? 난 {0-name}이라고 �
 //[Reference] 'I sell seeds.'
 staxel.village.dialogue.SeedVendor.line:10000200=난 씨앗을 팔고 있어.
 //[Reference] 'Rob sells magic water if you want them to grow fast.'
-staxel.village.dialogue.SeedVendor.line:10000300=Rob이 식물들을 빨리 자라게 해주는 마법의 물을 팔고 있을거야.
+staxel.village.dialogue.SeedVendor.line:10000300=롭이 식물들을 빨리 자라게 해주는 마법의 물을 팔고 있을거야.
 //[Reference] 'Thanks.'
 staxel.village.dialogue.SeedVendor.line:10000400=고마워.
 //[Reference] 'Thanks.'

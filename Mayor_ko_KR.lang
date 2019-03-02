@@ -65,31 +65,31 @@ staxel.village.dialogue.Mayor.line:10004000=여기 저희가 모아둔 ^c:d03e37
 //[Reference] 'They all ran away when the previous owner left.'
 staxel.village.dialogue.Mayor.line:10004100=예전 주인이 떠나고 나서 전부 달아났던 애들이지요.
 //[Reference] 'Good luck!'
-staxel.village.dialogue.Mayor.line:10004200=행운을 빌어요!
+staxel.village.dialogue.Mayor.line:10004200=잘 관리해 주세요!
 //[Reference] 'By the way, we've been looking for good builders for a long time.'
 staxel.village.dialogue.Mayor.line:10004300=그런데 말이에요, 우리는 훌륭한 건축가를 쭉 바라고 있었어요.
 //[Reference] 'Sometimes we get notices from people who want to move in here.'
 staxel.village.dialogue.Mayor.line:10004400=가끔은 여기로 이사 오고 싶어하는 사람들이 있어요.
 //[Reference] 'Before that, they need a house to live in.'
-staxel.village.dialogue.Mayor.line:10004500=그런데 이사를 오려면, 집이 필요할걸세.
+staxel.village.dialogue.Mayor.line:10004500=그런데 이사를 오려면, 집이 필요하거든요.
 //[Reference] 'Given your impressive work on the ^c:1486b0;barn^c:pop;, we'd love your help!'
-staxel.village.dialogue.Mayor.line:10004600=자네가 ^c:1486b0;헛간^c:pop; 을 훌륭하게 지은 솜씨를 봐서, 한 번 더 도와준다면 고맙겠네!
+staxel.village.dialogue.Mayor.line:10004600=그래서 자네가 ^c:1486b0;헛간^c:pop; 을 훌륭하게 지은 솜씨를 봐서, 나중에 한 번 더 도와준다면 고맙겠어요!
 //[Reference] 'Come check in with me every once in a while!'
-staxel.village.dialogue.Mayor.line:10004700=가끔씩 날 보러 와주게!
+staxel.village.dialogue.Mayor.line:10004700=보통 매 주마다 새 요청이 들어오곤 해요.
 //[Reference] 'New requests usually come in every week or so.'
-staxel.village.dialogue.Mayor.line:10004710=보통 매 주마다 새 요청이 들어오곤 한다네.
+staxel.village.dialogue.Mayor.line:10004710=그러니 가끔 저에게 말을 걸어주세요.
 //[Reference] 'In the meantime, it might be a good idea to get to know everyone!'
-staxel.village.dialogue.Mayor.line:10004720=그 동안에, 다른 사람들과 인사라도 나눠보는 게 어떻겠나!
+staxel.village.dialogue.Mayor.line:10004720=그 동안에, 다른 사람들과 인사라도 나눠보는 게 어떻겠나요?
 //[Reference] 'There's bound to be someone looking for assistance.'
-staxel.village.dialogue.Mayor.line:10004730=도움을 요청하는 사람들이 몇 명 있을걸세.
+staxel.village.dialogue.Mayor.line:10004730=요새 도움이 필요한 사람들이 있는데 말이에요...
 //[Reference] 'I know ^c:1486b0;{0-caith_name}^c:pop; has been moping around quite a bit ever since she arrived...'
-staxel.village.dialogue.Mayor.line:10004740=^c:1486b0;{0-caith_name}^c:pop; 가 여기에 온 뒤로 우울해하고 있다더군...
+staxel.village.dialogue.Mayor.line:10004740=^c:1486b0;{0-caith_name}^c:pop; 가 여기에 온 뒤로 우울해하고 있더라구요.
 //[Reference] 'She's bound to have a task for you.'
-staxel.village.dialogue.Mayor.line:10004750=아마 누군가의 도움이 필요한 것이겠지.
+staxel.village.dialogue.Mayor.line:10004750=아마 누군가의 도움이 필요한 것일꺼에요.
 //[Reference] 'If that doesn't appeal, you can always head off exploring or kick back and look after the farm!'
-staxel.village.dialogue.Mayor.line:10004760=별 관심 없다면야, 주위를 돌아다니거나 농장을 돌볼 수도 있지!
+staxel.village.dialogue.Mayor.line:10004760=물론 별 관심 없다면야, 주위를 돌아다니거나 농장을 돌볼 수도 있구요!
 //[Reference] 'It's all up to you really! We just want to see what you make of the place!'
-staxel.village.dialogue.Mayor.line:10004770=전부 자네에게 달렸네! 우린 그저 자네가 뭘 할 수 있는지 궁금할 뿐이라네!
+staxel.village.dialogue.Mayor.line:10004770=전부 자네에게 달렸어요! 우린 그저 자네가 뭘 할 수 있는지 궁금할 뿐이에요!
 //[Reference] 'Looks like someone new wants to move in!'
 staxel.village.dialogue.Mayor.line:10004800=아무래도 누군가 여기로 이사 오고 싶어하는 듯 하네!
 //[Reference] 'Stick this ^c:d03e37;postbox^c:pop; somewhere and use it to build a house!'

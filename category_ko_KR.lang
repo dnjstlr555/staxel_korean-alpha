@@ -2,428 +2,426 @@
 language=한국어
 
 //[Reference] 'Accessory'
-staxel.category.Accessory=Accessory
+staxel.category.Accessory=액세서리
 //[Reference] 'Advertisement'
-staxel.category.advertisement=Advertisement
+staxel.category.advertisement=게시판
 //[Reference] 'All'
-staxel.category.all=All
+staxel.category.all=전부
 //[Reference] 'Allium'
-staxel.category.Allium=Allium
+staxel.category.Allium=알리움
 //[Reference] 'Animal'
-staxel.category.animal=Animal
+staxel.category.animal=가축
 //[Reference] 'Anything'
-staxel.category.any=Anything
+staxel.category.any=모든것
 //[Reference] 'Apiary'
-staxel.category.apiary=Apiary
+staxel.category.apiary=벌집
 //[Reference] 'Apple'
-staxel.category.apple=Apple
+staxel.category.apple=사과
 //[Reference] 'Arch'
-staxel.category.arch=Arch
+staxel.category.arch=아치
 //[Reference] 'Arched'
-staxel.category.arched=Arched
+staxel.category.arched=곡선 구조물
 //[Reference] 'Archway'
-staxel.category.archway=Archway
+staxel.category.archway=아치형 길
 //[Reference] 'Area'
-staxel.category.area=Area
+staxel.category.area=그릇
 //[Reference] 'Armchair'
-staxel.category.armchair=Armchair
+staxel.category.armchair=팔걸이 의자
 //[Reference] 'Axe'
-staxel.category.axe=Axe
+staxel.category.axe=도끼
 //[Reference] 'Aztec'
-staxel.category.aztec=Aztec
+staxel.category.aztec=고대
 //[Reference] 'Baking'
-staxel.category.baking=Baking
+staxel.category.baking=구운
 //[Reference] 'Baking Station'
-staxel.category.bakingstation=Baking Station
+staxel.category.bakingstation=오븐
 //[Reference] 'Ball'
-staxel.category.ball=Ball
+staxel.category.ball=공
 //[Reference] 'Banana'
-staxel.category.Banana=Banana
+staxel.category.Banana=바나나
 //[Reference] 'Banner'
-staxel.category.banner=Banner
+staxel.category.banner=현수막
 //[Reference] 'barber'
-staxel.category.barber=barber
+staxel.category.barber=미용실
 //[Reference] 'Bark'
-staxel.category.bark=Bark
+staxel.category.bark=나무 블럭
 //[Reference] 'Barrel'
-staxel.category.barrel=Barrel
+staxel.category.barrel=나무통
 //[Reference] 'Basic'
-staxel.category.basic=Basic
+staxel.category.basic=기본
 //[Reference] 'Basket'
-staxel.category.basket=Basket
+staxel.category.basket=바구니
 //[Reference] 'Bathroom'
-staxel.category.bathroom=Bathroom
+staxel.category.bathroom=화장실
 //[Reference] 'Beach'
-staxel.category.beach=Beach
+staxel.category.beach=바다
 //[Reference] 'Beam'
-staxel.category.beam=Beam
+staxel.category.beam=나무보
 //[Reference] 'Bed'
-staxel.category.bed=Bed
+staxel.category.bed=침대
 //[Reference] 'Bedside'
-staxel.category.bedside=Bedside
+staxel.category.bedside=협탁
 //[Reference] 'Bee'
-staxel.category.bee=Bee
+staxel.category.bee=벌
 //[Reference] 'Beehive'
-staxel.category.beehive=Beehive
+staxel.category.beehive=벌집
 //[Reference] 'Bees'
-staxel.category.bees=Bees
+staxel.category.bees=말벌
 //[Reference] 'Beet'
-staxel.category.beet=Beet
+staxel.category.beet=무
 //[Reference] 'Beetle'
-staxel.category.beetle=Beetle
+staxel.category.beetle=딱정벌레
 //[Reference] 'Bench'
-staxel.category.bench=Bench
+staxel.category.bench=벤치
 //[Reference] 'Billboard'
-staxel.category.billboard=Billboard
+staxel.category.billboard=게시판
 //[Reference] 'Bin'
-staxel.category.bin=Bin
+staxel.category.bin=가구
 //[Reference] 'Birthday'
-staxel.category.birthday=Birthday
+staxel.category.birthday=생일
 //[Reference] 'Black'
-staxel.category.black=Black
+staxel.category.black=검정
 //[Reference] 'Blackberries'
-staxel.category.blackberries=Blackberries
+staxel.category.blackberries=블랙베리
 //[Reference] 'Blackberry'
-staxel.category.blackberry=Blackberry
+staxel.category.blackberry=나코베리
 //[Reference] 'Blanket'
-staxel.category.blanket=Blanket
+staxel.category.blanket=담요
 //[Reference] 'Blinds'
-staxel.category.blinds=Blinds
+staxel.category.blinds=가림개
 //[Reference] 'Block'
-staxel.category.block=Block
+staxel.category.block=블럭
 //[Reference] 'Blue'
-staxel.category.blue=Blue
+staxel.category.blue=파랑
 //[Reference] 'Blueberries'
-staxel.category.blueberries=Blueberries
+staxel.category.blueberries=블루베리
 //[Reference] 'Blueberry'
-staxel.category.blueberry=Blueberry
+staxel.category.blueberry=아줄베리
 //[Reference] 'Board'
-staxel.category.board=Board
+staxel.category.board=나무판
 //[Reference] 'Bobblehead'
-staxel.category.bobblehead=Bobblehead
+staxel.category.bobblehead=버블헤드
 //[Reference] 'Boilable'
-staxel.category.boilable=Boilable
+staxel.category.boilable=끓
 //[Reference] 'Boiling'
-staxel.category.boiling=Boiling
+staxel.category.boiling=조리
 //[Reference] 'Book'
-staxel.category.book=Book
+staxel.category.book=책
 //[Reference] 'Bowl'
-staxel.category.bowl=Bowl
+staxel.category.bowl=접시
 //[Reference] 'Box'
-staxel.category.box=Box
+staxel.category.box=상자
 //[Reference] 'Bread'
-staxel.category.bread=Bread
+staxel.category.bread=빵
 //[Reference] 'Brick'
-staxel.category.brick=Brick
+staxel.category.brick=벽돌
 //[Reference] 'Bricks'
-staxel.category.bricks=Bricks
+staxel.category.bricks=벽돌
 //[Reference] 'Bridge'
-staxel.category.bridge=Bridge
+staxel.category.bridge=다리
 //[Reference] 'Broken'
-staxel.category.broken=Broken
+staxel.category.broken=깨진
 //[Reference] 'broom'
-staxel.category.broom=broom
+staxel.category.broom=쓰레받기
 //[Reference] 'Brown'
-staxel.category.brown=Brown
+staxel.category.brown=갈색
 //[Reference] 'Bucket'
-staxel.category.bucket=Bucket
+staxel.category.bucket=양동이
 //[Reference] 'Bug'
-staxel.category.bug=Bug
+staxel.category.bug=벌레
 //[Reference] 'Building'
-staxel.category.building=Building
+staxel.category.building=건축
 //[Reference] 'Bunk'
-staxel.category.bunk=Bunk
+staxel.category.bunk=침대
 //[Reference] 'Bureau'
-staxel.category.bureau=Bureau
+staxel.category.bureau=탁자
 //[Reference] 'Burnt'
-staxel.category.burnt=Burnt
+staxel.category.burnt=탄
 //[Reference] 'Bush'
-staxel.category.bush=Bush
+staxel.category.bush=덤불
 //[Reference] 'Bushy'
-staxel.category.bushy=Bushy
+staxel.category.bushy=덤불
 //[Reference] 'Butter'
-staxel.category.butter=Butter
+staxel.category.butter=버터
 //[Reference] 'Cabbage'
-staxel.category.cabbage=Cabbage
+staxel.category.cabbage=배추
 //[Reference] 'Cabinet'
-staxel.category.cabinet=Cabinet
+staxel.category.cabinet=캐비닛
 //[Reference] 'Cake'
-staxel.category.cake=Cake
+staxel.category.cake=케이크
 //[Reference] 'Camp'
-staxel.category.camp=Camp
+staxel.category.camp=캠프
 //[Reference] 'Campfire'
-staxel.category.campfire=Campfire
+staxel.category.campfire=모닥불
 //[Reference] 'Camping'
-staxel.category.camping=Camping
+staxel.category.camping=캠프
 //[Reference] 'Can'
-staxel.category.can=Can
+staxel.category.can=병
 //[Reference] 'Candle'
-staxel.category.candle=Candle
+staxel.category.candle=양초
 //[Reference] 'Candy'
-staxel.category.candy=Candy
+staxel.category.candy=캔디
 //[Reference] 'Cane'
-staxel.category.cane=Cane
+staxel.category.cane=사탕수수
 //[Reference] 'Cardboard'
-staxel.category.cardboard=Cardboard
+staxel.category.cardboard=종이 상자
 //[Reference] 'Carpet'
-staxel.category.carpet=Carpet
+staxel.category.carpet=양탄자
 //[Reference] 'Carrot'
-staxel.category.carrot=Carrot
+staxel.category.carrot=당근
 //[Reference] 'Carrots'
-staxel.category.carrots=Carrots
+staxel.category.carrots=당근
 //[Reference] 'cart'
-staxel.category.cart=cart
+staxel.category.cart=카트
 //[Reference] 'Cash'
-staxel.category.cash=Cash
+staxel.category.cash=포스기
 //[Reference] 'Cask'
-staxel.category.cask=Cask
+staxel.category.cask=통
 //[Reference] 'Cat'
-staxel.category.cat=Cat
+staxel.category.cat=캣
 //[Reference] 'Catching'
-staxel.category.catching=Catching
+staxel.category.catching=벌레잡이
 //[Reference] 'Ceiling'
-staxel.category.ceiling=Ceiling
+staxel.category.ceiling=천장
 //[Reference] 'Chair'
-staxel.category.chair=Chair
+staxel.category.chair=의자
 //[Reference] 'checker'
-staxel.category.checker=checker
+staxel.category.checker=체크무늬
 //[Reference] 'Checkers'
-staxel.category.checkers=Checkers
+staxel.category.checkers=체크무늬
 //[Reference] 'Cheese'
-staxel.category.cheese=Cheese
+staxel.category.cheese=치즈
 //[Reference] 'Cherries'
-staxel.category.cherries=Cherries
+staxel.category.cherries=틴토베리
 //[Reference] 'Cherry'
-staxel.category.cherry=Cherry
+staxel.category.cherry=체리
 //[Reference] 'chess'
-staxel.category.chess=chess
+staxel.category.chess=체스
 //[Reference] 'Chest'
-staxel.category.chest=Chest
+staxel.category.chest=상자
 //[Reference] 'Chicken'
-staxel.category.chicken=Chicken
+staxel.category.chicken=닭
 //[Reference] 'chime'
-staxel.category.chime=chime
+staxel.category.chime=풍경
 //[Reference] 'Chimney'
-staxel.category.chimeny=Chimney
-//[Reference] 'Chimney'
-staxel.category.chimney=Chimney
+staxel.category.chimeny=굴뚝
 //[Reference] 'Chip'
-staxel.category.chip=Chip
+staxel.category.chip=과자
 //[Reference] 'Chips'
-staxel.category.chips=Chips
+staxel.category.chips=칩
 //[Reference] 'Chocolate'
-staxel.category.chocolate=Chocolate
+staxel.category.chocolate=초코
 //[Reference] 'Choppable'
-staxel.category.choppable=Choppable
+staxel.category.choppable=자르
 //[Reference] 'Chopped'
-staxel.category.chopped=Chopped
+staxel.category.chopped=잘린
 //[Reference] 'Chopping'
-staxel.category.chopping=Chopping
+staxel.category.chopping=자르는
 //[Reference] 'Christmas'
-staxel.category.christmas=Christmas
+staxel.category.christmas=산타
 //[Reference] 'Circle'
-staxel.category.circle=Circle
+staxel.category.circle=원
 //[Reference] 'Clay'
-staxel.category.clay=Clay
+staxel.category.clay=도자기
 //[Reference] 'clock'
-staxel.category.clock=clock
+staxel.category.clock=시계
 //[Reference] 'Closet'
-staxel.category.closet=Closet
+staxel.category.closet=옷장
 
 //[Reference] 'Clothing'
-staxel.category.clothing=Clothing
+staxel.category.clothing=옷
 //[Reference] 'Cobblestone'
-staxel.category.cobblestone=Cobblestone
+staxel.category.cobblestone=조약돌
 //[Reference] 'Cobweb'
-staxel.category.cobweb=Cobweb
+staxel.category.cobweb=거미줄
 //[Reference] 'Cocoa'
-staxel.category.Cocoa=Cocoa
+staxel.category.Cocoa=코코아
 //[Reference] 'Coconut'
-staxel.category.coconut=Coconut
+staxel.category.coconut=야자수
 //[Reference] 'Coffee'
-staxel.category.coffee=Coffee
+staxel.category.coffee=커피
 //[Reference] 'computer'
-staxel.category.computer=computer
+staxel.category.computer=컴퓨터
 //[Reference] 'cone'
-staxel.category.cone=cone
+staxel.category.cone=콘
 //[Reference] 'Consumable'
-staxel.category.consumable=Consumable
+staxel.category.consumable=먹는거
 //[Reference] 'Container'
-staxel.category.container=Container
+staxel.category.container=컨테이너
 //[Reference] 'Contemporary'
-staxel.category.contemporary=Contemporary
+staxel.category.contemporary=모던
 //[Reference] 'Cookies'
-staxel.category.cookies=Cookies
+staxel.category.cookies=쿠키
 //[Reference] 'Cooking'
-staxel.category.cooking=Cooking
+staxel.category.cooking=굽는
 //[Reference] 'cooler'
-staxel.category.cooler=cooler
+staxel.category.cooler=아이스박스
 //[Reference] 'Coop'
-staxel.category.coop=Coop
+staxel.category.coop=닭장
 //[Reference] 'corkboard'
-staxel.category.corkboard=corkboard
+staxel.category.corkboard=벽걸이 게시판
 //[Reference] 'Corn'
-staxel.category.corn=Corn
+staxel.category.corn=꼬깔콘
 //[Reference] 'Corner'
-staxel.category.corner=Corner
+staxel.category.corner=모서리
 //[Reference] 'Couch'
-staxel.category.couch=Couch
+staxel.category.couch=소파
 //[Reference] 'Counter'
-staxel.category.counter=Counter
+staxel.category.counter=계산대
 //[Reference] 'Countertop'
-staxel.category.countertop=Countertop
+staxel.category.countertop=카운터
 //[Reference] 'Cow'
-staxel.category.cow=Cow
+staxel.category.cow=소
 //[Reference] 'Crafting'
-staxel.category.crafting=Crafting
+staxel.category.crafting=제작
 //[Reference] 'Crafting Station'
-staxel.category.craftingStation=Crafting Station
+staxel.category.craftingStation=제작대
 //[Reference] 'Crate'
-staxel.category.crate=Crate
+staxel.category.crate=상자
 //[Reference] 'Cream'
-staxel.category.cream=Cream
+staxel.category.cream=크림
 //[Reference] 'Credenza'
-staxel.category.credenza=Credenza
+staxel.category.credenza=옷장
 //[Reference] 'Creepy'
-staxel.category.creepy=Creepy
+staxel.category.creepy=무서운
 //[Reference] 'Crisps'
-staxel.category.crisps=Crisps
+staxel.category.crisps=과자 접시
 //[Reference] 'Crop'
-staxel.category.crop=Crop
+staxel.category.crop=씨앗
 //[Reference] 'Cucumber'
-staxel.category.cucumber=Cucumber
+staxel.category.cucumber=오이
 //[Reference] 'Cupboard'
-staxel.category.cupboard=Cupboard
+staxel.category.cupboard=벽장
 //[Reference] 'Cut'
-staxel.category.cut=Cut
+staxel.category.cut=칼
 //[Reference] 'Dark'
-staxel.category.dark=Dark
+staxel.category.dark=어둠
 //[Reference] 'Davenport'
-staxel.category.davenport=Davenport
+staxel.category.davenport=소형 책상
 //[Reference] 'Dead'
-staxel.category.dead=Dead
+staxel.category.dead=섬뜩
 //[Reference] 'Deck'
-staxel.category.deck=Deck
+staxel.category.deck=난간
 //[Reference] 'Decoration'
-staxel.category.decoration=Decoration
+staxel.category.decoration=장식
 //[Reference] 'Delphinium'
-staxel.category.Delphinium=Delphinium
+staxel.category.Delphinium=델피늄
 //[Reference] 'Desk'
-staxel.category.desk=Desk
+staxel.category.desk=탁자
 //[Reference] 'Dessert'
-staxel.category.dessert=Dessert
+staxel.category.dessert=디저트
 //[Reference] 'Diced'
-staxel.category.diced=Diced
+staxel.category.diced=썰린
 //[Reference] 'Dining'
-staxel.category.dining=Dining
+staxel.category.dining=식탁/식탁 의자
 //[Reference] 'Dinner'
-staxel.category.dinner=Dinner
+staxel.category.dinner=밥
 //[Reference] 'Dirt'
-staxel.category.dirt=Dirt
+staxel.category.dirt=흙
 //[Reference] 'display'
-staxel.category.display=display
+staxel.category.display=전시대
 //[Reference] 'Dog'
-staxel.category.dog=Dog
+staxel.category.dog=개
 //[Reference] 'Dogs'
-staxel.category.dogs=Dogs
+staxel.category.dogs=멍멍이
 //[Reference] 'Door'
-staxel.category.door=Door
+staxel.category.door=문
 //[Reference] 'Dot'
-staxel.category.Dot=Dot
+staxel.category.Dot=점
 //[Reference] 'Double'
-staxel.category.double=Double
+staxel.category.double=더블
 //[Reference] 'Dragon Fruit'
-staxel.category.dragonfruit=Dragon Fruit
+staxel.category.dragonfruit=용과
 //[Reference] 'Drawers'
-staxel.category.drawers=Drawers
+staxel.category.drawers=서랍
 //[Reference] 'Dresser'
-staxel.category.dresser=Dresser
+staxel.category.dresser=옷장
 //[Reference] 'Dressing'
-staxel.category.dressing=Dressing
+staxel.category.dressing=화장
 //[Reference] 'Drink'
-staxel.category.drink=Drink
+staxel.category.drink=음료
 //[Reference] 'Drum'
-staxel.category.drum=Drum
+staxel.category.drum=드럼통
 //[Reference] 'Dry'
-staxel.category.dry=Dry
+staxel.category.dry=마른
 //[Reference] 'Dungeon'
-staxel.category.dungeon=Dungeon
+staxel.category.dungeon=던전
 //[Reference] 'Edge'
-staxel.category.Edge=Edge
+staxel.category.Edge=끝
 //[Reference] 'Edible'
-staxel.category.edible=Edible
+staxel.category.edible=음식
 //[Reference] 'Egg'
-staxel.category.egg=Egg
+staxel.category.egg=알
 //[Reference] 'Eggplant'
-staxel.category.eggplant=Eggplant
+staxel.category.eggplant=가지
 //[Reference] 'Emote'
-staxel.category.emote=Emote
+staxel.category.emote=감정
 //[Reference] 'Empty'
-staxel.category.empty=Empty
+staxel.category.empty=빈
 //[Reference] 'End'
-staxel.category.end=End
+staxel.category.end=끄
 //[Reference] 'Fairy'
-staxel.category.fairy=Fairy
+staxel.category.fairy=요정
 //[Reference] 'Fantasy'
-staxel.category.fantasy=Fantasy
+staxel.category.fantasy=판타지
 //[Reference] 'Farm'
-staxel.category.farm=Farm
+staxel.category.farm=농장
 //[Reference] 'Livestock'
-staxel.category.farmAnimals=Livestock
+staxel.category.farmAnimals=수탉
 //[Reference] 'Feed'
-staxel.category.feed=Feed
+staxel.category.feed=먹이
 //[Reference] 'Feeding'
-staxel.category.feeding=Feeding
+staxel.category.feeding=사료
 //[Reference] 'Fence'
-staxel.category.fence=Fence
+staxel.category.fence=울타리
 //[Reference] 'Festival'
-staxel.category.festival=Festival
+staxel.category.festival=축제
 //[Reference] 'file'
-staxel.category.file=file
+staxel.category.file=파일
 //[Reference] 'filing'
-staxel.category.filing=filing
+staxel.category.filing=서류
 //[Reference] 'Fire'
-staxel.category.fire=Fire
+staxel.category.fire=불
 //[Reference] 'Fish'
-staxel.category.fish=Fish
+staxel.category.fish=물고기
 //[Reference] 'Fishing'
-staxel.category.fishing=Fishing
+staxel.category.fishing=낚시
 //[Reference] 'Flat'
-staxel.category.flat=Flat
+staxel.category.flat=평평
 //[Reference] 'Floor'
-staxel.category.floor=Floor
+staxel.category.floor=바닥
 //[Reference] 'Flooring'
-staxel.category.flooring=Flooring
+staxel.category.flooring=바닥
 //[Reference] 'Flour'
-staxel.category.flour=Flour
+staxel.category.flour=밀가루
 //[Reference] 'Flower'
-staxel.category.flower=Flower
+staxel.category.flower=꽃
 //[Reference] 'Fluff'
-staxel.category.fluff=Fluff
+staxel.category.fluff=마시멜로
 //[Reference] 'Food'
-staxel.category.food=Food
+staxel.category.food=음식
 //[Reference] 'Foot'
-staxel.category.foot=Foot
+staxel.category.foot=램프
 //[Reference] 'forest'
-staxel.category.forest=forest
+staxel.category.forest=숲
 //[Reference] 'Fountain'
-staxel.category.fountain=Fountain
+staxel.category.fountain=분수대
 //[Reference] 'Frame'
-staxel.category.frame=Frame
+staxel.category.frame=창문
 //[Reference] 'Freezer'
-staxel.category.freezer=Freezer
+staxel.category.freezer=냉장고
 //[Reference] 'Fridge'
-staxel.category.fridge=Fridge
+staxel.category.fridge=냉장고
 //[Reference] 'Fruit'
-staxel.category.fruit=Fruit
+staxel.category.fruit=과일
 //[Reference] 'Frying'
-staxel.category.frying=Frying
+staxel.category.frying=튀김
 //[Reference] 'Full'
-staxel.category.full=Full
+staxel.category.full=전체
 //[Reference] 'Fungi'
-staxel.category.fungi=Fungi
+staxel.category.fungi=버섯
 //[Reference] 'Furniture'
-staxel.category.furniture=Furniture
+staxel.category.furniture=가구
 //[Reference] 'Futon'
 staxel.category.futon=Futon
 //[Reference] 'game'

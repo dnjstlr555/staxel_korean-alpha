@@ -23,7 +23,7 @@ staxel.village.dialogue.ShopKeepPrimary.line:10001000=언제든지 보러와!
 //[Reference] 'But for now, you'd better get that ^c:d03e37;parcel^c:pop; out of here...'
 staxel.village.dialogue.ShopKeepPrimary.line:10001100=아무튼 그러기 전에 일단 그 ^c:d03e37;택배^c:pop;부터 처리하고 와.
 //[Reference] 'I'm not sure how much longer I can stand it.'
-staxel.village.dialogue.ShopKeepPrimary.line:10001200=난 그거 냄새맡고 기절할뻔했다니까.
+staxel.village.dialogue.ShopKeepPrimary.line:10001200=난 그거 냄새맡고 기절할 뻔 했다니까.
 //TODO Translate [Reference] '^c:1486b0;Rowan^c:pop; sent you about ^c:1486b0;Rosemary's^c:pop; rabbit?'
 staxel.village.dialogue.ShopKeepPrimary.line:10001300=
 //TODO Translate [Reference] 'Hmm... I...suppose I can remember something like that.'

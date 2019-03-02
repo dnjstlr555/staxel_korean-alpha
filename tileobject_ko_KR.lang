@@ -22,11 +22,11 @@ staxel.tileObject.animalFurniture.ChickenCoop.name=닭장
 //[Reference] 'A large area where chicken feed can be placed.'
 staxel.tileObject.animalFurniture.ChickenFeedAreaEmpty.description=닭들의 먹이를 뿌려둘 수 있는 큰 공간
 //[Reference] 'Chicken Feeding Area'
-staxel.tileObject.animalFurniture.ChickenFeedAreaEmpty.name=닭 먹이주는 곳
+staxel.tileObject.animalFurniture.ChickenFeedAreaEmpty.name=닭 모이판
 //[Reference] 'A large area where chicken feed can be placed.'
 staxel.tileObject.animalFurniture.ChickenFeedAreaFull.description=닭들의 먹이를 뿌려둘 수 있는 큰 공간
 //[Reference] 'Chicken Feeding Area'
-staxel.tileObject.animalFurniture.ChickenFeedAreaFull.name=닭 먹이주는 곳
+staxel.tileObject.animalFurniture.ChickenFeedAreaFull.name=닭 모이판
 staxel.tileObject.animalFurniture.ChickenSign.description=
 //[Reference] 'Chicken Sign'
 staxel.tileObject.animalFurniture.ChickenSign.name=닭 표지판
@@ -167,7 +167,7 @@ staxel.tileObject.bobbleheads.EgaddBobbleHead.name=Egadd 버블헤드
 staxel.tileObject.bobbleheads.GolemBobbleHead.description=
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Golem Bobblehead'
-staxel.tileObject.bobbleheads.GolemBobbleHead.name=Golem 버블헤드
+staxel.tileObject.bobbleheads.GolemBobbleHead.name=골렘 버블헤드
 staxel.tileObject.bobbleheads.HarryBobbleHead.description=
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Harry Bobblehead'
@@ -196,9 +196,9 @@ staxel.tileObject.bobbleheads.RazzBobbleHead.name=Razzelberry 버블헤드
 staxel.tileObject.bobbleheads.SheepBobbleHead.description=
 //[Reference] 'Sheep Bobblehead'
 staxel.tileObject.bobbleheads.SheepBobbleHead.name=양 버블헤드
-staxel.tileObject.bobbleheads.SteinBobbleHead.description=
+staxel.tileObject.bobbleheads.SteinBobbleHead.description=한글화 하는데 도움을 주신 분이셔요. 감사합니다 흑흑
 //[Reference] 'SteampunkStein Bobblehead'
-staxel.tileObject.bobbleheads.SteinBobbleHead.name=SteampunkStein 버블헤드
+staxel.tileObject.bobbleheads.SteinBobbleHead.name=SteampunkStein 고맙습니다!!
 
 staxel.tileObject.campingset.Campfire.description=
 //[Reference] 'Campfire'
@@ -292,11 +292,11 @@ staxel.tileObject.creepyBiome.Campfire.description=수많은 별들 아래서 �
 //[Reference] 'Campfire'
 staxel.tileObject.creepyBiome.Campfire.name=모닥불
 //[Reference] 'This tree is twisted and scary!'
-staxel.tileObject.creepyBiome.Creepytree.description=섬뜩하게 비틀려있는 나무야!
+staxel.tileObject.creepyBiome.Creepytree.description=섬뜩하게 비틀려있는 나무에요!
 //[Reference] 'Creepy Tree'
 staxel.tileObject.creepyBiome.Creepytree.name=섬뜩한 나무
 //[Reference] 'I wonder who put that lamp there?'
-staxel.tileObject.creepyBiome.Creepytreelight.description=누가 조명을 넣은거지?
+staxel.tileObject.creepyBiome.Creepytreelight.description=누가 조명을 넣은걸까요?
 //[Reference] 'Creepy Tree Light'
 staxel.tileObject.creepyBiome.Creepytreelight.name=섬뜩한 나무 조명
 //[Reference] 'A classic candle which emits a comfortable orange light.'
@@ -312,7 +312,7 @@ staxel.tileObject.creepyBiome.PumpkinVine.description=신선한 호박에서 나
 //[Reference] 'Pumpkin Vine'
 staxel.tileObject.creepyBiome.PumpkinVine.name=호박덩굴
 //[Reference] 'This candle emits a scary purple light! What's making it purple? Spooky!'
-staxel.tileObject.creepyBiome.PurpleCandle.description=으스스한 보라색 불빛이 나는 양초다! 어떻게 보라색이 나오는거지? 섬뜩해!
+staxel.tileObject.creepyBiome.PurpleCandle.description=으스스한 보라색 불빛이 나는 양초! 어떻게 보라색이 나오는걸까요? 섬뜩해!
 //[Reference] 'Purple Candle'
 staxel.tileObject.creepyBiome.PurpleCandle.name=보라색 양초
 //[Reference] 'A grand tombstone.'
@@ -332,7 +332,7 @@ staxel.tileObject.decorations.BarberPole.description=
 staxel.tileObject.decorations.BarberPole.name=이발소의 간판기둥
 staxel.tileObject.decorations.Corkboard.description=
 //[Reference] 'Cork board'
-staxel.tileObject.decorations.Corkboard.name=코르크 보드
+staxel.tileObject.decorations.Corkboard.name=벽걸이 게시판
 staxel.tileObject.decorations.GardenArch.description=
 //[Reference] 'Garden Arch'
 staxel.tileObject.decorations.GardenArch.name=정원 아치
@@ -361,7 +361,7 @@ staxel.tileObject.dungeon.WallTorch.name=벽붙이 횃불
 //[Reference] 'A pretty, towering, round flower.'
 staxel.tileObject.fairyVillage.DelphiniumAllium.description=예쁘고 길다란 둥근 꽃
 //[Reference] 'Pink Delphinium Allium'
-staxel.tileObject.fairyVillage.DelphiniumAllium.name=분홍색 제비고깔 부추(?)
+staxel.tileObject.fairyVillage.DelphiniumAllium.name=분홍색 제비고깔 알리움
 //[Reference] 'This house is tiny, be very careful with it!'
 staxel.tileObject.fairyVillage.FairyHouse1.description=매우 작은 집. 조심히 다뤄주세요!
 //[Reference] 'Fairy Home'
@@ -383,57 +383,57 @@ staxel.tileObject.fairyVillage.FairyHouse5.description=매우 작은 집. 조심
 //[Reference] 'Fairy Home'
 staxel.tileObject.fairyVillage.FairyHouse5.name=요정의 집
 //[Reference] 'This unusual rune statue is emitting a blue light.'
-staxel.tileObject.fairyVillage.FairyRuneStatue.description=This unusual rune statue is emitting a blue light.
+staxel.tileObject.fairyVillage.FairyRuneStatue.description=신기한 고대유적 동상이 파란 빛을 내고 있어요.
 //[Reference] 'Blue Rune Statue'
-staxel.tileObject.fairyVillage.FairyRuneStatue.name=파란색 고대유적 터
+staxel.tileObject.fairyVillage.FairyRuneStatue.name=파란색 고대유적 동상
 //[Reference] 'This unusual rune statue is emitting a pink light.'
-staxel.tileObject.fairyVillage.FairyRuneStatuePink.description=This unusual rune statue is emitting a pink light.
+staxel.tileObject.fairyVillage.FairyRuneStatuePink.description=신기한 고대유적 동상이 핑크 빛을 내고 있어요.
 //[Reference] 'Pink Rune Statue'
-staxel.tileObject.fairyVillage.FairyRuneStatuePink.name=분홍색 고대문자 터
+staxel.tileObject.fairyVillage.FairyRuneStatuePink.name=분홍색 고대문자 동상
 //[Reference] 'How tiny! I wonder what a fairy tree bonsai would look like...'
-staxel.tileObject.fairyVillage.Fairytree1.description=How tiny! I wonder what a fairy tree bonsai would look like...
+staxel.tileObject.fairyVillage.Fairytree1.description=엄청 작아요! 이 나무는 어떻게 키워야 할까요?
 //[Reference] 'Fairy Tree'
 staxel.tileObject.fairyVillage.Fairytree1.name=요정 나무
 //[Reference] 'How tiny! I wonder what a fairy tree bonsai would look like...'
-staxel.tileObject.fairyVillage.Fairytree2.description=How tiny! I wonder what a fairy tree bonsai would look like...
+staxel.tileObject.fairyVillage.Fairytree2.description=엄청 작아요! 이 나무는 어떻게 키워야 할까요?
 //[Reference] 'Fairy Tree'
 staxel.tileObject.fairyVillage.Fairytree2.name=요정 나무
 //[Reference] 'How tiny! I wonder what a fairy tree bonsai would look like...'
-staxel.tileObject.fairyVillage.Fairytree3.description=How tiny! I wonder what a fairy tree bonsai would look like...
+staxel.tileObject.fairyVillage.Fairytree3.description=엄청 작아요! 이 나무는 어떻게 키워야 할까요?
 //[Reference] 'Fairy Tree'
 staxel.tileObject.fairyVillage.Fairytree3.name=요정 나무
 //[Reference] 'It seems well made to me!'
-staxel.tileObject.fairyVillage.Fairywell.description=우물쭈물 하다가 급하게 만든 우물인것 같군!
+staxel.tileObject.fairyVillage.Fairywell.description=우물쭈물 하다가 급하게 만든 우물인것 같아요!
 //[Reference] 'Fairy Well'
 staxel.tileObject.fairyVillage.Fairywell.name=요정의 우물
 //[Reference] 'Probably not safe to eat, but it's very cool looking!'
-staxel.tileObject.fairyVillage.GlowingMushroom1.description=아마도 먹으면 안될 것 같지만, 완전 멋져!
+staxel.tileObject.fairyVillage.GlowingMushroom1.description=아마도 먹으면 안될 것 같지만, 완전 멋져요!
 //[Reference] 'Glowing Mushroom'
 staxel.tileObject.fairyVillage.GlowingMushroom1.name=빛나는 버섯
 //[Reference] 'Probably not safe to eat, but it's very cool looking!'
-staxel.tileObject.fairyVillage.GlowingMushroom2.description=아마도 먹으면 안될 것 같지만, 완전 멋져!
+staxel.tileObject.fairyVillage.GlowingMushroom2.description=아마도 먹으면 안될 것 같지만, 완전 멋져요!
 //[Reference] 'Glowing Mushroom'
 staxel.tileObject.fairyVillage.GlowingMushroom2.name=빛나는 버섯
 //[Reference] 'Probably not safe to eat, but it's very cool looking!'
-staxel.tileObject.fairyVillage.GlowingMushroom3.description=아마도 먹으면 안될 것 같지만, 완전 멋져!
+staxel.tileObject.fairyVillage.GlowingMushroom3.description=아마도 먹으면 안될 것 같지만, 완전 멋져요!
 //[Reference] 'Glowing Mushroom'
 staxel.tileObject.fairyVillage.GlowingMushroom3.name=빛나는 버섯
 //[Reference] 'A stunning, yet unusual flower!'
 staxel.tileObject.fairyVillage.TulipRose.description=놀랍지만 특이한 꽃
 //[Reference] 'Red Tulip Rose'
 staxel.tileObject.fairyVillage.TulipRose.name=빨간색 장미
-//TODO Translate [Reference] 'A sprinkler that covers 3 tiles away from the center!'
-staxel.tileObject.farm.LargeSprinkler.description=
-//TODO Translate [Reference] 'Large Sprinkler'
-staxel.tileObject.farm.LargeSprinkler.name=
-//TODO Translate [Reference] 'A sprinkler that covers 1 tiles away from the center!'
-staxel.tileObject.farm.SmallSprinkler.description=
-//TODO Translate [Reference] 'Small Sprinkler'
-staxel.tileObject.farm.SmallSprinkler.name=
-//TODO Translate [Reference] 'A sprinkler that covers 2 tiles away from the center!'
-staxel.tileObject.farm.Sprinkler.description=
-//TODO Translate [Reference] 'Sprinkler'
-staxel.tileObject.farm.Sprinkler.name=
+//[Reference] 'A sprinkler that covers 3 tiles away from the center!'
+staxel.tileObject.farm.LargeSprinkler.description=주변 3블럭에 자동으로 물을 뿌려주는 자동 물뿌리개 입니다.
+//[Reference] 'Large Sprinkler'
+staxel.tileObject.farm.LargeSprinkler.name=대형 자동 물뿌리개
+//[Reference] 'A sprinkler that covers 1 tiles away from the center!'
+staxel.tileObject.farm.SmallSprinkler.description=주변 1블럭에 자동으로 물을 뿌려주는 자동 물뿌리개 입니다.
+//[Reference] 'Small Sprinkler'
+staxel.tileObject.farm.SmallSprinkler.name=소형 자동 물뿌리개
+//[Reference] 'A sprinkler that covers 2 tiles away from the center!'
+staxel.tileObject.farm.Sprinkler.description=주변 2블럭에 자동으로 물을 뿌려주는 자동 물뿌리개 입니다.
+//[Reference] 'Sprinkler'
+staxel.tileObject.farm.Sprinkler.name=자동 물뿌리개
 //[Reference] 'An adorable little creature that lays delicious eggs.'
 staxel.tileObject.farmAnimals.Chicken.description=맛있는 알을 낳은 귀엽고 작은 친구입니다!
 //[Reference] 'Chicken in a Crate'
@@ -547,52 +547,52 @@ staxel.tileObject.misc.SeedpacketSign.description=농작물 표시를 위해 씨
 //[Reference] 'Seed Sign'
 staxel.tileObject.misc.SeedpacketSign.name=씨앗 표지판
 //[Reference] 'To be removed'
-staxel.tileObject.modded.minecart_coal-tipped.description=To be removed
+staxel.tileObject.modded.minecart_coal-tipped.description=지워질것
 //[Reference] 'Minecart'
 staxel.tileObject.modded.minecart_coal-tipped.name=광산수레
 //[Reference] 'To be removed'
-staxel.tileObject.modded.minecart_empty.description=To be removed
+staxel.tileObject.modded.minecart_empty.description=지워질것
 //[Reference] 'Minecart'
 staxel.tileObject.modded.minecart_empty.name=광산수레
 staxel.tileObject.museum.painting.RainbowButterfly.description=
-//TODO Translate [Reference] 'Rainbow Butterfly Painting'
-staxel.tileObject.museum.painting.RainbowButterfly.name=
+//[Reference] 'Rainbow Butterfly Painting'
+staxel.tileObject.museum.painting.RainbowButterfly.name=무지개빛 나비 그림
 staxel.tileObject.mushroomIsland.CloudChallengeEntranceLadder.description=
-//TODO Translate [Reference] 'Cloud Challenge Entrance Ladder'
-staxel.tileObject.mushroomIsland.CloudChallengeEntranceLadder.name=
+//[Reference] 'Cloud Challenge Entrance Ladder'
+staxel.tileObject.mushroomIsland.CloudChallengeEntranceLadder.name=구름 미션 입구 사다리
 staxel.tileObject.mushroomIsland.CloudExitDoor.description=
-//TODO Translate [Reference] 'Cloud Exit Door'
-staxel.tileObject.mushroomIsland.CloudExitDoor.name=
+//[Reference] 'Cloud Exit Door'
+staxel.tileObject.mushroomIsland.CloudExitDoor.name=구름 출구문
 staxel.tileObject.mushroomIsland.GatherableMorelBestieMushroomA.description=
-//TODO Translate [Reference] 'Gatherable Morel Bestie Mushroom A [WIP NAME]'
-staxel.tileObject.mushroomIsland.GatherableMorelBestieMushroomA.name=
+//[Reference] 'Gatherable Morel Bestie Mushroom A [WIP NAME]'
+staxel.tileObject.mushroomIsland.GatherableMorelBestieMushroomA.name=주울수 있는 곰보버섯의 절친 버섯 A [제작중]
 staxel.tileObject.mushroomIsland.GatherableMorelBestieMushroomAPicked.description=
-//TODO Translate [Reference] 'Gatherable Morel Bestie Mushroom A Picked [WIP NAME]'
-staxel.tileObject.mushroomIsland.GatherableMorelBestieMushroomAPicked.name=
+//[Reference] 'Gatherable Morel Bestie Mushroom A Picked [WIP NAME]'
+staxel.tileObject.mushroomIsland.GatherableMorelBestieMushroomAPicked.name=따인 주울수 있는 곰보버섯의 절친 버섯 A [제작중]
 staxel.tileObject.mushroomIsland.GatherableMorelBestieMushroomB.description=
-//TODO Translate [Reference] 'Gatherable Morel Bestie Mushroom B [WIP NAME]'
-staxel.tileObject.mushroomIsland.GatherableMorelBestieMushroomB.name=
+//[Reference] 'Gatherable Morel Bestie Mushroom B [WIP NAME]'
+staxel.tileObject.mushroomIsland.GatherableMorelBestieMushroomB.name=주울수 있는 곰보버섯의 절친 버섯 B [제작중]
 staxel.tileObject.mushroomIsland.GatherableMorelBestieMushroomBPicked.description=
-//TODO Translate [Reference] 'Gatherable Morel Bestie Mushroom B Picked [WIP NAME]'
-staxel.tileObject.mushroomIsland.GatherableMorelBestieMushroomBPicked.name=
+//[Reference] 'Gatherable Morel Bestie Mushroom B Picked [WIP NAME]'
+staxel.tileObject.mushroomIsland.GatherableMorelBestieMushroomBPicked.name=따인 주울수 있는 곰보버섯의 절친 버섯 B [제작중]
 staxel.tileObject.mushroomIsland.MazeExitLadder.description=
-//TODO Translate [Reference] 'Maze Exit Ladder'
-staxel.tileObject.mushroomIsland.MazeExitLadder.name=
+//[Reference] 'Maze Exit Ladder'
+staxel.tileObject.mushroomIsland.MazeExitLadder.name=미로 출구 사다리
 staxel.tileObject.mushroomIsland.MazeHatch.description=
-//TODO Translate [Reference] 'Maze Hatch'
-staxel.tileObject.mushroomIsland.MazeHatch.name=
+//[Reference] 'Maze Hatch'
+staxel.tileObject.mushroomIsland.MazeHatch.name=미로 아래짝 문
 staxel.tileObject.mushroomIsland.MazeWallCorner.description=
-//TODO Translate [Reference] 'Maze Wall Corner'
-staxel.tileObject.mushroomIsland.MazeWallCorner.name=
+//[Reference] 'Maze Wall Corner'
+staxel.tileObject.mushroomIsland.MazeWallCorner.name=미로 모퉁이 벽
 staxel.tileObject.mushroomIsland.MazeWallCross.description=
-//TODO Translate [Reference] 'Maze Wall Cross'
-staxel.tileObject.mushroomIsland.MazeWallCross.name=
+//[Reference] 'Maze Wall Cross'
+staxel.tileObject.mushroomIsland.MazeWallCross.name=미로 교차 벽
 staxel.tileObject.mushroomIsland.MazeWallStraight.description=
-//TODO Translate [Reference] 'Maze Wall Straight'
-staxel.tileObject.mushroomIsland.MazeWallStraight.name=
+//[Reference] 'Maze Wall Straight'
+staxel.tileObject.mushroomIsland.MazeWallStraight.name=미로 직선 벽
 staxel.tileObject.mushroomIsland.MazeWallTSection.description=
-//TODO Translate [Reference] 'Maze Wall TSection'
-staxel.tileObject.mushroomIsland.MazeWallTSection.name=
+//[Reference] 'Maze Wall TSection'
+staxel.tileObject.mushroomIsland.MazeWallTSection.name=미로 T자형 벽
 staxel.tileObject.office.Computer.description=
 //[Reference] 'Computer'
 staxel.tileObject.office.Computer.name=컴퓨터
@@ -612,14 +612,14 @@ staxel.tileObject.office.OfficeFilingCabinet.description=
 //[Reference] 'Filing Cabinet'
 staxel.tileObject.office.OfficeFilingCabinet.name=서류 보관함
 staxel.tileObject.Ore1.description=
-//TODO Translate [Reference] 'Ore1 [WIP]'
-staxel.tileObject.Ore1.name=
+//[Reference] 'Ore1 [WIP]'
+staxel.tileObject.Ore1.name=광석1 [제작중]
 staxel.tileObject.Ore2.description=
-//TODO Translate [Reference] 'Ore2 [WIP]'
-staxel.tileObject.Ore2.name=
+//[Reference] 'Ore2 [WIP]'
+staxel.tileObject.Ore2.name=광석2 [제작중]
 staxel.tileObject.Ore3.description=
-//TODO Translate [Reference] 'Ore3 [WIP]'
-staxel.tileObject.Ore3.name=
+//[Reference] 'Ore3 [WIP]'
+staxel.tileObject.Ore3.name=광석3 [제작중]
 staxel.tileObject.pets.CatHouse.description=
 //[Reference] 'Cat House'
 staxel.tileObject.pets.CatHouse.name=고양이 집
@@ -642,32 +642,32 @@ staxel.tileObject.presents.TradeCrate.description=
 //[Reference] 'Trading Crate'
 staxel.tileObject.presents.TradeCrate.name=거래 상자
 staxel.tileObject.quest.Max.abstract.statue.description=
-//TODO Translate [Reference] 'Abstract Statue'
-staxel.tileObject.quest.Max.abstract.statue.name=
+//[Reference] 'Abstract Statue'
+staxel.tileObject.quest.Max.abstract.statue.name=신비한 동상
 staxel.tileObject.quest.Max.cubic.statue.description=
-//TODO Translate [Reference] 'Cubic Statue'
-staxel.tileObject.quest.Max.cubic.statue.name=
+//[Reference] 'Cubic Statue'
+staxel.tileObject.quest.Max.cubic.statue.name=큐브 동상
 staxel.tileObject.quest.Max.farmer.statue.description=
-//TODO Translate [Reference] 'Farmer Statue'
-staxel.tileObject.quest.Max.farmer.statue.name=
+//[Reference] 'Farmer Statue'
+staxel.tileObject.quest.Max.farmer.statue.name=농사꾼 동상
 staxel.tileObject.quest.Max.MaxFestivalFlyer.description=
-//TODO Translate [Reference] 'Max Festival Flyer'
-staxel.tileObject.quest.Max.MaxFestivalFlyer.name=
+//[Reference] 'Max Festival Flyer'
+staxel.tileObject.quest.Max.MaxFestivalFlyer.name=막시 축제 전단지
 staxel.tileObject.quest.Max.slimy.statue.description=
-//TODO Translate [Reference] 'Slimy Statue'
-staxel.tileObject.quest.Max.slimy.statue.name=
-//TODO Translate [Reference] 'Morel is up to some shenanigans.'
-staxel.tileObject.quest.Morel.BigMushroom.description=
-//TODO Translate [Reference] 'Big Mushroom'
-staxel.tileObject.quest.Morel.BigMushroom.name=
-//TODO Translate [Reference] 'Morel is up to some shenanigans.'
-staxel.tileObject.quest.Morel.SmallMushroom.description=
-//TODO Translate [Reference] 'Small Mushroom'
-staxel.tileObject.quest.Morel.SmallMushroom.name=
-//TODO Translate [Reference] 'It feels like something is different about this mushroom.'
-staxel.tileObject.quest.Morel.SpecialMushroom.description=
-//TODO Translate [Reference] 'Special Mushroom'
-staxel.tileObject.quest.Morel.SpecialMushroom.name=
+//[Reference] 'Slimy Statue'
+staxel.tileObject.quest.Max.slimy.statue.name=슬라임 동상
+//[Reference] 'Morel is up to some shenanigans.'
+staxel.tileObject.quest.Morel.BigMushroom.description=모렐은 뭔가 수상해요.
+//[Reference] 'Big Mushroom'
+staxel.tileObject.quest.Morel.BigMushroom.name=대형 버섯
+//[Reference] 'Morel is up to some shenanigans.'
+staxel.tileObject.quest.Morel.SmallMushroom.description=모렐은 뭔가 수상해요.
+//[Reference] 'Small Mushroom'
+staxel.tileObject.quest.Morel.SmallMushroom.name=소형 버섯
+//[Reference] 'It feels like something is different about this mushroom.'
+staxel.tileObject.quest.Morel.SpecialMushroom.description=뭔가 이 버섯은 약간 이상한 느낌이 들어요.
+//[Reference] 'Special Mushroom'
+staxel.tileObject.quest.Morel.SpecialMushroom.name=특별한 버섯
 //[Reference] 'Thick, sturdy railing with an old feel to it.'
 staxel.tileObject.retrotest.dungeon_railing.description=오래된 것 같은 두껍고 튼튼한 난간
 //[Reference] 'Straight Dungeon Railing'
@@ -720,7 +720,7 @@ staxel.tileObject.roof.JadeRoof_RightEdgeCutLongFinal.description=
 staxel.tileObject.roof.JadeRoof_RightEdgeCutLongFinal.name=오른쪽 가장자리가 깎인 긴 청록색 지붕 끝부분
 staxel.tileObject.roof.JadeRoof_RightStraight.description=
 //[Reference] 'JadeRoof_RightStraight'
-staxel.tileObject.roof.JadeRoof_RightStraight.name=JadeRoof_RightStraight
+staxel.tileObject.roof.JadeRoof_RightStraight.name=오른쪽 긴 옥색 지붕
 staxel.tileObject.roof.LightBlueRoof_FlatEdge.description=
 //[Reference] 'LightBlueRoof_FlatEdge'
 staxel.tileObject.roof.LightBlueRoof_FlatEdge.name=평평한 밝은 파란색 지붕
@@ -765,7 +765,7 @@ staxel.tileObject.roof.LightBlueRoof_RightEdgeCutLongFinal.description=
 staxel.tileObject.roof.LightBlueRoof_RightEdgeCutLongFinal.name=오른쪽 가장자리가 깎인 긴파란색 지붕 끝부분
 staxel.tileObject.roof.LightBlueRoof_RightStraight.description=
 //[Reference] 'LightBlueRoof_RightStraight'
-staxel.tileObject.roof.LightBlueRoof_RightStraight.name=LightBlueRoof_RightStraight
+staxel.tileObject.roof.LightBlueRoof_RightStraight.name=오른쪽 긴 밝은 파란색 지붕
 staxel.tileObject.roof.LightGreenRoof_FlatEdge.description=
 //[Reference] 'LightGreenRoof_FlatEdge'
 staxel.tileObject.roof.LightGreenRoof_FlatEdge.name=평평한 밝은 녹색 지붕
@@ -810,7 +810,7 @@ staxel.tileObject.roof.LightGreenRoof_RightEdgeCutLongFinal.description=
 staxel.tileObject.roof.LightGreenRoof_RightEdgeCutLongFinal.name=오른쪽 가장자리가 깎인 밝은 녹색 지붕 끝부분
 staxel.tileObject.roof.LightGreenRoof_RightStraight.description=
 //[Reference] 'LightGreenRoof_RightStraight'
-staxel.tileObject.roof.LightGreenRoof_RightStraight.name=LightGreenRoof_RightStraight
+staxel.tileObject.roof.LightGreenRoof_RightStraight.name=오른쪽 긴 녹색 지붕
 staxel.tileObject.roof.OrangeRoof_FlatEdge.description=
 //[Reference] 'OrangeRoof_FlatEdge'
 staxel.tileObject.roof.OrangeRoof_FlatEdge.name=평평한 주황색 지붕
@@ -855,7 +855,7 @@ staxel.tileObject.roof.OrangeRoof_RightEdgeCutLongFinal.description=
 staxel.tileObject.roof.OrangeRoof_RightEdgeCutLongFinal.name=오른쪽 가장자리가 깎인 긴 주황색 지붕 끝부분
 staxel.tileObject.roof.OrangeRoof_RightStraight.description=
 //[Reference] 'OrangeRoof_RightStraight'
-staxel.tileObject.roof.OrangeRoof_RightStraight.name=OrangeRoof_RightStraight
+staxel.tileObject.roof.OrangeRoof_RightStraight.name=주황색 긴 오른쪽 지붕
 staxel.tileObject.roof.PinkRoof_FlatEdge.description=
 //[Reference] 'PinkRoof_FlatEdge'
 staxel.tileObject.roof.PinkRoof_FlatEdge.name=평평한 분홍색 지붕
@@ -900,7 +900,7 @@ staxel.tileObject.roof.PinkRoof_RightEdgeCutLongFinal.description=
 staxel.tileObject.roof.PinkRoof_RightEdgeCutLongFinal.name=오른쪽 가장자리가 깎인 긴 분홍색 지붕 끝부분
 staxel.tileObject.roof.PinkRoof_RightStraight.description=
 //[Reference] 'PinkRoof_RightStraight'
-staxel.tileObject.roof.PinkRoof_RightStraight.name=PinkRoof_RightStraight
+staxel.tileObject.roof.PinkRoof_RightStraight.name=핑크색 긴 오른쪽 지붕
 //[Reference] 'A roof made from deep red shingles.'
 staxel.tileObject.roof.RedRoof_FlatEdge.description=짙은 붉은색의 지붕널로 만들어진 지붕
 //[Reference] 'Edged Flat Red Tiled Roof'
@@ -926,7 +926,7 @@ staxel.tileObject.roof.RedRoof_LeftEdge.name=평평한 붉은 나무 지붕
 //[Reference] 'A roof made from deep red shingles.'
 staxel.tileObject.roof.RedRoof_LeftEdgeCut.description=짙은 붉은색의 지붕널로 만들어진 지붕
 //[Reference] 'Cut Left Edged Red Tiled Roof'
-staxel.tileObject.roof.RedRoof_LeftEdgeCut.name=Cut Left Edged Red Tiled Roof
+staxel.tileObject.roof.RedRoof_LeftEdgeCut.name=왼쪽 가장자리가 깎인 붉은 지붕
 staxel.tileObject.roof.RedRoof_LeftEdgeCutLong.description=
 //[Reference] 'RedRoof_LeftEdgeCutLong'
 staxel.tileObject.roof.RedRoof_LeftEdgeCutLong.name=왼쪽 가장자리가 깎인 긴 붉은색 지붕
@@ -954,15 +954,15 @@ staxel.tileObject.roof.RedRoof_RightEdgeCutLongFinal.name=오른쪽 가장자리
 //[Reference] 'A roof made from deep red shingles.'
 staxel.tileObject.roof.RedRoof_RightStraight.description=짙은 붉은색의 지붕널로 만든들어진 지붕
 //[Reference] 'Right Red Tiled Roof'
-staxel.tileObject.roof.RedRoof_RightStraight.name=Right Red Tiled Roof
+staxel.tileObject.roof.RedRoof_RightStraight.name=오른쪽 조각낸 붉은색 지붕
 //[Reference] 'A comfortable, square armchair.'
 staxel.tileObject.serverVillage.Armchair.square.description=편안한 네모 안락의자
 //[Reference] 'Basic Armchair'
 staxel.tileObject.serverVillage.Armchair.square.name=안락의자
 //[Reference] 'Unbaked things go in, baked things come out!'
-staxel.tileObject.serverVillage.BakingStation.description=구워지지 않은 것들을 넣으면, 구워져서 나와!
+staxel.tileObject.serverVillage.BakingStation.description=구워지지 않은 것들을 넣으면, 구워져서 나와요!
 //[Reference] 'Baking Station'
-staxel.tileObject.serverVillage.BakingStation.name=굽는 곳
+staxel.tileObject.serverVillage.BakingStation.name=오븐
 //[Reference] 'A comfortable, well made, double bed.'
 staxel.tileObject.serverVillage.Bed.double.red.description=편안하고 잘 만든 2인용 침대
 //[Reference] 'Simply Red Double Bed'
@@ -985,7 +985,7 @@ staxel.tileObject.serverVillage.Bed.single.red.description=편안하고 잘 만�
 //[Reference] 'Simply Red Single Bed'
 staxel.tileObject.serverVillage.Bed.single.red.name=평범한 붉은색 침대
 //[Reference] 'A simple lamp, perfect for reading in bed.'
-staxel.tileObject.serverVillage.BedsideLamp.description=평범한 램프로, 침대에서 책을 읽기에 알맞다.
+staxel.tileObject.serverVillage.BedsideLamp.description=평범한 램프로, 침대에서 책을 읽기에 알맞아요.
 //[Reference] 'Simply White Bedside Lamp'
 staxel.tileObject.serverVillage.BedsideLamp.name=평범한 하얀색 침실등
 //[Reference] 'What a festive banner. Great for decorating an outdoor event.'
@@ -993,11 +993,11 @@ staxel.tileObject.serverVillage.BlueFestivalBanner.description=멋진 축제에 
 //[Reference] 'Blue Festival Banner'
 staxel.tileObject.serverVillage.BlueFestivalBanner.name=파란색 축제 현수막
 //[Reference] 'Used for boiling food and liquids.'
-staxel.tileObject.serverVillage.BoilingStation.description=음식이나 액체를 끓일 수 있다.
+staxel.tileObject.serverVillage.BoilingStation.description=음식이나 액체를 끓일 수 있어요.
 //[Reference] 'Boiling Station'
 staxel.tileObject.serverVillage.BoilingStation.name=조리기
 //[Reference] 'Place things on it!'
-staxel.tileObject.serverVillage.Bookshelf.description=물건을 놔둘 수 있어!
+staxel.tileObject.serverVillage.Bookshelf.description=물건을 놔둘 수 있어요!
 //[Reference] 'Book Shelf'
 staxel.tileObject.serverVillage.Bookshelf.name=책장
 //[Reference] 'Simple white brick. Its simplicity is its selling point. Less is more!'
@@ -1051,11 +1051,11 @@ staxel.tileObject.serverVillage.exterior.ArchedWindow.name=아치형 창문
 //[Reference] 'Great for storing a whole load of anything!'
 staxel.tileObject.serverVillage.exterior.Barrel.description=짐 같은 것들을 저장하기에 아주 적합합니다!
 //[Reference] 'Barrel'
-staxel.tileObject.serverVillage.exterior.Barrel.name=통
+staxel.tileObject.serverVillage.exterior.Barrel.name=나무통
 //[Reference] 'This basket is completely empty.'
 staxel.tileObject.serverVillage.exterior.BasketEmpty.description=깔끔하게 비워진 바구니입니다.
 //[Reference] 'Basket - empty'
-staxel.tileObject.serverVillage.exterior.BasketEmpty.name=바구니 - 비었음
+staxel.tileObject.serverVillage.exterior.BasketEmpty.name=빈 바구니
 //[Reference] 'This basket contains assorted green fruits.'
 staxel.tileObject.serverVillage.exterior.BasketGreenFruit.description=갖가지 녹색 과일들이 바구니에 들어있습니다.
 //[Reference] 'Green Fruit Basket'
@@ -1175,7 +1175,7 @@ staxel.tileObject.serverVillage.exterior.CrateRedFruit.name=붉은 과일로 가
 //[Reference] 'A crate filled with assorted yellow fruit.'
 staxel.tileObject.serverVillage.exterior.CrateYellowFruit.description=노란 과일로 가득 찬 상자입니다.
 //[Reference] 'Crate Full of Yellow Fruit'
-staxel.tileObject.serverVillage.exterior.CrateYellowFruit.name=Crate 노란 과일로 가득 찬 상자
+staxel.tileObject.serverVillage.exterior.CrateYellowFruit.name=노란 과일로 가득 찬 상자
 //[Reference] 'This flower bed has some pink flowers growing inside.'
 staxel.tileObject.serverVillage.exterior.CreamClayPlantPotPink.description=이 화단 안에는 분홍색 꽃들이 피어나고 있습니다.
 //[Reference] 'White Clay Bed With Pink Flowers'
@@ -1295,9 +1295,9 @@ staxel.tileObject.serverVillage.exterior.Lavender.name=라벤더
 //[Reference] 'Found in ponds, lily pads serve as a frog's walkway.'
 staxel.tileObject.serverVillage.exterior.Lilypad1.description=연못에서 볼 수 있으며, 개구리들이 그 위를 지나가기도 합니다.
 //[Reference] 'Lily Pad'
-staxel.tileObject.serverVillage.exterior.Lilypad1.name=수련의 잎
+staxel.tileObject.serverVillage.exterior.Lilypad1.name=연꽃잎
 //[Reference] 'Found in ponds, lily pads serve as a frog's walkway.'
-staxel.tileObject.serverVillage.exterior.Lilypad2.description=Found in ponds, lily pads serve as a frog's walkway.
+staxel.tileObject.serverVillage.exterior.Lilypad2.description=연못에서 발견할 수 있습니다, 연꽃잎은 개구리의 산책로가 됩니다
 //[Reference] 'Lily Pad'
 staxel.tileObject.serverVillage.exterior.Lilypad2.name=연꽃잎
 //[Reference] 'Found in ponds, lily pads serve as a frog's walkway.'
@@ -1309,21 +1309,21 @@ staxel.tileObject.serverVillage.exterior.LooseBricks.description=건물을 짓�
 //[Reference] 'Loose Bricks'
 staxel.tileObject.serverVillage.exterior.LooseBricks.name=마모된 벽돌
 //[Reference] 'Market stalls are a great way to set up a store quickly.'
-staxel.tileObject.serverVillage.exterior.MarketStallBlue.description=Market stalls are a great way to set up a store quickly.
+staxel.tileObject.serverVillage.exterior.MarketStallBlue.description=편하게 장사하려면 포장마차만한게 없죠.
 //[Reference] 'Blue Market Stall'
-staxel.tileObject.serverVillage.exterior.MarketStallBlue.name=파란색
+staxel.tileObject.serverVillage.exterior.MarketStallBlue.name=파란색 포장마차
 //[Reference] 'Market stalls are a great way to set up a store quickly.'
-staxel.tileObject.serverVillage.exterior.MarketStallGreen.description=Market stalls are a great way to set up a store quickly.
+staxel.tileObject.serverVillage.exterior.MarketStallGreen.description=편하게 장사하려면 포장마차만한게 없죠.
 //[Reference] 'Green Market Stall'
-staxel.tileObject.serverVillage.exterior.MarketStallGreen.name=Green Market Stall
+staxel.tileObject.serverVillage.exterior.MarketStallGreen.name=초록색 포장마차
 //[Reference] 'Market stalls are a great way to set up a store quickly.'
-staxel.tileObject.serverVillage.exterior.MarketStallPink.description=Market stalls are a great way to set up a store quickly.
+staxel.tileObject.serverVillage.exterior.MarketStallPink.description=편하게 장사하려면 포장마차만한게 없죠.
 //[Reference] 'Pink Market Stall'
-staxel.tileObject.serverVillage.exterior.MarketStallPink.name=Pink Market Stall
+staxel.tileObject.serverVillage.exterior.MarketStallPink.name=핑크색 포장마차
 //[Reference] 'Market stalls are a great way to set up a store quickly.'
-staxel.tileObject.serverVillage.exterior.MarketStallRed.description=Market stalls are a great way to set up a store quickly.
+staxel.tileObject.serverVillage.exterior.MarketStallRed.description=편하게 장사하려면 포장마차만한게 없죠.
 //[Reference] 'Red Market Stall'
-staxel.tileObject.serverVillage.exterior.MarketStallRed.name=Red Market Stall
+staxel.tileObject.serverVillage.exterior.MarketStallRed.name=빨간색 포장마차
 //[Reference] 'Mail is delivered here, every house should have one!'
 staxel.tileObject.serverVillage.exterior.Postbox.description=집집마다 하나씩은 있는 우편 배달함입니다.
 //[Reference] 'Mailbox'
@@ -1348,53 +1348,53 @@ staxel.tileObject.serverVillage.exterior.Reeds.description=
 //[Reference] 'Reeds'
 staxel.tileObject.serverVillage.exterior.Reeds.name=갈대
 //[Reference] 'A roofing piece with a simple design.'
-staxel.tileObject.serverVillage.exterior.RoofCornerHigh.description=A roofing piece with a simple design.
+staxel.tileObject.serverVillage.exterior.RoofCornerHigh.description=간단한 디자인의 지붕 재료입니다.
 //[Reference] 'Upper Corner Basic Roof'
-staxel.tileObject.serverVillage.exterior.RoofCornerHigh.name=모서리 쪽 기본 지붕
+staxel.tileObject.serverVillage.exterior.RoofCornerHigh.name=위 모서리 쪽 기본 지붕
 //[Reference] 'A roofing piece with a simple design.'
-staxel.tileObject.serverVillage.exterior.RoofCornerLow.description=A roofing piece with a simple design.
+staxel.tileObject.serverVillage.exterior.RoofCornerLow.description=간단한 디자인의 지붕 재료입니다.
 //[Reference] 'Lower Corner Basic Roof'
-staxel.tileObject.serverVillage.exterior.RoofCornerLow.name=Lower Corner Basic Roof
+staxel.tileObject.serverVillage.exterior.RoofCornerLow.name=아래 모서리 쪽 기본 지붕
 //[Reference] 'A roofing piece with a simple design.'
-staxel.tileObject.serverVillage.exterior.RoofRail.description=A roofing piece with a simple design.
+staxel.tileObject.serverVillage.exterior.RoofRail.description=간단한 디자인의 지붕 재료입니다.
 //[Reference] 'Basic Roof Rail'
-staxel.tileObject.serverVillage.exterior.RoofRail.name=Basic Roof Rail
+staxel.tileObject.serverVillage.exterior.RoofRail.name=기본 지붕 난간
 //[Reference] 'A roofing piece with a simple design.'
-staxel.tileObject.serverVillage.exterior.RoofSide1.description=A roofing piece with a simple design.
+staxel.tileObject.serverVillage.exterior.RoofSide1.description=간단한 디자인의 지붕 재료입니다.
 //[Reference] 'Basic Black Roof Upper Side'
-staxel.tileObject.serverVillage.exterior.RoofSide1.name=Basic Black Roof Upper Side
+staxel.tileObject.serverVillage.exterior.RoofSide1.name=기본 윗면 검정 지붕
 //[Reference] 'A roofing piece with a simple design.'
-staxel.tileObject.serverVillage.exterior.RoofSide2.description=A roofing piece with a simple design.
+staxel.tileObject.serverVillage.exterior.RoofSide2.description=간단한 디자인의 지붕 재료입니다.
 //[Reference] 'Basic Black Roof Lower Side'
-staxel.tileObject.serverVillage.exterior.RoofSide2.name=Basic Black Roof Lower Side
+staxel.tileObject.serverVillage.exterior.RoofSide2.name=기본 아랫면 검정 지붕
 //[Reference] 'A roofing piece with a simple design.'
-staxel.tileObject.serverVillage.exterior.RoofSideHigh.description=A roofing piece with a simple design.
+staxel.tileObject.serverVillage.exterior.RoofSideHigh.description=간단한 디자인의 지붕 재료입니다.
 //[Reference] 'Basic Red Roof Upper Edge'
-staxel.tileObject.serverVillage.exterior.RoofSideHigh.name=Basic Red Roof Upper Edge
+staxel.tileObject.serverVillage.exterior.RoofSideHigh.name=기본 윗면 빨강 가장자리 지붕
 //[Reference] 'A roofing piece with a simple design.'
-staxel.tileObject.serverVillage.exterior.RoofSideLow.description=A roofing piece with a simple design.
+staxel.tileObject.serverVillage.exterior.RoofSideLow.description=간단한 디자인의 지붕 재료입니다.
 //[Reference] 'Basic Red Roof Lower Edge'
-staxel.tileObject.serverVillage.exterior.RoofSideLow.name=Basic Red Roof Lower Edge
+staxel.tileObject.serverVillage.exterior.RoofSideLow.name=기본 아랫면 빨강 가장자리 지붕
 //[Reference] 'A roofing piece with a simple design.'
-staxel.tileObject.serverVillage.exterior.RoofSideRail.description=A roofing piece with a simple design.
+staxel.tileObject.serverVillage.exterior.RoofSideRail.description=간단한 디자인의 지붕 재료입니다.
 //[Reference] 'Basic Red Roof Lower Side Rail'
-staxel.tileObject.serverVillage.exterior.RoofSideRail.name=Basic Red Roof Lower Side Rail
+staxel.tileObject.serverVillage.exterior.RoofSideRail.name=기본 빨강 지붕 난간 밑면
 //[Reference] 'A roofing piece with a simple design.'
-staxel.tileObject.serverVillage.exterior.RoofSideTop.description=A roofing piece with a simple design.
+staxel.tileObject.serverVillage.exterior.RoofSideTop.description=간단한 디자인의 지붕 재료입니다.
 //[Reference] 'Basic Red Roof Upper Side Rail'
-staxel.tileObject.serverVillage.exterior.RoofSideTop.name=Basic Red Roof Upper Side Rail
+staxel.tileObject.serverVillage.exterior.RoofSideTop.name=기본 빨강 지붕 난간 윗면
 //[Reference] 'A roofing piece with a simple design.'
-staxel.tileObject.serverVillage.exterior.RoofTileHigh.description=A roofing piece with a simple design.
+staxel.tileObject.serverVillage.exterior.RoofTileHigh.description=간단한 디자인의 지붕 재료입니다.
 //[Reference] 'Basic Red Upper Roof'
-staxel.tileObject.serverVillage.exterior.RoofTileHigh.name=Basic Red Upper Roof
+staxel.tileObject.serverVillage.exterior.RoofTileHigh.name=기본 빨강 지붕 윗면
 //[Reference] 'A roofing piece with a simple design.'
-staxel.tileObject.serverVillage.exterior.RoofTileLow.description=A roofing piece with a simple design.
+staxel.tileObject.serverVillage.exterior.RoofTileLow.description=간단한 디자인의 지붕 재료입니다.
 //[Reference] 'Basic Red Lower Roof'
-staxel.tileObject.serverVillage.exterior.RoofTileLow.name=Basic Red Lower Roof
+staxel.tileObject.serverVillage.exterior.RoofTileLow.name=기본 빨강 지붕 아랫면
 //[Reference] 'A roofing piece with a simple design.'
-staxel.tileObject.serverVillage.exterior.RoofTop.description=A roofing piece with a simple design.
+staxel.tileObject.serverVillage.exterior.RoofTop.description=간단한 디자인의 지붕 재료입니다.
 //[Reference] 'Basic Red Roof Top.'
-staxel.tileObject.serverVillage.exterior.RoofTop.name=Basic Red Roof Top.
+staxel.tileObject.serverVillage.exterior.RoofTop.name=기본 빨간 지붕 윗면
 //[Reference] 'A tall, solid, wooden fence.'
 staxel.tileObject.serverVillage.exterior.RoughWoodenFenceCorner.description=크고 단단한 나무 울타리
 //[Reference] 'Rough Wooden Fence Corner'
@@ -1408,9 +1408,9 @@ staxel.tileObject.serverVillage.exterior.Scarecrow.description=성가신 까마�
 //[Reference] 'Scarecrow'
 staxel.tileObject.serverVillage.exterior.Scarecrow.name=허수아비
 //[Reference] 'A beautiful blue mushroom. It looks like it came from an alien planet!'
-staxel.tileObject.serverVillage.exterior.ShinyMushroom.description=A beautiful blue mushroom. It looks like it came from an alien planet!
+staxel.tileObject.serverVillage.exterior.ShinyMushroom.description=예쁘게 생긴 파란 버섯입니다. 외계 행성에서 온것같이 생겼어요!
 //[Reference] 'Shiny Mushroom'
-staxel.tileObject.serverVillage.exterior.ShinyMushroom.name=Shiny Mushroom
+staxel.tileObject.serverVillage.exterior.ShinyMushroom.name=빛나는 버섯
 //[Reference] 'A wooden counter, usually used for retail stores.'
 staxel.tileObject.serverVillage.exterior.ShopCounter.description=보통 소매점에서 사용하는 나무 계산대입니다.
 //[Reference] 'Shop Counter'
@@ -1870,7 +1870,7 @@ staxel.tileObject.shop.Mannequin.description=
 staxel.tileObject.shop.Mannequin.name=마네킹
 staxel.tileObject.shop.PedestalDock.description=
 //[Reference] 'Pedestal Dock'
-staxel.tileObject.shop.PedestalDock.name=받침대 도크
+staxel.tileObject.shop.PedestalDock.name=받침대용 탁자
 staxel.tileObject.shop.ShopCounter.description=
 //[Reference] 'Shop Counter'
 staxel.tileObject.shop.ShopCounter.name=상점 계산대
@@ -1892,8 +1892,8 @@ staxel.tileObject.swampRuins.Flower.red.2.description=늪지에서 자라는 이
 staxel.tileObject.swampRuins.Flower.red.2.name=붉은 늪지대 꽃
 //[Reference] 'A strange red flower found growing on swampy grounds.'
 staxel.tileObject.swampRuins.Flower.red.3.description=늪지에서 자라는 이상한 붉은색 꽃입니다.
-//TODO Translate [Reference] 'Red Swamp Flower'
-staxel.tileObject.swampRuins.Flower.red.3.name=
+//[Reference] 'Red Swamp Flower'
+staxel.tileObject.swampRuins.Flower.red.3.name=붉은 늪지대 꽃
 //[Reference] 'A strange red flower found growing on swampy grounds.'
 staxel.tileObject.swampRuins.Flower.red.4.description=늪에 피어있던 수상한 붉은 꽃입니다.
 //[Reference] 'Red Swamp Flower'
@@ -1905,7 +1905,7 @@ staxel.tileObject.swampRuins.Flower.red.5.name=붉은 늪지의 꽃
 //[Reference] 'A strange red flower found growing on swampy grounds.'
 staxel.tileObject.swampRuins.Flower.red.6.description=늪에 피어있던 수상한 붉은 꽃입니다.
 //[Reference] 'Red Swamp Flower'
-staxel.tileObject.swampRuins.Flower.red.6.name=Red 붉은 늪지의 꽃
+staxel.tileObject.swampRuins.Flower.red.6.name=붉은 늪지의 꽃
 //[Reference] 'A strange red flower found growing on swampy grounds.'
 staxel.tileObject.swampRuins.Flower.red.7.description=늪에 피어있던 수상한 붉은 꽃입니다.
 //[Reference] 'Red Swamp Flower'
@@ -2020,7 +2020,7 @@ staxel.tileObject.themedfurniture.checkered.CheckersDoubleBed.name=체크무늬 
 //[Reference] 'From the 'Checkers Furniture Set' - With three large drawers, this dresser has plenty of space for your clothes.'
 staxel.tileObject.themedfurniture.checkered.CheckersDresser.description=체크무늬 가구 모음에 있는 것입니다. 큰 세개의 수납공간에 많은 옷들을 넣을 수 있습니다.
 //[Reference] 'Checkers Dresser'
-staxel.tileObject.themedfurniture.checkered.CheckersDresser.name=Checkers Dresser
+staxel.tileObject.themedfurniture.checkered.CheckersDresser.name=체크무늬 옷장
 //[Reference] 'From the 'Checkers Furniture Set' - A tall lamp with the checkered design on both the stand and the lamp shade.'
 staxel.tileObject.themedfurniture.checkered.CheckersFootLamp.description=체크무늬 가구 모음에 있는 것으로 체크무늬가 받침대와 가림막에 꾸며져 있습니다.
 //[Reference] 'Checkers Foot Lamp'
@@ -2168,7 +2168,7 @@ staxel.tileObject.themedfurniture.groovy.GroovyDoubleBed.name=멋진 2인용 침
 //[Reference] 'From the 'Groovy Furniture Set' - A fresh dresser with two small drawers and 3 large drawers.'
 staxel.tileObject.themedfurniture.groovy.GroovyDresser.description=멋진 가구세트에 있는 옷장으로, 두개의 작은 수납장과 3개의 큰 수납장이 있습니다.
 //[Reference] 'Groovy Dresser'
-staxel.tileObject.themedfurniture.groovy.GroovyDresser.name=Groovy Dresser
+staxel.tileObject.themedfurniture.groovy.GroovyDresser.name=멋진 옷장
 //[Reference] 'From the 'Groovy Furniture Set' - A footlamp with a rad lamp shade.'
 staxel.tileObject.themedfurniture.groovy.GroovyFootlamp.description=멋진 가구세트에 있는 키다리 전등으로, 근사한 가림막이 있습니다.
 //[Reference] 'Groovy Foot Lamp'
@@ -2245,7 +2245,7 @@ staxel.tileObject.themedfurniture.minimalist.MinimalistTableLarge.description=
 staxel.tileObject.themedfurniture.minimalist.MinimalistTableLarge.name=단순한 큰 책상
 staxel.tileObject.themedfurniture.minimalist.MinimalistWardrobe.description=
 //[Reference] 'Minimalist Wardrobe'
-staxel.tileObject.themedfurniture.minimalist.MinimalistWardrobe.name=Minimalist Wardrobe
+staxel.tileObject.themedfurniture.minimalist.MinimalistWardrobe.name=깔끔한 옷장
 //[Reference] 'From the 'Pastel Furniture Set' - A comfortable armchair, with a floral design on the upholstery.'
 staxel.tileObject.themedfurniture.pastel.PastelArmChair.description=깔끔한 가구세트에 있는 안락의자입니다. 꽃무늬들로 침대보를 수놓았네요.
 //[Reference] 'Pastel Armchair'
@@ -2432,23 +2432,23 @@ staxel.tileObject.totems.PatisserieSign.description=
 //[Reference] 'Patisserie Sign'
 staxel.tileObject.totems.PatisserieSign.name=케이크 가게 표지판
 staxel.tileObject.totems.quest.MaxStatuePlaqueA.description=
-//TODO Translate [Reference] 'Abstract Statue Plaque'
-staxel.tileObject.totems.quest.MaxStatuePlaqueA.name=
+//[Reference] 'Abstract Statue Plaque'
+staxel.tileObject.totems.quest.MaxStatuePlaqueA.name=신비한 동상 액자
 staxel.tileObject.totems.quest.MaxStatuePlaqueB.description=
-//TODO Translate [Reference] 'Cubic Statue Plaque'
-staxel.tileObject.totems.quest.MaxStatuePlaqueB.name=
+//[Reference] 'Cubic Statue Plaque'
+staxel.tileObject.totems.quest.MaxStatuePlaqueB.name=큐브 동상 액자
 staxel.tileObject.totems.quest.MaxStatuePlaqueC.description=
-//TODO Translate [Reference] 'Slimy Statue Plaque'
-staxel.tileObject.totems.quest.MaxStatuePlaqueC.name=
+//[Reference] 'Slimy Statue Plaque'
+staxel.tileObject.totems.quest.MaxStatuePlaqueC.name=슬라임 동상 액자
 staxel.tileObject.totems.quest.MaxStatuePlaqueD.description=
-//TODO Translate [Reference] 'Farmer Statue Plaque'
-staxel.tileObject.totems.quest.MaxStatuePlaqueD.name=
+//[Reference] 'Farmer Statue Plaque'
+staxel.tileObject.totems.quest.MaxStatuePlaqueD.name=농사꾼 동상 액자
 staxel.tileObject.totems.quest.SmallFestivalGroundsSign.description=
-//TODO Translate [Reference] 'Small Festival Grounds Sign'
-staxel.tileObject.totems.quest.SmallFestivalGroundsSign.name=
+//[Reference] 'Small Festival Grounds Sign'
+staxel.tileObject.totems.quest.SmallFestivalGroundsSign.name=작은 축제 지역 표지판
 staxel.tileObject.totems.RosemaryMailbox.description=
 //[Reference] 'Rosemary's Postbox'
-staxel.tileObject.totems.RosemaryMailbox.name=Rosemary의 우체통
+staxel.tileObject.totems.RosemaryMailbox.name=로즈메리의 우체통
 staxel.tileObject.totems.Test.description=
 //[Reference] 'Test'
 staxel.tileObject.totems.Test.name=테스트
@@ -2467,25 +2467,25 @@ staxel.tileObject.totems.workplace.TownHall.description=
 staxel.tileObject.totems.workplace.TownHall.name=시청 표지판
 staxel.tileObject.villagers.CecileSpawner.description=
 //[Reference] 'Cecile Spawner'
-staxel.tileObject.villagers.CecileSpawner.name=Cecile 소환
+staxel.tileObject.villagers.CecileSpawner.name=세실 소환
 staxel.tileObject.villagers.EmiliaSpawner.description=
 //[Reference] 'Emilia Spawner'
-staxel.tileObject.villagers.EmiliaSpawner.name=Emilia 소환
+staxel.tileObject.villagers.EmiliaSpawner.name=에밀리아 소환
 staxel.tileObject.villagers.ErisSpawner.description=
 //[Reference] 'Eris Spawner'
-staxel.tileObject.villagers.ErisSpawner.name=Eris 소환
+staxel.tileObject.villagers.ErisSpawner.name=에리스 소환
 staxel.tileObject.villagers.JamieSpawner.description=
 //[Reference] 'Jamie Spawner'
-staxel.tileObject.villagers.JamieSpawner.name=Jamie 소환
+staxel.tileObject.villagers.JamieSpawner.name=제이미 소환
 staxel.tileObject.villagers.LeifSpawner.description=
 //[Reference] 'Leif Spawner'
-staxel.tileObject.villagers.LeifSpawner.name=Leif 소환
+staxel.tileObject.villagers.LeifSpawner.name=레이프 소환
 staxel.tileObject.villagers.MayorMaxSpawner.description=
 //[Reference] 'Mayor Max Spawner'
-staxel.tileObject.villagers.MayorMaxSpawner.name=Mayor Max 소환
+staxel.tileObject.villagers.MayorMaxSpawner.name=막시밀리안 소환
 staxel.tileObject.villagers.OscarSpawner.description=
 //[Reference] 'Oscar Spawner'
-staxel.tileObject.villagers.OscarSpawner.name=Oscar 소환
+staxel.tileObject.villagers.OscarSpawner.name=오스카 소환
 staxel.tileObject.villagers.RosemarySpawner.description=
 //[Reference] 'Rosemary Spawner'
 staxel.tileObject.villagers.RosemarySpawner.name=로즈메리 소환

@@ -258,7 +258,7 @@ staxel.achievement.Place1000Blocks.description=이정도의 블럭으로는 아�
 //[Reference] 'Place 1000 Blocks'
 staxel.achievement.Place1000Blocks.name=블럭 1000개 두기
 //[Reference] 'Place a boiling, chopping, baking, mixing, and frying station.'
-staxel.achievement.PlaceCookingStuff.description=Place a boiling, chopping, baking, mixing, and frying station.
+staxel.achievement.PlaceCookingStuff.description=조리기, 도마, 오븐, 거품기, 그리고 튀김기를 모두 설치하세요.
 //[Reference] 'Place Cooking Stations'
 staxel.achievement.PlaceCookingStuff.name=요리 도구들 전부 두기
 //[Reference] 'Buy and place a seedmaker.'
