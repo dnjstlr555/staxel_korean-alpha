@@ -178,7 +178,7 @@ staxel.category.cash=포스기
 //[Reference] 'Cask'
 staxel.category.cask=통
 //[Reference] 'Cat'
-staxel.category.cat=캣
+staxel.category.cat=고양이
 //[Reference] 'Catching'
 staxel.category.catching=벌레잡이
 //[Reference] 'Ceiling'
@@ -205,6 +205,8 @@ staxel.category.chicken=닭
 staxel.category.chime=풍경
 //[Reference] 'Chimney'
 staxel.category.chimeny=굴뚝
+//TODO Translate [Reference] 'Chimney'
+staxel.category.chimney=
 //[Reference] 'Chip'
 staxel.category.chip=과자
 //[Reference] 'Chips'
