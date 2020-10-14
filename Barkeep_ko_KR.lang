@@ -5,10 +5,10 @@ staxel.village.dialogue.Barkeep.line:10000100=어라, 못보던 얼굴이구만!
 //[Reference] 'New in town eh?'
 staxel.village.dialogue.Barkeep.line:10000200=새로 왔는가?
 //[Validate] Delete this comment if or when the translation is accurate.
-//[Reference] '{0-playername}!'
+//[Reference] '^c:1486b0;{0-playername}^c:pop;!'
 staxel.village.dialogue.Barkeep.line:10000210=^c:1486b0;{0-playername}^c:pop;!
 //[Validate] Delete this comment if or when the translation is accurate.
-//[Reference] 'Good to see you {0-playername}.'
+//[Reference] 'Good to see you ^c:1486b0;{0-playername}^c:pop;.'
 staxel.village.dialogue.Barkeep.line:10000211=반갑네 ^c:1486b0;{0-playername}^c:pop;.
 //[Reference] 'What can I do for you today?'
 staxel.village.dialogue.Barkeep.line:10000220=오늘은 뭘 하러 왔는가?
@@ -28,7 +28,8 @@ staxel.village.dialogue.Barkeep.line:10000267=배가 고파요.
 staxel.village.dialogue.Barkeep.line:10000300=분명 마을에 잘 적응해 나갈꺼라 믿네.
 //[Reference] 'Here, this is on the house!'
 staxel.village.dialogue.Barkeep.line:10000400=여기, 받게나!
-//[Reference] 'Could we have a chat, {0-playername}?'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Could we have a chat, ^c:1486b0;{0-playername}^c:pop;?'
 staxel.village.dialogue.Barkeep.line:10000410=잠깐, {0-playername}. 우리 대화좀 할까?
 //[Reference] 'Think of it as our welcome to the town.'
 staxel.village.dialogue.Barkeep.line:10000500=우리 마을에 온걸 환영하네. 그런 의미로 주는거야.
@@ -78,7 +79,8 @@ staxel.village.dialogue.Barkeep.line:10003800=아 그래? 언제든지 목이 �
 staxel.village.dialogue.Barkeep.line:10003900=음... 돈이 없구만.
 //[Reference] 'Come back when you have some cash!'
 staxel.village.dialogue.Barkeep.line:10004000=걱정말게. 언제든지 돈이 생기면 다시 찾아오게.
-//[Reference] 'Good day {0-playername}!'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Good day ^c:1486b0;{0-playername}^c:pop;!'
 staxel.village.dialogue.Barkeep.line:10005000=어서오게, {0-playername}!
 //[Reference] 'Is that a note for me?'
 staxel.village.dialogue.Barkeep.line:10005100=나에게 온 편지인가?

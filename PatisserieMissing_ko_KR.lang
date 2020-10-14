@@ -12,7 +12,8 @@ staxel.village.dialogue.job.PatisserieMissing.line:10000400=벌써 내 제과 �
 staxel.village.dialogue.job.PatisserieMissing.line:10000500=이 일이 계속되면 나는 마을 전체를 얼리게 될꺼야.
 //[Reference] 'A town with out a ^c:1486b0;patisserie^c:pop; is like a cake without icing.'
 staxel.village.dialogue.job.PatisserieMissing.line:10000600=^c:1486b0;제과점^c:pop;이 없는 마을은 장식이 없는 케이크 같은거야.
-//[Reference] '{0-playername}, won't you consider building me a ^c:1486b0;patisserie^c:pop;?'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] '^c:1486b0;{0-playername}^c:pop;, won't you consider building me a ^c:1486b0;patisserie^c:pop;?'
 staxel.village.dialogue.job.PatisserieMissing.line:10000700={0-playername}, ^c:1486b0;제과점^c:pop;을 지어주지 않을래?
 //[Reference] 'I can give you this ^c:d03e37;signpost^c:pop; to get you started.'
 staxel.village.dialogue.job.PatisserieMissing.line:10000800=일단은 이 ^c:d03e37;표지판^c:pop;을 줄게.

@@ -25,7 +25,7 @@ staxel.village.dialogue.Tomboy.line:10001100=용을 죽여서, 공주를 구출�
 //[Reference] 'You know the kind of thing right?'
 staxel.village.dialogue.Tomboy.line:10001200=넌 그런 종류의 일을 알고 있어?
 //[Validate] Delete this comment if or when the translation is accurate.
-//[Reference] 'Y'know {0-playername}...'
+//[Reference] 'Y'know ^c:1486b0;{0-playername}^c:pop;...'
 staxel.village.dialogue.Tomboy.line:10001300=알았어 ^c:1486b0;{0-playername}^c:pop;...
 //[Reference] 'I really don't understand why some girls wear skirts.'
 staxel.village.dialogue.Tomboy.line:10001400=왜 여자들은 치마를 입는거야? 이해할수가 없어.
@@ -34,7 +34,7 @@ staxel.village.dialogue.Tomboy.line:10001500=다리를 넣을 구멍이 하나 �
 //[Reference] 'We have two legs!'
 staxel.village.dialogue.Tomboy.line:10001600=우린 두 다리가 있잖아!
 //[Validate] Delete this comment if or when the translation is accurate.
-//[Reference] 'Hey {0-playername}, d'ya think a tie would look good with my tee?'
+//[Reference] 'Hey ^c:1486b0;{0-playername}^c:pop;, d'ya think a tie would look good with my tee?'
 staxel.village.dialogue.Tomboy.line:10001700=어이 ^c:1486b0;{0-playername}^c:pop;, 이옷이랑 이 넥타이가 어울려보이니?
 //[Reference] 'I've heard all the cool girls do it!'
 staxel.village.dialogue.Tomboy.line:10001800=난 멋진 여자들이 그걸 할거라 들었어!
@@ -43,7 +43,7 @@ staxel.village.dialogue.Tomboy.line:10001900=만약 니가 뭘 할거라면, 열
 //[Reference] 'There's no excuse for not putting in the effort!'
 staxel.village.dialogue.Tomboy.line:10002000=노력도 안하고서 변명하지마!
 //[Validate] Delete this comment if or when the translation is accurate.
-//[Reference] '{0-playername}... you don't have enough pockets...'
+//[Reference] '^c:1486b0;{0-playername}^c:pop;... you don't have enough pockets...'
 staxel.village.dialogue.Tomboy.line:10002100=^c:1486b0;{0-playername}^c:pop;... 포켓이 부족하잖아...
 //[Reference] 'I always make sure to count pockets before I buy clothes!'
 staxel.village.dialogue.Tomboy.line:10002200=난 옷을 사기전에 내 포켓이 널널한지 항상 확인해봐!

@@ -5,13 +5,15 @@ commands.activateMurmur.description=^c:F2E200;activateMurmur  ^c:FFFFFF;murmur�
 //[Reference] 'Successfully activated {0-murmur}.'
 commands.activateMurmur.success={0-murmur}가 성공적으로 작동되었습니다.
 
-//[Reference] '^c:F2E200;advanceTime ^c:FFFFFF;amount(0.0-1.0)'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] '^c:F2E200;advanceTime ^c:FFFFFF;amount(0.0-1.0) (optional)showCalendarTime(true/false)'
 commands.advanceTime.description=^c:F2E200;advanceTime ^c:FFFFFF;값(0.0-1.0)
 //[Reference] 'Enter a float by which to advance time. 1.0 is a full day'
 commands.advanceTime.enterFloat=소숫점을 입력해서 하루의 길이를 건너뛸수 있습니다. 1.0은 하루 전체입니다.
 //[Reference] 'failed: arg(1) must be a number. Floating points OK'
 commands.advanceTime.mustBeNumber=실패: 첫번째 인수는 숫자 값이여야 합니다. 소수점도 괜찮습니다.
-//[Reference] 'Advancing time by {0-time}...'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Advancing time by {0-time} ({1-dayphase1} -> {2-dayphase2})...'
 commands.advanceTime.success=시간을 {0-time}만큼 건너뛰는중...
 //[Reference] '^c:F2E200;ban ^c:FFFFFF;playerName (optional)reason'
 commands.ban.description=^c:F2E200;ban ^c:FFFFFF;닉네임 (필요시에만)사유
@@ -79,7 +81,8 @@ commands.completeQuest.success=퀘스트가 완료되었습니다.
 commands.creative.description=^c:F2E200;creative ^c:FFFFFF;(필요시에만)닉네임 (필요시에만)창작모드_시작_여부(true/false)
 //[Reference] 'Temporarily switched creative mode for {0-user} to {1-creative}'
 commands.creative.success={0-user} 을 {1-creative} 모드로 변경하였습니다.
-//[Reference] '^c:F2E200;currentTime'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] '^c:F2E200;currentTime (optional)showCalendarTime(true/false)'
 commands.currentTime.description=^c:F2E200;currentTime
 //[Reference] 'The day is {0-day} and phase is {1:G2-phase} ({2-time}).'
 commands.currentTime.success=지금은 {0-day}이며 {1:G2-phase}만큼 진행중입니다. ({2-time})
@@ -152,6 +155,18 @@ commands.givePetals.description=^c:F2E200;givepetals ^c:FFFFFF;playerName amount
 commands.givePetals.invalidNumber=동전의 양은 0이상이여야만 합니다.
 //[Reference] 'Gave {0-player} {1-amount} petals'
 commands.givePetals.success={0-player} 에게 {1-amount} 개의 동전을 주었습니다.
+//TODO Translate [Reference] 'viaReactions argument must be true or false'
+commands.giveRecipeItems.badArg=
+//TODO Translate [Reference] '^c:F2E200;giveRecipeItems ^c:FFFFFF;recipeCode (optional)viaReactions(true/false)'
+commands.giveRecipeItems.description=
+//TODO Translate [Reference] 'Give recipe items successful'
+commands.giveRecipeItems.success=
+//TODO Translate [Reference] '^c:F2E200;hasCheated'
+commands.hasCheated.description=
+//TODO Translate [Reference] 'This world has not have any cheats activated. Outside achievement are enabled, if applicable.'
+commands.hasCheated.false=
+//TODO Translate [Reference] 'This world has had cheats turned on or activated. Outside achievements are disabled.'
+commands.hasCheated.true=
 //[Reference] '^c:F2E200;? ^c:FFFFFF;(optional)commandName'
 commands.help.altDescription=^c:F2E200;? ^c:FFFFFF;(optional)commandName
 //[Reference] 'Command not found: '{0-command}''
@@ -184,6 +199,8 @@ commands.loadDesign.success=디자인을 성공적으로 불러왔습니다.
 commands.magicTeleport.description=
 //TODO Translate [Reference] 'No such offmap template: {0-template}'
 commands.magicTeleport.template=
+//TODO Translate [Reference] '^c:F2E200;magicTeleportReturn^c:FFFFFF;'
+commands.magicTeleportReturn.description=
 //[Reference] '^c:F2E200;model ^c:FFFFFF;(optional)playerName (optional)modelFileName'
 commands.model.description=^c:F2E200;model ^c:FFFFFF;(optional)playerName (optional)modelFileName
 //[Reference] 'Could not switch to character model '{0-model}' not found in assets.'
@@ -210,12 +227,17 @@ commands.noSuchPlayer='{0-player}'플레이어를 찾을 수 없었습니다.
 commands.noSuchPlayerNickname=
 //[Reference] 'Not a player entity.'
 commands.notAPlayer=플레이어 엔티티가 아닙니다.
-//[Reference] '^c:F2E200;op ^c:FFFFFF;playerName'
+//TODO Translate [Reference] 'To demote a player type "op <playername> demote" without quotes.'
+commands.op.demote=
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] '^c:F2E200;op ^c:FFFFFF;playerName (optional)removePromotion("demote")'
 commands.op.description=^c:F2E200;op ^c:FFFFFF;playerName
 //[Reference] 'Unable to promote {0-player}.'
 commands.op.failure={0-player} 에게 권한을 부여하지 못했습니다.
 //[Reference] '{0-player} has been promoted.'
 commands.op.success={0-player} 에게 권한이 부여되었습니다.
+//TODO Translate [Reference] '{0-player} has been demoted.'
+commands.op.success.demoted=
 //[Reference] 'Player {0-player} not found.'
 commands.op.userNotFound=플레이어 {0-player} 을 찾을 수 없습니다.
 //[Reference] '^c:F2E200;pe ^c:FFFFFF;expressionAlias (optional)displayTime'
@@ -226,6 +248,8 @@ commands.plantGrowth.description=^c:F2E200;plantgrowth
 commands.plantGrowth.noPlant=식물을 바라본 채로 입력해야 합니다..
 //[Reference] 'Plant {0-plant} at stage {1-stage}'
 commands.plantGrowth.success=식물 {0-plant} 은 이제 {1-stage} 상태입니다.
+//TODO Translate [Reference] 'Player {0-player} currently cannot be teleported.'
+commands.playerCantBeTeleported=
 //[Reference] 'Player Entity not found'
 commands.playerEntityNotFound=플레이어 엔티티를 찾을 수 없습니다.
 //[Reference] '^c:F2E200;players'
@@ -259,6 +283,10 @@ commands.rain.success=비가 오도록 변경하였습니다.
 commands.reload.description=^c:F2E200;reload
 //[Reference] 'Reload requested.'
 commands.reload.success=새로 요청되었습니다.
+//TODO Translate [Reference] '^c:F2E200;resetOffmap ^c:FFFFFF;offmapTemplateCode'
+commands.resetOffmap.description=
+//TODO Translate [Reference] 'Offmap reset complete.'
+commands.resetOffmap.success=
 //[Reference] '^c:F2E200;resetplayer'
 commands.resetPlayer.description=^c:F2E200;resetplayer
 //[Reference] 'Reset successful.'
@@ -304,7 +332,8 @@ commands.spawnMaterial.notFound=존재하지 않는 종류의 재료입니다.
 commands.spawnMaterial.success=재료가 성공적으로 소환되었습니다.
 //[Reference] '^c:F2E200;spawnStars ^c:FFFFFF;(optional)amount'
 commands.spawnStars.description=^c:F2E200;spawnStars ^c:FFFFFF;(필요시에만)양
-//[Reference] 'Failed to star bits item.'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Failed to spawn star bits item.'
 commands.spawnStars.failed=별 소환에 실패했습니다.
 //[Reference] 'Star amount is not a valid positive number.'
 commands.spawnStars.invalidNumber=별 소환의 양이 유효한 양수 값이 아닙니다.
@@ -398,6 +427,8 @@ commands.updateReputation.description=^c:F2E200;updateReputation ^c:FFFFFF;주�
 commands.updateReputation.success={1-villagerCode}에 대한 {0-newAmount}만큼의 명성 업데이트됨
 //[Reference] 'Villager Entity not found'
 commands.villagerEntityNotFound=해당 주민을 찾을수 없었습니다.
+//TODO Translate [Reference] 'Villager not found'
+commands.villagerNotFound=
 //[Reference] '^c:F2E200;weather ^c:FFFFFF;Type (Sun, Rain, Snow, Storm or weather code.)'
 commands.weather.description=^c:F2E200;weather ^c:FFFFFF;Type (Sun, Rain, Snow, Storm 이나 다른 날짜 코드)
 //[Reference] 'Unable to set weather: {0-weather}. Does not exist.'

@@ -7,7 +7,7 @@ language=한국어
 //[Reference] 'You're a new face - we don't get many of those around here!'
 staxel.village.dialogue.Tutorial.line:10000100=어라, 못 보던 얼굴이네?
 //[Validate] Delete this comment if or when the translation is accurate.
-//[Reference] 'You must be {0-playername}.'
+//[Reference] 'You must be ^c:1486b0;{0-playername}^c:pop;.'
 staxel.village.dialogue.Tutorial.line:10000201=너가 ^c:1486b0;{0-playername}^c:pop;겠구나!
 //[Reference] 'On behalf of all of us here in ^c:1486b0;Staxel^c:pop;, welcome!'
 staxel.village.dialogue.Tutorial.line:10000250=반가워~ ^c:1486b0;Staxel^c:pop; 마을 사람들을 대표해서 환영해!
@@ -201,7 +201,7 @@ staxel.village.dialogue.Tutorial.line:10006974=응? 누구세요?
 //[Reference] 'I think it might be a good idea to stock up on some ^c:d03e37;pet food^c:pop; when you can.'
 staxel.village.dialogue.Tutorial.line:10007000=시간이 나면 ^c:d03e37;애완동물 먹이^c:pop;를 미리 사두는 것도 나쁘지 않아.
 //[Validate] Delete this comment if or when the translation is accurate.
-//[Reference] '{0-playername} you say?'
+//[Reference] '^c:1486b0;{0-playername}^c:pop; you say?'
 staxel.village.dialogue.Tutorial.line:10007074={0-playername} 였나?
 //[Reference] 'The ^c:1486b0;supermarket^c:pop; sells many of the things you need for everyday life.'
 staxel.village.dialogue.Tutorial.line:10007100=방금 전에 확인한 따끈따근한 정보인데
@@ -267,7 +267,7 @@ staxel.village.dialogue.Tutorial.line:10009300=아직 농작물을 수확하지 
 //[Reference] 'Pour ^c:d03e37;Magic Water^c:pop; on crop. Pick crop. Easy!'
 staxel.village.dialogue.Tutorial.line:10009400=^c:d03e37;마법의 물^c:pop;을 뿌려서 농작물을 수확해보자. 간단하지!
 //[Validate] Delete this comment if or when the translation is accurate.
-//[Reference] 'Hi {0-playername}!'
+//[Reference] 'Hi ^c:1486b0;{0-playername}^c:pop;!'
 staxel.village.dialogue.Tutorial.line:10009500=어라, {0-playername}!
 //[Reference] 'It looks like you've achieved some interesting new feats!'
 staxel.village.dialogue.Tutorial.line:10009600=오호,특별한 업적을 해냈구나?

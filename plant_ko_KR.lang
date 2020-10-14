@@ -4,11 +4,13 @@ language.code=ko-KR
 language=한국어
 //[Reference] 'Morel asked you to plant and grow this.'
 staxel.crop.MorelBestiePlantA.description=모렐이 이 식물을 심고 키워달라고 부탁했어요.
-//[Reference] 'Morel Bestie Plant A [WIP NAME]'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Mystical Bright Mushroom'
 staxel.crop.MorelBestiePlantA.name=모렐의 친한식물친구 A [개발중]
 //[Reference] 'Morel asked you to plant and grow this.'
 staxel.crop.MorelBestiePlantB.description=모렐이 이 식물을 심고 키워달라고 부탁했어요.
-//[Reference] 'Morel Bestie Plant B [WIP NAME]'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Mystical Dark Mushroom'
 staxel.crop.MorelBestiePlantB.name=모렐의 친한식물친구 B [개발중]
 
 staxel.plant.bush.BlackberryBush.description=
@@ -88,11 +90,13 @@ staxel.plant.crop.Lettuce.description=
 staxel.plant.crop.Lettuce.name=상추
 //[Reference] 'Morel asked you to plant and grow this.'
 staxel.plant.crop.MorelBestiePlantA.description=모렐이 이 식물을 심고 키워달라고 부탁했어요.
-//[Reference] 'Morel Bestie Plant A [WIP NAME]'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Mystical Bright Mushroom'
 staxel.plant.crop.MorelBestiePlantA.name=모렐의 친한식물친구 A [개발중]
 //[Reference] 'Morel asked you to plant and grow this.'
 staxel.plant.crop.MorelBestiePlantB.description=모렐이 이 식물을 심고 키워달라고 부탁했어요.
-//[Reference] 'Morel Bestie Plant B [WIP NAME]'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Mystical Dark Mushroom'
 staxel.plant.crop.MorelBestiePlantB.name=모렐의 친한식물친구 B [개발중]
 staxel.plant.crop.Oat.description=
 //[Reference] 'Oat'

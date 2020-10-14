@@ -14,6 +14,12 @@ staxel.accessories.characters.accessories.cathats.CatHatStars.name=별빛눈 고
 staxel.accessories.characters.accessories.cathats.DarkPinkCatHat=분홍색 고양이 모자
 //[Reference] 'Purple Cat Hat'
 staxel.accessories.characters.accessories.cathats.DarkPurpleCatHat=보라색 고양이 모자
+staxel.accessories.characters.accessories.event.BunnyTeeth.description=
+//TODO Translate [Reference] 'Bunny Teeth'
+staxel.accessories.characters.accessories.event.BunnyTeeth.name=
+staxel.accessories.characters.accessories.event.WhiteBunnyTeeth.description=
+//TODO Translate [Reference] 'White Bunny Teeth'
+staxel.accessories.characters.accessories.event.WhiteBunnyTeeth.name=
 staxel.accessories.characters.accessories.facialhair.AbeBeard.description=
 //[Reference] 'Abe's Beard'
 staxel.accessories.characters.accessories.facialhair.AbeBeard.name=링컨 수염
@@ -213,6 +219,9 @@ staxel.accessories.devavatars.teagadd.TeagaddShoes.name=테아가드 신발
 staxel.accessories.devavatars.teagadd.TeagaddTrousers.description=
 //[Reference] 'Teagadd Trousers'
 staxel.accessories.devavatars.teagadd.TeagaddTrousers.name=테아가드 바지
+staxel.accessories.event.EasterBunnyHat.description=
+//TODO Translate [Reference] 'Easter Bunny Mask'
+staxel.accessories.event.EasterBunnyHat.name=
 
 //[Reference] 'Colourful Kawaii'
 staxel.accessories.eyes.colourfulKawaii=컬러풀 귀여운 눈
@@ -316,6 +325,12 @@ staxel.accessories.helmets.mecha.Mecha_P=P
 staxel.accessories.helmets.mecha.Mecha_Red=메카 레드
 //[Reference] 'Mecha Yellow'
 staxel.accessories.helmets.mecha.Mecha_XYellow=메카 옐로우
+staxel.accessories.pants.event.RabbitOnesiePants.description=
+//TODO Translate [Reference] 'Rabbit Onesie Pants'
+staxel.accessories.pants.event.RabbitOnesiePants.name=
+staxel.accessories.pants.event.RabbitOnesieShirt.description=
+//TODO Translate [Reference] 'Rabbit Onesie Shirt'
+staxel.accessories.pants.event.RabbitOnesieShirt.name=
 
 staxel.accessories.princessdresses.ruffly.RufflyDress.description=
 //[Reference] 'Ruffly Dress'
@@ -352,6 +367,9 @@ staxel.accessories.shirts.splatshirts.SplatShirt.name=스플래터 프린트 셔
 staxel.accessories.shoes.blackneon.BlackNeonTrainers.description=
 //[Reference] 'Neon Trainers'
 staxel.accessories.shoes.blackneon.BlackNeonTrainers.name=형광 트레이너
+staxel.accessories.shoes.colouredBoots.ColouredBoots.description=
+//TODO Translate [Reference] 'Coloured Boots'
+staxel.accessories.shoes.colouredBoots.ColouredBoots.name=
 staxel.accessories.shoes.colouredtrainers.ColouredTrainers.description=
 //[Reference] 'Coloured Trainers'
 staxel.accessories.shoes.colouredtrainers.ColouredTrainers.name=컬러 트레이너

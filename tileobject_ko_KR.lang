@@ -183,6 +183,9 @@ staxel.tileObject.bobbleheads.JoeBobbleHead.name=Joe 버블헤드
 staxel.tileObject.bobbleheads.MayorBobbleHead.description=
 //[Reference] 'Mayor Bobblehead'
 staxel.tileObject.bobbleheads.MayorBobbleHead.name=이장님 버블헤드
+staxel.tileObject.bobbleheads.MeekBobbleHead.description=
+//TODO Translate [Reference] 'Leif Bobblehead'
+staxel.tileObject.bobbleheads.MeekBobbleHead.name=
 staxel.tileObject.bobbleheads.MoocowBobbleHead.description=
 //[Reference] 'Moocow Bobblehead'
 staxel.tileObject.bobbleheads.MoocowBobbleHead.name=Moocow 버블헤드
@@ -342,6 +345,9 @@ staxel.tileObject.decorations.RoadCone.name=꼬깔콘
 staxel.tileObject.decorations.WindChime.description=
 //[Reference] 'Wind Chime'
 staxel.tileObject.decorations.WindChime.name=풍경
+staxel.tileObject.DeskCalendar.description=
+//TODO Translate [Reference] 'Desk Calendar'
+staxel.tileObject.DeskCalendar.name=
 //[Reference] 'Too much to fit in a coin purse, but not enough to swim in.'
 staxel.tileObject.dungeon.MoneyPile.description=동전이 많이 쌓여있어요! 하지만 수영을 하기엔 부족할 것 같은 양.
 //[Reference] 'Pile of Gold'
@@ -498,6 +504,9 @@ staxel.tileObject.gatherable.Bee.name=꿀벌
 staxel.tileObject.gatherable.BeeQueen.description=꿀벌나라를 통치하는 여왕벌은 모든 중요한 결정을 처리합니다.
 //[Reference] 'Queen Bee'
 staxel.tileObject.gatherable.BeeQueen.name=여왕벌
+staxel.tileObject.gatherable.event.AprilEgg.description=
+//TODO Translate [Reference] 'April Egg'
+staxel.tileObject.gatherable.event.AprilEgg.name=
 //[Reference] 'And they said it wasn't possible.'
 staxel.tileObject.gatherable.RhinoBeetle.description=모두가 이건 가능할리가 없다고 말했었지.
 //[Reference] 'Rhino Beetle'
@@ -514,6 +523,15 @@ staxel.tileObject.logo.StaxelLogo.name=스타셀 로고
 staxel.tileObject.logo.StaxelLogoText.description=게임속 스타셀 로고
 //[Reference] 'Staxel Logo Text'
 staxel.tileObject.logo.StaxelLogoText.name=스타셀 로고
+staxel.tileObject.magic.MagicLight.description=
+//TODO Translate [Reference] 'Magic Light'
+staxel.tileObject.magic.MagicLight.name=
+staxel.tileObject.magic.TorchBox.description=
+//TODO Translate [Reference] 'Magic Torch Box'
+staxel.tileObject.magic.TorchBox.name=
+staxel.tileObject.magic.TorchBoxUsed.description=
+//TODO Translate [Reference] 'Empty Magic Torch Box'
+staxel.tileObject.magic.TorchBoxUsed.name=
 staxel.tileObject.merchantTotem.BuildingMerchant.description=
 //[Reference] 'Building Merchant Totem'
 staxel.tileObject.merchantTotem.BuildingMerchant.name=건물 상인 토템
@@ -542,6 +560,14 @@ staxel.tileObject.merchantTotem.SeedVendor.name=씨앗 상인 토템
 staxel.tileObject.merchantTotem.ToolVendor.description=
 //[Reference] 'Tool Merchant Totem'
 staxel.tileObject.merchantTotem.ToolVendor.name=도구 상인 토템
+//TODO Translate [Reference] 'Opening this will get you a random item, that you have not found yet!'
+staxel.tileObject.misc.LuckyBox.description=
+//TODO Translate [Reference] 'Lucky Box'
+staxel.tileObject.misc.LuckyBox.name=
+//TODO Translate [Reference] 'This crate will accept blue bordered items given by NPC's.'
+staxel.tileObject.misc.QuestCrate.description=
+//TODO Translate [Reference] 'Special Item Crate'
+staxel.tileObject.misc.QuestCrate.name=
 //[Reference] 'Place a seed packet inside to mark your crops! Remember, you can rotate items before you dock them.'
 staxel.tileObject.misc.SeedpacketSign.description=농작물 표시를 위해 씨앗 포장을 넣으세요! 두기 전에 회전도 할 수 있습니다.
 //[Reference] 'Seed Sign'
@@ -564,16 +590,20 @@ staxel.tileObject.mushroomIsland.CloudExitDoor.description=
 //[Reference] 'Cloud Exit Door'
 staxel.tileObject.mushroomIsland.CloudExitDoor.name=구름 출구문
 staxel.tileObject.mushroomIsland.GatherableMorelBestieMushroomA.description=
-//[Reference] 'Gatherable Morel Bestie Mushroom A [WIP NAME]'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Gatherable Mystical Bright Mushroom'
 staxel.tileObject.mushroomIsland.GatherableMorelBestieMushroomA.name=주울수 있는 곰보버섯의 절친 버섯 A [제작중]
 staxel.tileObject.mushroomIsland.GatherableMorelBestieMushroomAPicked.description=
-//[Reference] 'Gatherable Morel Bestie Mushroom A Picked [WIP NAME]'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Gatherable Mystical Bright Mushroom Picked'
 staxel.tileObject.mushroomIsland.GatherableMorelBestieMushroomAPicked.name=따인 주울수 있는 곰보버섯의 절친 버섯 A [제작중]
 staxel.tileObject.mushroomIsland.GatherableMorelBestieMushroomB.description=
-//[Reference] 'Gatherable Morel Bestie Mushroom B [WIP NAME]'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Gatherable Mystical Dark Mushroom'
 staxel.tileObject.mushroomIsland.GatherableMorelBestieMushroomB.name=주울수 있는 곰보버섯의 절친 버섯 B [제작중]
 staxel.tileObject.mushroomIsland.GatherableMorelBestieMushroomBPicked.description=
-//[Reference] 'Gatherable Morel Bestie Mushroom B Picked [WIP NAME]'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Gatherable Mystical Dark Mushroom Picked'
 staxel.tileObject.mushroomIsland.GatherableMorelBestieMushroomBPicked.name=따인 주울수 있는 곰보버섯의 절친 버섯 B [제작중]
 staxel.tileObject.mushroomIsland.MazeExitLadder.description=
 //[Reference] 'Maze Exit Ladder'
@@ -612,13 +642,16 @@ staxel.tileObject.office.OfficeFilingCabinet.description=
 //[Reference] 'Filing Cabinet'
 staxel.tileObject.office.OfficeFilingCabinet.name=서류 보관함
 staxel.tileObject.Ore1.description=
-//[Reference] 'Ore1 [WIP]'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Blue Crystal Ore Block'
 staxel.tileObject.Ore1.name=광석1 [제작중]
 staxel.tileObject.Ore2.description=
-//[Reference] 'Ore2 [WIP]'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Pink Crystal Ore Block'
 staxel.tileObject.Ore2.name=광석2 [제작중]
 staxel.tileObject.Ore3.description=
-//[Reference] 'Ore3 [WIP]'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Yellow Crystal Ore Block'
 staxel.tileObject.Ore3.name=광석3 [제작중]
 staxel.tileObject.pets.CatHouse.description=
 //[Reference] 'Cat House'
@@ -638,9 +671,33 @@ staxel.tileObject.pets.FoodBowlFullWater.name=물이 채워진 먹이그릇
 staxel.tileObject.pets.PetHouse.description=
 //[Reference] 'Pet House'
 staxel.tileObject.pets.PetHouse.name=애완동물 집
+staxel.tileObject.postbox.HandlingPost.description=
+//TODO Translate [Reference] 'Handling Post'
+staxel.tileObject.postbox.HandlingPost.name=
+staxel.tileObject.postbox.PostCounter.description=
+//TODO Translate [Reference] 'Post Counter'
+staxel.tileObject.postbox.PostCounter.name=
+staxel.tileObject.postbox.PostOfficePostbox.description=
+//TODO Translate [Reference] 'Post Office Postbox'
+staxel.tileObject.postbox.PostOfficePostbox.name=
 staxel.tileObject.presents.TradeCrate.description=
 //[Reference] 'Trading Crate'
 staxel.tileObject.presents.TradeCrate.name=거래 상자
+staxel.tileObject.quest.Leif.Thingamabob1.description=
+//TODO Translate [Reference] 'Thingamabob No. 1'
+staxel.tileObject.quest.Leif.Thingamabob1.name=
+staxel.tileObject.quest.Leif.Thingamabob2.description=
+//TODO Translate [Reference] 'Thingamabob No. 2'
+staxel.tileObject.quest.Leif.Thingamabob2.name=
+staxel.tileObject.quest.Leif.Thingamabob3.description=
+//TODO Translate [Reference] 'Thingamabob No. 3'
+staxel.tileObject.quest.Leif.Thingamabob3.name=
+staxel.tileObject.quest.Leif.Thingamabob4.description=
+//TODO Translate [Reference] 'Thingamabob No. 4'
+staxel.tileObject.quest.Leif.Thingamabob4.name=
+staxel.tileObject.quest.Leif.Thingamabob5.description=
+//TODO Translate [Reference] 'Thingamabob No. 5'
+staxel.tileObject.quest.Leif.Thingamabob5.name=
 staxel.tileObject.quest.Max.abstract.statue.description=
 //[Reference] 'Abstract Statue'
 staxel.tileObject.quest.Max.abstract.statue.name=신비한 동상
@@ -660,6 +717,12 @@ staxel.tileObject.quest.Max.slimy.statue.name=슬라임 동상
 staxel.tileObject.quest.Morel.BigMushroom.description=모렐은 뭔가 수상해요.
 //[Reference] 'Big Mushroom'
 staxel.tileObject.quest.Morel.BigMushroom.name=대형 버섯
+staxel.tileObject.quest.Morel.MushroomIslandReturn.description=
+//TODO Translate [Reference] 'Return Home Block'
+staxel.tileObject.quest.Morel.MushroomIslandReturn.name=
+staxel.tileObject.quest.Morel.MushroomIslandReturn.NoBridge.description=
+//TODO Translate [Reference] 'Return Home Block'
+staxel.tileObject.quest.Morel.MushroomIslandReturn.NoBridge.name=
 //[Reference] 'Morel is up to some shenanigans.'
 staxel.tileObject.quest.Morel.SmallMushroom.description=모렐은 뭔가 수상해요.
 //[Reference] 'Small Mushroom'
@@ -668,6 +731,10 @@ staxel.tileObject.quest.Morel.SmallMushroom.name=소형 버섯
 staxel.tileObject.quest.Morel.SpecialMushroom.description=뭔가 이 버섯은 약간 이상한 느낌이 들어요.
 //[Reference] 'Special Mushroom'
 staxel.tileObject.quest.Morel.SpecialMushroom.name=특별한 버섯
+//TODO Translate [Reference] 'These mushrooms are too tough to pull...'
+staxel.tileObject.quest.Morel.ToughMushrooms.description=
+//TODO Translate [Reference] 'Tough Mushrooms'
+staxel.tileObject.quest.Morel.ToughMushrooms.name=
 //[Reference] 'Thick, sturdy railing with an old feel to it.'
 staxel.tileObject.retrotest.dungeon_railing.description=오래된 것 같은 두껍고 튼튼한 난간
 //[Reference] 'Straight Dungeon Railing'
@@ -2495,6 +2562,9 @@ staxel.tileObject.villagers.RowanSpawner.name=로완 소환
 staxel.tileObject.villagers.TutorialNpcSpawner.description=
 //[Reference] 'Tutorial NPC Spawner'
 staxel.tileObject.villagers.TutorialNpcSpawner.name=튜토리얼 NPC 소환
+staxel.tileObject.WallCalendar.description=
+//TODO Translate [Reference] 'Wall Calendar'
+staxel.tileObject.WallCalendar.name=
 //[Reference] 'From the 'Wicker Furniture Set' - A single bed with a wicker base and a soft mattress.'
 staxel.tileObject.wicker.WickerBed.description=고리버들 가구 모음에 있는 침대입니다. 버드나무 가지를 엮어 만든 매트리스로 푹신합니다.
 //[Reference] 'Wicker Bed'

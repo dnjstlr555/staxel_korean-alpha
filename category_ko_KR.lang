@@ -57,6 +57,8 @@ staxel.category.bathroom=화장실
 staxel.category.beach=바다
 //[Reference] 'Beam'
 staxel.category.beam=나무보
+//TODO Translate [Reference] 'Beard'
+staxel.category.beard=
 //[Reference] 'Bed'
 staxel.category.bed=침대
 //[Reference] 'Bedside'
@@ -191,6 +193,8 @@ staxel.category.checker=체크무늬
 staxel.category.checkers=체크무늬
 //[Reference] 'Cheese'
 staxel.category.cheese=치즈
+//TODO Translate [Reference] 'Chef'
+staxel.category.chef=
 //[Reference] 'Cherries'
 staxel.category.cherries=틴토베리
 //[Reference] 'Cherry'
@@ -232,6 +236,8 @@ staxel.category.closet=옷장
 
 //[Reference] 'Clothing'
 staxel.category.clothing=옷
+//TODO Translate [Reference] 'Coat'
+staxel.category.coat=
 //[Reference] 'Cobblestone'
 staxel.category.cobblestone=조약돌
 //[Reference] 'Cobweb'
@@ -298,6 +304,8 @@ staxel.category.cupboard=벽장
 staxel.category.cut=칼
 //[Reference] 'Dark'
 staxel.category.dark=어둠
+//TODO Translate [Reference] 'Dark Wood'
+staxel.category.darkwood=
 //[Reference] 'Davenport'
 staxel.category.davenport=소형 책상
 //[Reference] 'Dead'
@@ -336,6 +344,8 @@ staxel.category.double=더블
 staxel.category.dragonfruit=용과
 //[Reference] 'Drawers'
 staxel.category.drawers=서랍
+//TODO Translate [Reference] 'Dress'
+staxel.category.dress=
 //[Reference] 'Dresser'
 staxel.category.dresser=옷장
 //[Reference] 'Dressing'
@@ -356,14 +366,24 @@ staxel.category.edible=음식
 staxel.category.egg=알
 //[Reference] 'Eggplant'
 staxel.category.eggplant=가지
+//TODO Translate [Reference] 'Electronic'
+staxel.category.electronic=
 //[Reference] 'Emote'
 staxel.category.emote=감정
 //[Reference] 'Empty'
 staxel.category.empty=빈
 //[Reference] 'End'
 staxel.category.end=끄
+//TODO Translate [Reference] 'Explorer'
+staxel.category.explorer=
+//TODO Translate [Reference] 'Facial Hair'
+staxel.category.facialhair=
 //[Reference] 'Fairy'
 staxel.category.fairy=요정
+//TODO Translate [Reference] 'Fairy Flower'
+staxel.category.fairyflower=
+//TODO Translate [Reference] 'Fairy Water'
+staxel.category.fairywater=
 //[Reference] 'Fantasy'
 staxel.category.fantasy=판타지
 //[Reference] 'Farm'
@@ -414,6 +434,8 @@ staxel.category.frame=창문
 staxel.category.freezer=냉장고
 //[Reference] 'Fridge'
 staxel.category.fridge=냉장고
+//TODO Translate [Reference] 'Frog'
+staxel.category.frog=
 //[Reference] 'Fruit'
 staxel.category.fruit=과일
 //[Reference] 'Frying'
@@ -442,6 +464,8 @@ staxel.category.gift=Gift
 staxel.category.gingerbread=Gingerbread
 //[Reference] 'glass'
 staxel.category.glass=glass
+//TODO Translate [Reference] 'Glasses'
+staxel.category.glasses=
 //[Reference] 'Glow'
 staxel.category.glow=Glow
 //[Reference] 'Glowing'
@@ -498,6 +522,8 @@ staxel.category.hedge=Hedge
 staxel.category.hen=Hen
 //[Reference] 'High'
 staxel.category.high=High
+//TODO Translate [Reference] 'Hitops'
+staxel.category.hitops=
 //[Reference] 'Hive'
 staxel.category.hive=Hive
 //[Reference] 'Hoe'
@@ -506,6 +532,8 @@ staxel.category.hoe=Hoe
 staxel.category.home=Home
 //[Reference] 'Honey'
 staxel.category.honey=Honey
+//TODO Translate [Reference] 'Hoodie'
+staxel.category.hoodie=
 //[Reference] 'Hot'
 staxel.category.hot=Hot
 //[Reference] 'Hotdogs'
@@ -534,6 +562,8 @@ staxel.category.jade=jade
 staxel.category.jam=Jam
 //[Reference] 'Jar'
 staxel.category.jar=Jar
+//TODO Translate [Reference] 'Jeans'
+staxel.category.jeans=
 //[Reference] 'Juice'
 staxel.category.juice=Juice
 //[Reference] 'Keg'
@@ -597,6 +627,8 @@ staxel.category.love=Love
 staxel.category.loveseat=Loveseat
 //[Reference] 'Low'
 staxel.category.low=Low
+//TODO Translate [Reference] 'Lucky'
+staxel.category.lucky=
 //[Reference] 'Magenta'
 staxel.category.magenta=Magenta
 //[Reference] 'Magic'
@@ -618,6 +650,10 @@ staxel.category.marker=marker
 staxel.category.market=Market
 //[Reference] 'marmalade'
 staxel.category.marmalade=marmalade
+//TODO Translate [Reference] 'Mask'
+staxel.category.mask=
+//TODO Translate [Reference] 'Mecha'
+staxel.category.mecha=
 //[Reference] 'Merchant'
 staxel.category.merchant=Merchant
 //[Reference] 'Metal'
@@ -628,6 +664,8 @@ staxel.category.middle=Middle
 staxel.category.milk=Milk
 //[Reference] 'Milker'
 staxel.category.milker=Milker
+//TODO Translate [Reference] 'Mini'
+staxel.category.mini=
 //[Reference] 'Minimalist'
 staxel.category.Minimalist=Minimalist
 //[Reference] 'Mirror'
@@ -656,6 +694,8 @@ staxel.category.muffin=Muffin
 staxel.category.muffins=Muffins
 //[Reference] 'Mushroom'
 staxel.category.mushroom=Mushroom
+//TODO Translate [Reference] 'Mustache'
+staxel.category.mustache=
 //[Reference] 'Natural'
 staxel.category.natural=Natural
 //[Reference] 'Net'
@@ -730,6 +770,8 @@ staxel.category.pink=Pink
 staxel.category.pink2=Pink2
 //[Reference] 'Pipe'
 staxel.category.pipe=Pipe
+//TODO Translate [Reference] 'Pirate'
+staxel.category.pirate=
 //[Reference] 'Pitcher'
 staxel.category.pitcher=Pitcher
 //[Reference] 'Plain'
@@ -758,6 +800,8 @@ staxel.category.poultry=Poultry
 staxel.category.powder=Powder
 //[Reference] 'Present'
 staxel.category.present=Present
+//TODO Translate [Reference] 'Princess'
+staxel.category.princess=
 //[Reference] 'Processed'
 staxel.category.processed=Processed
 //[Reference] 'Produce'
@@ -766,10 +810,14 @@ staxel.category.produce=Produce
 staxel.category.pumpkin=Pumpkin
 //[Reference] 'Punch'
 staxel.category.punch=Punch
+//TODO Translate [Reference] 'Punk'
+staxel.category.punk=
 //[Reference] 'Purple'
 staxel.category.purple=Purple
 //[Reference] 'Queen'
 staxel.category.queen=Queen
+//TODO Translate [Reference] 'Quest'
+staxel.category.quest=
 //[Reference] 'Rail'
 staxel.category.rail=Rail
 //[Reference] 'Railing'
@@ -800,6 +848,8 @@ staxel.category.register=Register
 staxel.category.Renamer=Renamer
 //[Reference] 'Resource'
 staxel.category.resource=Resource
+//TODO Translate [Reference] 'Reward'
+staxel.category.reward=
 //[Reference] 'Right'
 staxel.category.right=Right
 //[Reference] 'road'
@@ -822,6 +872,8 @@ staxel.category.rose=Rose
 staxel.category.rough=Rough
 //[Reference] 'Round'
 staxel.category.round=Round
+//TODO Translate [Reference] 'Ruffle'
+staxel.category.ruffle=
 //[Reference] 'Rune'
 staxel.category.rune=Rune
 //[Reference] 'Sale'
@@ -880,6 +932,8 @@ staxel.category.Shoes=Shoes
 staxel.category.shop=Shop
 //[Reference] 'Short'
 staxel.category.short=Short
+//TODO Translate [Reference] 'Shorts'
+staxel.category.shorts=
 //[Reference] 'Shrub'
 staxel.category.shrub=Shrub
 //[Reference] 'Sickle'
@@ -898,6 +952,10 @@ staxel.category.single=Single
 staxel.category.sink=Sink
 //[Reference] 'Sit'
 staxel.category.sit=Sit
+//TODO Translate [Reference] 'Skater'
+staxel.category.skater=
+//TODO Translate [Reference] 'Skirt'
+staxel.category.skirt=
 //[Reference] 'Skull'
 staxel.category.skull=Skull
 //[Reference] 'Slab'
@@ -936,6 +994,8 @@ staxel.category.stalagmite=Stalagmite
 staxel.category.stall=Stall
 //[Reference] 'Stand'
 staxel.category.stand=Stand
+//TODO Translate [Reference] 'StarBit'
+staxel.category.starbit=
 //[Reference] 'Station'
 staxel.category.station=Station
 //[Reference] 'Statue'
@@ -956,6 +1016,8 @@ staxel.category.store=Store
 staxel.category.stove=Stove
 //[Reference] 'Straight'
 staxel.category.straight=Straight
+//TODO Translate [Reference] 'Straptop'
+staxel.category.straptop=
 //[Reference] 'Strawberries'
 staxel.category.strawberries=Strawberries
 //[Reference] 'Strawberry'
@@ -974,10 +1036,14 @@ staxel.category.sucker=Sucker
 staxel.category.sugar=Sugar
 //[Reference] 'Sugar Beet'
 staxel.category.sugarBeet=Sugar Beet
+//TODO Translate [Reference] 'Sunglasses'
+staxel.category.sunglasses=
 //[Reference] 'Surface'
 staxel.category.surface=Surface
 //[Reference] 'Sweet'
 staxel.category.sweet=Sweet
+//TODO Translate [Reference] 'Swimsuit'
+staxel.category.swimsuit=
 //[Reference] 'Swiss'
 staxel.category.swiss=Swiss
 //[Reference] 'T.V.'
@@ -990,6 +1056,8 @@ staxel.category.tangerine=Tangerine
 staxel.category.tap=Tap
 //[Reference] 'Tavern'
 staxel.category.tavern=Tavern
+//TODO Translate [Reference] 'Tech'
+staxel.category.tech=
 //[Reference] 'Television'
 staxel.category.television=Television
 //[Reference] 'Test'
@@ -1030,6 +1098,12 @@ staxel.category.torch=Torch
 staxel.category.totem=Totem
 //[Reference] 'Toy'
 staxel.category.toy=Toy
+//TODO Translate [Reference] 'Trainers'
+staxel.category.trainers=
+//TODO Translate [Reference] 'Transform'
+staxel.category.transform=
+//TODO Translate [Reference] 'Transformation'
+staxel.category.transformation=
 //[Reference] 'Trash'
 staxel.category.trash=Trash
 //[Reference] 'Tray'
@@ -1038,22 +1112,32 @@ staxel.category.tray=Tray
 staxel.category.treasure=Treasure
 //[Reference] 'Tree'
 staxel.category.tree=Tree
+//TODO Translate [Reference] 'Tropical'
+staxel.category.tropical=
 //[Reference] 'Trough'
 staxel.category.trough=Trough
 //[Reference] 'Trousers'
 staxel.category.Trousers=Trousers
 //[Reference] 'Trunk'
 staxel.category.trunk=Trunk
+//TODO Translate [Reference] 'Tshirt'
+staxel.category.tshirt=
 //[Reference] 'Tulip'
 staxel.category.tulip=Tulip
 //[Reference] 'Turnip'
 staxel.category.turnip=Turnip
 //[Reference] 'TV'
 staxel.category.tv=TV
+//TODO Translate [Reference] 'Unicorn'
+staxel.category.unicorn=
+//TODO Translate [Reference] 'Unique'
+staxel.category.unique=
 //[Reference] 'Vanity'
 staxel.category.vanity=Vanity
 //[Reference] 'Vegetable'
 staxel.category.vegetable=Vegetable
+//TODO Translate [Reference] 'Vest'
+staxel.category.vest=
 
 //[Reference] 'victorian'
 staxel.category.victorian=victorian
@@ -1063,6 +1147,8 @@ staxel.category.vine=Vine
 staxel.category.vines=Vines
 //[Reference] 'Wall'
 staxel.category.wall=Wall
+//TODO Translate [Reference] 'Walls'
+staxel.category.walls=
 //[Reference] 'Wardrobe'
 staxel.category.wardrobe=Wardrobe
 //[Reference] 'Water'

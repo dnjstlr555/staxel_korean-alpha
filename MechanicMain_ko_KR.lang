@@ -16,7 +16,8 @@ staxel.village.dialogue.Mechanic.line:10000600=응? 그건 ^c:d03e37;농사 자�
 staxel.village.dialogue.Mechanic.line:10000700=아마도.. ^c:1486b0;{0-mayor_name}^c:pop; 때문에 ^c:1486b0;헛간^c:pop;을 보러 왔겠네?
 //[Reference] 'It's a bit of a task, but I figure it'll get ya familiar with workin' around here!'
 staxel.village.dialogue.Mechanic.line:10000800=좀 귀찮긴 하지만 여기 일에 익숙해지는데 딱 좋을거야.
-//[Reference] 'Wonderful work {0-playername}!'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Wonderful work ^c:1486b0;{0-playername}^c:pop;!'
 staxel.village.dialogue.Mechanic.line:10000900=대단해 {0-playername}!
 //[Reference] 'That barn almos' brought a tear ta my eye!'
 staxel.village.dialogue.Mechanic.line:10001000=헛간 보고 눈물 날 뻔했어!!
@@ -168,10 +169,18 @@ staxel.village.dialogue.Mechanic.line:10006900=Tiling Station ({0-currency}{1-ti
 staxel.village.dialogue.Mechanic.line:10007000=Assembly Station ({0-currency}{1-assem})
 //[Reference] 'Table Saw ({0-currency}{1-saw})'
 staxel.village.dialogue.Mechanic.line:10007100=Table Saw ({0-currency}{1-saw})
+//TODO Translate [Reference] 'Counter ({0-currency}{1-counter})'
+staxel.village.dialogue.Mechanic.line:10007110=
+//TODO Translate [Reference] 'Door ({0-currency}{1-door})'
+staxel.village.dialogue.Mechanic.line:10007120=
 //[Reference] 'Nothing right now'
 staxel.village.dialogue.Mechanic.line:10007200=지금은 아무것도 없어.
 //[Reference] 'Alrighty, here ya go!'
 staxel.village.dialogue.Mechanic.line:10007300=좋아, 자 여기 있어!
+//TODO Translate [Reference] 'Alrighty, here ya go!'
+staxel.village.dialogue.Mechanic.line:10007310=
+//TODO Translate [Reference] 'Alrighty, here ya go!'
+staxel.village.dialogue.Mechanic.line:10007320=
 //[Reference] 'Alrighty, here ya go!'
 staxel.village.dialogue.Mechanic.line:10007400=좋아, 자 여기 있어!
 //[Reference] 'Alrighty, here ya go!'
@@ -186,6 +195,8 @@ staxel.village.dialogue.Mechanic.line:10007800=^c:1486b0;grocery store^c:pop;를
 staxel.village.dialogue.Mechanic.line:10007900=Cash Register ({0-currency}{1-reg})
 //[Reference] 'Shelves ({0-currency}{1-shelf})'
 staxel.village.dialogue.Mechanic.line:10008000=Shelves ({0-currency}{1-shelf})
+//TODO Translate [Reference] 'Counter ({0-currency}{1-counter})'
+staxel.village.dialogue.Mechanic.line:10008010=
 //[Reference] 'Nothing right now'
 staxel.village.dialogue.Mechanic.line:10008100=지금은 아무것도 없어.
 //TODO Translate [Reference] 'Doin' alright, ^c:1486b0;{0-playername}^c:pop;?'

@@ -57,8 +57,12 @@ staxel.achievement.ChangeClothing.name=옷 갈아입기
 //[Reference] 'Charge a tool all the way.'
 staxel.achievement.ChargeTool.description=도구를 사용할 때 힘을 모아보세요.
 //[Validate] Delete this comment if or when the translation is accurate.
-//[Reference] 'Charge a Tool'
-staxel.achievement.ChargeTool.name=힘 모으기
+//[Reference] 'Charge a Tool to Max'
+staxel.achievement.ChargeTool.name=힘 최대로 모으기
+//TODO Translate [Reference] 'Charge a tool.'
+staxel.achievement.ChargeToolOnce.description=도구를 사용할때 힘을 모아보세요.
+//TODO Translate [Reference] 'Charge a Tool'
+staxel.achievement.ChargeToolOnce.name=힘 모으기
 //[Reference] 'Invite any villager to become your roomie'
 staxel.achievement.Commitment.description=같이 살 방 친구를 만드세요.
 //[Reference] 'The Ultimate Commitment'
@@ -348,8 +352,11 @@ staxel.achievement.SweepBall.description=공에다가 빗자루를 사용해보�
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Sweep a Ball'
 staxel.achievement.SweepBall.name=공으로 하키 놀이
-//[Reference] 'Use right click or left trigger to talk to her.'
-staxel.achievement.TalkFarmFan.description=오른쪽 클릭이나 L버튼으로 말을 거세요.
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Use {0-button} to talk to her.'
+staxel.achievement.TalkFarmFan.description={0-button} 버튼으로 말을 거세요.
+//TODO Translate [Reference] 'Alt'
+staxel.achievement.TalkFarmFan.logical=Alt
 //[Reference] 'Talk to Farm Fan'
 staxel.achievement.TalkFarmFan.name=팜팬과 대화하기
 //[Reference] 'Throw a ball for your pet. They'll fetch it if they're following you!'
@@ -367,8 +374,10 @@ staxel.achievement.WaterCrop.description=물뿌리개를 사용해 농작물에 
 staxel.achievement.WaterCrop.name=농작물에 물 주기
 //[Reference] 'Use a wardrobe to change your clothing'
 staxel.achievements.changeClothing=옷을 갈아입을 옷장 사용하기
+//TODO Translate [Reference] 'Charge a Tool.'
+staxel.achievements.charge=힘을 모아보세요.
 //[Validate] Delete this comment if or when the translation is accurate.
-//[Reference] 'Charge a Tool All the Way'
+//[Reference] 'Charge a Tool all the way.'
 staxel.achievements.chargeMax=제일 세게 힘 모으기
 //[Reference] 'Orders placed for {0-item}'
 staxel.achievements.descriptions.OrderItem.text={0-item} 주문됨
@@ -386,8 +395,11 @@ staxel.achievements.reward=보상:
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Sweep Ball'
 staxel.achievements.sweepBall=공으로 하키 놀이
-//[Reference] 'Use right click or left trigger to talk to her'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Use {0-button} to talk to her'
 staxel.achievements.talkFarmFanOverlay=오른쪽 클릭이나 L버튼으로 말을 거세요.
+//TODO Translate [Reference] 'Alt'
+staxel.achievements.talkFarmFanOverlay.logical=Alt
 //[Reference] 'Throw a Ball'
 staxel.achievements.throw=공 던지기
 //[Reference] 'Use Recipe Overlay'

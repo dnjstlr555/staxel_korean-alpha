@@ -40,6 +40,12 @@ staxel.mainQuest.Emilia.BestFriends=공주님의 신부님
 staxel.mainQuest.Emilia.Friends=귀족 결혼식
 //[Reference] 'The Apprentice'
 staxel.mainQuest.Emilia.Liked=요리 초심자
+//TODO Translate [Reference] 'Invention of Chivalry'
+staxel.mainQuest.Eris.BestFriends=
+//TODO Translate [Reference] 'Invention of Fashion'
+staxel.mainQuest.Eris.Friends=
+//TODO Translate [Reference] 'Invention of the Wheel'
+staxel.mainQuest.Eris.Liked=
 //[Reference] 'Building Dream Homes'
 staxel.mainQuest.FarmFan.Acquaintance=꿈의 집 만들기
 //[Reference] 'The Master'
@@ -58,6 +64,12 @@ staxel.mainQuest.Jamie.BestFriends=라이벌!
 staxel.mainQuest.Jamie.Friends=
 //TODO Translate [Reference] 'The Trainer'
 staxel.mainQuest.Jamie.Liked=
+//TODO Translate [Reference] 'You've been away for HOW LONG?'
+staxel.mainQuest.Leif.BestFriend=
+//TODO Translate [Reference] 'Mysterious Outsider'
+staxel.mainQuest.Leif.Friend=
+//TODO Translate [Reference] 'Postage and Handling'
+staxel.mainQuest.Leif.Liked=
 //[Reference] 'It's Called Art'
 staxel.mainQuest.Max.BestFriend=이런걸 예술이라 한단다
 //[Reference] 'Bountiful Harvest'
@@ -66,11 +78,14 @@ staxel.mainQuest.Max.Friend=풍부한 재배
 staxel.mainQuest.Max.Liked=계를 하자!!
 //[Reference] 'Fixing up the barn'
 staxel.mainQuest.MaxBarn=외양간 고치기
-//[Reference] 'Mush to Meet You [WIP]'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Mush to Meet You'
 staxel.mainQuest.Morel.Acquantance=만나서 기분이 버섯 [개발중]
-//[Reference] 'Otherworldly Mushrooms [WIP]'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Otherworldly Mushrooms'
 staxel.mainQuest.Morel.BestFriend=화성에서 온 버섯 [개발중]
-//[Reference] 'Mushroom Panic [WIP]'
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Mushroom Panic'
 staxel.mainQuest.Morel.Friend=버섯 난리 [개발중]
 //[Reference] 'Dawn at the museum'
 staxel.mainQuest.MuseumConstruction=박물관의 새벽
