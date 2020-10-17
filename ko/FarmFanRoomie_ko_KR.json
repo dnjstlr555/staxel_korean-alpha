@@ -1,1 +1,12 @@
-{"﻿language.code":"ko-KR","language":"한국어","staxel.village.character.dialogue.FarmFanRoomie.line:10000100":"","staxel.village.character.dialogue.FarmFanRoomie.line:10000200":"","staxel.village.character.dialogue.FarmFanRoomie.line:10000300":"","staxel.village.character.dialogue.FarmFanRoomie.line:10000400":"","staxel.village.character.dialogue.FarmFanRoomie.line:10000500":"","staxel.village.character.dialogue.FarmFanRoomie.line:10000600":"","staxel.village.character.dialogue.FarmFanRoomie.line:10000700":"","staxel.village.character.dialogue.FarmFanRoomie.line:10000800":""}
+{
+  "staxel.village.character.dialogue.FarmFanRoomie.line:10000100": "^c:1486b0;{0-playername}^c:pop;...",
+  "staxel.village.character.dialogue.FarmFanRoomie.line:10000200": "이곳에서 경운기를 구할수 있을까?",
+  "staxel.village.character.dialogue.FarmFanRoomie.line:10000300": "옛날부터 쭉 진짜 경운기를 몰아보고 싶었는데...",
+  "staxel.village.character.dialogue.FarmFanRoomie.line:10000400": "내가 농사를 좋아하는 이유? 어디부터 시작을 해야 될지 모르겠네...",
+  "staxel.village.character.dialogue.FarmFanRoomie.line:10000500": "할일이 너무 많은데 뭐부터 해야될지 모르겠어!",
+  "staxel.village.character.dialogue.FarmFanRoomie.line:10000600": "와! 내가 농장에서 살고 있다니.. 안믿겨져!",
+  "staxel.village.character.dialogue.FarmFanRoomie.line:10000700": "나에게 허락된 농장이라!",
+  "staxel.village.character.dialogue.FarmFanRoomie.line:10000800": "내 오랜 꿈이 이루어 진것 같은데?",
+  "language": "한국어",
+  "﻿language.code": "ko-KR"
+}
