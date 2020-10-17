@@ -1,1 +1,10 @@
-{"﻿language.code":"ko-KR","language":"한국어","staxel.village.dialogue.TutorialNotCompleted.line:10000100":"^c:d03e37;농사 자격증^c:pop;이 없다고?","staxel.village.dialogue.TutorialNotCompleted.line:10000200":"^c:1486b0;{0-fan}^c:pop; 에게 이야기를 들으러 가는게 좋아!","staxel.village.dialogue.TutorialNotCompleted.line:10000300":"팜팬씨는 아마 ^c:1486b0;시청^c:pop;이나 ^c:1486b0;여관^c:pop; 근처에 있을꺼야.","staxel.village.dialogue.TutorialNotCompleted.line:10000400":"아까 ^c:1486b0;{0-fan}^c:pop;씨한테 들었는데","staxel.village.dialogue.TutorialNotCompleted.line:10000500":"아직 마을 소개를 못받았다며?","staxel.village.dialogue.TutorialNotCompleted.line:10000600":"잘 들어두면 좋은 일이 생길꺼라구. 얼른 가봐."}
+{
+  "staxel.village.dialogue.TutorialNotCompleted.line:10000100": "^c:d03e37;농사 자격증^c:pop;이 없다고?",
+  "staxel.village.dialogue.TutorialNotCompleted.line:10000200": "^c:1486b0;{0-fan}^c:pop; 에게 이야기를 들으러 가는게 좋아!",
+  "staxel.village.dialogue.TutorialNotCompleted.line:10000300": "팜팬씨는 아마 ^c:1486b0;시청^c:pop;이나 ^c:1486b0;여관^c:pop; 근처에 있을꺼야.",
+  "staxel.village.dialogue.TutorialNotCompleted.line:10000400": "아까 ^c:1486b0;{0-fan}^c:pop;씨한테 들었는데",
+  "staxel.village.dialogue.TutorialNotCompleted.line:10000500": "아직 마을 소개를 못받았다며?",
+  "staxel.village.dialogue.TutorialNotCompleted.line:10000600": "잘 들어두면 좋은 일이 생길꺼라구. 얼른 가봐.",
+  "﻿language.code": "ko-KR",
+  "language": "한국어"
+}

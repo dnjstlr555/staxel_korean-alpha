@@ -1,1 +1,22 @@
-{"﻿language.code":"ko-KR","language":"한국어","staxel.village.dialogue.BarkeepGiveItem.line:10000100":"","staxel.village.dialogue.BarkeepGiveItem.line:10000200":"","staxel.village.dialogue.BarkeepGiveItem.line:10000300":"","staxel.village.dialogue.BarkeepGiveItem.line:10000400":"","staxel.village.dialogue.BarkeepGiveItem.line:10000500":"","staxel.village.dialogue.BarkeepGiveItem.line:10000600":"","staxel.village.dialogue.BarkeepGiveItem.line:10000700":"","staxel.village.dialogue.BarkeepGiveItem.line:10000800":"","staxel.village.dialogue.BarkeepGiveItem.line:10000900":"","staxel.village.dialogue.BarkeepGiveItem.line:10001000":"","staxel.village.dialogue.BarkeepGiveItem.line:10001100":"","staxel.village.dialogue.BarkeepGiveItem.line:10001200":"","staxel.village.dialogue.BarkeepGiveItem.line:10001300":"","staxel.village.dialogue.BarkeepGiveItem.line:10001400":"","staxel.village.dialogue.BarkeepGiveItem.line:10001500":"","staxel.village.dialogue.BarkeepGiveItem.line:10001600":"","staxel.village.dialogue.BarkeepGiveItem.line:10001700":"","staxel.village.dialogue.BarkeepGiveItem.line:10001800":""}
+{
+  "staxel.village.dialogue.BarkeepGiveItem.line:10000100": "^c:1486b0;{0-playername}^c:pop;! 뭘 이렇게까지..!",
+  "staxel.village.dialogue.BarkeepGiveItem.line:10000200": "당신을 위한거에요",
+  "staxel.village.dialogue.BarkeepGiveItem.line:10000300": "아니에요.",
+  "staxel.village.dialogue.BarkeepGiveItem.line:10000400": "아이구 고마워라! 이걸 어따 두는게 좋을까...",
+  "staxel.village.dialogue.BarkeepGiveItem.line:10000500": "내게 관심을 가져줘서 고맙네. 어디서 들은건가?",
+  "staxel.village.dialogue.BarkeepGiveItem.line:10000600": "또 좋은 선물이 있으면 고맙게 받겠네!",
+  "staxel.village.dialogue.BarkeepGiveItem.line:10000700": "고맙네! 정말 고마워!",
+  "staxel.village.dialogue.BarkeepGiveItem.line:10000800": "음... 다음부터 내 여관에 올땐 그런 물건은 갖고 오질 말아주게나.",
+  "staxel.village.dialogue.BarkeepGiveItem.line:10000900": "아, ^c:1486b0;{0-playername}^c:pop;...",
+  "staxel.village.dialogue.BarkeepGiveItem.line:10001000": "내가 주민들에게 받은게 얼마나 많은데, 그냥 이곳을 비울수는 없겠구만!",
+  "staxel.village.dialogue.BarkeepGiveItem.line:10001100": "정말인가! 이런 늙은이를 방 친구로 두고 싶은겐가..?",
+  "staxel.village.dialogue.BarkeepGiveItem.line:10001200": "네!",
+  "staxel.village.dialogue.BarkeepGiveItem.line:10001300": "죄송해요..",
+  "staxel.village.dialogue.BarkeepGiveItem.line:10001400": "그러면 꼭 우리 여관도 도와주길 바라네!",
+  "staxel.village.dialogue.BarkeepGiveItem.line:10001500": "내가 조용하게 지내와서 그냥 이곳을 비우기에는 조금 아쉽구만.",
+  "staxel.village.dialogue.BarkeepGiveItem.line:10001600": "내가 자네의 집 주변에 있는것이 그리 마음에 들지는 않는 모양이구만...",
+  "staxel.village.dialogue.BarkeepGiveItem.line:10001700": "그치만 이것도 재밌을껄세. 그렇지 않나?",
+  "staxel.village.dialogue.BarkeepGiveItem.line:10001800": "알겠네. 이 외에 또 필요한게 있나?",
+  "language": "한국어",
+  "﻿language.code": "ko-KR"
+}

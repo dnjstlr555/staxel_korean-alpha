@@ -1,1 +1,10 @@
-{"﻿language.code":"ko-KR","language":"한국어","staxel.village.character.dialogue.AlizaBestFriend.line:10000100":"재료들 찾아줘서 고마워 ^c:1486b0;{0-playername}^c:pop;!","staxel.village.character.dialogue.AlizaBestFriend.line:10000200":"덕분에 골치 아플뻔 했는데 다행이네!!","staxel.village.character.dialogue.AlizaBestFriend.line:10000300":"큰 건물을 짓는다고 사람들이 몰려드는 바람에 구하기가 힘들었거든.","staxel.village.character.dialogue.AlizaBestFriend.line:10000400":"완전 고마워 ^c:1486b0;{0-playername}^c:pop;!!","staxel.village.character.dialogue.AlizaBestFriend.line:10000500":"그리고 우리 가게가 너 덕분에 엄청나지고 있다구!","staxel.village.character.dialogue.AlizaBestFriend.line:10000600":"너가 많이 써줘서 그러는건 아니고 일단 고마워!!"}
+{
+  "staxel.village.character.dialogue.AlizaBestFriend.line:10000100": "재료들 찾아줘서 고마워 ^c:1486b0;{0-playername}^c:pop;!",
+  "staxel.village.character.dialogue.AlizaBestFriend.line:10000200": "덕분에 골치 아플뻔 했는데 다행이네!!",
+  "staxel.village.character.dialogue.AlizaBestFriend.line:10000300": "큰 건물을 짓는다고 사람들이 몰려드는 바람에 구하기가 힘들었거든.",
+  "staxel.village.character.dialogue.AlizaBestFriend.line:10000400": "완전 고마워 ^c:1486b0;{0-playername}^c:pop;!!",
+  "staxel.village.character.dialogue.AlizaBestFriend.line:10000500": "그리고 우리 가게가 너 덕분에 엄청나지고 있다구!",
+  "staxel.village.character.dialogue.AlizaBestFriend.line:10000600": "너가 많이 써줘서 그러는건 아니고 일단 고마워!!",
+  "﻿language.code": "ko-KR",
+  "language": "한국어"
+}

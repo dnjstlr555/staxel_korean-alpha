@@ -1,1 +1,18 @@
-{"﻿language.code":"ko-KR","language":"한국어","staxel.village.dialogue.GenericGiveItem.line:10000100":"","staxel.village.dialogue.GenericGiveItem.line:10000200":"","staxel.village.dialogue.GenericGiveItem.line:10000300":"","staxel.village.dialogue.GenericGiveItem.line:10000400":"","staxel.village.dialogue.GenericGiveItem.line:10000500":"","staxel.village.dialogue.GenericGiveItem.line:10000600":"","staxel.village.dialogue.GenericGiveItem.line:10000700":"","staxel.village.dialogue.GenericGiveItem.line:10000800":"","staxel.village.dialogue.GenericGiveItem.line:10000900":"","staxel.village.dialogue.GenericGiveItem.line:10001000":"","staxel.village.dialogue.GenericGiveItem.line:10001100":"","staxel.village.dialogue.GenericGiveItem.line:10001200":"","staxel.village.dialogue.GenericGiveItem.line:10001300":"","staxel.village.dialogue.GenericGiveItem.line:10001400":""}
+{
+  "staxel.village.dialogue.GenericGiveItem.line:10000100": "설마 그 ^c:d03e37;{0-gift}^c:pop;, 나한테 주는거야?",
+  "staxel.village.dialogue.GenericGiveItem.line:10000200": "선물이에요!",
+  "staxel.village.dialogue.GenericGiveItem.line:10000300": "아니에요",
+  "staxel.village.dialogue.GenericGiveItem.line:10000400": "그 ^c:d03e37;{0-gift}^c:pop;, 나한테 주려던건 아니지..?",
+  "staxel.village.dialogue.GenericGiveItem.line:10000500": "맞아요!",
+  "staxel.village.dialogue.GenericGiveItem.line:10000600": "아니에요.",
+  "staxel.village.dialogue.GenericGiveItem.line:10000700": "다행이다!",
+  "staxel.village.dialogue.GenericGiveItem.line:10000800": "난 또 그런줄 알았지..",
+  "staxel.village.dialogue.GenericGiveItem.line:10000900": "이런 종류의 물건을 좋아하는 편은 아니지만 그래도 고마워...",
+  "staxel.village.dialogue.GenericGiveItem.line:10001000": "아 그렇구나! 알겠어.",
+  "staxel.village.dialogue.GenericGiveItem.line:10001100": "진짜? 내가 좋아하는게 많지 않은데 고마워! ",
+  "staxel.village.dialogue.GenericGiveItem.line:10001200": "정말? 내가 좋아하는걸 알고 있었구나! 고마워!",
+  "staxel.village.dialogue.GenericGiveItem.line:10001300": "고마워! 너 정말 착하다~",
+  "staxel.village.dialogue.GenericGiveItem.line:10001400": "우리가 그정도까지의 사이는 아닌것 같긴 한데...",
+  "language": "한국어",
+  "﻿language.code": "ko-KR"
+}
