@@ -1,3 +1,6 @@
 
 ko/ko_tolang
 .DS_Store
+script/*.lang
+script/ko
+script/ref
