@@ -1,1 +1,9 @@
-{"﻿language.code":"ko-KR","language":"한국어","staxel.village.dialogue.leaving.Generic.line:10000100":"","staxel.village.dialogue.leaving.Generic.line:10000200":"","staxel.village.dialogue.leaving.Generic.line:10000300":"","staxel.village.dialogue.leaving.Generic.line:10000400":"","staxel.village.dialogue.leaving.Generic.line:10000500":""}
+{
+  "﻿language.code": "ko-KR",
+  "language": "한국어",
+  "staxel.village.dialogue.leaving.Generic.line:10000100": "어젯밤 누가 내 집을 다 털어갔어...",
+  "staxel.village.dialogue.leaving.Generic.line:10000200": "마을을 나가고 싶어도 ^c:1486b0;비행선 착륙장^c:pop;마저 망가트려놨더라...",
+  "staxel.village.dialogue.leaving.Generic.line:10000300": "이 섬을 못나가니 어쩔수 없지.",
+  "staxel.village.dialogue.leaving.Generic.line:10000400": "여기 있어봤자 할일도 없으니까 당분간 마을을 좀 비울려고 해.",
+  "staxel.village.dialogue.leaving.Generic.line:10000500": "내가 가있는동안 좀 누가 고쳐놓음 좋으련만..."
+}
