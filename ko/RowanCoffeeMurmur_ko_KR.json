@@ -1,1 +1,8 @@
-{"﻿language.code":"ko-KR","language":"한국어","staxel.village.dialogue.RowanCoffeeMurmur.line:10000100":"","staxel.village.dialogue.RowanCoffeeMurmur.line:10000200":"","staxel.village.dialogue.RowanCoffeeMurmur.line:10000300":"","staxel.village.dialogue.RowanCoffeeMurmur.line:10000400":""}
+{
+  "﻿language.code": "ko-KR",
+  "language": "한국어",
+  "staxel.village.dialogue.RowanCoffeeMurmur.line:10000100": "^c:d03e37;커피 나무 씨앗^c:pop;이 필요하다고?",
+  "staxel.village.dialogue.RowanCoffeeMurmur.line:10000200": "그거는야 뭐 간단하지. 내가 전달해 두겠네.",
+  "staxel.village.dialogue.RowanCoffeeMurmur.line:10000300": "요 며칠 사이로 재고가 들어올걸세.",
+  "staxel.village.dialogue.RowanCoffeeMurmur.line:10000400": "^c:1486b0;상점^c:pop;에다가도 들여 놓으면 딱 좋겠구먼."
+}
