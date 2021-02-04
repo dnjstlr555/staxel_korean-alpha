@@ -1,11 +1,11 @@
 const fs = require('fs'); 
 const readline = require('readline'); 
 const path = require('path');
-const DIRECTORY = './'
+const DIRECTORY = '../ko/'
 console.log("현재 디렉토리에 번역된 json 파일이 있어야 합니다. lang 변환 결과물은 현재 디렉토리의 ko_tolang이라는 폴더로 저장됩니다.")
-console.log(`작업이 다 끝나면 Staxel\content\staxel\StaxelTranslations\ko-KR 폴더를 만들어 ko_tolang폴더 내용물을 옮겨주세요`);
-console.log(`그리고 Staxel\content\staxel\StaxelTranslations\Staxel.Translations.exe 파일을 실행시켜서 Work Complete라는 문구가 뜰때까지 기다려주세요`);
-console.log(`다 됬으면 Staxel\content\staxel\StaxelTranslations\ko-KR 폴더를 Staxel\content\mods\ko-KR 이곳으로 옮겨주세요 (기존 공식 번역이 덜 된 채로 올라가서 이를 덮어 씌워야 합니다)`);
+console.log(`작업이 다 끝나면 Staxel/content/staxel/StaxelTranslations/ko-KR 폴더를 만들어 ko_tolang폴더 내용물을 옮겨주세요`);
+console.log(`그리고 Staxel/content/staxel/StaxelTranslations/Staxel.Translations.exe 파일을 실행시켜서 Work Complete라는 문구가 뜰때까지 기다려주세요`);
+console.log(`다 됬으면 Staxel/content/staxel/StaxelTranslations/ko-KR 폴더를 Staxel/content/mods/ko-KR 이곳으로 옮겨주세요 (기존 공식 번역이 덜 된 채로 올라가서 이를 덮어 씌워야 합니다)`);
 fs.readdirSync(DIRECTORY).forEach(file => {
   JSONToLang(path.join(DIRECTORY,file));
 });

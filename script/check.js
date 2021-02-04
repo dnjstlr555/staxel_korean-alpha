@@ -1,8 +1,9 @@
 const fs = require('fs'); 
 const readline = require('readline'); 
 const path = require('path');
+const isEnglish = require("is-english");
 const otherDIR = 'ko-KR';
-const ourDIR = 'sta/ko'
+const ourDIR = './'
 let odt = {};
 /* 
 1. 기존 디렉터리에서 파일 이름으로 key, value는 중복되고 다른사람이 만들어둔 번역 데이터
@@ -47,7 +48,12 @@ function OtherData(dir, promise) {
 			temp=l.split(`=`);
 			if(temp[0]!='') {
 				if(ref!=''&&!(temp[1].includes(ref))&&temp[1]!='') {
-					data[temp[0]]=temp[1];
+					if(!isEnglish(temp[1])) {
+						data[temp[0]]=temp[1];
+						console.log(`${temp[1]} logged as not english`)
+					} else {
+						console.log(`${temp[1]} ------------opted out`)
+					}
 				} else {
 					let key = temp[0].split(`.`);
 					if(key[0].includes('language') || key[0].includes('font')) {
